@@ -33,3 +33,6 @@ description: ""
 | Mdm Azlinah Bte Dakarlan<br>(HOD / CCE) 	| azlinah_dakarlan@schools.gov.sg 	|
 | Mdm Siti Fatimah<br>(Senior Teacher / ML) 	| siti_fatimah_omar_bakri@schools.gov.sg 	|
 | Mdm Zarina Bte Kamaron 	| zarina_kamaron@schools.gov.sg 	|
+
+
+### Tamil Language
