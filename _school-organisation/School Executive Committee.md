@@ -53,3 +53,11 @@ description: ""
 
 
 ### Subject Heads (SH)
+
+| Name 	| Designation 	| Email 	|
+|---	|---	|---	|
+| Mrs Shanmugam 	| Subject Head \ Tamil Language 	| [palaniyandi_magasvari@schools.gov.sg](mailto:palaniyandi_magasvari@schools.gov.sg) 	|
+| Miss Michelle Teo Wei Ling 	| Subject Head \ Aesthetics 	| [teo_wei_ling@schools.gov.sg](mailto:teo_wei_ling@schools.gov.sg) 	|
+| Mr Mohd Azreen 	| Subject Head \ PHE & CCA 	| [mohamad_azreen_mohamad_kus@schools.gov.sg](mailto:mohamad_azreen_mohamad_kus@schools.gov.sg) 	|
+| Mrs Iris Chan-Lee Poh Chin 	| Subject Head \ Social Studies & National Education 	| [iris_lee_poh_chin@schools.gov.sg](mailto:iris_lee_poh_chin@schools.gov.sg) 	|
+| Mr Kumaresan 	|  Subject Head \ Student Well-Being 	| [kumaresan_arasapam@schools.gov.sg](mailto:kumaresan_arasapam@schools.gov.sg) 	|
