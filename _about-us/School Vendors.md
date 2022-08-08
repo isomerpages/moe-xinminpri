@@ -18,7 +18,7 @@ description: ""
 
 
 
-### School Uniform :
+### School Uniform:
 
 | Jeep Sing 	|  	|  	|
 |---	|---	|---	|
@@ -29,6 +29,8 @@ description: ""
 
 ### School Bus Services:
 
-
-
-
+| K.H. Ng Bus Transport Service 	|  	|  	|
+|---	|---	|---	|
+| Contact Person 	| : 	| Mr KH Ng 	|
+| Telephone 	| : 	| 62819003<br><br>96659003 	|
+| E-mail 	| : 	| info@khngbus.com.sg or khng.bus.service@gmail.com 	|
