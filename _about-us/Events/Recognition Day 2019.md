@@ -9,3 +9,5 @@ description: ""
 ![](/images/Xinmin-Concert19-083.jpg)
 Xinmin Concert19 083
 
+<img src="/images/Xinmin-Concert19-061-300x200.jpg" 
+     style="width:50%">
