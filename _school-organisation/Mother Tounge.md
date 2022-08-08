@@ -25,3 +25,11 @@ description: ""
 | Mdm Priscilla Wong 	| [wong_pei_xin_priscilla@schools.gov.sg](mailto:wong_pei_xin_priscilla@schools.gov.sg) 	|
 | Mdm Bai Yi Meng 	| [bai_yimeng@schools.gov.sg](mailto:bai_yimeng@schools.gov.sg) 	|
 | Mdm Zhao Tingyan 	| [zhao_tingyan@schools.gov.sg](mailto:zhao_tingyan@schools.gov.sg) 	|
+
+### Malay Language
+
+| Name of Teacher 	| Email 	|
+|---	|---	|
+| Mdm Azlinah Bte Dakarlan<br>(HOD / CCE) 	| azlinah_dakarlan@schools.gov.sg 	|
+| Mdm Siti Fatimah<br>(Senior Teacher / ML) 	| siti_fatimah_omar_bakri@schools.gov.sg 	|
+| Mdm Zarina Bte Kamaron 	| zarina_kamaron@schools.gov.sg 	|
