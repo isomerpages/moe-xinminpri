@@ -37,3 +37,8 @@ description: ""
 
 
 ### Student Care Services:
+
+| School-based student care centre - Raffles student care centre LLP 	|  	|  	|
+|---	|---	|---	|
+| Telephone 	| : 	| 63868242 	|
+| Website 	| : 	| www.RafflesStudentCare.com/CommsBook<br><br>http://bit.ly/RSC_XM_PPT 	|
