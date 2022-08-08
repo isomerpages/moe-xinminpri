@@ -2,11 +2,38 @@
 title: FAQ
 permalink: /faq/
 ---
+# **FAQ**
 
-### **FAQ**
+**1\. What are the operating hours of the General Office?**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+The General Office is opened on Mondays to Fridays, 7.30 am to 5 pm
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+**2\. When will the school gate be open?**
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+The school gate will be opened on Mondays to Fridays, 6.30 am to 5.30 pm
+
+**3\. Are student care services available in Xinmin Primary School?**
+
+Student care service is available in Xinmin Primary School and priority is given to the lower primary students who do not have any adult to look after them after school hours.
+
+Interested parents may go to the General Office to obtain an application form. Upon completing the form, submit it together with the documents required to the General Office.
+
+The staff from the student care will contact you to inform you of the outcome of your application.
+
+**4.When can parents / guardians enter the school to buy things from the bookshop?**
+
+Parents may go to the school bookshop on Mondays to Fridays from 8.30 am to 9.15 am.
+
+**5\. Where can parents buy the school uniform from?**
+
+Parents may buy the school uniform from the school bookshop or from Jeep Sing Fashion.
+
+Address of Jeep Sing Fashion:
+
+4012 Ang Mo Kio Ave 10
+
+Techplace 1 #01-08/09
+
+S(569628)
+
+Tel no: 64563198
