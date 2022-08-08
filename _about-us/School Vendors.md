@@ -34,3 +34,6 @@ description: ""
 | Contact Person 	| : 	| Mr KH Ng 	|
 | Telephone 	| : 	| 62819003<br><br>96659003 	|
 | E-mail 	| : 	| [info@khngbus.com.sg](mailto:info@khngbus.com.sg) or [khng.bus.service@gmail.com](mailto:khng.bus.service@gmail.com) 	|
+
+
+### Student Care Services:
