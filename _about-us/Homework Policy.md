@@ -63,7 +63,7 @@ We use the following guidelines when assigning homework:
 
 *   Maximum weekly amount of time that students should spend to complete their homework assignments:
 
-| Level 	| Approximate Daily Homework Load<br><br>(Mon-*Sat) 	| Maximum Weekly Homework Load<br><br>(Mon-*Sat) 	|
+| Level 	| Approximate Daily Homework Load<br><br>(Mon-\*Sat) 	| Maximum Weekly Homework Load<br><br>(Mon-\*Sat) 	|
 |---	|---	|---	|
 | P1 	| 45mins 	| 4hrs 	|
 | P2 	| 45mins 	| 4hrs 	|
