@@ -30,10 +30,8 @@ Parents may buy the school uniform from the school bookshop or from Jeep Sing Fa
 
 Address of Jeep Sing Fashion:
 
-4012 Ang Mo Kio Ave 10
-
-Techplace 1 #01-08/09
-
-S(569628)
+4012 Ang Mo Kio Ave 10   
+Techplace 1 #01-08/09   
+S(569628)    
 
 Tel no: 64563198
