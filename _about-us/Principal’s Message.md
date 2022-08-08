@@ -23,6 +23,5 @@ With climate change being one of the key concerns that Singapore and many other 
 
 Our progress and achievements would not have been possible without the support of the entire Xinmin community: our parents, Parent Support Group, School Advisory Committee and community partners. Let us continue to work together to bring out the best in our Xinminites’ holistic development through our guidance and provision of opportunities as we prepare them for life.
 
-Mrs Judy Lim
-
+Mrs Judy Lim   
 Principal
