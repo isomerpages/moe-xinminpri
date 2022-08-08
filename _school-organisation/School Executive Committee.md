@@ -30,4 +30,14 @@ description: ""
 | Mdm Noor Hafizah Bte Hamis 	| HOD \ Information and communication technology (ICT) 	| [noor_hafizah_hamis@schools.gov.sg](mailto:noor_hafizah_hamis@schools.gov.sg) 	|
 
 
+### Year Heads and Assistant Year Head
 
+
+| Name 	| Designation 	| Email 	|
+|---	|---	|---	|
+| Mdm Sim Choy Yin  	| Year Head (Lower Block / P1) 	| [sim_choy_yin@schools.gov.sg](mailto:sim_choy_yin@schools.gov.sg) 	|
+| Mdm Rosnani Bte Yusof  	| Year Head (Middle Block / P4) 	| [rosnani_yusof@schools.gov.sg](mailto:rosnani_yusof@schools.gov.sg) 	|
+| Mrs Norazimah Junari 	| Year Head (Upper Block / P6) 	| [norazimah_md_shariff@schools.gov.sg](mailto:norazimah_md_shariff@schools.gov.sg) 	|
+| Mdm Rosnita Bte Ibrahim 	| AYH P2 	| [rosnita_ibrahim@schools.gov.sg](mailto:rosnita_ibrahim@schools.gov.sg) 	|
+| Mrs Daphne Goh-Chua 	| AYH P3 	| [chua_bee_har@schools.gov.sg](mailto:chua_bee_har@schools.gov.sg) 	|
+| Mr Edwin Yu Sin Khim 	| AYH P5 	| [edwin_yu@schools.gov.sg](mailto:edwin_yu@schools.gov.sg) 	|
