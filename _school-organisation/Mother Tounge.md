@@ -30,9 +30,15 @@ description: ""
 
 | Name of Teacher 	| Email 	|
 |---	|---	|
-| Mdm Azlinah Bte Dakarlan<br>(HOD / CCE) 	| azlinah_dakarlan@schools.gov.sg 	|
-| Mdm Siti Fatimah<br>(Senior Teacher / ML) 	| siti_fatimah_omar_bakri@schools.gov.sg 	|
-| Mdm Zarina Bte Kamaron 	| zarina_kamaron@schools.gov.sg 	|
+| Mdm Azlinah Bte Dakarlan<br>(HOD / CCE) 	| [azlinah_dakarlan@schools.gov.sg](mailto:azlinah_dakarlan@schools.gov.sg) 	|
+| Mdm Siti Fatimah<br>(Senior Teacher / ML) 	| [siti_fatimah_omar_bakri@schools.gov.sg](mailto:siti_fatimah_omar_bakri@schools.gov.sg) 	|
+| Mdm Zarina Bte Kamaron 	| [zarina_kamaron@schools.gov.sg](mailto:zarina_kamaron@schools.gov.sg) 	|
 
 
 ### Tamil Language
+
+| Name of Teacher 	| Email 	|
+|---	|---	|
+| Mrs Shanmugam<br>(Subject Head / ML & TL) 	| [palaniyandi_magasvari@schools.gov.sg](mailto:palaniyandi_magasvari@schools.gov.sg) 	|
+| Mrs Mahandra<br>(Senior Teacher / TL) 	| [s_thangachi_ammal@schools.gov.sg](mailto:s_thangachi_ammal@schools.gov.sg) 	|
+| Miss Aneesa Faruvin 	| [aneesa_faruvin_mohd_ibrahim@schools.gov.sg](mailto:aneesa_faruvin_mohd_ibrahim@schools.gov.sg) 	|
