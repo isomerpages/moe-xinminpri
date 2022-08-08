@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Events/.keep
-      - Events/subfolder-page.md
+      - Events/Recognition Day 2019.md
       - Calendar.md
