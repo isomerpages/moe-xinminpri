@@ -42,3 +42,18 @@ description: ""
 |---	|---	|---	|
 | Telephone 	| : 	| 63868242 	|
 | Website 	| : 	| www.RafflesStudentCare.com/CommsBook<br><br>http://bit.ly/RSC_XM_PPT 	|
+
+
+### School Dental Clinic:
+
+   Tel: 8764 3972
+
+*   [Child Online Consent Portal](http://childconsent.hpb.gov.sg/)
+
+### School Insurance:
+
+**NTUC Income**
+
+[Website](https://studentgpa.incomegroupins.com.sg/)
+
+Hotline: 6332 1133
