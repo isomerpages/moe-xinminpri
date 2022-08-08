@@ -13,7 +13,7 @@ Every Xinminite, a confident citizen of character, ready for the future
 
 Nurturing the hearts and minds of Xinminites for a changing world
 
-
+![](/images/our_mission(1).jpg)
 
 Building Positive Relationships
 
