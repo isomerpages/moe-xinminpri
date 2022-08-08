@@ -2,4 +2,5 @@ collections:
   school-organisation:
     output: true
     order:
+      - Adjunct Teachers.md
       - School Advisory Committee.md
