@@ -2,5 +2,6 @@ collections:
   school-organisation:
     output: true
     order:
+      - Support Staff (Agencies).md
       - Adjunct Teachers.md
       - School Advisory Committee.md
