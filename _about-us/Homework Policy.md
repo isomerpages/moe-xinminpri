@@ -64,10 +64,15 @@ We use the following guidelines when assigning homework:
 *   Maximum weekly amount of time that students should spend to complete their homework assignments:
 
 | Level 	| Approximate Daily Homework Load<br><br>(Mon-*Sat) 	| Maximum Weekly Homework Load<br><br>(Mon-*Sat) 	|
-|:---:	|:---:	|:---:	|
+|---	|---	|---	|
 | P1 	| 45mins 	| 4hrs 	|
 | P2 	| 45mins 	| 4hrs 	|
 | P3 	| 1hr 	| 6hrs 	|
 | P4 	| 1hr 	| 6hrs 	|
 | P5 	| 2hrs 	| 11hrs 	|
 | P6 	| 2hrs 	| 11hrs 	|
+
+_\*Sat- Homework for Saturday will be issued by Friday._
+
+*   English, Mother Tongue and Science Spelling tests will not be conducted on the same day.
+*   No homework to be given over festive holidays; e.g. Lunar New Year, Deepavali, Hari Raya, Christmas. No test or spelling to be conducted on the school day immediately after the festive holiday.
