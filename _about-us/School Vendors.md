@@ -23,7 +23,7 @@ description: ""
 | Jeep Sing 	|  	|  	|
 |---	|---	|---	|
 | Telephone 	| : 	| 64563198 	|
-| Website 	| : 	| https://jeepsinguniform.com/collections/xinmin-primary-school 	|
+| Website 	| : 	| [https://jeepsinguniform.com/collections/xinmin-primary-school](mailto:https://jeepsinguniform.com/collections/xinmin-primary-school) 	|
 | Home delivery service charge 	| : 	| $5 	|
 
 
