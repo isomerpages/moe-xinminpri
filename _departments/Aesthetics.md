@@ -41,3 +41,13 @@ We will to develop our Xinminites with:
 | P4 	| Scenery Painting<br>Singapore Cityscape 	| Keyboard 	|
 | P5 	| Batik<br>Paper Mache 	| Ukulele 	|
 | P6 	| Mosaic Art<br>Wire Sculpture 	| Bandlab 	|
+
+**KEY PROGRAMMES**
+
+*   Aesthetics Week
+*   In-House Art Gallery
+*   Music Recitals
+*   ARTS Alive! @ Recess
+*   Art Learning Journeys
+*   P1 & P2 Talent Identification for Aesthetics CCAs
+*   Singapore Youth Festival participation by Aesthetics CCAs (Art Club, Chinese Dance, International Dance, Chinese Dance, Guzheng)
