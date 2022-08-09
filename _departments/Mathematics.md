@@ -115,3 +115,12 @@ It helps students to develop habits, attitudes and dispositions and to gain impo
 | WANG YUZHI RYAN 	| Silver 	| CHAN TIAN LE SKYLER 	| Bronze 	|
 | SIM TEK HAU GABRIEL 	| Bronze 	| JAVEN YEO KAI JIE 	| Bronze 	|
 | YIP WEN LE, JOSHUA 	| Bronze 	| NANCELIA TSHING TAN 	| Bronze 	|
+
+
+| 2019 	|  	|
+|---	|---	|
+| KANCHARLA SAI NANDAN (P2) 	| Gold 	|
+| VINAY RANJITH KUMAR (P3) 	| Gold 	|
+| PEH YONG PENG VITUS (P3) 	| Gold 	|
+| LIM JIA YI JOEY (P4) 	| Gold 	|
+| LIM JUN YI JOSH  (P6) 	| Gold 	|
