@@ -32,3 +32,12 @@ We will to develop our Xinminites with:
 3.  c) Enjoyment in art making and music making.
 
 **KEY ART & MUSIC CURRICULUM**
+
+| Levels 	| Art 	| Music 	|
+|---	|---	|---	|
+| P1 	| Self-portrait<br>Malay craft: Wayang Kulit 	| Percussion 	|
+| P2 	| Family portrait<br>Chinese Ink Painting 	| Cajon 	|
+| P3 	| Ceramics<br>Indian Craft: Henna Art 	| Movements in music 	|
+| P4 	| Scenery Painting<br>Singapore Cityscape 	| Keyboard 	|
+| P5 	| Batik<br>Paper Mache 	| Ukulele 	|
+| P6 	| Mosaic Art<br>Wire Sculpture 	| Bandlab 	|
