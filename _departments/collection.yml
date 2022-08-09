@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science.md
       - Chinese Language.md
       - Malay Language.md
       - Tamil language.md
