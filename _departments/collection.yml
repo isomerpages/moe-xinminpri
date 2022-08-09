@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE Department.md
       - ICT.md
       - PE & CCA.md
       - Student Management Leadership.md
