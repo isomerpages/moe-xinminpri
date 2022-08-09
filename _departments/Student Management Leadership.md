@@ -99,3 +99,24 @@ Through our Student Leadership Programme, we nurture Xinminites to be good role 
 
 ![](/images/Anti-BullyCampaign-300x225.jpg)
 <center>Anti Bullycampaign</center>
+
+![](/images/GOTCHA_Reward-225x300.jpg)
+Gotcha Reward
+
+![](/images/LeadershipLesson-300x225.jpg)
+Leadership lesson
+
+![](/images/P4-Generic-Training-300x225.jpg)
+P4 Generic Training
+
+![](/images/P5-Generic-Training-300x146.jpg)
+P5 Generic Training
+
+![](/images/P5-Prefect-Training-300x225.jpg)
+P5 Prefect Training
+
+![](/images/P6-Prefect-Training-300x225.jpg)
+P6 Prefect Training
+
+![](/images/Spot-The-Leader-Workshop-225x300.jpg)
+Spot The Leader Workshop
