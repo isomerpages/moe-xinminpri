@@ -51,3 +51,9 @@ Students are taught to create animation through a block of codes. Lessons typica
 Students will be trained to exercise sequential thinking as they need to know the sequence of the codes to achieve the figures that they want. Students will develop their visualisation skills as they need to first visualise what they want to create. There are opportunities for students to display creativity when they modify their codes.
 
 The opportunity to display creativity injects a high level of interest and engagement among students. The response from students  thus far has been positive.
+
+<img src="/images/IMG_20220121_084056_1-300x225.jpg" 
+     style="width:40%">
+		 
+<img src="/images/IMG_20220121_083926-300x225.jpg" 
+     style="width:40%">
