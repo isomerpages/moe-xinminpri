@@ -10,4 +10,8 @@ Mengenali dan memahami bahasa dan budaya Melayu sebagai sebahagian daripada masy
 
 ### Organisation Structure
 
-2022 Malay Department
+| 2022 Malay Department 	|  	|
+|---	|---	|
+|  Mdm Azlinah (HOD Mother Tongue) 	|  	|
+| Mdm Siti Fatimah (Senior Teacher) 	| Mdm Zarina 	|
+| Ms Herda 	|  	|
