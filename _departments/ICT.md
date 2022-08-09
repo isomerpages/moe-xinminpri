@@ -57,3 +57,7 @@ The opportunity to display creativity injects a high level of interest and engag
 		 
 <img src="/images/IMG_20220121_083926-300x225.jpg" 
      style="width:40%">
+		 
+### New Media Literacies
+
+In our efforts to raise future-ready and responsible digital learners, we get our students to go through SLS packages teaching them these skills. Within a semester, students are to complete their NML SLS package at their own pace. We hope this will help to promote self-directedness in our students. The NML packages are created by our own ICT department members and unique to Xinmin Primary!
