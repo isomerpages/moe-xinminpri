@@ -63,27 +63,37 @@ Tik-Tok video creation, GK quiz and Essay-Writing competition for P5 and P6 stud
 
 Mother Tongue fortnight activities are conducted for P3 students each year. Students are exposed to story-telling via puppetry. They learn how to tell a story using puppets as well as make their own story and the characters in the story into various types of puppets. Students in their groups act out the story using their puppets and enjoy the joy of learning through these activities.
 
-![](/images/Creating-their-characters-300x285.jpg)
+
+<img src="/images/Creating-their-characters-300x285.jpg" 
+     style="width:40%">
 <center>Creating Their Characters</center>
 
-![](/images/Playing-their-characters-300x160.jpg)
+<img src="/images/Playing-their-characters-300x160.jpg" 
+     style="width:40%">
 <center>Playing Their Characters</center>
 
-![](/images/Playing-their-role-300x162.jpg)
+<img src="/images/Playing-their-role-300x162.jpg" 
+     style="width:40%">
 <center>Playing Their Role</center>
 
-![](/images/Story-telling-using-puppets-300x169.jpg)
+<img src="/images/Story-telling-using-puppets-300x169.jpg" 
+     style="width:40%">
 <center>Story Telling Using Puppets</center>
 
-![](/images/We-are-done-300x175.jpg)
+<img src="/images/We-are-done-300x175.jpg" 
+     style="width:40%">
 <center>We Are Done!</center>
 
 **P5 Cultural Camp**
 
 Cultural camp for the P5 students is conducted for them to experience the rich and robust Indian culture. Each year the students experience different Indian cultural aspects for example, food, arts, games and music. During the camp, students are given the opportunity to interact with each other in the Tamil language while learning new aspects of the Indian culture.
 
-![](/images/Lets-be-creative-300x198.jpg)
+
+<img src="/images/Lets-be-creative-300x198.jpg" 
+     style="width:40%">
 <center>Let’s Be Creative</center>
 
-![](/images/Understanding-the-beliefs-behind-the-serving-of-food-on-a-banana-leaf-300x221.jpg)
+
+<img src="/images/Understanding-the-beliefs-behind-the-serving-of-food-on-a-banana-leaf-300x221.jpg" 
+     style="width:40%">
 <center>Understanding The Beliefs Behind The Serving Of Food On A Banana Leaf</center>
