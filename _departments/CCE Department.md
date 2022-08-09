@@ -58,3 +58,9 @@ Students also embark on Project Work (PW) to develop their competencies for the 
 **Sexuality Education Programme**
 
 More info can be found [here](https://xinminpri.moe.edu.sg/our-resources/for-parents/sexuality-education-programme/).
+
+<img src="/images/Website-Photo-1-SS-PW-300x169.jpg" 
+     style="width:40%">
+
+<img src="/images/Website-Photo-2-SSPW-300x169.jpg" 
+     style="width:40%">
