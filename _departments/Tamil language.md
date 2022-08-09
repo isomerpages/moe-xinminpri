@@ -62,3 +62,9 @@ Tik-Tok video creation, GK quiz and Essay-Writing competition for P5 and P6 stud
 **P3 Mother-Tongue Fortnight Activities**
 
 Mother Tongue fortnight activities are conducted for P3 students each year. Students are exposed to story-telling via puppetry. They learn how to tell a story using puppets as well as make their own story and the characters in the story into various types of puppets. Students in their groups act out the story using their puppets and enjoy the joy of learning through these activities.
+
+![](/images/Creating-their-characters-300x285.jpg)
+<center>Creating Their Characters</center>
+
+![](/images/Playing-their-characters-300x160.jpg)
+<center>Playing Their Characters</center>
