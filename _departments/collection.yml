@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Student Management Leadership.md
       - Student Well being.md
