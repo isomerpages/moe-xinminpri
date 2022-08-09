@@ -67,3 +67,10 @@ Tips for Parents to support the child in learning MTL:
 <center>Gong Xi Fa Cai</center>
 
 ![](/images/drama-1-300x218.jpg)
+<center>Drama</center>
+
+![](/images/CNY-zoom-concert-300x120.jpg)
+<center>CNY Zoom Concert</center>
+
+![](/images/CNY-celebration-169x300.jpg)
+<center>CNY Celebration</center>
