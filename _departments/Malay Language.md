@@ -43,3 +43,42 @@ Cultural camp for the P5 students is conducted for them to experience the fine a
 **P6:**
 
 Fortnight Riddle Contest, Reading programme, Newspaper Subscriptions, Internal & external competitions
+
+![](/images/cluster-activity-300x225.jpg)
+<center>Cluster Activity</center>
+
+![](/images/Congkak-N1-cluster-activity-300x246.jpg)
+<center>Congkak N1 Cluster Activity</center>
+
+![](/images/P1-speaking_precovid-300x282.jpg)
+<center>P1 Speaking Precovid</center>
+
+![](/images/P2-internal-competition-2021-245x300.jpg)
+<center>P2 Internal Competition 2021</center>
+
+![](/images/P3-external-competition-participant-2021.jpg)
+<center>P3 External Competition Participant 2021</center>
+
+![](/images/P3-external-competition-participant2-2021.jpg)
+<center>P3 External Competition Participant 2021</center>
+
+![](/images/P4-external-competition-225x300.jpg)
+<center>P4 External Competition</center>
+
+![](/images/P4-internal-competition-300x240.jpg)
+<center>P4 Internal Competition</center>
+
+![](/images/P5-cultural-camp_precovid-300x269.jpg)
+<center>P5 Cultural Camp Precovid</center>
+
+![](/images/P5-Cultural-camp_wayang-kulit-300x169.jpg)
+<center>P5 Cultural Camp Wayang Kulit</center>
+
+![](/images/P6-ICT-235x300.jpg)
+<center>P6 ICT</center>
+
+![](/images/P6-Internal-epok-epok-making-162x300.jpg)
+<center>P6 Internal Epok Epok Making<center>
+	
+![](/images/p6_GenG_2021_photos-290x300.jpg)
+<center>P6 Geng 2021 Photos</center>
