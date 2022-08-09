@@ -44,33 +44,27 @@ Cultural camp for the P5 students is conducted for them to experience the fine a
 
 Fortnight Riddle Contest, Reading programme, Newspaper Subscriptions, Internal & external competitions
 
-![](/images/cluster-activity-300x225.jpg)
-<img src="/images/principal.jpg" 
+<img src="/images/cluster-activity-300x225.jpg" 
      style="width:25%">
 <center>Cluster Activity</center>
 
-![](/images/Congkak-N1-cluster-activity-300x246.jpg)
-<img src="/images/principal.jpg" 
+<img src="/images/Congkak-N1-cluster-activity-300x246.jpg" 
      style="width:25%">
 <center>Congkak N1 Cluster Activity</center>
 
-![](/images/P1-speaking_precovid-300x282.jpg)
-<img src="/images/principal.jpg" 
+<img src="/images/P1-speaking_precovid-300x282.jpg" 
      style="width:25%">
 <center>P1 Speaking Precovid</center>
 
-![](/images/P2-internal-competition-2021-245x300.jpg)
-<img src="/images/principal.jpg" 
+<img src="/images/P2-internal-competition-2021-245x300.jpg" 
      style="width:25%">
 <center>P2 Internal Competition 2021</center>
 
-![](/images/P3-external-competition-participant-2021.jpg)
-<img src="/images/principal.jpg" 
+<img src="/images/P3-external-competition-participant-2021.jpg" 
      style="width:25%">
 <center>P3 External Competition Participant 2021</center>
 
-![](/images/P3-external-competition-participant2-2021.jpg)
-<img src="/images/principal.jpg" 
+<img src="/images/P3-external-competition-participant2-2021.jpg" 
      style="width:25%">
 <center>P3 External Competition Participant 2021</center>
 
