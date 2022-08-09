@@ -53,3 +53,26 @@ It helps students to develop habits, attitudes and dispositions and to gain impo
 ### Achievements
 
 1.  **Singapore Math Kangaroo Competition(SMKC)**
+
+| 2021 	|  	|  	|  	|
+|---	|---	|---	|---	|
+| **Primary 5/6** 	|  	| **Primary 3/4** 	|  	|
+| LIM JIA YI, JOEY 	| SILVER 	| PENG LINCONG 	| Gold 	|
+| CHIA WAN XUAN ALESEA 	| SILVER 	| AIDEN ONG JUN QI 	| Gold 	|
+| NICHOLAS TSHING TAN 	| SILVER 	| JAYDEN LEE 	| Silver 	|
+| JOVAN TAN JING XI 	| BRONZE 	| KANCHARLA SAI NANDAN 	| Silver 	|
+| TAN YONG HUI THADINE 	| BRONZE 	| FAITH TEO YA HUI 	| Bronze 	|
+| PEH YONG PENG VITUS 	| GOLD 	| YIP WEN LE JOSHUA 	| SILVER 	|
+| JAYDEN HUANG 	| SILVER 	| QUEK PENG LENG, JAYVEN 	| SILVER 	|
+| VINAY RANJITH KUMAR 	| SILVER 	| BRYAN LIM YI CHENG 	| SILVER 	|
+| POON XI SONG 	| SILVER 	| SIM TEK HAU GABRIEL 	| BRONZE 	|
+| GOH WAN NING RENEE 	| SILVER 	| PHANG JIA XUAN 	| BRONZE 	|
+|   	|   	| LIEW YONG JIE DUNCAN 	| BRONZE 	|
+|   	|   	| CHAN TIAN LE SKYLER 	| BRONZE 	|
+| **Primary 2** 	|   	|   	|   	|
+| XU LETIAN VICTOR 	| SILVER 	|   	|   	|
+| ERIC LIN HANYUAN 	| BRONZE 	|   	|   	|
+| POON XI HERN 	| BRONZE 	|   	|   	|
+| GOH YONG MING, DYLAN 	| BRONZE 	|   	|   	|
+| LIM YI ZHEN CHELSEA 	| BRONZE 	|   	|   	|
+| AALIYAH ONG XINYU 	| BRONZE 	|   	|   	|
