@@ -104,3 +104,15 @@ We work with MSF to run the Positive Parenting Programme (Triple P). This is a p
 **Share and Care**
 
 This is a termly school based programme where students are encouraged to appreciate their teachers and support staff for sharing and showing care to them. The objective of the programme is to imbue in our students the value of showing appreciation to others and to cultivate gratitude for the care shown by our staff.
+
+![](/images/Language-and-Literacy-Development-1-300x281.jpg)
+Language And Literacy Development 1
+
+![](/images/Language-and-Literacy-Development-2-300x257.jpg)
+Language And Literacy Development 2
+
+![](/images/Social-and-Emotional-Development-Support-1-225x300.jpg)
+Social And Emotional Development Support 1
+
+![](/images/Social-and-Emotional-Development-Support-2-300x274.jpg)
+Social And Emotional Development Support 2
