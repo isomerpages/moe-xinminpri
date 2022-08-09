@@ -38,39 +38,50 @@ Tips for Parents to support the child in learning MTL:
 *   Provide a conducive environment for learning MTL-e.g. set up a reading corner at home, watch suitable TV programmes in MTL.
 
 
-![](/images/CCE-games-1-300x219.jpg)
+<img src="/images/CCE-games-1-300x219.jpg" 
+     style="width:40%">
 <center>CCE Games</center>
 
-
-![](/images/strike-a-pose-amidst-the-concert-248x300.jpg)
+<img src="/images/strike-a-pose-amidst-the-concert-248x300.jpg" 
+     style="width:40%">
 <center>Strike A Pose Amidst The Concert</center>
 
-![](/images/songs-and-dance-1-222x300.jpg)
+<img src="/images/songs-and-dance-1-222x300.jpg" 
+     style="width:40%">
 <center>Songs And Dance</center>
 
-![](/images/songs-and-dance-2-1-221x300.jpg)
+<img src="/images/songs-and-dance-2-1-221x300.jpg" 
+     style="width:40%">
 <center>Songs And Dance</center>
 
-![](/images/lets-distribute-oranges-222x300.jpg)
+<img src="/images/lets-distribute-oranges-222x300.jpg" 
+     style="width:40%">
 <center>Lets Distribute Oranges</center>
 
-![](/images/group-discussion-1-300x262.jpg)
+<img src="/images/group-discussion-1-300x262.jpg" 
+     style="width:40%">
 <center>Group Discussion</center>
 
-![](/images/Game-during-the-zoom-concert_Guess-who-300x190.jpg)
+<img src="/images/Game-during-the-zoom-concert_Guess-who-300x190.jpg" 
+     style="width:40%">
 <center>Game During The Zoom Concert Guess Who</center>
 
-![](/images/enjoying-the-CNY-celebration-300x169.jpg)
+<img src="/images/enjoying-the-CNY-celebration-300x169.jpg" 
+     style="width:40%">
 <center>Enjoying The Cny Celebration</center>
 
-![](/images/DSCF2572-300x169.jpg)
+<img src="/images/DSCF2572-300x169.jpg" 
+     style="width:40%">
 <center>Gong Xi Fa Cai</center>
 
-![](/images/drama-1-300x218.jpg)
+<img src="/images/drama-1-300x218.jpg" 
+     style="width:40%">
 <center>Drama</center>
 
-![](/images/CNY-zoom-concert-300x120.jpg)
+<img src="/images/CNY-zoom-concert-300x120.jpg" 
+     style="width:40%">
 <center>CNY Zoom Concert</center>
 
-![](/images/CNY-celebration-169x300.jpg)
+<img src="/images/CNY-celebration-169x300.jpg" 
+     style="width:30%">
 <center>CNY Celebration</center>
