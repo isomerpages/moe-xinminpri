@@ -30,3 +30,5 @@ We will to develop our Xinminites with:
 1.  a) Visual Inquiry skill & Musical skills (Listening, creating and performing)
 2.  b) Awareness, appreciation and respect for the cultures of various art forms (Visual art and Music)
 3.  c) Enjoyment in art making and music making.
+
+**KEY ART & MUSIC CURRICULUM**
