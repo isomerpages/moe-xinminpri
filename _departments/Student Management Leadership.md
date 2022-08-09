@@ -96,3 +96,6 @@ Through our Student Leadership Programme, we nurture Xinminites to be good role 
 *   Student Leaders Dialogue Session
 *   Spot the Leaders Workshop
 *   Training camps and workshops in collaborations with stakeholders and partners.
+
+![](/images/Anti-BullyCampaign-300x225.jpg)
+<center>Anti Bullycampaign</center>
