@@ -3,6 +3,8 @@ title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
 ---
+![](/images/Recognition-Day.jpg)
+
 # **Aesthetics**
 
 ### ORGANIZATION STRUCTURE
