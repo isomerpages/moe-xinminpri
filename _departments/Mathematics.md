@@ -76,3 +76,42 @@ It helps students to develop habits, attitudes and dispositions and to gain impo
 | GOH YONG MING, DYLAN 	| BRONZE 	|   	|   	|
 | LIM YI ZHEN CHELSEA 	| BRONZE 	|   	|   	|
 | AALIYAH ONG XINYU 	| BRONZE 	|   	|   	|
+
+
+| 2020 	|  	|  	|  	|
+|---	|---	|---	|---	|
+| **Primary 5/6** 	|  	|  	|  	|
+| FOO JUN XIAN 	| Gold 	| JOVAN TAN JING XI 	| Silver 	|
+| KOH ZHI MING 	| Gold 	| KHOO XU HENG 	| Silver 	|
+| JOSEPH XU ZHERUI 	| Silver 	| LIM JIA YI, JOEY 	| Silver 	|
+| KWEE CHUN HONG (GUO JUNHONG) 	| Silver 	| NICHOLAS TSHING TAN 	| Silver 	|
+| TAN JIE EN JOHN (CHEN JIE’EN) 	| Silver 	| BAQUIRAN JOSH GRIFFIN OCOS 	| Bronze 	|
+| TEO WEN JIE JAYDEN 	| Silver 	| JEAN CHAN WEN YI (ZENG WENYI) 	| Bronze 	|
+| ZHENG YAWEN JOYCE 	| Silver 	| LIM QI LONG 	| Bronze 	|
+| DERRICK CHUA CHENG JUN 	| Silver 	| LIM YUE LEI 	| Bronze 	|
+| FINN KANG YUN ZHE 	| Silver 	| SEAH JIA LING ANNABELL 	| Bronze 	|
+| GOH SENG WOON, JAYDEN (WU CHENG’EN) 	| Silver 	| JAYDEN LEOW HONG JUN 	| Bronze 	|
+| GOVINDAN AJITESH 	| Silver 	| JAYVEN TAN SHAO JUN 	| Bronze 	|
+| HO DZONG JYOU (HE ZONGYOU) 	| Silver 	| JERMAINE GOH EN NING 	| Bronze 	|
+| PEH JIA QIAN 	| Silver 	| KHAN MUHAMMAD ALI YAR 	| Bronze 	|
+| JAXITH ARAI YASUHITO KANG REN 	| Bronze 	| LIM GUANG JUN, ISAAC 	| Bronze 	|
+| KUAH ZHI LE 	| Bronze 	| LIM JUN XIAN, JAYDEN (LIN JUNXIAN) 	| Bronze 	|
+| LAI SI XUAN 	| Bronze 	| SIM TENG SIANG ANDREW 	| Bronze 	|
+| ZAVIER KOO KAI AN 	| Bronze 	|   	|   	|
+| **Primary 3/4** 	|  	|  	|  	|
+| VINAY RANJITH KUMAR 	| Gold 	| TONG ZHENG FENG, ZEFDEN 	| Gold 	|
+| PEH YONG PENG VITUS 	| Silver 	| AIDEN ONG JUN QI 	| Silver 	|
+| POON XI SONG 	| Silver 	| LEONG MUN TING 	| Silver 	|
+| SEOW WEI JUN 	| Silver 	| MIKA ALEXIS ANTON 	| Silver 	|
+| XAVIER WAN HAO YU 	| Silver 	| JOIE TAN YI XUAN 	| Silver 	|
+| XU HAILIN 	| Bronze 	| KANCHARLA SAI NANDAN 	| Silver 	|
+| ANG RUI SHUANG ANDREA 	| Bronze 	| ELIJAH ONG YONG LE 	| Bronze 	|
+| LEE ZI FENG 	| Bronze 	| CHUAH E EN 	| Bronze 	|
+| CHENG TENG SUANG KAYLA 	| Bronze 	| CHEW JIA LE JUSTIN 	| Bronze 	|
+| GOH WAN NING RENEE 	| Bronze 	| SHAINA SUNDAR 	| Bronze 	|
+| JAYDEN HUANG 	| Bronze 	| TAN JUN LE, JARETT 	| Bronze 	|
+| TAN ZHI HAO ADAM 	| Bronze 	|   	|   	|
+| **Primary 2** 	|  	|  	|  	|
+| WANG YUZHI RYAN 	| Silver 	| CHAN TIAN LE SKYLER 	| Bronze 	|
+| SIM TEK HAU GABRIEL 	| Bronze 	| JAVEN YEO KAI JIE 	| Bronze 	|
+| YIP WEN LE, JOSHUA 	| Bronze 	| NANCELIA TSHING TAN 	| Bronze 	|
