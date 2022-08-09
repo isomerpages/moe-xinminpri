@@ -77,3 +77,7 @@ Mother Tongue fortnight activities are conducted for P3 students each year. Stud
 
 ![](/images/We-are-done-300x175.jpg)
 <center>We Are Done!</center>
+
+**P5 Cultural Camp**
+
+Cultural camp for the P5 students is conducted for them to experience the rich and robust Indian culture. Each year the students experience different Indian cultural aspects for example, food, arts, games and music. During the camp, students are given the opportunity to interact with each other in the Tamil language while learning new aspects of the Indian culture.
