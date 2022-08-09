@@ -126,3 +126,14 @@ It helps students to develop habits, attitudes and dispositions and to gain impo
 | LIM JUN YI JOSH  (P6) 	| Gold 	|
 
 2.  **Singapore Math Olympiad for Primary Schools (SMOPS) organised by Hwa Chong Institution**
+
+| **2021 (P6)** 	|  	|  	|  	|
+|---	|---	|---	|---	|
+| JOVAN TAN JING XI 	| SILVER 	| JEAN CHAN WEN YI (ZENG WENYI) 	| BRONZE 	|
+| CHIA WAN XUAN ALESEA 	| BRONZE 	| SELVAM DHARANITHARAN 	| BRONZE 	|
+| NICHOLAS TSHING TAN 	| BRONZE 	|   	|   	|
+| **2020 (P6)** 	|  	|  	|  	|
+| No competition 	|   	|   	|   	|
+| **2019 (P6)** 	|  	|  	|  	|
+| Lim Jun Yi Josh 	| Bronze 	|   	|   	|
+| Nathan Ang Peng Koon 	| Bronze 	|   	|   	|
