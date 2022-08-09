@@ -81,3 +81,9 @@ Mother Tongue fortnight activities are conducted for P3 students each year. Stud
 **P5 Cultural Camp**
 
 Cultural camp for the P5 students is conducted for them to experience the rich and robust Indian culture. Each year the students experience different Indian cultural aspects for example, food, arts, games and music. During the camp, students are given the opportunity to interact with each other in the Tamil language while learning new aspects of the Indian culture.
+
+![](/images/Lets-be-creative-300x198.jpg)
+<center>Let’s Be Creative</center>
+
+![](/images/Understanding-the-beliefs-behind-the-serving-of-food-on-a-banana-leaf-300x221.jpg)
+<center>Understanding The Beliefs Behind The Serving Of Food On A Banana Leaf</center>
