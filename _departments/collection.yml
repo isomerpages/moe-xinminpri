@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - PE & CCA.md
       - Student Management Leadership.md
       - Student Well being.md
