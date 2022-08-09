@@ -3,6 +3,8 @@ title: CCE Department
 permalink: /departments/cce-department/
 description: ""
 ---
+![](/images/image4-1.jpeg)
+
 # **CCE Department**
 
 Vision : To develop students who consistently demonstrate positive character traits and thinking skills necessary to be successful and contributing citizens.
