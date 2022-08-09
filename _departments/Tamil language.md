@@ -68,3 +68,12 @@ Mother Tongue fortnight activities are conducted for P3 students each year. Stud
 
 ![](/images/Playing-their-characters-300x160.jpg)
 <center>Playing Their Characters</center>
+
+![](/images/Playing-their-role-300x162.jpg)
+<center>Playing Their Role</center>
+
+![](/images/Story-telling-using-puppets-300x169.jpg)
+<center>Story Telling Using Puppets</center>
+
+![](/images/We-are-done-300x175.jpg)
+<center>We Are Done!</center>
