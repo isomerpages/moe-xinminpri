@@ -124,3 +124,5 @@ It helps students to develop habits, attitudes and dispositions and to gain impo
 | PEH YONG PENG VITUS (P3) 	| Gold 	|
 | LIM JIA YI JOEY (P4) 	| Gold 	|
 | LIM JUN YI JOSH  (P6) 	| Gold 	|
+
+2.  **Singapore Math Olympiad for Primary Schools (SMOPS) organised by Hwa Chong Institution**
