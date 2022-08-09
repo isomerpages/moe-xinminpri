@@ -97,26 +97,35 @@ Through our Student Leadership Programme, we nurture Xinminites to be good role 
 *   Spot the Leaders Workshop
 *   Training camps and workshops in collaborations with stakeholders and partners.
 
-![](/images/Anti-BullyCampaign-300x225.jpg)
+<img src="/images/Anti-BullyCampaign-300x225.jpg" 
+     style="width:40%">
 <center>Anti Bullycampaign</center>
 
-![](/images/GOTCHA_Reward-225x300.jpg)
-Gotcha Reward
+<img src="/images/GOTCHA_Reward-225x300.jpg" 
+     style="width:40%">
+<center>Gotcha Reward</center>
 
-![](/images/LeadershipLesson-300x225.jpg)
-Leadership lesson
 
-![](/images/P4-Generic-Training-300x225.jpg)
-P4 Generic Training
+<img src="/images/LeadershipLesson-300x225.jpg" 
+     style="width:40%">
+<center>Leadership lesson</center>
 
-![](/images/P5-Generic-Training-300x146.jpg)
-P5 Generic Training
+<img src="/images/P4-Generic-Training-300x225.jpg" 
+     style="width:40%">
+<center>P4 Generic Training</center>
 
-![](/images/P5-Prefect-Training-300x225.jpg)
-P5 Prefect Training
+<img src="/images/P5-Generic-Training-300x146.jpg" 
+     style="width:40%">
+<center>P5 Generic Training</center>
 
-![](/images/P6-Prefect-Training-300x225.jpg)
-P6 Prefect Training
+<img src="/images/P5-Prefect-Training-300x225.jpg" 
+     style="width:40%">
+<center>P5 Prefect Training</center>
 
-![](/images/Spot-The-Leader-Workshop-225x300.jpg)
-Spot The Leader Workshop
+<img src="/images/P6-Prefect-Training-300x225.jpg" 
+     style="width:40%">
+<center>P6 Prefect Training</center>
+
+<img src="/images/Spot-The-Leader-Workshop-225x300.jpg" 
+     style="width:40%">
+<center>Spot The Leader Workshop</center>
