@@ -138,12 +138,15 @@ It helps students to develop habits, attitudes and dispositions and to gain impo
 | Lim Jun Yi Josh 	| Bronze 	|   	|   	|
 | Nathan Ang Peng Koon 	| Bronze 	|   	|   	|
 
-![](/images/IMG_1979-225x300.jpg)
+<img src="/images/IMG_1979-225x300.jpg" 
+     style="width:25%">
 
-![](/images/IMG_1980-225x300.jpg)
+<img src="/images/IMG_1980-225x300.jpg" 
+     style="width:25%">
 
-![](/images/IMG_1981-225x300.jpg)
-
+<img src="/images/IMG_1981-225x300.jpg" 
+     style="width:25%">
+		 
 ![](/images/P3-Maths-App-1-1024x768.jpg)
 P3 Maths App 1
 
