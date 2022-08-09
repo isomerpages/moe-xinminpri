@@ -53,20 +53,30 @@ We will to develop our Xinminites with:
 *   Singapore Youth Festival participation by Aesthetics CCAs (Art Club, Chinese Dance, International Dance, Chinese Dance, Guzheng)
 
 
-![](/images/Artwork-221x300.jpeg)
+<img src="/images/Artwork-221x300.jpeg" 
+     style="width:40%">
 <center>Artwork</center>
 
-![](/images/Music-Activities-124x300.jpeg)
+
+<img src="/images/Music-Activities-124x300.jpeg" 
+     style="width:25%">
 <center>Music Activities</center>
 
-![](/images/Ukulele-1-300x297.jpeg)
+
+<img src="/images/Ukulele-1-300x297.jpeg" 
+     style="width:40%">
 <center>Ukulele 1</center>
 
-![](/images/Ukulele-2-300x147.jpeg)
+<img src="/images/Ukulele-2-300x147.jpeg" 
+     style="width:40%">
 <center>Ukulele 2</center>
 
-![](/images/Ukulele-3-300x292.jpeg)
+
+<img src="/images/Ukulele-3-300x292.jpeg" 
+     style="width:40%">
 <center>Ukulele 3</center>
 
-![](/images/Ukulele-4-293x300.jpeg)
+
+<img src="/images/Ukulele-4-293x300.jpeg" 
+     style="width:40%">
 <center>Ukulele 4</center>
