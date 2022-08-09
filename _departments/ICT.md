@@ -30,3 +30,8 @@ Objective:
 *   To provide opportunity for students to develop knowledge and skills that are useful in the real world.
 
 These lessons are carried out every fortnight by our resident ICT Trainer. Students are taught basic ICT and New Media Literacy skills.
+
+| SKILLS 	| LEVEL 	|
+|---	|---	|
+| • Log in to Windows<br>• Navigate SLS, MyOn, Student Icon and Zoom<br>• Touch typing<br>• Creating a document using Microsoft Word and Google Docs 	| P1 	|
+| • Create a presentation using Microsoft PowerPoint and Google Slides<br>• Demonstrate effective search skills<br>• Practise safe and ethical serach 	| P2 	|
