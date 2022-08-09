@@ -19,3 +19,37 @@ Every Child a confident Problem Solver
 | Miss Susan Seow 	| Ms Livia Chua 	| Miss Charlene Lim 	|
 | Mrs Chia Soo Ying 	| Mr Lim Beng Liang 	| Mdm Agnes Tan 	|
 | Ms Sally Lim 	| Mrs Ng Marn Peng 	| Mr Aaron Tan 	|
+
+
+We want our students to be equipped with the various mathematical skills and possess the ability to reason and communicate their thinking processes effectively. We want to inculcate in our students a love for solving Mathematical problems. With this vision in mind, the department plans various activities throughout the year to ensure that there are rich learning experiences for our students in the classroom as well as out of the classroom.
+
+To instill the joy of learning in mathematics, meaningful tasks are designed to inculcate the love of solving Mathematical problems through. Students can demonstrate logical thinking through their reasoning to develop a deep understanding of Mathematics concept.
+
+### Key Programmes
+
+1.  Promoting problem solving skills and  reasoning and communication skills in classroom lessons
+2.  Spatial Visualisation Programme for P1 and P2 students
+3.  Opportunities to participate in key contests and competitions
+    *   Mathematical Olympiad for P5 and P6
+    *   Singapore Math Kangaroo Contest (SMKC) for P2-P6
+
+**Learning Support for Mathematics (LSM)**
+
+LSM provides early intervention to support P1 and P2 students who need extra support in learning Mathematics. Through this programme, students are equipped with basic numeracy skills where their confidence can be boosted in problem solving.
+
+**Excellence 2000 Mathematics Programme (E2K) (P4 and P5)**
+
+This programme aims to develop students’ mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach. Students are given opportunities to work independently or collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematical explorations specially designed for this programme.
+
+It helps students to develop habits, attitudes and dispositions and to gain important 21st century competencies such as critical inventive thinking and effective communication skills.
+
+**Authentic out-of-classroom experiences**
+
+*   Maths Day for 3 different blocks (P1/P2, P3/P4, P5/P6)
+*   P3 Shopping Activity
+*   P4 ICT Maths Trail
+*   P5 Thinking Day
+
+### Achievements
+
+1.  **Singapore Math Kangaroo Competition(SMKC)**
