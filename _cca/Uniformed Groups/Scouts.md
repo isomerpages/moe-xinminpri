@@ -6,6 +6,8 @@ third_nav_title: Uniformed Groups
 ---
 # **Scouts**
 
+![](/images/scout-website-photo-1.jpg)
+
 ### Description:
 
 As one of the oldest youth movements in Singapore (celebrated our 100th Anniversary in year 2010), Scouting encourages the holistic physical, mental, spiritual and social development of youth with a strong emphasis on the duty to God and to the country, and helping other people.  
@@ -45,3 +47,15 @@ Xinmin Cub Scout:
 
 ![](/images/CCA-Badge-Activity-1-300x167.jpg)
 <center>CCA Badge Activity 1</center>
+
+![](/images/CCA-Badge-Activity-2-300x188.jpg)
+<center>CCA Badge Activity 2</center>
+
+![](/images/CCA-Fold-Paper-Crane-Activity-300x123.jpg)
+<center>CCA Fold Paper Crane Activity</center>
+
+![](/images/CCA-Games-Activity-1-300x182.jpg)
+<center>CCA Games Activity 1</center>
+
+![](/images/CCA-Games-Activity-2-300x198.jpg)
+<center>CCA Games Activity 2</center>
