@@ -16,25 +16,24 @@ Apart from the SYF, our Chinese dance members have been actively involved in pub
 
 Through dance, students are able to serve the community and learn the values of resilience and teamwork. Dance is not just helping a dancer maintain physical fitness, but also cultivating one’s confidence and overcoming fears. We hope our members will continue to raise the prestige of Chinese Arts in this modern society.
 
-**Mission**  
+### Mission  
 1) To cultivate mental, emotional and musical growth through dancing.  
 2) To develop confident individuals through mastery of dance skills and successful performances.  
 3) To nurture motivated lifelong learners with a keen appreciation for dance.  
 4) To serve the community and learn the values of resilience and teamwork and strive to be excellent
 
-**Achievements**
+### Achievements
 
-SYF 2018 – Certificate of Distinction
+* SYF 2018 – Certificate of Distinction
+* SYF 2016 – Certificate of Accomplishment
 
-SYF 2016 – Certificate of Accomplishment
-
-**Schedule**
+### Schedule
 
 Monday: 2.00 pm to 4.00 pm
 
 Friday: 7.30 am to 9.00 am
 
-**2022 Teachers In Charge**
+### 2022 Teachers In Charge
 
 Mdm Guan Jiajia (In-charge)
 
