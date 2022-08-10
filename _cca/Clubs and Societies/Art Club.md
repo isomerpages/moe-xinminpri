@@ -32,7 +32,7 @@ Mrs Paulyne Ho
 
 Mrs Vijay
 
-**Planned Activities for 2022**
+### Planned Activities for 2022
 
 | No 	| P6 	| P5 and P4 	|
 |---	|---	|---	|
