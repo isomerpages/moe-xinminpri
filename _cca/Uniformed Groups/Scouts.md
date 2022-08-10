@@ -40,4 +40,8 @@ Ms Sally Lim Lay Koon
 ### Achievements:
 
 Xinmin Cub Scout:     
-Frank Cooper Sands Silver (2019)
+* Frank Cooper Sands Silver (2019)
+
+
+![](/images/CCA-Badge-Activity-1-300x167.jpg)
+<center>CCA Badge Activity 1</center>
