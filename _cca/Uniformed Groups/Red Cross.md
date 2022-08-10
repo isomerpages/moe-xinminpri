@@ -15,3 +15,24 @@ In line with the mission of the Singapore Red Cross Society, Red Cross in Xinmin
 | 2. 	| Donation Drive 	|
 | 3. 	| World Red Cross Day 	|
 | 4. 	| Linkamania Camp 	|
+
+**Schedule**    
+Every Friday, 7.30am to 9.00am and on some Saturdays.
+
+**2022 Teachers-In-Charge**
+
+Mdm Zarina (IC)
+
+Mdm The Swee Sing (2nd IC)
+
+Ms Marilynn Quek
+
+Mdm Sumita Kunalingam
+
+**Achievements**
+
+**2021**
+
+1.     Excellence Unit Award 2020 – No assessment due to national posture.    
+2.     National First Aid Competition (2021) – Competition not carried out due to national posture.       
+3.    Director’s Award (2021) – Jewel Koh (6E)
