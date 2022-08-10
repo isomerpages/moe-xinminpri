@@ -6,16 +6,15 @@ third_nav_title: Sports
 ---
 # **Volleyball**
 
+![](/images/DSC_0257-e1492016173292.jpg)
+
 Volleyball is a highly competitive team sport with focus on mastery of individual skills, communication and teamwork. While it is a specialised sport, Xinmin Primary’s Volleyball team accommodates and nurtures students with different abilities and skills. Besides equipping our players with volleyball skills, we also emphasize on tenacity, sportsmanship and respect. The values learnt in the sport will build their character and develop determination in them to excel in life.  
 
 ### 2022 Teachers in Charge:
 
-Mr M Muruggapan (In-charge)
-
-Mrs Serene Lee
-
-Mrs Daphne Goh
-
+Mr M Muruggapan (In-charge)   
+Mrs Serene Lee   
+Mrs Daphne Goh    
 Ms Bernice Toh
 
 ### Schedule:
