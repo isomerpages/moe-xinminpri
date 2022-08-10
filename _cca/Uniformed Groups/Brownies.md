@@ -6,6 +6,8 @@ third_nav_title: Uniformed Groups
 ---
 # **Brownies**
 
+![](/images/World-Thinking-DayXMPS.jpg)
+
 Brownies teaches and equips the girls with life-skills and also shape the lives of many girls. With the Girl Guide movement, Brownies are able to cope with the ever-changing demands of the world.
 
 Brownies are given opportunities to participate in various competitions organised by the Girl Guide Singapore (Headquarters). Xinmin Brownies also partner with North Division Guides to contribute their services to the community. Brownies also participate in Service Learning projects to inculcate the value of empathy in them. With such projects, the Brownies are made aware of other’s plight and in turn are able to improve and change the lives of others.
@@ -40,14 +42,18 @@ Mdm Malini
 
 ### Photo Gallery
 
-![](/images/Picture1-sewing-badge.jpg)
+<img src="/images/Picture1-sewing-badge.jpg" 
+     style="width:40%">
 <center>Sewing Badge</center>
 
-![](/images/Picture-2-sewing-badge.jpg)
+<img src="/images/Picture-2-sewing-badge.jpg" 
+     style="width:40%">
 <center>Sewing Badge 2</center>
 
-![](/images/Picture-3-sewing-badge-300x189.jpg)
+<img src="/images/Picture-3-sewing-badge-300x189.jpg" 
+     style="width:40%">
 <center>Sewing Badge</center>
 
-![](/images/Picture-5-World-Thinking-Day-celebrations-300x228.jpg)
+<img src="/images/Picture-5-World-Thinking-Day-celebrations-300x228.jpg" 
+     style="width:40%">
 <center>World Thinking Day Celebrations</center>
