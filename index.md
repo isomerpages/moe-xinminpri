@@ -22,9 +22,9 @@ sections:
           description: ""
           url: /globe-green-lifestyle-observed-by-everyone/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Dental Clinic Opening Hours
+      subtitle: "Announcement #1"
+      description: for March and April 2022
+      button: Click here
       url: /faq/
 ---
