@@ -21,10 +21,10 @@ Every Xinminite an Artist
 **Mission:**      
 To ignite the interest in art through active art making, participation and sharing.
 
-**Schedule:**     
+### Schedule:   
 Friday: 7.30am to 9.00am
 
-**2022 Teachers In Charge**
+### 2022 Teachers In Charge
 
 Mdm Norsekha (overall in charge)
 
