@@ -51,29 +51,41 @@ Mrs Vijay
 
 ### Photo Gallery
 
-![](/images/Exploring-Materials-300x204.jpeg)
+<img src="/images/Exploring-Materials-300x204.jpeg" 
+     style="width:40%">
 <center>Exploring Materials</center>
 
-![](/images/Mask-Painting-300x249.jpeg)
+<img src="/images/Mask-Painting-300x249.jpeg" 
+     style="width:40%">
 <center>Mask Painting</center>
 
-![](/images/Orientation-2022_design-a-cap-P5-193x300.jpeg)
+<img src="/images/Orientation-2022_design-a-cap-P5-193x300.jpeg" 
+     style="width:40%">
 <center>Orientation 2022 Design A Cap P5</center>
 
-![](/images/Orientation-2022_design-a-cap-P5a-192x300.jpeg)
+<img src="/images/Orientation-2022_design-a-cap-P5a-192x300.jpeg" 
+     style="width:40%">
 <center>Orientation 2022 Design A Cap P5a</center>
 
-![](/images/Orientation-2022_design-a-cap-P6b-300x269.jpeg)
+<img src="/images/Orientation-2022_design-a-cap-P6b-300x269.jpeg" 
+     style="width:40%">
 <center>Orientation 2022 Design A Cap P6b</center>
 
-![](/images/Orientation-2022_design-a-cap-P6c-193x300.jpeg)
+<img src="/images/Orientation-2022_design-a-cap-P6c-193x300.jpeg" 
+     style="width:40%">
 <center>Orientation 2022 Design A Cap P6c</center>
 
 ![](/images/Orientation-2022_design-a-cap-258x300.jpeg)
+<img src="/images/Exploring-Materials-300x204.jpeg" 
+     style="width:40%">
 <center>Orientation 2022 Design A Cap</center>
 
 ![](/images/SYF-2021_Category-C-members-at-work-300x187.jpeg)
+<img src="/images/Exploring-Materials-300x204.jpeg" 
+     style="width:40%">
 <center>SYF 2021 Category C Members At Work</center>
 
 ![](/images/SYF-Exhibition-2019-@-National-Museum-225x300.jpeg)
+<img src="/images/Exploring-Materials-300x204.jpeg" 
+     style="width:40%">
 <center>SYF Exhibition 2019 @ National Museum</center>
