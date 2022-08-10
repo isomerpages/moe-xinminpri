@@ -46,3 +46,8 @@ Mdm Malini
 ![](/images/Picture-2-sewing-badge.jpg)
 <center>Sewing Badge 2</center>
 
+![](/images/Picture-3-sewing-badge-300x189.jpg)
+<center>Sewing Badge</center>
+
+![](/images/Picture-5-World-Thinking-Day-celebrations-300x228.jpg)
+<center>World Thinking Day Celebrations</center>
