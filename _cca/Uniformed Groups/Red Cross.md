@@ -38,18 +38,22 @@ Mdm Sumita Kunalingam
 3. Director’s Award (2021) – Jewel Koh (6E)
 
 
-![](/images/First-Aid-Lesson-146x300.jpg)
+<img src="/images/First-Aid-Lesson-146x300.jpg" 
+     style="width:40%">
 <center>First Aid Lesson</center>
 
-![](/images/Linkamania-Camp-300x176.jpg)
+<img src="/images/Linkamania-Camp-300x176.jpg" 
+     style="width:40%">
 <center>Linkamania Camp</center>
 
-![](/images/Pract-Session-with-Taiwan-stud-243x300.jpg)
+<img src="/images/Pract-Session-with-Taiwan-stud-243x300.jpg" 
+     style="width:40%">
 <center>Practical Session With Taiwan Students</center>
 
-![](/images/TDD_Display-300x197.jpg)
+<img src="/images/TDD_Display-300x197.jpg" 
+     style="width:40%">
 <center>TDD Display</center>
 
-![](/images/TDD_Stud-Exp-239x300.jpg)
+<img src="/images/TDD_Stud-Exp-239x300.jpg" 
+     style="width:40%">
 <center>TDD Student Experience</center>
-
