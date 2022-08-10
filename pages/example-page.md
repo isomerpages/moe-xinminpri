@@ -41,13 +41,16 @@ GEMS is a series of fun bite-sized online lessons that promote eco-friendly ways
 
 The Environmental Science Club curates activities which encourage students to live a “greener” lifestyle, at home and at school by teaching them at a young age to be environmentally aware, so as to cultivate lifelong habits that could potentially make a dramatic difference in the future of the earth.
 
-![](/images/DIY-Recycling-Bins-for-classroom-300x162.jpg)
+<img src="/images/DIY-Recycling-Bins-for-classroom-300x162.jpg" 
+     style="width:40%">
 <center>Diy Recycling Bins For Classroom</center>
 
-![](/images/Hydroponics_Contributing-Towards-SG-Green-Plan_1-Transplanting-225x300.jpeg)
+<img src="/images/Hydroponics_Contributing-Towards-SG-Green-Plan_1-Transplanting-225x300.jpeg" 
+     style="width:40%">
 Hydroponics Contributing Towards Sg Green Plan 1 Transplanting
 
-![](/images/Tower-Garden-Activity-Using-Recycled-PET-Bottles-300x225.jpeg)
+<img src="/images/Tower-Garden-Activity-Using-Recycled-PET-Bottles-300x225.jpeg" 
+     style="width:40%">
 <center>Tower Garden Activity Using Recycled Pet Bottles</center>
 
 In collaboration with Science Centre, students participate in the Young Scientists badge scheme:
