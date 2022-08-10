@@ -40,3 +40,20 @@ Friday: 7.30 am to 9 am                                      
 
 * 2016: North Zone Inter-school Football Competition ( Senior ) – 4th place
 
+![](/images/Agility-and-Coordination-300x225.jpg)
+<center>Agility And Coordination</center>
+
+![](/images/Celebrating-Little-Successes-300x225.jpg)
+<center>Celebrating Little Successes</center>
+
+![](/images/Our-Dedicated-Teachers_1-300x225.jpg)
+<center>Our Dedicated Teachers 1</center>
+
+![](/images/Our-Dedicated-Teachers_2-300x225.jpg)
+<center>Our Dedicated Teachers 2</center>
+
+![](/images/Our-Experienced-Coaches-300x225.jpg)
+<center>Our Experienced Coaches</center>
+
+![](/images/Small-Sided-Games-is-a-Must-in-All-Training-Sessions-300x225.jpg)
+<center>Small Sided Games Is A Must In All Training Sessions</center>
