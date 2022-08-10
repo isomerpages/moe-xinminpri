@@ -33,18 +33,22 @@ Hip Hop is not only fun, it’s a natural stress reliever that can help your chi
 
 Most importantly, the school wants to establish a holistic education for the students’ well-being and achieve the joy of learning.
 
-![](/images/ALF-300x225.jpg)
+<img src="/images/ALF-300x225.jpg" 
+     style="width:40%">
 <center>ALF</center>
 
-![](/images/Arm-wave-300x225.jpg)
+<img src="/images/Arm-wave-300x225.jpg" 
+     style="width:40%">
 <center>Arm Wave</center>
 
-![](/images/Cross-steps-300x225.jpg)
+<img src="/images/Cross-steps-300x225.jpg" 
+     style="width:40%">
 <center>Cross Steps</center>
 
-![](/images/LA%20Walk-300x225.jpg)
+<img src="/images/LA%20Walk-300x225.jpg" 
+     style="width:40%">
 <center> L.A Walk </center>
 
-![](/images/Side-steps-225x300.jpg)
+<img src="/images/Side-steps-225x300.jpg" 
+     style="width:40%">
 <center>Side Steps</center>
-
