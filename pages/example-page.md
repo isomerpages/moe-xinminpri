@@ -2,3 +2,24 @@
 title: Example Page
 permalink: /example-page/
 ---
+# **GLOBE (Green Lifestyle Observed By Everyone)**
+
+**Mission:**    
+To educate Xinminites to be responsible to the environment which they live in
+
+**Vision:**    
+To broaden and deepen students’ level of environmental knowledge so that they can transfer their learning into positive environmental actions.
+
+The ALP – GLOBE aims to promote environmental sustainability among Xinminites and educate them to protect and preserve the natural environment, in line with our school values of ‘Care’ and ‘Responsibility’. Our school-wide efforts are in support of the philosophy of G.L.O.B.E – Green Lifestyles Observed By Everyone.
+
+Environmental issues are inherently interdisciplinary. Overcoming threats to the human society in the face of global climatic changes requires collaboration between knowledge and skills from various disciplines. The ALP – GLOBE takes on a multi-disciplinary approach, spanning different subject disciplines, to develop passionate environment advocates. We hope to create awareness of environmental issues, such as environment protection, conservation, preservation, and restoration.
+
+Through both the curricular and co-curricular activities, the ALP – GLOBE works to deepen Xinminites’ level of environmental awareness by promoting environmentally conscious activities among the general student population so that they may transfer their learning into positive actions. Through our efforts, we aim to develop environmental enthusiasts and inspiring individuals who do their part to ensure a healthy planet and a sustainable future.
+
+### Key Programmes:
+
+#### Tier 1
+
+**Meat-Free Day:**
+
+On this day, Xinminites are reminded that diet choices can make a big difference to their health and the health of our planet. Replacing meat with plant-based choices can offer numerous health benefits and help against climate change by reducing carbon footprint and conserving precious environmental resources.
