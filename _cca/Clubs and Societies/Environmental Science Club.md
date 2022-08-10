@@ -23,27 +23,28 @@ Students in the Environmental Science Club will be empowered to promote environm
 
 ### Activities
 
-_Hydroponics_
+<center>Hydroponics</center>
+<img src="/images/Hydro1-300x225.jpg" 
+     style="width:40%">
+		 
+<img src="/images/Hydro2-300x225.jpg" 
+     style="width:40%">
 
-![](/images/Hydro1-300x225.jpg)
+<center>Terrarium Making</center>
+<img src="/images/Ter2-225x300.jpg" 
+     style="width:40%">
 
-![](/images/Hydro2-300x225.jpg)
+<img src="/images/Ter3-224x300.jpg" 
+     style="width:40%">
 
-_Terrarium Making_
+<center>Upcycling Project</center>
+<img src="/images/Tshirt-Bag-1-225x300.jpeg" 
+     style="width:40%">
 
-![](/images/Ter2-225x300.jpg)
-
-![](/images/Ter3-224x300.jpg)
-
-_Upcycling Project_
-
-![](/images/Tshirt-Bag-1-225x300.jpeg)
-
-Making a T-shirt bag
-
-![](/images/Tshirt-Bag-2-300x225.jpeg)
+<center>Making a T-shirt bag</center>
+<img src="/images/Tshirt-Bag-2-300x225.jpeg" 
+     style="width:40%">
 
 <center>T-shirt Bags</center>
-
 <img src="/images/Tshirt-Bag-3-300x225.jpeg" 
      style="width:40%">
