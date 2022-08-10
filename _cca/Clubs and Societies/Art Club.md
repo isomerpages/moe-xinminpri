@@ -64,4 +64,16 @@ Mrs Vijay
 <center>Orientation 2022 Design A Cap P5a</center>
 
 ![](/images/Orientation-2022_design-a-cap-P6b-300x269.jpeg)
-<center>Orientation 2022 Design A Cap P5b</center>
+<center>Orientation 2022 Design A Cap P6b</center>
+
+![](/images/Orientation-2022_design-a-cap-P6c-193x300.jpeg)
+<center>Orientation 2022 Design A Cap P6c</center>
+
+![](/images/Orientation-2022_design-a-cap-258x300.jpeg)
+<center>Orientation 2022 Design A Cap</center>
+
+![](/images/SYF-2021_Category-C-members-at-work-300x187.jpeg)
+<center>SYF 2021 Category C Members At Work</center>
+
+![](/images/SYF-Exhibition-2019-@-National-Museum-225x300.jpeg)
+<center>SYF Exhibition 2019 @ National Museum</center>
