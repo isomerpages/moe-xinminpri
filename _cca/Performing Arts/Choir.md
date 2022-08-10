@@ -24,9 +24,8 @@ Every performance, big or small, is an opportunity to build confidence in our Xi
 
 ### Achievements
 
-SYF 2018 – Certificate of Accomplishment
-
-SYF 2016 – Certificate of Accomplishment
+* SYF 2018 – Certificate of Accomplishment
+* SYF 2016 – Certificate of Accomplishment
 
 ### Schedule
 
