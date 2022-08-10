@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Performing Arts/.keep
       - "Modular CCA: P3.md"
