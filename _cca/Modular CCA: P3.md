@@ -62,17 +62,22 @@ The students will be able to have an experience of some activities conducted in 
 Through these activities, we hope to provide the Primary 3 some first-hand experience of the CCA to help them when they make decision to choose their CCA in Term 4 while gaining some useful skills and knowledge.
 
 
-![](/images/Focused-and-being-on-task-300x225.jpg)
+<img src="/images/Focused-and-being-on-task-300x225.jpg" 
+     style="width:25%">
 <center>Focused And Being On Task</center>
 
-![](/images/Learning-about-plants-in-our-environment-169x300.jpeg)
+<img src="/images/Learning-about-plants-in-our-environment-169x300.jpeg" 
+     style="width:25%">
 <center>Learning About Plants In Our Environment</center>
 
-![](/images/Observing-plants-in-our-environment-169x300.jpeg)
+<img src="/images/Observing-plants-in-our-environment-169x300.jpeg" 
+     style="width:25%">
 <center>Observing Plants In Our Environment</center>
 
-![](/images/Playing-a-part-in-upcycling-225x300.jpg)
+<img src="/images/Playing-a-part-in-upcycling-225x300.jpg" 
+     style="width:25%">
 <center>Playing A Part In Upcycling</center>
 
-![](/images/Posing-with-completed-upcycling-craft-142x300.jpeg)
+<img src="/images/Posing-with-completed-upcycling-craft-142x300.jpeg" 
+     style="width:25%">
 <center>Posing With Completed Upcycling Craft</center>
