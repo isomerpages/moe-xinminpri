@@ -19,4 +19,4 @@ Please refer to Opening Dates when calling. Otherwise, call Canberra Primary Den
 
 In the event of emergency, such as dental trauma, facial swelling/toothache, kindly contact School Dental Centre @ 6435 3782. Thank you.
 
-[](/files/Dental-Clinic-Opening-Hours-for-March-and-April-2022.pdf)
+[Dental Clinic Opening Hours for March and April 2022](/files/Dental-Clinic-Opening-Hours-for-March-and-April-2022.pdf)
