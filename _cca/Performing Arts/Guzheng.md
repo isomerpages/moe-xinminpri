@@ -40,3 +40,17 @@ Mdm Syazana
 
 * SYF 2018 Certificate of Distinction
 * SYF 2016 Certificate of Distinction
+
+### Photo Gallery
+
+<img src="/images/Guzheng-P4-Multipurpose-Rm-225x300.jpeg" 
+     style="width:40%">
+<center>Guzheng P4 (Multipurpose Room)</center>
+
+<img src="/images/Guzheng-P5-e-Studio-300x225.jpeg" 
+     style="width:40%">
+<center>Guzheng P5 (e Studio)</center>
+
+<img src="/images/Guzheng-P6-Board-Rm-300x225.jpeg" 
+     style="width:40%">
+<center>Guzheng P6 (Board Room)</center>
