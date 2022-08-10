@@ -2,5 +2,6 @@ collections:
   our-resources:
     output: true
     order:
+      - Example Title.md
       - For Staff.md
       - For Students.md
