@@ -20,7 +20,7 @@ sections:
           url: /about-us/school-mission-and-vision/
         - title: G.L.O.B.E - ALP
           description: ""
-          url: /privacy/
+          url: /globe-green-lifestyle-observed-by-everyone/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
