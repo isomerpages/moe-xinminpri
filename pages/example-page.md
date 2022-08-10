@@ -58,4 +58,4 @@ In collaboration with Science Centre, students participate in the Young Scientis
 *   Young Botanist
 
 ![](/images/Young-Scientist-Badges.jpg)
-<center>Young Scientist Badges</center>
+Young Scientist Badges
