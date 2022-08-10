@@ -22,3 +22,28 @@ Our CCA brings together students who are interested in:
 Students in the Environmental Science Club will be empowered to promote environmentally conscious activities among the general student population. Members of the club will strive to provide leadership and education through these activities.
 
 ### Activities
+
+_Hydroponics_
+
+![](/images/Hydro1-300x225.jpg)
+
+![](/images/Hydro2-300x225.jpg)
+
+_Terrarium Making_
+
+![](/images/Ter2-225x300.jpg)
+
+![](/images/Ter3-224x300.jpg)
+
+_Upcycling Project_
+
+![](/images/Tshirt-Bag-1-225x300.jpeg)
+
+Making a T-shirt bag
+
+![](/images/Tshirt-Bag-2-300x225.jpeg)
+
+<center>T-shirt Bags</center>
+
+<img src="/images/Tshirt-Bag-3-300x225.jpeg" 
+     style="width:40%">
