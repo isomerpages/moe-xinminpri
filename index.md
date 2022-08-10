@@ -32,5 +32,5 @@ sections:
       subtitle: "Announcement #2"
       description: Infobar description
       button: click here
-      url: /faq
+      url: /2022-parents-engagement-day/
 ---
