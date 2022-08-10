@@ -47,7 +47,7 @@ The Environmental Science Club curates activities which encourage students to li
 
 <img src="/images/Hydroponics_Contributing-Towards-SG-Green-Plan_1-Transplanting-225x300.jpeg" 
      style="width:40%">
-Hydroponics Contributing Towards Sg Green Plan 1 Transplanting
+<center>Hydroponics Contributing Towards Sg Green Plan 1 Transplanting</center>
 
 <img src="/images/Tower-Garden-Activity-Using-Recycled-PET-Bottles-300x225.jpeg" 
      style="width:40%">
