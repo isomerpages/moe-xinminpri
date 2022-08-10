@@ -3,6 +3,8 @@ title: School Song
 permalink: /about-us/school-song/
 description: ""
 ---
+![](/images/Actual-153.jpg)
+
 # **School Song**
 
 Xinmin, Xinmin, always aim for excellence.
