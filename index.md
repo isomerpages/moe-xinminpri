@@ -27,4 +27,10 @@ sections:
       description: for March and April 2022
       button: Click here
       url: /dental-clinic-opening-hours-for-march-and-april-2022/
+  - infobar:
+      title: Parents' Engagement Day Slides
+      subtitle: "Announcement #2"
+      description: Infobar description
+      button: click here
+      url: /faq
 ---
