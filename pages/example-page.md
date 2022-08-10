@@ -35,3 +35,9 @@ Through our varied assembly programmes, students learn how to reduce the product
 **Green Educational Materials for Students –  GEMS:**
 
 GEMS is a series of fun bite-sized online lessons that promote eco-friendly ways of life and educate our students to reduce our negative  impact on the environment
+
+#### Tier 2:
+
+**Environmental Science Club:**
+
+The Environmental Science Club curates activities which encourage students to live a “greener” lifestyle, at home and at school by teaching them at a young age to be environmentally aware, so as to cultivate lifelong habits that could potentially make a dramatic difference in the future of the earth.
