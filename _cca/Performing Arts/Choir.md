@@ -6,6 +6,8 @@ third_nav_title: Performing Arts
 ---
 # **Choir**
 
+![](/images/Choir.jpg)
+
 Also known as Xinmin Nightingales, the Xinmin Primary School Choir provides a platform for passionate children who enjoys singing, to make music together as an ensemble. The choir is under the baton of Mr Marcus Lee. Throughout their choir journey, students will learn to improve their musicianship through singing skills such as voice projection and pitching, and rhythmic sense through body percussion and rhythm games. Students will also grow to sing with confidence as they develop an appreciation for choral music through exposure to a vast repertoire of songs.
 
 Xinmin Nightingales is not only very active in the participation of the Singapore Youth Festival (SYF), but also concert performances for various school events and community outreach programmes. Besides SYF, the choir participated in the ABRSM choral exam in 2018 and achieved a certificate of Distinction. Xinmin Nightingales also performed in Performing HeArts, our school’s biannual performing arts concert, in 2017 and 2019.
