@@ -42,9 +42,24 @@ Mrs Vijay
 | 4. 	| Air Dry Clay Relief 	| Air Dry Clay 3D Miniatures 	|
 
 
-**Achievements**
+### Achievements
 
 * SYF 2015 Category C – Recognition Award
 * SYF 2017 Category C – Recognition Award
 * SYF 2019 Category C – Recognition Award
 * SYF 2021 Category C – Recognition Award
+
+### Photo Gallery
+
+![](/images/Exploring-Materials-300x204.jpeg)
+<center>Exploring Materials</center>
+
+![](/images/Mask-Painting-300x249.jpeg)
+<center>Mask Painting</center>
+
+![](/images/Orientation-2022_design-a-cap-P5-193x300.jpeg)
+<center>Orientation 2022 Design A Cap P5</center>
+
+![](/images/Orientation-2022_design-a-cap-P5a-192x300.jpeg)
+
+![](/images/Orientation-2022_design-a-cap-P6b-300x269.jpeg)
