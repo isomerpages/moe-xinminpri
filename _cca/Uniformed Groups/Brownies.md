@@ -39,3 +39,10 @@ Mdm Malini
 * GGS World Thinking Day 2021 Social Action Video Contest – 3rd
 
 ### Photo Gallery
+
+![](/images/Picture1-sewing-badge.jpg)
+<center>Sewing Badge</center>
+
+![](/images/Picture-2-sewing-badge.jpg)
+<center>Sewing Badge 2</center>
+
