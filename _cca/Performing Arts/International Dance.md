@@ -73,17 +73,22 @@ Fridays 7.30 – 9.00 am (P3 to P6)
 
 **Photo Gallery**
 
-![](/images/CCA-in-progress-SMM-style-300x249.jpg)
+<img src="/images/CCA-in-progress-SMM-style-300x249.jpg" 
+     style="width:40%">
 <center>CCA In Progress SMM Style</center>
 
-![](/images/CCA-in-progress_Self-Introduction-using-Dance-Moves-300x241.jpg)
+<img src="/images/CCA-in-progress_Self-Introduction-using-Dance-Moves-300x241.jpg" 
+     style="width:40%">
 <center>Cca In Progress Self Introduction Using Dance Moves</center>
 
-![](/images/CCA-in-progress_Vaccinated-students-observe-and-learn-300x192.jpg)
+<img src="/images/CCA-in-progress_Vaccinated-students-observe-and-learn-300x192.jpg" 
+     style="width:40%">
 <center>Cca In Progress Vaccinated Students Observe And Learn</center>
 
-![](/images/Performing-HeArts-2019_1-300x200.jpg)
+<img src="/images/Performing-HeArts-2019_1-300x200.jpg" 
+     style="width:40%">
 <center>Performing Hearts 2019 1</center>
 
-![](/images/Performing-HeArts-2019_2-300x200.jpg)
+<img src="/images/Performing-HeArts-2019_2-300x200.jpg" 
+     style="width:40%">
 <center>Performing Hearts 2019 2</center>
