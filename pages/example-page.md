@@ -27,3 +27,11 @@ On this day, Xinminites are reminded that diet choices can make a big difference
 <img src="/images/No-Meat-Day-300x225.jpg" 
      style="width:40%">
 <center>No Meat Day</center>
+
+**Assembly programmes:**
+
+Through our varied assembly programmes, students learn how to reduce the production of greenhouse gases that impact climate change through adopting green habits.
+
+**Green Educational Materials for Students –  GEMS:**
+
+GEMS is a series of fun bite-sized online lessons that promote eco-friendly ways of life and educate our students to reduce our negative  impact on the environment
