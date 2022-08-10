@@ -4,7 +4,11 @@ permalink: /cca/performing-arts/international-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
+
+
 # **International Dance**
+
+![](/images/IGHK2315.jpg)
 
 <img src="/images/Xinmin-Concert19-336-300x96.jpg" style="width:380px;height:180px;margin-left:15px;" align="right">
 
