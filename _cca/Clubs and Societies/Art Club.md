@@ -61,5 +61,7 @@ Mrs Vijay
 <center>Orientation 2022 Design A Cap P5</center>
 
 ![](/images/Orientation-2022_design-a-cap-P5a-192x300.jpeg)
+<center>Orientation 2022 Design A Cap P5a</center>
 
 ![](/images/Orientation-2022_design-a-cap-P6b-300x269.jpeg)
+<center>Orientation 2022 Design A Cap P5b</center>
