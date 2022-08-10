@@ -70,3 +70,5 @@ Monday 2.00 – 5.30 pm
 Thursday 4.00 – 5.30 pm (Selected students only)
 
 Fridays 7.30 – 9.00 am (P3 to P6)
+
+**Photo Gallery**
