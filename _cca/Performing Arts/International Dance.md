@@ -72,3 +72,18 @@ Thursday 4.00 – 5.30 pm (Selected students only)
 Fridays 7.30 – 9.00 am (P3 to P6)
 
 **Photo Gallery**
+
+![](/images/CCA-in-progress-SMM-style-300x249.jpg)
+<center>CCA In Progress SMM Style</center>
+
+![](/images/CCA-in-progress_Self-Introduction-using-Dance-Moves-300x241.jpg)
+<center>Cca In Progress Self Introduction Using Dance Moves</center>
+
+![](/images/CCA-in-progress_Vaccinated-students-observe-and-learn-300x192.jpg)
+<center>Cca In Progress Vaccinated Students Observe And Learn</center>
+
+![](/images/Performing-HeArts-2019_1-300x200.jpg)
+<center>Performing Hearts 2019 1</center>
+
+![](/images/Performing-HeArts-2019_2-300x200.jpg)
+<center>Performing Hearts 2019 2</center>
