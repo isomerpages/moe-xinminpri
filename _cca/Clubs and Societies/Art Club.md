@@ -40,3 +40,11 @@ Mrs Vijay
 | 2. 	| Zentangle on Canvas 	| Collage Box 	|
 | 3. 	| Paper Quiling 	| Emboss Foil Relief 	|
 | 4. 	| Air Dry Clay Relief 	| Air Dry Clay 3D Miniatures 	|
+
+
+**Achievements**
+
+* SYF 2015 Category C – Recognition Award
+* SYF 2017 Category C – Recognition Award
+* SYF 2019 Category C – Recognition Award
+* SYF 2021 Category C – Recognition Award
