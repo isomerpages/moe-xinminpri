@@ -41,7 +41,7 @@ All students go on compulsory learning journeys (Virtual/Non Virtual if SMMs all
 
 Selected Primary 4 and 5 students who are able to interact in relation to others with care, empathy and respect are invited to go on NE focused overseas trips (Virtual/Non Virtual if SMMs allow). They must have developed emerging autonomy, inter-dependence, resilience, knowledge and confident self-identities too.
 
-**Friend of Singa (FOS****）**
+**Friend of Singa (FOS)**
 
 Friend of Singa (FOS) Primary program is an initiative by Singapore Kindness Movement to encourage students to contribute beyond themselves and to the betterment of their surroundings. 2022 sees the popular FOS Primary programme transformed into mission undertakings so that Kindness becomes an inclusive movement for all. Every student gets an opportunity to be a Friend of Singa. Students will continue to exemplify kindness through our FOS missions in 2022.
 
