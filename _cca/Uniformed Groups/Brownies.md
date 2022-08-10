@@ -19,3 +19,21 @@ Brownies are given opportunities to participate in various competitions organise
 | 5. 	| North Division Learning Day 	|
 | 6. 	| Sree Narayana Mission Home Service Learning Project 	|
 | 7. 	| Brownies Cookies Sales Project 	|
+
+#### Schedule
+
+Friday, 7.30am to 9am and on some Saturdays
+
+#### Teacher-In-Charge
+
+Ms. Aneesa Faruvin (OIC)
+
+Mdm Kwek Hui Ying
+
+Mdm Malini  
+  
+
+### Achievements 2021
+
+* North Division Day – Girls Have Talent Competition : Merit
+* GGS World Thinking Day 2021 Social Action Video Contest – 3rd
