@@ -14,10 +14,10 @@ sections:
       key_highlights:
         - title: Our Core Values
           description: ""
-          url: https://google.com
+          url: /about-us/core-values/
         - title: School Vision
           description: ""
-          url: https://gmail.com
+          url: /about-us/school-mission-and-vision/
         - title: G.L.O.B.E - ALP
           description: ""
           url: /privacy/
