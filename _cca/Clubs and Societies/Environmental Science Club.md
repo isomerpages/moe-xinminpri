@@ -48,3 +48,16 @@ Students in the Environmental Science Club will be empowered to promote environm
 <center>T-shirt Bags</center>
 <img src="/images/Tshirt-Bag-3-300x225.jpeg" 
      style="width:40%">
+		 
+		 
+### Schedule
+
+Friday, 7.30 a.m. to 9.00 a.m.
+
+### 2022 Teachers In Charge
+
+Mrs Jodene Yow (In-charge)
+
+Mdm Annuratha Veilathurai
+
+Mrs Iris Chan-Lee Poh Chin
