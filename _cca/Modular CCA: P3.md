@@ -60,3 +60,19 @@ Modular CCA (Uniformed Group) is a CCA for all Primary 3 students where they wil
 The students will be able to have an experience of some activities conducted in the three CCAs through 7 week modules revolving around the theme: Being An Outdoor Explorer. They will get to learn more about environment through exploration of gardens in our school, learn outdoor survival skills such as outdoor cooking, tent pitching, knotting and basic first aid skills.
 
 Through these activities, we hope to provide the Primary 3 some first-hand experience of the CCA to help them when they make decision to choose their CCA in Term 4 while gaining some useful skills and knowledge.
+
+
+![](/images/Focused-and-being-on-task-300x225.jpg)
+<center>Focused And Being On Task</center>
+
+![](/images/Learning-about-plants-in-our-environment-169x300.jpeg)
+<center>Learning About Plants In Our Environment</center>
+
+![](/images/Observing-plants-in-our-environment-169x300.jpeg)
+<center>Observing Plants In Our Environment</center>
+
+![](/images/Playing-a-part-in-upcycling-225x300.jpg)
+<center>Playing A Part In Upcycling</center>
+
+![](/images/Posing-with-completed-upcycling-craft-142x300.jpeg)
+<center>Posing With Completed Upcycling Craft</center>
