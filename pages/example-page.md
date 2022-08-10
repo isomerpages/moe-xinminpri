@@ -50,3 +50,12 @@ Hydroponics Contributing Towards Sg Green Plan 1 Transplanting
 ![](/images/Tower-Garden-Activity-Using-Recycled-PET-Bottles-300x225.jpeg)
 <center>Tower Garden Activity Using Recycled Pet Bottles</center>
 
+In collaboration with Science Centre, students participate in the Young Scientists badge scheme:
+
+*   Young environmentalists
+*   Young energy saver
+*   Young sustainability champion
+*   Young Botanist
+
+![](/images/Young-Scientist-Badges.jpg)
+<center>Young Scientist Badges</center>
