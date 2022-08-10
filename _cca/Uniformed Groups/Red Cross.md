@@ -16,10 +16,10 @@ In line with the mission of the Singapore Red Cross Society, Red Cross in Xinmin
 | 3. 	| World Red Cross Day 	|
 | 4. 	| Linkamania Camp 	|
 
-**Schedule**    
+### Schedule    
 Every Friday, 7.30am to 9.00am and on some Saturdays.
 
-**2022 Teachers-In-Charge**
+### 2022 Teachers-In-Charge
 
 Mdm Zarina (IC)
 
@@ -29,7 +29,7 @@ Ms Marilynn Quek
 
 Mdm Sumita Kunalingam
 
-**Achievements**
+### Achievements
 
 **2021**
 
