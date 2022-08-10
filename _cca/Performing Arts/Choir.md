@@ -46,3 +46,8 @@ Ms Shek Yan Yee
 Ms Michelle Teo
 
 Mrs Celine Ong
+
+### Photo Gallery
+
+![](/images/All-ready-with-a-pencil-and-100-attention-225x300%20(1).jpg)
+<center>All Ready With A Pencil And 100% Attention</center>
