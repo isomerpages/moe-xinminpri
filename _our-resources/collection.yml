@@ -2,8 +2,8 @@ collections:
   our-resources:
     output: true
     order:
-      - For Parents/Sexuality Education Programme.md
-      - For Parents/For Parents.md
       - For Parents/.keep
+      - For Parents/For Parents.md
+      - For Parents/Sexuality Education Programme.md
       - For Staff.md
       - For Students.md
