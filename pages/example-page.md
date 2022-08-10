@@ -23,3 +23,7 @@ Through both the curricular and co-curricular activities, the ALP – GLOBE work
 **Meat-Free Day:**
 
 On this day, Xinminites are reminded that diet choices can make a big difference to their health and the health of our planet. Replacing meat with plant-based choices can offer numerous health benefits and help against climate change by reducing carbon footprint and conserving precious environmental resources.
+
+<img src="/images/No-Meat-Day-300x225.jpg" 
+     style="width:40%">
+<center>No Meat Day</center>
