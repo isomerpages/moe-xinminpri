@@ -63,21 +63,30 @@ Through these activities, we hope to provide the Primary 3 some first-hand exper
 
 
 <img src="/images/Focused-and-being-on-task-300x225.jpg" 
-     style="width:25%">
+     style="width:40%">
 <center>Focused And Being On Task</center>
 
 <img src="/images/Learning-about-plants-in-our-environment-169x300.jpeg" 
-     style="width:25%">
+     style="width:40%">
 <center>Learning About Plants In Our Environment</center>
 
 <img src="/images/Observing-plants-in-our-environment-169x300.jpeg" 
-     style="width:25%">
+     style="width:40%">
 <center>Observing Plants In Our Environment</center>
 
 <img src="/images/Playing-a-part-in-upcycling-225x300.jpg" 
-     style="width:25%">
+     style="width:40%">
 <center>Playing A Part In Upcycling</center>
 
 <img src="/images/Posing-with-completed-upcycling-craft-142x300.jpeg" 
      style="width:25%">
 <center>Posing With Completed Upcycling Craft</center>
+
+
+### Teachers In Charge
+
+| Uniformed Groups 	| Coding 	| Hip Hop 	|
+|---	|---	|---	|
+| Miss Charlene Lim (In-charge) 	| Mr Tan Kee Beng  (In-charge) 	| Mdm Wang Xiaohua (In-charge) 	|
+| Mrs Lim-Siew Wai Mun 	| Mr Edwin Yu 	| Mrs Angela Tan 	|
+| Mdm Li Wenting 	| Mrs Magdalene Tan 	| Miss Vivian Tan 	|
