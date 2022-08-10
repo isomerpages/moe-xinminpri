@@ -32,3 +32,13 @@ Hip Hop is one of the most popular forms of dance because it’s fun and excitin
 Hip Hop is not only fun, it’s a natural stress reliever that can help your child improve their concentration skills. Studies have shown that children with a background in music and dance are more outgoing, it is definitely a great way to bring a shy child out of their shell and build confidence.
 
 Most importantly, the school wants to establish a holistic education for the students’ well-being and achieve the joy of learning.
+
+![](/images/ALF-300x225.jpg)
+<center>ALF</center>
+
+![](/images/Arm-wave-300x225.jpg)
+<center>Arm Wave</center>
+
+![](/images/Cross-steps-300x225.jpg)
+<center>Cross Steps</center>
+
