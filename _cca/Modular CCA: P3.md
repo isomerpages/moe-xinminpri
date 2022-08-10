@@ -42,3 +42,9 @@ Most importantly, the school wants to establish a holistic education for the stu
 ![](/images/Cross-steps-300x225.jpg)
 <center>Cross Steps</center>
 
+![](/images/LA%20Walk-300x225.jpg)
+<center> L.A Walk </center>
+
+![](/images/Side-steps-225x300.jpg)
+<center>Side Steps</center>
+
