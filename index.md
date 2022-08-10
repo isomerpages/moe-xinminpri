@@ -26,5 +26,5 @@ sections:
       subtitle: "Announcement #1"
       description: for March and April 2022
       button: Click here
-      url: /faq/
+      url: /dental-clinic-opening-hours-for-march-and-april-2022/
 ---
