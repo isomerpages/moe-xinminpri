@@ -36,3 +36,20 @@ Mdm Sumita Kunalingam
 1. Excellence Unit Award 2020 – No assessment due to national posture.
 2. National First Aid Competition (2021) – Competition not carried out due to national posture.
 3. Director’s Award (2021) – Jewel Koh (6E)
+
+
+![](/images/First-Aid-Lesson-146x300.jpg)
+<center>First Aid Lesson</center>
+
+![](/images/Linkamania-Camp-300x176.jpg)
+<center>Linkamania Camp</center>
+
+![](/images/Pract-Session-with-Taiwan-stud-243x300.jpg)
+<center>Practical Session With Taiwan Students</center>
+
+![](/images/TDD_Display-300x197.jpg)
+<center>TDD Display</center>
+
+![](/images/TDD_Stud-Exp-239x300.jpg)
+<center>TDD Student Experience</center>
+
