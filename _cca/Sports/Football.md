@@ -6,6 +6,8 @@ third_nav_title: Sports
 ---
 # **Football**
 
+![](/images/Small-Sided-Games-is-a-Must-in-All-Training-Sessions-scaled.jpg)
+
 Football is offered to students who show a keen interest in the game and wishes to develop themselves in the technical aspects of the game. These young footballers are taught fundamental football skills such as passing and receiving, shooting as well as basic tactical knowledge in attacking and defending.
 
 Xinmin Primary Football CCA aims to develop our footballers not only in physical skills but also in life skills and character building. Through the various activities, we want to instil the school’s core values of Care, Respect, Resilience and Responsibility and develop the 21st CC competencies in the footballers.
@@ -36,4 +38,5 @@ Friday: 7.30 am to 9 am                                      
 
 ### Achievements
 
-2016: North Zone Inter-school Football Competition ( Senior ) – 4th place
+* 2016: North Zone Inter-school Football Competition ( Senior ) – 4th place
+
