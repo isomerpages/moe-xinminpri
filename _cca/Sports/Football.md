@@ -14,7 +14,7 @@ The CCA is well supported by a group of dedicated teachers and coaches. One of t
 
 With the launching of the Unleash-the-Roar project by Football Association of Singapore, the Football CCA hopes to contribute directly or indirectly towards the success of this national project. With an age-appropriate program in place, we believe we are on the right track!
 
-**Football CCA Staff**
+### Football CCA Staff
 
 Overall IC: Mr Azreen
 
@@ -26,7 +26,7 @@ Team Manager Under 12: Ms Lau Shu Mei
 
 Technical Team: Mr Azreen, Mr Indra, Mr Zahid
 
-**Schedule**                                                                         
+### Schedule                                                                       
 
 Monday: 3 pm to 4.30 pm                                         
 
@@ -34,6 +34,6 @@ Thursday: 4 pm to 5.30 pm                                    �
 
 Friday: 7.30 am to 9 am                                             
 
-**Achievements** 
+### Achievements
 
 2016: North Zone Inter-school Football Competition ( Senior ) – 4th place
