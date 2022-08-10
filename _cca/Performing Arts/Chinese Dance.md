@@ -42,3 +42,5 @@ Mdm Bai Yimeng
 Mdm Zhao Tingyan
 
 Miss Foo Wei Woon
+
+### Photo Gallery
