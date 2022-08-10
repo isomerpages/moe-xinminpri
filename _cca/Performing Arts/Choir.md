@@ -51,3 +51,13 @@ Mrs Celine Ong
 
 ![](/images/All-ready-with-a-pencil-and-100-attention-225x300%20(1).jpg)
 <center>All Ready With A Pencil And 100% Attention</center>
+
+![](/images/Choir-Practice-with-Safe-Management-Measures-300x210.jpg)
+<center>Choir Practice With Safe Management Measures</center>
+
+![](/images/Choral-Exchange-2019-@-Fairfield-Methodist-Primary-School-300x92%20(1).jpg)
+<center>Choral Exchange 2019 @ Fairfield Methodist Primary School</center>
+
+![](/images/Recognition-Day-2019-300x176%20(1).jpg)
+<center>Recognition Day 2019</center>
+
