@@ -2,6 +2,7 @@ collections:
   our-resources:
     output: true
     order:
+      - For Parents/For Parents.md
       - For Parents/.keep
       - For Staff.md
       - For Students.md
