@@ -52,3 +52,11 @@ Most importantly, the school wants to establish a holistic education for the stu
 <img src="/images/Side-steps-225x300.jpg" 
      style="width:40%">
 <center>Side Steps</center>
+
+### Uniformed Groups
+
+Modular CCA (Uniformed Group) is a CCA for all Primary 3 students where they will get to understand about the three uniformed groups in Xinmin Primary, namely Brownies, Red Cross and Scouts.
+
+The students will be able to have an experience of some activities conducted in the three CCAs through 7 week modules revolving around the theme: Being An Outdoor Explorer. They will get to learn more about environment through exploration of gardens in our school, learn outdoor survival skills such as outdoor cooking, tent pitching, knotting and basic first aid skills.
+
+Through these activities, we hope to provide the Primary 3 some first-hand experience of the CCA to help them when they make decision to choose their CCA in Term 4 while gaining some useful skills and knowledge.
