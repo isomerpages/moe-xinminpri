@@ -30,7 +30,11 @@ sections:
   - infobar:
       title: Parents' Engagement Day Slides
       subtitle: "Announcement #2"
-      description: Infobar description
       button: click here
       url: /2022-parents-engagement-day/
+  - infobar:
+      title: Mobile Phone Request
+      subtitle: "Announcement #3"
+      button: click here
+      url: /mobile-phone-request/
 ---
