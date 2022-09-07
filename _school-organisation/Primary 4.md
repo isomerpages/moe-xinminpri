@@ -3,7 +3,7 @@ title: Primary 4
 permalink: /school-organisation/primary-4/
 description: ""
 ---
-![](/images/20220222_105510-scaled.jpg)
+![](/images/Primary%204.jpg)
 
 # **Primary 4**
 
