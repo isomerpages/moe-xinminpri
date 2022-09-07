@@ -3,6 +3,8 @@ title: Primary 6
 permalink: /school-organisation/primary-6/
 description: ""
 ---
+![](/images/Primary%206.jpg)
+
 # **Primary 6**
 
 ### Year Head
