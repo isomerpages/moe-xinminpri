@@ -1,9 +1,9 @@
 ---
 title: Primary 2
-permalink: /school-organisation/primary-2
+permalink: /school-organisation/primary-2/
 description: ""
 ---
-![](/images/P2-e1492338974781.jpg)
+![](/images/Primary%202.jpg)
 
 # **Primary 2**
 
