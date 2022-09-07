@@ -1,9 +1,9 @@
 ---
 title: Primary 3
-permalink: /school-organisation/primary-3
+permalink: /school-organisation/primary-3/
 description: ""
 ---
-![](/images/20220118_083346-scaled.jpg)
+![](/images/Primary%203.jpg)
 
 # **Primary 3**
 
