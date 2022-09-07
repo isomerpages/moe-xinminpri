@@ -1,9 +1,11 @@
 ---
 title: Primary 5
-permalink: /school-organisation/primary-5
+permalink: /school-organisation/primary-5/
 description: ""
 ---
-(image exceeds 5MB)
+![](/images/primary%205.jpg)
+
+
 # **Primary 5**
 
 ### Assistant Year Head
