@@ -3,59 +3,49 @@ title: School Vendors
 permalink: /about-us/school-vendors/
 description: ""
 ---
-
 ![](/images/Actual-175-e1492362367324.jpg)
-# **School Vendors**
+School Books Supplier:
+----------------------
 
-### School Books Supplier:
+###  **Pacific Bookstores**
 
+<table style="height: 230px; width: 677px;" border="1"><tbody><tr style="height: 56px;"><td style="width: 250px; height: 56px;"><strong>Contact Person</strong></td><td style="width: 59px; height: 56px; text-align: center;">:</td><td style="width: 346px; height: 56px;">Ms Lena</td></tr><tr style="height: 56px;"><td style="width: 250px; height: 56px;"><strong>Telephone</strong></td><td style="width: 59px; height: 56px; text-align: center;">:</td><td style="width: 346px; height: 56px;">62847330</td></tr><tr style="height: 56px;"><td style="width: 250px; height: 56px;"><strong>Website</strong></td><td style="width: 59px; height: 56px; text-align: center;">:</td><td style="width: 346px; height: 56px;"><a href="http://www.pacificbookstores.com/">http://www.pacificbookstores.com/</a></td></tr><tr style="height: 52.5312px;"><td style="width: 250px; height: 52.5312px;"><strong>Home delivery service charge</strong></td><td style="width: 59px; height: 52.5312px; text-align: center;">:</td><td style="width: 346px; height: 52.5312px;">$13.80</td></tr></tbody></table>
 
-| Pacific Bookstores 	| 	|  	|
-|---	|:---:	|---	|
-| Contact Person 	| : 	| Ms Lena 	|
-| Telephone 	| : 	| 62847330 	|
-| Website 	| : 	| [http://www.pacificbookstores.com](http://www.pacificbookstores.com) 	|
-| Home delivery service charge 	| : 	| $13.80 	|
+School Uniform :
+----------------
 
+###  Jeep Sing 
 
+<table style="width: 687px;" border="1"><tbody><tr style="height: 56px;"><td style="width: 156px; height: 56px;"><strong>Telephone</strong></td><td style="width: 28px; height: 56px; text-align: center;">:</td><td style="width: 481px; height: 56px;">64563198</td></tr><tr style="height: 54.0625px;"><td style="width: 156px; height: 54.0625px;"><strong>Website</strong></td><td style="width: 28px; height: 54.0625px; text-align: center;">:</td><td style="width: 481px; height: 54.0625px;"><a href="https://jeepsinguniform.com/collections/xinmin-primary-school">https://jeepsinguniform.com/collections/xinmin-primary-school</a></td></tr><tr style="height: 80px;"><td style="width: 156px; height: 80px;"><strong>Home delivery service charge</strong></td><td style="width: 28px; height: 80px; text-align: center;">:</td><td style="width: 481px; height: 80px;">$6</td></tr></tbody></table>
 
+School Bus Services:
+--------------------
 
-### School Uniform:
+###  K.H. Ng Bus Transport Service
 
-| Jeep Sing 	|  	|  	|
-|---	|---	|---	|
-| Telephone 	| : 	| 64563198 	|
-| Website 	| : 	| [https://jeepsinguniform.com/collections/xinmin-primary-school](mailto:https://jeepsinguniform.com/collections/xinmin-primary-school) 	|
-| Home delivery service charge 	| : 	| $5 	|
+<table style="height: 158px;" border="1" width="715"><tbody><tr><td style="width: 186px;"><strong>Contact Person</strong></td><td style="width: 34px;">:</td><td style="width: 473px;">Mr KH Ng</td></tr><tr><td style="width: 186px;"><strong>Telephone</strong></td><td style="width: 34px;">:</td><td style="width: 473px;">62819003<p>&nbsp;</p><p>96659003</p></td></tr><tr><td style="width: 186px;"><strong>E-mail</strong></td><td style="width: 34px;">:</td><td style="width: 473px;"><a href="mailto:info@khngbus.com.sg">info@khngbus.com.sg</a> or <a href="mailto:khng.bus.service@gmail.com"><u>khng.bus.service@gmail.com</u></a></td></tr></tbody></table>
 
+Student Care Services:
+----------------------
 
-### School Bus Services:
+**SCHOOL-BASED STUDENT CARE CENTRE – NASCANS (Jan 2023 onwards)**
 
-| K.H. Ng Bus Transport Service 	|  	|  	|
-|---	|---	|---	|
-| Contact Person 	| : 	| Mr KH Ng 	|
-| Telephone 	| : 	| 62819003<br><br>96659003 	|
-| E-mail 	| : 	| [info@khngbus.com.sg](mailto:info@khngbus.com.sg) or [khng.bus.service@gmail.com](mailto:khng.bus.service@gmail.com) 	|
+<table><tbody><tr><td width="169">Telephone</td><td width="426">82988540</td></tr><tr><td width="169">Website</td><td width="426"><a href="https://www.nascans.com">https://www.nascans.com</a></td></tr><tr><td width="169">Email</td><td width="426"><a href="mailto:xmscc@nascans.com">xmscc@nascans.com</a></td></tr><tr><td width="169">Expression of Interest</td><td width="426"><a href="https://tinyurl.com/3pnx26fx">https://tinyurl.com/3pnx26fx</a></td></tr></tbody></table>
 
-
-### Student Care Services:
-
-| School-based student care centre - Raffles student care centre LLP 	|  	|  	|
-|---	|---	|---	|
-| Telephone 	| : 	| 63868242 	|
-| Website 	| : 	| www.RafflesStudentCare.com/CommsBook<br><br>http://bit.ly/RSC_XM_PPT 	|
-
-
-### School Dental Clinic:
+School Dental Clinic:
+---------------------
 
    Tel: 8764 3972
 
-*   [Child Online Consent Portal](http://childconsent.hpb.gov.sg/)
+*   [Child Online Consent Portal](http://Childconsent.hpb.gov.sg)
 
-### School Insurance:
+School Insurance:
+-----------------
 
-**NTUC Income**
+###  NTUC Income
 
-[Website](https://studentgpa.incomegroupins.com.sg/)
+[Website](https://studentgpa.incomegroupins.com.sg)
+
+Hotline: 6332 1133
 
 Hotline: 6332 1133
