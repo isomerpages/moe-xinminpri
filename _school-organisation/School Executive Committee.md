@@ -50,12 +50,13 @@ description: ""
 | Mr Tan Kee Beng 	| Level Head / Mathematics 	| [tan_kee_beng@schools.gov.sg](mailto:tan_kee_beng@schools.gov.sg) 	|
 | Mrs Serene Lee-Neo 	| Level Head / Mathematics 	| [neo_xiao_ling_serene@schools.gov.sg](mailto:neo_xiao_ling_serene@schools.gov.sg) 	|
 | Mrs Ngo-Lau Shu Mei 	| Level Head / Science 	| [lau_shu_mei@schools.gov.sg](mailto:lau_shu_mei@schools.gov.sg) 	|
-| Mrs Shanmugam 	| Subject Head / Tamil & Malay Language 	| 
+
 
 ### Subject Heads (SH)
 
 | Name 	| Designation 	| Email 	|
 |---	|---	|---	|
+| Mrs Shanmugam 	| Subject Head / Tamil & Malay Language	| [palaniyandi_magasvari@schools.gov.sg](palaniyandi_magasvari@schools.gov.sg) |
 | Miss Michelle Teo Wei Ling 	| Subject Head / Aesthetics 	| [teo_wei_ling@schools.gov.sg](mailto:teo_wei_ling@schools.gov.sg) 	|
 | Mrs Iris Chan-Lee Poh Chin 	| Subject Head / Social Studies & National Education 	| [iris_lee_poh_chin@schools.gov.sg](mailto:iris_lee_poh_chin@schools.gov.sg) 	|
 | Mr Kumaresan 	|  Subject Head / Student Well-Being 	| [kumaresan_arasapam@schools.gov.sg](mailto:kumaresan_arasapam@schools.gov.sg) 	|
