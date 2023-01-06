@@ -20,7 +20,7 @@ description: ""
 |---	|---	|---	|
 | Mrs Elaine Heng-Tan Su Lin 	| School Staff Developer 	| [tan_su_lin_elaine@schools.gov.sg](mailto:tan_su_lin_elaine@schools.gov.sg) 	|
 | Mrs Nurhidayah Ejjad 	| HOD / English Language 	| [nurhidayah_hashim@schools.gov.sg](mailto:nurhidayah_hashim@schools.gov.sg) 	|
-| Miss Geraldine Tng Hiang Tiang 	| HOD / Science 	| [tng_hiang_tiang_geraldine@schools.gov.sg](mailto:tng_hiang_tiang_geraldine@schools.gov.sg) 	|
+| Mdm Lyn Ong 	| HOD / Math 	| [xinmin_ps@moe.edu.sg](xinmin_ps@moe.edu.sg) 	|
 | Miss Geraldine Tng Hiang Tiang 	| HOD / Science 	| [tng_hiang_tiang_geraldine@schools.gov.sg](mailto:tng_hiang_tiang_geraldine@schools.gov.sg) 	|
 | Mr Adnan Bin Omar 	| HOD / PHE & CCA 	| [adnan_omar@schools.gov.sg](mailto:adnan_omar@schools.gov.sg) 	|
 | Mrs Joycelyn Soo-Yeo 	| HOD / Discipline and Student Leadership 	| [yeo_su_yong_joycelyn@schools.gov.sg](mailto:yeo_su_yong_joycelyn@schools.gov.sg) 	|
