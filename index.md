@@ -2,7 +2,7 @@
 layout: homepage
 title: Xinmin Primary School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/cropped-XMPS-Full-Set-Logo_V1-e1493104685982.jpg
 permalink: /
 notification: ""
 sections:
@@ -38,3 +38,4 @@ sections:
       button: click here
       url: /mobile-phone-request/
 ---
+
