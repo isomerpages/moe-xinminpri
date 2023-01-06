@@ -1,5 +1,5 @@
 title: Xinmin Primary School
-url: ""
+url: https://xinminpri.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#64acdc"
@@ -51,8 +51,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1v3q3949kcwek.amplifyapp.com
 prod: https://master.d1v3q3949kcwek.amplifyapp.com
-shareicon: /images/isomer-logo.svg
-is_government: false
+shareicon: /images/cropped-XMPS-Full-Set-Logo_V1-e1493104685982.jpg
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
