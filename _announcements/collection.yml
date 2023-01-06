@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Dental Clinic Opening Hours for March and April 2022.md
       - 2022 Parents’ Engagement Day.md
