@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Announcements/.keep
       - Principal’s Message.md
       - School Mission & Vision.md
       - Core Values.md
