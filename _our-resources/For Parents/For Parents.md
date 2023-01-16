@@ -11,4 +11,5 @@ Resources for Parents
 ---------------------
 
   [Parenting Tips]()
-	[Sexuality Education Programme](our-resources/for-parents/sexuality-education-programme/)
+
+[Sexuality Education Programme](our-resources/for-parents/sexuality-education-programme/)
