@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Announcements/Announcements.md
       - Announcements/Mobile Phone Request.md
       - Announcements/.keep
       - Principal’s Message.md
