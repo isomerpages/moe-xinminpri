@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Mobile Phone Request.md
       - Dental Clinic Opening Hours for March and April 2022.md
       - 2022 Parents’ Engagement Day.md
       - Announcements.md
