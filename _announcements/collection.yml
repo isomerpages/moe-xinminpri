@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - 2022 Parents’ Engagement Day.md
       - Announcements.md
