@@ -21,11 +21,12 @@ description: ""
 | -------- | -------- | -------- |-------- |
 | 1A | Mdm Rosnita Bte Ibrahim     |  1A Form Teacher	    |  [rosnita_ibrahim@schools.gov.sg](rosnita_ibrahim@schools.gov.sg) |
 | | Miss Shek Yan Yee |	1A Form Teacher	| [shek_yan_yee@schools.gov.sg](shek_yan_yee@schools.gov.sg) |
-1B	Mrs Chia-Goh Soo Ying	1B Form Teacher	goh_soo_ying@schools.gov.sg
-Mrs Lee Hui Ying	1B Form Teacher	kwek_hui_ying@schools.gov.sg
-1C	Mrs Hadia Syahir	1C Form Teacher	hadia_syahir@schools.gov.sg
-Mr Tan Hoe Tsong	1C Form Teacher	
-tan_hoe_tsong@schools.gov.sg
+|1B	| Mrs Chia-Goh Soo Ying	| 1B Form Teacher	|[goh_soo_ying@schools.gov.sg](goh_soo_ying@schools.gov.sg) 
+
+| |Mrs Lee Hui Ying	|1B Form Teacher|	[kwek_hui_ying@schools.gov.sg](kwek_hui_ying@schools.gov.sg)|
+|1C	|Mrs Hadia Syahir |	1C Form Teacher	| [hadia_syahir@schools.gov.sg](hadia_syahir@schools.gov.sg) |
+| | Mr Tan Hoe Tsong|	1C Form Teacher	|
+[tan_hoe_tsong@schools.gov.sg](tan_hoe_tsong@schools.gov.sg) |
 
 1D	Miss Susan Seow	1D Form Teacher	seow_susan@schools.gov.sg
 Mdm Naime	1D Form Teacher	noor_naime_zainal_abidin@schools.gov.sg
