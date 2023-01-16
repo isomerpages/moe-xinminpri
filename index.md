@@ -25,5 +25,5 @@ sections:
       title: Announcements
       description: Click below for the latest announcements!
       button: Click here
-      url: /announcements/announcements/
+      url: /announcements/
 ---
