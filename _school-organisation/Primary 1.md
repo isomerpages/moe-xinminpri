@@ -33,5 +33,5 @@ description: ""
 | 1F |	Mdm Malini Madasamy |	1F Form Teacher	| [malini_madasamy@schools.gov.sg](malini_madasamy@schools.gov.sg) |
 | | Miss Tang Lai Peng |	1F Form Teacher	| [tang_lai_peng@schools.gov.sg](tang_lai_peng@schools.gov.sg) |
 | | Mdm Syazana Binte Ruslaine |	1F Form Teacher	| [syazana_ruslaine@schools.gov.sg](syazana_ruslaine@schools.gov.sg) |
-|1G	| Miss Tan Hui Jun Steffi |	1G Form Teacher	| tan_hui_jun_steffi@schools.gov.sg |
-| | Mr Thomas Ong	| 1G Form Teacher	|ong_ding_yi@schools.gov.sg |
+|1G	| Miss Tan Hui Jun Steffi |	1G Form Teacher	| [tan_hui_jun_steffi@schools.gov.sg](tan_hui_jun_steffi@schools.gov.sg) |
+| | Mr Thomas Ong	| 1G Form Teacher	|[ong_ding_yi@schools.gov.sg](ong_ding_yi@schools.gov.sg) |
