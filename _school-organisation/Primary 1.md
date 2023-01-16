@@ -25,9 +25,8 @@ description: ""
 |1B	| Mrs Chia-Goh Soo Ying	| 1B Form Teacher	|[goh_soo_ying@schools.gov.sg](goh_soo_ying@schools.gov.sg) |
 | |Mrs Lee Hui Ying	|1B Form Teacher|	[kwek_hui_ying@schools.gov.sg](kwek_hui_ying@schools.gov.sg)|
 |1C	|Mrs Hadia Syahir |	1C Form Teacher	| [hadia_syahir@schools.gov.sg](hadia_syahir@schools.gov.sg) |
-| | Mr Tan Hoe Tsong|	1C Form Teacher	|
-[tan_hoe_tsong@schools.gov.sg](tan_hoe_tsong@schools.gov.sg) |
-| 1D|	Miss Susan Seow |	1D Form Teacher	| [seow_susan@schools.gov.sg](seow_susan@schools.gov.sg) |
+| | Mr Tan Hoe Tsong|	1C Form Teacher	| [tan_hoe_tsong@schools.gov.sg](tan_hoe_tsong@schools.gov.sg) |
+| 1D |	Miss Susan Seow |	1D Form Teacher	| [seow_susan@schools.gov.sg](seow_susan@schools.gov.sg) |
 Mdm Naime	1D Form Teacher	noor_naime_zainal_abidin@schools.gov.sg
 1E	Mdm Sharifah Wardah	1E Form Teacher	sharifah_wardah@schools.gov.sg
 Miss Toh Feng Joo	1E Form Teacher	toh_feng_joo@schools.gov.sg
