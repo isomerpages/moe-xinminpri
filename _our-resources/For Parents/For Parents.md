@@ -10,8 +10,5 @@ For Parents
 Resources for Parents
 ---------------------
 
-  
-	[Parenting Tips](/files/Family-Matters-Webpage.pdf)
-	[Sexuality Education](/our-resources/for-parents/sexuality-education-programme/)
-	
-	
+  [Parenting Tips]()
+	[Sexuality Education Programme](our-resources/for-parents/sexuality-education-programme/)
