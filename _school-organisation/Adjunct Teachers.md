@@ -13,7 +13,7 @@ description: ""
 | Mrs Melinda Ashleigh Lim-Sim 	| FAJT (English/Maths) 	| [melinda_ashleigh_sim@schools.gov.sg](mailto:melinda_ashleigh_sim@schools.gov.sg) 	|
 | Mrs Chelsia Ng-Lim 	| FAJT (English/Maths/Art) 	| [chelsia_lim@schools.gov.sg](mailto:chelsia_lim@schools.gov.sg) 	|
 | Mr Kenneth Leo Wen Xiang 	| FAJT (English/Maths/SS) 	| [leo_wen_xiang_kenneth@schools.gov.sg](mailto:leo_wen_xiang_kenneth@schools.gov.sg) 	|
-| Mdm Tan Soi Lan 	| FAJT (Chinese Language) 	| (mailto:xinmin_ps@moe.edu.sg) 	|
+| Mdm Tan Soi Lan 	| FAJT (Chinese Language) 	| (xinmin_ps@moe.edu.sg) 	|
 | Ms Huang Zi Ling 	| FAJT (Chinese Language) 	| [xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) 	|
 | Ms Lim Lay Leng 	| FAJT (Chinese Language) 	| [xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) 	|
 | Ms Herda Binte Dolfata 	| FAJT (Malay Language) 	| [herda_dolfata@schools.gov.sg](mailto:herda_dolfata@schools.gov.sg) 	|
