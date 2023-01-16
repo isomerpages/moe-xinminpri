@@ -17,15 +17,10 @@ description: ""
 
 
 
-| Column 1 | Column 2 | Column 3 | Column 3 | 
+| Class | Name | Designation | Contact | 
 | -------- | -------- | -------- |-------- |
-| Text     | Text     |  
-
-
-
-Class	Name	Designation	Email
-1A	Mdm Rosnita Bte Ibrahim	1A Form Teacher	rosnita_ibrahim@schools.gov.sg
-Miss Shek Yan Yee	1A Form Teacher	shek_yan_yee@schools.gov.sg
+| 1A | Mdm Rosnita Bte Ibrahim     |  1A Form Teacher	    |  [rosnita_ibrahim@schools.gov.sg](rosnita_ibrahim@schools.gov.sg) |
+| | Miss Shek Yan Yee |	1A Form Teacher	| [shek_yan_yee@schools.gov.sg](shek_yan_yee@schools.gov.sg) |
 1B	Mrs Chia-Goh Soo Ying	1B Form Teacher	goh_soo_ying@schools.gov.sg
 Mrs Lee Hui Ying	1B Form Teacher	kwek_hui_ying@schools.gov.sg
 1C	Mrs Hadia Syahir	1C Form Teacher	hadia_syahir@schools.gov.sg
