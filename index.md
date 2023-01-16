@@ -25,5 +25,5 @@ sections:
       title: Announcements
       description: Click below for the latest announcements!
       button: Click here
-      url: /dental-clinic-opening-hours-for-march-and-april-2022/
+      url: /announcements/announcements/
 ---
