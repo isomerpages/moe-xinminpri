@@ -30,8 +30,8 @@ description: ""
 | | Mdm Naime	| 1D Form Teacher	| [noor_naime_zainal_abidin@schools.gov.sg](noor_naime_zainal_abidin@schools.gov.sg) |
 | 1E	| Mdm Sharifah Wardah |	1E Form Teacher	| [sharifah_wardah@schools.gov.sg](sharifah_wardah@schools.gov.sg) |
 | | Miss Toh Feng Joo	| 1E Form Teacher	| [toh_feng_joo@schools.gov.sg](toh_feng_joo@schools.gov.sg) |
-| 1F |	Mdm Malini Madasamy |	1F Form Teacher	| malini_madasamy@schools.gov.sg |
-| | Miss Tang Lai Peng |	1F Form Teacher	| tang_lai_peng@schools.gov.sg |
+| 1F |	Mdm Malini Madasamy |	1F Form Teacher	| [malini_madasamy@schools.gov.sg](malini_madasamy@schools.gov.sg) |
+| | Miss Tang Lai Peng |	1F Form Teacher	| [tang_lai_peng@schools.gov.sg](tang_lai_peng@schools.gov.sg) |
 | | Mdm Syazana Binte Ruslaine |	1F Form Teacher	| syazana_ruslaine@schools.gov.sg |
 |1G	| Miss Tan Hui Jun Steffi |	1G Form Teacher	| tan_hui_jun_steffi@schools.gov.sg |
 | | Mr Thomas Ong	| 1G Form Teacher	|ong_ding_yi@schools.gov.sg |
