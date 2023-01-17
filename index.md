@@ -1,32 +1,29 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Xinmin Primary School
+description: An Isomer site of the Singapore Government
+image: /images/cropped-XMPS-Full-Set-Logo_V1-e1493104685982.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Check out the latest announcements on the announcements page!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Xinmin Primary School
+      background: /images/XMPS.gif
+      button: Contact Us
+      url: /contact-us/
+      key_highlights:
+        - title: Our Core Values
+          description: ""
+          url: /about-us/core-values/
+        - title: School Vision
+          description: ""
+          url: /about-us/school-mission-and-vision/
+        - title: G.L.O.B.E - ALP
+          description: ""
+          url: /globe-green-lifestyle-observed-by-everyone/
+  - infobar:
+      title: Announcements
+      description: Click below for the latest announcements!
+      button: Click here
+      url: /announcements/
 ---
-

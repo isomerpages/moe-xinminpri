@@ -1,0 +1,16 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Chinese Language.md
+      - Malay Language.md
+      - Tamil language.md
+      - Aesthetics.md
+      - CCE Department.md
+      - ICT.md
+      - PE & CCA.md
+      - Student Management Leadership.md
+      - Student Well being.md

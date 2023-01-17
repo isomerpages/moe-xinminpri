@@ -1,0 +1,18 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Announcements/.keep
+      - Principal’s Message.md
+      - School Mission & Vision.md
+      - Core Values.md
+      - Strategic Thrusts.md
+      - School Motto.md
+      - School Crest.md
+      - School Song.md
+      - School Rules and Expectations.md
+      - Homework Policy.md
+      - School Vendors.md
+      - Events/.keep
+      - Events/Recognition Day 2019.md
+      - Calendar.md
