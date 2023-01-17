@@ -5,10 +5,19 @@ description: ""
 ---
 ![](/images/Primary%206.jpg)
 
-Primary 6
-=========
+# **Primary 6**
 
-**Assistant Year Head**
+### Year Head
+
+|Name|	Designation|	Email|
+|----|----|----|
+|Mdm Rosnani Bte Yusof	|Year Head (Middle Block / P3)|	rosnani_yusof@schools.gov.sg|
+
+
+**Form Teachers**
+
+| Class | Name | Designation | Contact | 
+| -------- | -------- | -------- |-------- |
 
 <table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 856.333px; height: 48px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(186, 173, 173); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 268px; text-align: center;"><span style="box-sizing: inherit; font-size: 14pt; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">Name</strong></span></td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 212px; text-align: center;"><span style="box-sizing: inherit; font-size: 14pt; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">Designation</strong></span></td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 316px; text-align: center;"><span style="box-sizing: inherit; font-size: 14pt; font-family: arial, helvetica, sans-serif;"><strong style="box-sizing: inherit; font-weight: bold;">Email</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24.7327px;"><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 268px;">Mr Gary Tang</td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 212px; text-align: center;"><span style="box-sizing: inherit; font-size: 12pt; font-family: arial, helvetica, sans-serif;">Assistant Year Head (P6)</span></td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 316px;"><a href="mailto:tang_kia_miang_gary@schools.gov.sg" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(27, 131, 211);">tang_kia_miang_gary@schools.gov.sg</a></td></tr></tbody></table>
 
