@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Primary%204.jpg)
 
-# **Primary 3**
+# **Primary 4**
 
 ### Year Head
 
@@ -31,4 +31,3 @@ norsekha_juman@schools.gov.sg|
 ||Mdm Li Wenting|	4E Form Teacher	|li_wenting@schools.gov.sg|
 4F	|Mdm Zhao Tingyan	|4F Form Teacher	|zhao_tingyan@schools.gov.sg|
 ||Mrs Melinda Lim	|4F Form Teacher	|melinda_ashleigh_sim@schools.gov.sg|
-
