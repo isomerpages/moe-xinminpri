@@ -18,8 +18,7 @@ description: ""
 
 | Class | Name | Designation | Contact | 
 | -------- | -------- | -------- |-------- |
-|5A|	Mrs Shanker Shaevah Pannir|
-5A Form Teacher	|shaevah_shankari_pannir_selvan@schools.gov.sg|
+|5A|	Mrs Shanker Shaevah Pannir|5A Form Teacher	|shaevah_shankari_pannir_selvan@schools.gov.sg|
 ||Mdm Fun Kai Tien	|5A Form Teacher|	fun_kai_tien@schools.gov.sg|
 |5B|	Mr Lim Beng Liang	|5B Form Teacher|	lim_beng_liang@schools.gov.sg|
 ||Mrs Shanmugam	|5B Form Teacher|	palaniyandi_magasvari@schools.gov.sg|
