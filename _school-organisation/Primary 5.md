@@ -3,7 +3,7 @@ title: Primary 5
 permalink: /school-organisation/primary-5/
 description: ""
 ---
-![](/images/primary%205.jpg)
+![](/images/Primary5.jpg)
 
 
 # **Primary 5**
