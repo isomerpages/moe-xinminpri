@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Early Closure of GO on Friday.md
       - Announcements.md
       - 202302 Mobile Phone Request 2023.md
       - 202301 Welcome Letter for 2023.md
