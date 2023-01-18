@@ -3,7 +3,7 @@ title: Primary 4
 permalink: /school-organisation/primary-4/
 description: ""
 ---
-![]()
+![](/images/Primary4.jpg)
 
 # **Primary 4**
 
