@@ -8,7 +8,7 @@ notification: Check out the latest announcements on the announcements page!
 sections:
   - hero:
       title: Xinmin Primary School
-      background: /images/XMPS.gif
+      background: /images/Drums.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
