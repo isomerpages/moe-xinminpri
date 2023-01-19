@@ -7,10 +7,7 @@ permalink: /
 notification: Check out the latest announcements on the announcements page!
 sections:
   - hero:
-      title: Xinmin Primary School
       background: /images/Drums.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Our Core Values
           description: ""
@@ -26,4 +23,5 @@ sections:
       description: Click below for the latest announcements!
       button: Click here
       url: /announcements/
+      subtitle: Xinmin primary school
 ---
