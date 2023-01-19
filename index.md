@@ -32,6 +32,5 @@ sections:
       image: /images/ALP.jpeg
   - resources:
       title: Announcements
-      subtitle: Resources Section Subtitle
       button: Click for more announcements
 ---
