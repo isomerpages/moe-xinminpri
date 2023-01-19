@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+Dear parents,
+
+Please find the welcome letter as attached.
+
+[Welcome Letter 2023](/files/January-Letter_2023.pdf)
