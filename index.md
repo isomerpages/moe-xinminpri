@@ -25,11 +25,13 @@ sections:
       url: /announcements/
       subtitle: Xinmin primary school
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: G.L.O.B.E
+      subtitle: ALP
+      description: Green Lifestyles Observed By Everyone
+      button: More info
+      alt: Students with their terrariums
+      url: globe-green-lifestyle-observed-by-everyone/
+      image: /images/ALP.jpeg
   - resources:
       title: Announcements
       subtitle: Resources Section Subtitle
