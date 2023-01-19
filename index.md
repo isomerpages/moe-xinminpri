@@ -33,5 +33,5 @@ sections:
   - resources:
       title: Announcements
       subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      button: Click for more announcements
 ---
