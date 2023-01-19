@@ -19,11 +19,8 @@ sections:
           description: ""
           url: /globe-green-lifestyle-observed-by-everyone/
   - infobar:
-      title: Announcements
-      description: Click below for the latest announcements!
-      button: Click here
+      title: Xinmin Primary School
       url: /announcements/
-      subtitle: Xinmin primary school
   - infopic:
       title: G.L.O.B.E
       subtitle: ALP
