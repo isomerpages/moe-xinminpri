@@ -21,6 +21,7 @@ sections:
   - infobar:
       title: Xinmin Primary School
       url: /announcements/
+      subtitle: In word and deed
   - infopic:
       title: G.L.O.B.E
       subtitle: ALP
