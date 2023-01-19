@@ -24,4 +24,18 @@ sections:
       button: Click here
       url: /announcements/
       subtitle: Xinmin primary school
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
+  - resources:
+      title: Announcements
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
