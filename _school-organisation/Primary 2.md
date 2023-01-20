@@ -30,4 +30,4 @@ description: ""
 |2F	|Mdm Santhi Perumal |	2F Form Teacher	|santhi_perumal@schools.gov.sg|
 ||Mdm Guan Jiajia	|2F Form Teacher|	guan_jiajia@schools.gov.sg|
 |2G	|Miss Michelle Teo Wei Ling	|2G Form Teacher|	teo_wei_ling@schools.gov.sg|
-||Ms Richelle Teng|	2G Form Teacher	|xinmin_ps@moe.edu.sg|
+||Ms Richelle Teng|	2G Form Teacher	|teng_mei_lin_richelle@schools.gov.sg|
