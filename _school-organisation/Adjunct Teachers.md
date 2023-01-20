@@ -15,7 +15,7 @@ description: ""
 | Ms Tan Soi Lan 	| FAJT (Chinese Language) 	| xinmin_ps@moe.edu.sg 	|
 | Ms Lim Lay Leng 	| FAJT (Chinese Language) 	| [xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) 	|
 | Ms Herda Binte Dolfata 	| FAJT (Malay Language) 	| [herda_dolfata@schools.gov.sg](mailto:herda_dolfata@schools.gov.sg)|
-|Ms RIchelle Teng| FAJT | teng_mei_lin_richelle@schools.gov.sg|
+|Ms Richelle Teng| FAJT | teng_mei_lin_richelle@schools.gov.sg|
 |Mrs Lim-Siew Wai Mun | FAJT (Math) | siew_wai_mun@schools.gov.sg|
 |Ms Koh Ying Sin| FAJT (Chinese Language) | koh_ying_sin@schools.gov.sg| 
-|Mrs Roslyn Sim| FAJT (English/Math)|yeo_yin_siew_roslyn@moe.edu.sg|
+|Mrs Roslyn Sim| FAJT (Math/Science)|yeo_yin_siew_roslyn@moe.edu.sg|
