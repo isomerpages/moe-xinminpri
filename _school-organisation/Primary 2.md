@@ -24,7 +24,7 @@ description: ""
 |2C	|Miss Syasya	|2C Form Teacher|	syasya_syafiqah_roslee@schools.gov.sg|
 ||Mrs Wendy Chua|	2C Form Teacher	|wendy_quek_seng_yuen@schools.gov.sg|
 |2D|	Mrs Ng Marn Peng	|2D Form Teacher|	ng_marn_peng@schools.gov.sg|
-||Mdm Herda|	2D Form Teacher|	xinmin_ps@moe.edu.sg|
+||Mdm Herda|	2D Form Teacher|herda_dolfata@schools.gov.sg|
 |2E	|Mdm Nicole Marie De Souza	|2E Form Teacher|	de_souza_nicole_marie@schools.gov.sg|
 ||Miss Aneesa Faruvin|	2E Form Teacher	|aneesa_faruvin_mohd_ibrahim@schools.gov.sg|
 |2F	|Mdm Santhi Perumal |	2F Form Teacher	|santhi_perumal@schools.gov.sg|
