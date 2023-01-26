@@ -16,17 +16,15 @@ The CCA is well supported by a group of dedicated teachers and coaches. One of t
 
 With the launching of the Unleash-the-Roar project by Football Association of Singapore, the Football CCA hopes to contribute directly or indirectly towards the success of this national project. With an age-appropriate program in place, we believe we are on the right track!
 
-### Football CCA Staff
+### Teachers-in-Charge ###
 
 Overall IC: Mr Azreen
 
-Team Manager Under 10: Mr Shahran
+Mr Shahran
 
-Team Manager Under 11: Mr Azreen
+Mdm Sharifah Wardah
 
-Team Manager Under 12: Ms Lau Shu Mei
-
-Technical Team: Mr Azreen, Mr Indra, Mr Zahid
+Mdm E-liz Yeung
 
 ### Schedule                                                                       
 
