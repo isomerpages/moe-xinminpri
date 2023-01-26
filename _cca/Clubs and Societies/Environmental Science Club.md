@@ -54,7 +54,7 @@ Students in the Environmental Science Club will be empowered to promote environm
 
 Mondays, 2.30 p.m. to 4.30 a.m.
 
-### 2022 Teachers In Charge
+### Teachers In Charge
 
 Mrs Jodene Yow (In-charge)
 
