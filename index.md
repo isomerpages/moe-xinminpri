@@ -12,24 +12,19 @@ sections:
         - title: Our Core Values
           description: ""
           url: /about-us/core-values/
-        - title: School Vision
+        - title: Our School Vision
           description: ""
           url: /about-us/school-mission-and-vision/
-        - title: G.L.O.B.E - ALP
-          description: ""
+        - title: G.L.O.B.E
+          description: ALP
           url: /globe-green-lifestyle-observed-by-everyone/
+        - title: C.L.O.V.E
+          description: LLP
+          url: /departments/cce-department/
   - infobar:
       title: Xinmin Primary School
       url: /announcements/
       subtitle: In word and deed
-  - infopic:
-      title: G.L.O.B.E
-      subtitle: ALP
-      description: Green Lifestyles Observed By Everyone
-      button: More info
-      alt: Students with their terrariums
-      url: globe-green-lifestyle-observed-by-everyone/
-      image: /images/ALP.jpeg
   - resources:
       title: Announcements
       button: Click for more announcements
