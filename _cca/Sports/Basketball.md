@@ -18,7 +18,7 @@ Above all, we emphasize to students that values and integrity are the most impor
 
 Mr Quek Hsiu Yuan (Overall-In-Charge)
 
-Mr Gary Tan (2nd-In-charge)
+Mr Gary Tang (2nd-In-charge)
 
 Mdm Fun Kai Tien 
 
