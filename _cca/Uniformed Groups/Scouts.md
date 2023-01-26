@@ -17,15 +17,18 @@ During our weekly meetings, our Xinmin Cub Scouts aim to earn a series of badges
 
 ### Schedule:
 
-Friday, 7.30am to 9.00am and some Saturdays
+Mondays, 2.30pm to 4.30pm
 
-### 2022 Teachers In Charge:
+
+### Teachers In Charge:
 
 Mr Lim Beng Liang (In-charge)
 
-Mr Kumaresan
+Mdm Santhi Perumal
 
 Ms Sally Lim Lay Koon
+
+Mdm Chai Chang Ciek
 
 ### Key Programs:
 
