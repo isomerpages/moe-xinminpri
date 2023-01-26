@@ -16,10 +16,15 @@ Above all, we emphasize to students that values and integrity are the most impor
 
 ### Teachers in Charge:
 
-1.  Gary Tang (Overall-In-Charge)
-2.  Fun Kai Tien (2nd\-In-charge)
-3.  Kenneth Tan
-4.  Melvin Soh
+Mr Quek Hsiu Yuan (Overall-In-Charge)
+
+Mr Gary Tan (2nd-In-charge)
+
+Mdm Fun Kai Tien 
+
+Mr. Kenneth Tan
+
+Ms Amanda Lim
 
 ### Schedule:
 
