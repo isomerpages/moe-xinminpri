@@ -31,7 +31,7 @@ Through dance, students are able to serve the community and learn the values of 
 
 Monday: 2.30pm to 4.30pm
 
-### 2023 Teachers In Charge
+### Teachers In Charge
 
 Mdm Guan Jiajia (In-charge)
 
