@@ -12,3 +12,5 @@ links:
     collection: our-resources
   - title: Contact Us
     url: /contact-us/
+  - title: Announcements
+    resource_room: true
