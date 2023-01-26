@@ -33,7 +33,7 @@ Every performance, big or small, is an opportunity to build confidence in our Xi
 
 Monday: 2.30pm to 4.30pm
 
-### 2022 Teachers In Charge
+### Teachers In Charge
 
 Mr Thomas Ong (In-charge)
 
