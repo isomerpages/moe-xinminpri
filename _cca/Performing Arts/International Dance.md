@@ -4,8 +4,6 @@ permalink: /cca/performing-arts/international-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 # **International Dance**
 
 ![](/images/IGHK2315.jpg)
@@ -59,13 +57,18 @@ Our dancers also performed in the Performing HeArts concerts in 2017 and 2019, X
 * SYF 2018 – Certificate of Accomplishment
 * Performing HeArts Performances 2019
 
-**2022 Teachers-in-Charge**
+**Teachers-in-Charge**
 
 Mrs Sharon Chia (Overall-In-Charge)
 
-Mrs Shanmugam (2nd OIC)
+Ms Grace Koh (2nd OIC)
 
-Mdm Liu Swee Yen
+Mrs Shanker Shaevah Pannir
+
+Mdm Nicole Marie De Souza
+
+Mdm Naimee
+
 
 **Schedule**
 
