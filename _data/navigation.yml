@@ -8,9 +8,11 @@ links:
     collection: departments
   - title: Cca
     collection: cca
+  - title: Our Partners
+    collection: about-us
   - title: Our Resources
     collection: our-resources
-  - title: Contact Us
-    url: /contact-us/
   - title: Announcements
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/
