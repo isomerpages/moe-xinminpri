@@ -37,8 +37,11 @@ Primary Category (AI Modelling)
 Champion Team
 
 JAVEN YEO KAI JIE (P4-D 2022)
+
 JAVEN GOH LI CHENG (P5-B 2022)
+
 SEBASTIAN JOEL LING (P6-E 2022)
+
 WU JIEN (P6-F 2022)
 
 
