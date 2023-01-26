@@ -37,9 +37,9 @@ Monday: 2.30pm to 4.30pm
 
 Mr Thomas Ong (In-charge)
 
-Ms Shek Yan Yee
+Miss Shek Yan Yee
 
-Ms Michelle Teo
+Miss Michelle Teo
 
 Mrs Celine Ong
 
