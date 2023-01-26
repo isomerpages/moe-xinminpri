@@ -24,16 +24,17 @@ Brownies are given opportunities to participate in various competitions organise
 
 #### Schedule
 
-Friday, 7.30am to 9am and on some Saturdays
+Mondays, 2.30pm to 4.30pm
 
 #### Teacher-In-Charge
 
-Ms. Aneesa Faruvin (OIC)
+Mrs Malini Madasamy (OIC)
 
-Mdm Kwek Hui Ying
+Mrs Lee Hui Ying
 
-Mdm Malini  
-  
+Miss Charlene Lim
+
+Miss Steffi Tan
 
 ### Achievements 2021
 
