@@ -1,24 +1,24 @@
 ---
 title: Infocomm Club
-permalink: /cca/Clubs-and-Societies/infocomm-club
+permalink: /cca/Clubs-and-Societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-# **Infocomm Club**
+# **Infocomm Technology Club**
 
 A CCA for students who are passionate about coding. Students will develop critical thinking skills and creativity through creating presentations on Scratch. They will be equipped with knowledge to present stories or to create games online.
 
 ### Schedule
 
-Fridays, 7.30 a.m. to 9.00 a.m.
+Mondays, 2.30 p.m. to 4.30 p.m.
 
-### 2022 Teachers In Charge
+### 2023 Teachers In Charge
 
-Mr Kenny Tan – P6 (Overall In-charge)
+Mr Kenny Tan – P4 (Overall In-charge)
 
-Mdm Norliana – P5
+Mdm Norliana – P6
 
-Mdm Yang Xu – P4
+Mdm Yang Xu – P5
 
 ### Achievements
 
@@ -43,4 +43,3 @@ P5 Infocomm Students 2
 
 ![](/images/P5-Infocomm-Students-3-1024x768.jpeg)
 P5 Infocomm Students 3
-
