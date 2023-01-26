@@ -29,7 +29,7 @@ Through dance, students are able to serve the community and learn the values of 
 
 ### Schedule
 
-Monday: 2.30pm to 4.30pm
+Mondays, 2.30pm to 4.30pm
 
 ### Teachers In Charge
 
