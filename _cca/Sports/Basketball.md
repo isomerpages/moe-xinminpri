@@ -28,12 +28,11 @@ Ms Amanda Lim
 
 ### Schedule:
 
-School Team Training (Selected Times)  
-Monday: 1430 – 1600  
-Thursday: 1600 – 1730
+Mondays 2.30pm - 4.00pm
 
-Weekly Common CCA Training  
-Friday: 0730 – 0900
+School Team Training (Selected Times)  
+Tuesdays: 4.00pm – 5.30pm 
+Thursdays: 4.00pm – 5.30pm
 
 ### Safe Management Measures (SMMs):
 
