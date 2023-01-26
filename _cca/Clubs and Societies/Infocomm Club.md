@@ -22,18 +22,18 @@ Mdm Yang Xu – P5
 
 ### Achievements
 
-###**Rosyth Imagine Cup 2021 Circuit 2**###
+### **Rosyth Imagine Cup 2021 Circuit 2**###
 
-Senior Category (Individual) - Gold (with Honours)
+#### Senior Category (Individual) - Gold (with Honours)
 
 
 Jayden Lee 5A (2022)
 
 Adam bin Effendy 5A (2022)
 
-###**AI Festival Singapore 2022**###
+### **AI Festival Singapore 2022**
 
-Primary Category (AI Modelling)
+#### Primary Category (AI Modelling)
 Champion Team
 
 JAVEN YEO KAI JIE (P4-D 2022)
