@@ -7,23 +7,25 @@ permalink: /
 notification: Check out the latest announcements on the announcements page!
 sections:
   - hero:
-      title: Xinmin Primary School
       background: /images/Drums.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Our Core Values
           description: ""
           url: /about-us/core-values/
-        - title: School Vision
+        - title: Our School Vision
           description: ""
           url: /about-us/school-mission-and-vision/
-        - title: G.L.O.B.E - ALP
-          description: ""
+        - title: G.L.O.B.E
+          description: ALP
           url: /globe-green-lifestyle-observed-by-everyone/
+        - title: C.L.O.V.E
+          description: LLP
+          url: /departments/cce-department/
   - infobar:
-      title: Announcements
-      description: Click below for the latest announcements!
-      button: Click here
+      title: Xinmin Primary School
       url: /announcements/
+      subtitle: In word and deed
+  - resources:
+      title: Announcements
+      button: Click for more announcements
 ---

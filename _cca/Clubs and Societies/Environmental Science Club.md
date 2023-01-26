@@ -52,12 +52,14 @@ Students in the Environmental Science Club will be empowered to promote environm
 		 
 ### Schedule
 
-Friday, 7.30 a.m. to 9.00 a.m.
+Mondays, 2.30 p.m. to 4.30 a.m.
 
-### 2022 Teachers In Charge
+### Teachers In Charge
 
 Mrs Jodene Yow (In-charge)
 
-Mdm Annuratha Veilathurai
+Mrs Syahir
 
-Mrs Iris Chan-Lee Poh Chin
+Mdm Liang Ruishan
+
+Ms Tang Lai Peng

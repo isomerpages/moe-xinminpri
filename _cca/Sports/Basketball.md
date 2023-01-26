@@ -16,19 +16,25 @@ Above all, we emphasize to students that values and integrity are the most impor
 
 ### Teachers in Charge:
 
-1.  Gary Tang (Overall-In-Charge)
-2.  Fun Kai Tien (2nd\-In-charge)
-3.  Kenneth Tan
-4.  Melvin Soh
+Mr Quek Hsiu Yuan (Overall-In-Charge)
+
+Mr Gary Tang (2nd-In-charge)
+
+Mdm Fun Kai Tien 
+
+Mr. Kenneth Tan
+
+Ms Amanda Lim
 
 ### Schedule:
 
-School Team Training (Selected Times)  
-Monday: 1430 – 1600  
-Thursday: 1600 – 1730
+Mondays 2.30pm - 4.00pm (Recreation)
 
-Weekly Common CCA Training  
-Friday: 0730 – 0900
+School Team Training (Selected Times)  
+
+Tuesdays: 4.00pm – 5.30pm 
+
+Thursdays: 4.00pm – 5.30pm
 
 ### Safe Management Measures (SMMs):
 

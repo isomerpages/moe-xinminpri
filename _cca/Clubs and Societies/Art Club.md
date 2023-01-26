@@ -22,15 +22,15 @@ Every Xinminite an Artist
 To ignite the interest in art through active art making, participation and sharing.
 
 ### Schedule:   
-Friday: 7.30am to 9.00am
+Monday: 2.30pm to 4.30pm
 
-### 2022 Teachers In Charge
+###  Teachers In Charge
 
 Mdm Norsekha (overall in charge)
 
 Mrs Paulyne Ho
 
-Mrs Vijay
+Mr Joel Teh
 
 ### Planned Activities for 2022
 
@@ -44,8 +44,6 @@ Mrs Vijay
 
 ### Achievements
 
-* SYF 2015 Category C – Recognition Award
-* SYF 2017 Category C – Recognition Award
 * SYF 2019 Category C – Recognition Award
 * SYF 2021 Category C – Recognition Award
 

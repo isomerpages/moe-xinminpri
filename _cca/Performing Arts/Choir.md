@@ -31,21 +31,19 @@ Every performance, big or small, is an opportunity to build confidence in our Xi
 
 ### Schedule
 
-Monday: 2.00 pm to 3.30 pm (Juniors)
+Monday: 2.30pm to 4.30pm
 
-Monday: 4.00 pm to 5.30 pm (Seniors)
-
-Thursday (ad hoc): 4.00pm to 5.30pm (Seniors)
-
-### 2022 Teachers In Charge
+### Teachers In Charge
 
 Mr Thomas Ong (In-charge)
 
-Ms Shek Yan Yee
+Miss Shek Yan Yee
 
-Ms Michelle Teo
+Miss Michelle Teo
 
 Mrs Celine Ong
+
+Mdm Syazana
 
 ### Photo Gallery
 

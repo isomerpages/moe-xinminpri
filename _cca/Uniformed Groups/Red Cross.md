@@ -17,15 +17,16 @@ In line with the mission of the Singapore Red Cross Society, Red Cross in Xinmin
 | 4. 	| Linkamania Camp 	|
 
 ### Schedule    
-Every Friday, 7.30am to 9.00am and on some Saturdays.
 
-### 2022 Teachers-In-Charge
+Mondays, 2.30pm to 4.30pm
+
+### Teachers-In-Charge
 
 Mdm Zarina (IC)
 
-Mdm The Swee Sing (2nd IC)
+Mdm Teh Swee Sing (2nd IC)
 
-Ms Marilynn Quek
+Mdm Li Wenting
 
 Mdm Sumita Kunalingam
 

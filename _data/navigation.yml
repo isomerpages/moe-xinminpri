@@ -2,15 +2,15 @@ logo: /images/Xinmin Pri logo.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Announcements
-    collection: announcements
   - title: School Organisation
     collection: school-organisation
   - title: Departments
     collection: departments
-  - title: CCA
+  - title: Cca
     collection: cca
+  - title: Our Partners
+    collection: our-partners
   - title: Our Resources
     collection: our-resources
-  - title: Contact Us
-    url: /contact-us/
+  - title: Announcements
+    resource_room: true

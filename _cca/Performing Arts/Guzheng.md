@@ -22,9 +22,7 @@ In Xinmin Primary Guzheng Ensemble, students will pick up the foundational ski
 
 ### Schedule
 
-Monday: 2.15 pm to 4.15 pm (P4 – P6)
-
-Friday: 7.30 am to 9.00 am
+Mondays, 2.00pm to 4.00pm
 
 ### 2022 Teachers in charge
 
@@ -34,7 +32,7 @@ Miss Toh Feng Joo
 
 Miss Bong Fung Nyuk
 
-Mdm Syazana
+Mr Aaron Tan
 
 ### Achievements
 
