@@ -24,7 +24,7 @@ To ignite the interest in art through active art making, participation and shari
 ### Schedule:   
 Monday: 2.30pm to 4.30pm
 
-### 2022 Teachers In Charge
+###  Teachers In Charge
 
 Mdm Norsekha (overall in charge)
 
@@ -44,8 +44,6 @@ Mr Joel Teh
 
 ### Achievements
 
-* SYF 2015 Category C – Recognition Award
-* SYF 2017 Category C – Recognition Award
 * SYF 2019 Category C – Recognition Award
 * SYF 2021 Category C – Recognition Award
 
