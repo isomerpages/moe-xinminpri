@@ -29,19 +29,19 @@ Through dance, students are able to serve the community and learn the values of 
 
 ### Schedule
 
-Monday: 2.00 pm to 4.00 pm
+Monday: 2.30pm to 4.30pm
 
-Friday: 7.30 am to 9.00 am
-
-### 2022 Teachers In Charge
+### 2023 Teachers In Charge
 
 Mdm Guan Jiajia (In-charge)
-
-Mdm Bai Yimeng
 
 Mdm Zhao Tingyan
 
 Miss Foo Wei Woon
+
+Mdm Wang Xiaohua
+
+Mrs Ng Marn Peng
 
 ### Photo Gallery
 
