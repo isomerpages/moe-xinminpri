@@ -12,7 +12,7 @@ A CCA for students who are passionate about coding. Students will develop critic
 
 Mondays, 2.30 p.m. to 4.30 p.m.
 
-### 2023 Teachers In Charge
+### Teachers In Charge
 
 Mr Kenny Tan – P4 (Overall In-charge)
 
