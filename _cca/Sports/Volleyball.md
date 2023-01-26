@@ -24,6 +24,8 @@ Mrs Agnes Tan
 
 Mondays, 2.00pm-4.00pm
 
+Tuesdays, 4.00pm-5.30pm
+
 ### Programmes and Events:
 
 Sports Camp
