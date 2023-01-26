@@ -28,10 +28,12 @@ Ms Amanda Lim
 
 ### Schedule:
 
-Mondays 2.30pm - 4.00pm
+Mondays 2.30pm - 4.00pm (Recreation)
 
 School Team Training (Selected Times)  
+
 Tuesdays: 4.00pm – 5.30pm 
+
 Thursdays: 4.00pm – 5.30pm
 
 ### Safe Management Measures (SMMs):
