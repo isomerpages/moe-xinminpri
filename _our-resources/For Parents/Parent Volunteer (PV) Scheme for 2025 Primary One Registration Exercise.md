@@ -25,8 +25,6 @@ Terms and Conditions.
 
 6.	The school has the sole discretion in the selection of Parent Volunteers. We seek your understanding that the school will not be able to share with you the reason for non-selection.
 
-7.	 Please download the registration form here and submit to the school General Office to apply.
+7.	 Please download the registration form [here](/files/PV_application_form_2025.pdf) and submit to the school General Office to apply.
 
 8.	Please note that the application for the 40 Hours Parent Volunteers is already closed. We will be putting all other applicants who are interested who have missed the deadline on waiting list. Please leave your name and contact number with the general office and we will contact you latest by end of May if there are additional vacancies available.
-
-
