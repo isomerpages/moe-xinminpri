@@ -28,11 +28,7 @@ Mdm E-liz Yeung
 
 ### Schedule                                                                       
 
-Monday: 3 pm to 4.30 pm                                         
-
-Thursday: 4 pm to 5.30 pm                                        
-
-Friday: 7.30 am to 9 am                                             
+Mondays, 2.00pm to 4.00pm                                         
 
 ### Achievements
 
