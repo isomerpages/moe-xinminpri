@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Parents,
+
+Xinmin Primary School Parent Volunteer (PV) Programme is now open for application from 1 February 2023 to 31 March 2023.
+
+For more details, click [here](/our-resources/For-Parents/permalink/pvscheme/)
