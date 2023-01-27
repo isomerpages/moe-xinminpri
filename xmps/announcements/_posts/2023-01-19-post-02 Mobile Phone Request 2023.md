@@ -1,11 +1,12 @@
 ---
 title: 02 Mobile Phone Request 2023
-permalink: /xmps/announcements/permalink/
+permalink: /xmps/announcements/permalink/02mobilephone/
 date: 2023-01-19
 layout: post
 description: ""
 image: ""
 ---
+
 Dear parents/guardian,
 
 Please click on the link and complete the form if you would like to seek permission from the school for your child/ward to bring a mobile phone to school.

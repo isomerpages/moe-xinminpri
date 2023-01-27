@@ -1,11 +1,12 @@
 ---
 title: 01 Welcome Letter for 2023
-permalink: /xmps/announcements/permalink/
+permalink: /xmps/announcements/permalink/01welcomeletter/
 date: 2023-01-19
 layout: post
 description: ""
 image: ""
 ---
+
 Dear parents,
 
 Please find the welcome letter as attached.

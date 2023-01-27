@@ -1,11 +1,12 @@
 ---
 title: 03 Early Closure of GO on Friday
-permalink: /xmps/announcements/permalink/
+permalink: /xmps/announcements/permalink/03earlyclosure/
 date: 2023-01-19
 layout: post
 description: ""
 image: ""
 ---
+
 Dear all,
 
 the General Office (GO) will be closed at 4pm on Friday, 20 January 2023. 

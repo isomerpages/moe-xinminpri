@@ -1,9 +1,10 @@
 ---
 title: Parent Volunteer (PV) Scheme for 2025 Primary One Registration Exercise
-permalink: /our-resources/For-Parents/permalink/
+permalink: /our-resources/For-Parents/permalink/pvscheme/
 description: ""
 third_nav_title: For Parents
 ---
+
 # Xinmin Primary School Parent Volunteer Scheme for 2025 Primary One Registration Exercise
 ## (Admission in Year 2025)
 
