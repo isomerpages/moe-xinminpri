@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+Dear parents,
+
+For more information, please click [here](/our-resources/for-parents/sexuality-education-programme/)
