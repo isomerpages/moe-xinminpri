@@ -61,5 +61,5 @@ description: ""
 | Mrs Iris Chan-Lee Poh Chin 	| Subject Head / Social Studies & National Education 	| [iris_lee_poh_chin@schools.gov.sg](mailto:iris_lee_poh_chin@schools.gov.sg) 	|
 | Mr Kumaresan 	|  Subject Head / Student Well-Being 	| [kumaresan_arasapam@schools.gov.sg](mailto:kumaresan_arasapam@schools.gov.sg) 	|
 | Ms Aneesa Faruvin 	| Subject Head / Information and Communication Technology (ICT) 	| [aneesa_faruvin_mohd_ibrahim@schools.gov.sg ](aneesa_faruvin_mohd_ibrahim@schools.gov.sg ) |
-
+|Mr Tan Hoe Tsong | Subject Head / ICT (Data Management) | [tan_hoe_tsong@schools.gov.sg](tan_hoe_tsong@schools.gov.sg)|
 |
