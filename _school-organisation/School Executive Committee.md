@@ -20,10 +20,10 @@ description: ""
 |---	|---	|---	|
 | Mrs Elaine Heng-Tan Su Lin 	| School Staff Developer 	| [tan_su_lin_elaine@schools.gov.sg](mailto:tan_su_lin_elaine@schools.gov.sg) 	|
 | Mrs Nurhidayah Ejjad 	| HOD / English Language 	| [nurhidayah_hashim@schools.gov.sg](mailto:nurhidayah_hashim@schools.gov.sg) 	|
-| Mdm Lyn Ong 	| HOD / Math 	| [xinmin_ps@moe.edu.sg](xinmin_ps@moe.edu.sg) 	|
+| Mdm Lyn Ong 	| HOD / Math 	| [lyn_ong@schools.gov.sg](lyn_ong@schools.gov.sg) 	|
 | Miss Geraldine Tng Hiang Tiang 	| HOD / Science 	| [tng_hiang_tiang_geraldine@schools.gov.sg](mailto:tng_hiang_tiang_geraldine@schools.gov.sg) 	|
-| Mr Adnan Bin Omar 	| HOD / PHE & CCA 	| [adnan_omar@schools.gov.sg](mailto:adnan_omar@schools.gov.sg) 	|
-| Mrs Joycelyn Soo-Yeo 	| HOD / Discipline and Student Leadership 	| [yeo_su_yong_joycelyn@schools.gov.sg](mailto:yeo_su_yong_joycelyn@schools.gov.sg) 	|
+| Mr Adnan Bin Omar 	| HOD / PHE & CCA 	|[xinmin_ps@moe.edu.sg](xinmin_ps@moe.edu.sg) |
+| Mrs Joycelyn Soo 	| HOD / Discipline and Student Leadership 	| [yeo_su_yong_joycelyn@schools.gov.sg](mailto:yeo_su_yong_joycelyn@schools.gov.sg) 	|
 | Miss Yap Li Ling 	| HOD / Mother Tongue 	| [yap_li_ling@schools.gov.sg](mailto:yap_li_ling@schools.gov.sg) 	|
 | Mdm Azlinah Bte Dakarlan  	| HOD / Character and Citizenship Education (CCE) 	| [azlinah_dakarlan@schools.gov.sg](mailto:azlinah_dakarlan@schools.gov.sg) 	|
 | Mdm Noor Hafizah Bte Hamis 	| HOD / Information and Communication Technology (ICT) 	| [noor_hafizah_hamis@schools.gov.sg](mailto:noor_hafizah_hamis@schools.gov.sg) 	|
@@ -61,5 +61,5 @@ description: ""
 | Mrs Iris Chan-Lee Poh Chin 	| Subject Head / Social Studies & National Education 	| [iris_lee_poh_chin@schools.gov.sg](mailto:iris_lee_poh_chin@schools.gov.sg) 	|
 | Mr Kumaresan 	|  Subject Head / Student Well-Being 	| [kumaresan_arasapam@schools.gov.sg](mailto:kumaresan_arasapam@schools.gov.sg) 	|
 | Ms Aneesa Faruvin 	| Subject Head / Information and Communication Technology (ICT) 	| [aneesa_faruvin_mohd_ibrahim@schools.gov.sg ](aneesa_faruvin_mohd_ibrahim@schools.gov.sg ) |
-
+|Mr Tan Hoe Tsong | Subject Head / ICT (Data Management) | [tan_hoe_tsong@schools.gov.sg](tan_hoe_tsong@schools.gov.sg)|
 |
