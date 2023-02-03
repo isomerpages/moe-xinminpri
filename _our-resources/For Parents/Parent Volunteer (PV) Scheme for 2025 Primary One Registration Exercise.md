@@ -4,7 +4,6 @@ permalink: /our-resources/For-Parents/permalink/pvscheme/
 description: ""
 third_nav_title: For Parents
 ---
-
 # Xinmin Primary School Parent Volunteer Scheme for 2025 Primary One Registration Exercise
 ## (Admission in Year 2025)
 
@@ -28,4 +27,4 @@ Terms and Conditions.
 
 7.	 Please download the registration form [here](/files/PV_application_form_2025.pdf) and submit to the school General Office to apply.
 
-8.	Please note that the application for the 40 Hours Parent Volunteers is already closed. We will be putting all other applicants who are interested who have missed the deadline on waiting list. Please leave your name and contact number with the general office and we will contact you latest by end of May if there are additional vacancies available.
+8.	Please note that the application for the 40 Hours Parent Volunteers is open. Parents who are keen to submit their applications may currently do so now. Thank you.
