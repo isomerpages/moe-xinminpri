@@ -2,7 +2,6 @@ collections:
   school-organisation:
     output: true
     order:
-      - Subject Teachers.md
       - Mother Tongue.md
       - Allied Educators.md
       - Executive & Administrative Staff.md
