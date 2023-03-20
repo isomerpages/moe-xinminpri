@@ -10,7 +10,7 @@ links:
     collection: cca
   - title: Our Partners
     collection: our-partners
-  - title: Our Resources
-    collection: our-resources
+  - title: Links
+    collection: links
   - title: Announcements
     resource_room: true
