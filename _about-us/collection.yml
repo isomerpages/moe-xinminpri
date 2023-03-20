@@ -2,6 +2,9 @@ collections:
   about-us:
     output: true
     order:
+      - Principal’s Message.md
+      - Vision, Mission & Values.md
+      - School Motto, Crest & Song.md
       - Staff/.keep
       - Staff/School Executive Committee.md
       - Staff/Primary 1.md
@@ -16,9 +19,6 @@ collections:
       - Staff/Mother Tongue.md
       - Staff/Executive & Administrative Staff.md
       - Staff/Support Staff (Agencies).md
-      - Principal’s Message.md
-      - Vision, Mission & Values.md
-      - School Motto, Crest & Song.md
       - School Rules and Expectations.md
       - Homework Policy.md
       - School Vendors.md
