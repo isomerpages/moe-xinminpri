@@ -1,5 +1,4 @@
 collections:
   school-organisation:
     output: true
-    order:
-      - Adjunct Teachers.md
+    order: []
