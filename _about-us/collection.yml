@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Executive & Administrative Staff.md
+      - Staff/Subject Teachers.md
       - Staff/Adjunct Teachers.md
       - Staff/Support Staff (Agencies).md
       - Staff/Allied Educators.md
