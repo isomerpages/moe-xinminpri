@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Subject Teachers.md
+      - Staff/Allied Educators.md
       - Staff/Mother Tongue.md
       - Staff/Primary 6.md
       - Staff/Primary 5.md
