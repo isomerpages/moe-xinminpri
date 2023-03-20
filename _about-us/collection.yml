@@ -2,20 +2,20 @@ collections:
   about-us:
     output: true
     order:
-      - Staff/Executive & Administrative Staff.md
+      - Staff/.keep
+      - Staff/School Executive Committee.md
+      - Staff/Primary 1.md
+      - Staff/Primary 2.md
+      - Staff/Primary 3.md
+      - Staff/Primary 4.md
+      - Staff/Primary 5.md
+      - Staff/Primary 6.md
       - Staff/Subject Teachers.md
       - Staff/Adjunct Teachers.md
-      - Staff/Support Staff (Agencies).md
       - Staff/Allied Educators.md
       - Staff/Mother Tongue.md
-      - Staff/Primary 6.md
-      - Staff/Primary 5.md
-      - Staff/Primary 4.md
-      - Staff/Primary 3.md
-      - Staff/Primary 2.md
-      - Staff/Primary 1.md
-      - Staff/School Executive Committee.md
-      - Staff/.keep
+      - Staff/Executive & Administrative Staff.md
+      - Staff/Support Staff (Agencies).md
       - Principal’s Message.md
       - Vision, Mission & Values.md
       - School Motto, Crest & Song.md
