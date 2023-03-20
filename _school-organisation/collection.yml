@@ -2,7 +2,6 @@ collections:
   school-organisation:
     output: true
     order:
-      - Primary 2.md
       - Primary 3.md
       - Primary 4.md
       - Primary 5.md
