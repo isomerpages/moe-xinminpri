@@ -2,7 +2,6 @@ collections:
   school-organisation:
     output: true
     order:
-      - Primary 4.md
       - Primary 5.md
       - Primary 6.md
       - Subject Teachers.md
