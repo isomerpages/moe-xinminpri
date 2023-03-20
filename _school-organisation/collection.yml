@@ -2,7 +2,6 @@ collections:
   school-organisation:
     output: true
     order:
-      - Primary 5.md
       - Primary 6.md
       - Subject Teachers.md
       - Mother Tongue.md
