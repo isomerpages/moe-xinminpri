@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Subject Teachers.md
       - Staff/Primary 6.md
       - Staff/Primary 5.md
       - Staff/Primary 4.md
