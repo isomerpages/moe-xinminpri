@@ -6,9 +6,9 @@ links:
     collection: departments
   - title: Cca
     collection: cca
-  - title: Our Partners
-    collection: our-partners
   - title: Links
     collection: links
   - title: Announcements
     resource_room: true
+  - title: Calendar
+    url: /calendar
