@@ -41,3 +41,6 @@ Achievements
 *   SYF 2019 Category C – Recognition Award
 
 SYF 2021 Category C – Recognition Award
+
+![](/images/3d%20relief_air%20dry%20clay.jpg)
+3D Air Dry Clay
