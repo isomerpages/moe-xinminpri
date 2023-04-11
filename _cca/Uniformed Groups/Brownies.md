@@ -8,27 +8,15 @@ third_nav_title: Uniformed Groups
 
 ![](/images/World-Thinking-DayXMPS.jpg)
 
-Brownies teaches and equips the girls with life-skills and also shape the lives of many girls. With the Girl Guide movement, Brownies are able to cope with the ever-changing demands of the world.
+**Mission & Key Programmes:**
+      
+Following the Girl Guide movement, Brownies are inculcated with the skills to cope with the ever-changing demands of the world. It teaches and equips girls with life-skills which in turn shapes the lives of many girls.
 
-Brownies are given opportunities to participate in various competitions organised by the Girl Guide Singapore (Headquarters). Xinmin Brownies also partner with North Division Guides to contribute their services to the community. Brownies also participate in Service Learning projects to inculcate the value of empathy in them. With such projects, the Brownies are made aware of other’s plight and in turn are able to improve and change the lives of others.
+Brownies are given opportunities to participate in various competitions organised by the Girl Guide Singapore (Headquarters). Xinmin Brownies also partner with North Division Guides to contribute their services to the community. To instill the value of empathy, Brownies also participate in Service-Learning projects.  With such projects, the Brownies are made aware of the plight of others and play a part in improving and changing the lives of the community.
 
-| S/N 	| List of Activities participated every year 	|
-|---	|---	|
-| 1. 	| World Thinking Day Celebrations 	|
-| 2. 	| Pack Holiday Camp 	|
-| 3. 	| North Division Day 	|
-| 4. 	| North Division Wide Games Challenge 	|
-| 5. 	| North Division Learning Day 	|
-| 6. 	| Sree Narayana Mission Home Service Learning Project 	|
-| 7. 	| Brownies Cookies Sales Project 	|
+### Teachers in Charge:
 
-#### Schedule
-
-Mondays, 2.30pm to 4.30pm
-
-#### Teacher-In-Charge
-
-Mrs Malini Madasamy (OIC)
+Mrs Malini Madasamy (Overall-in-charge)
 
 Mrs Lee Hui Ying
 
@@ -36,25 +24,49 @@ Miss Charlene Lim
 
 Miss Steffi Tan
 
-### Achievements 2021
+### Schedule:
 
-* North Division Day – Girls Have Talent Competition : Merit
-* GGS World Thinking Day 2021 Social Action Video Contest – 3rd
+Mondays
+2.30pm - 4.30pm
 
-### Photo Gallery
+### Achievements (2021):
 
-<img src="/images/Picture1-sewing-badge.jpg" 
-     style="width:40%">
-<center>Sewing Badge</center>
+·       North Division Day – Girls Have Talent Competition: Merit Award
 
-<img src="/images/Picture-2-sewing-badge.jpg" 
-     style="width:40%">
-<center>Sewing Badge 2</center>
+·       GGS World Thinking Day 2021 Social Action Video Contest – 3rd Place
 
-<img src="/images/Picture-3-sewing-badge-300x189.jpg" 
-     style="width:40%">
-<center>Sewing Badge</center>
+·       Puan Noor Aishah Award – Gold Award
 
-<img src="/images/Picture-5-World-Thinking-Day-celebrations-300x228.jpg" 
-     style="width:40%">
-<center>World Thinking Day Celebrations</center>
+### Achievements (2022):
+
+·       North Division Day – 3Rs Poster Design - 1st Place
+
+·       North Division Day – Design an Environmental Superhero - 2nd Place
+
+·       North Division Day – Skit – 1st Place
+
+·       North Division Day – Creative Toy Making – 3rd Place
+
+·       North Division Day – Environment Song Challenge – 1st Place
+
+**Trainings / Events Attended (2022):**
+
+·       Sree Narayana Mission Home Training
+
+·       Annual General Meeting
+
+·       North Division Tea Session
+
+·       CCAB Briefing
+
+·       International Camp (Virtual)
+
+·       Sixers’ Training Course
+
+·       World Thinking Day Celebrations
+
+·       Crime Prevention Badge
+
+·       UG Commemorative Day
+
+·       SKM Kindness Badge Junior
