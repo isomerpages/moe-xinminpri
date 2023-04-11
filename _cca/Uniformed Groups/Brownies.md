@@ -71,4 +71,5 @@ Mondays
 
 ·       SKM Kindness Badge Junior
 
-
+![Brownies Team Bonding](/images/team%20bonding.jpg)
+Brownies Team Bonding
