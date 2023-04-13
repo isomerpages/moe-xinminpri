@@ -5,55 +5,42 @@ description: ""
 third_nav_title: Sports
 ---
 # **Football**
+Vision:
 
-![](/images/Small-Sided-Games-is-a-Must-in-All-Training-Sessions-scaled.jpg)
+Developing well-rounded student athletes through football
 
-Football is offered to students who show a keen interest in the game and wishes to develop themselves in the technical aspects of the game. These young footballers are taught fundamental football skills such as passing and receiving, shooting as well as basic tactical knowledge in attacking and defending.
+Mission:
 
-Xinmin Primary Football CCA aims to develop our footballers not only in physical skills but also in life skills and character building. Through the various activities, we want to instil the school’s core values of Care, Respect, Resilience and Responsibility and develop the 21st CC competencies in the footballers.
+Inculcating in students-athletes, teamwork, sportsmanship and the passion for football
 
-The CCA is well supported by a group of dedicated teachers and coaches. One of the main strengths of the CCA is the smaller coaches to players ratio, which means players’ development on and off the field are well optimised.
+Football CCA in Xinmin focus on these programs to develop our student-athletes to be lifelong learners, innovative collaborators and confident leaders:
 
-With the launching of the Unleash-the-Roar project by Football Association of Singapore, the Football CCA hopes to contribute directly or indirectly towards the success of this national project. With an age-appropriate program in place, we believe we are on the right track!
+•	3E CCA Program: Xinmin Primary School Football CCA program follows the school’s 3E approach which are Expose, Extend and Excel categories. 
 
-### Teachers-in-Charge ###
+Regardless of which category that the students are in, they learn basic and advanced football skills with the hope that they will carry on playing the game in their recreational time. This is in line with the school’s Learners’ Vision Outcome of being a Lifelong Learner.
 
-Overall IC: Mr Azreen
+•	Partnership with Sports Singapore for our coaching sessions: Our coaching sessions are conducted with coaches from Active Sg Football Academy as part of our Schools Sports Partnership with Sports Singapore. 
 
-Mr Shahran (2IC)
+Under this collaboration, students will also focus on values through football such resilience, sportsmanship and teamwork which will bring out the spirit of innovative collaboration and develop them as confident leaders.
+
+•	National School Games: Every year, Xinmin Primary would send the Senior and Junior team to participate in the annual National School Games. 
+
+We believe that the spirit of participating is more important than the outcome of the matches. No matter the results, students are expected to show the school values of Care, Respect, Responsibility and Resilience. This is also the platform for our team captains to display their confident leadership to lead players in good and bad times.
+
+•	Inter-School Friendly Games: As much as possible, we would arrange friendly games with other schools to expose the students and provide them with an opportunity to learn from other schools and further develop their football skills.
+
+Teachers In-Charge
+
+Mr Mohamad Azreen (Overall In-Charge)
+
+Mr Shahran (2nd In-Charge)
 
 Mdm Sharifah Wardah
 
-Ms E-liz Yeung
+Ms E-Liz Yeung
 
-### Schedule                                                                       
+Awards and Achievements
 
-Mondays, 2.00pm to 4.00pm                                         
+2022: National Division 2nd Tier for Junior Boys.
 
-### Achievements
-
-* 2016: North Zone Inter-school Football Competition ( Senior ) – 4th place
-
-<img src="/images/Agility-and-Coordination-300x225.jpg" 
-     style="width:40%">
-<center>Agility And Coordination</center>
-
-<img src="/images/Celebrating-Little-Successes-300x225.jpg" 
-     style="width:40%">
-<center>Celebrating Little Successes</center>
-
-<img src="/images/Our-Dedicated-Teachers_1-300x225.jpg" 
-     style="width:40%">
-<center>Our Dedicated Teachers 1</center>
-
-<img src="/images/Our-Dedicated-Teachers_2-300x225.jpg" 
-     style="width:40%">
-<center>Our Dedicated Teachers 2</center>
-
-<img src="/images/Our-Experienced-Coaches-300x225.jpg" 
-     style="width:40%">
-<center>Our Experienced Coaches</center>
-
-<img src="/images/Small-Sided-Games-is-a-Must-in-All-Training-Sessions-300x225.jpg" 
-     style="width:40%">
-<center>Small Sided Games Is A Must In All Training Sessions</center>
+2020 & 2021: No NSG
