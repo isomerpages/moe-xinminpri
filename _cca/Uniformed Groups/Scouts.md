@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 # **Scouts**
 
 
-CCA Mission &amp; Key Programmes:
+### CCA Mission &amp; Key Programmes:
 
 As one of the oldest youth movements in Singapore (celebrated our 100th Anniversary in year 2010), Scouting encourages the holistic physical, mental, spiritual and social development of youths with a strong emphasis on the duty of God and to the country and helping others.
 
