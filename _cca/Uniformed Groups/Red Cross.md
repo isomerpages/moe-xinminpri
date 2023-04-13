@@ -5,56 +5,62 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # **Red Cross**
-![](/images/Fund-Raising.jpeg)
+       
+CCA Mission & Key Programmes:
 
-In line with the mission of the Singapore Red Cross Society, Red Cross in Xinmin Primary aims to build a community of young leaders who are socially responsible and embrace humanitarian values. Our Links members will be equipped with the necessary first aid knowledge such as dressing simple wounds and tying arm slings. Our Links were given the opportunity to demonstrate their proficiency in competitions such as the Red Cross National First Aid Competition.&nbsp; The CCA hopes to bring out the best of our Links and to prepare them for leadership in their families and communities as well as playing a part in helping to achieve national goal of having a first aider in every home.
+Red Cross Youth provides a common space for friendships and social integration amongst students of diverse backgrounds. Primary school units known as ‘Links’ learn the knowledge of universal Humanitarian Values advocated by the Singapore Red Cross Society
 
-| S/No. 	| List of Activities & Competition 	|
-|---	|---	|
-| 1. 	| National First Aid Competition 	|
-| 2. 	| Donation Drive 	|
-| 3. 	| World Red Cross Day 	|
-| 4. 	| Linkamania Camp 	|
+In addition, the CCA creates opportunities for Links to develop leadership qualities, character building, essential red-cross knowledge and basic foot drills.
 
-### Schedule    
+Members of the Red Cross learn core values, social and emotional competencies through their weekly sessions, activities and competitions.
 
-Mondays, 2.30pm to 4.30pm
+Opportunities are also given to Links to contribute service to the community and to represent the school at zonal and national events, competitions and camps organised by SCRS HQ.
 
-### Teachers-In-Charge
+### Teachers in Charge:
 
-Mdm Zarina (IC)
+Mdm Zarina Binte Kamaron (Overall-In-Charge)
 
-Mdm Teh Swee Sing (2nd IC)
+Mdm Teh Swee Sing (2nd-In-charge)
 
 Mdm Li Wenting
 
 Mdm Sumita Kunalingam
 
-### Achievements
+### Schedule:
+
+Mondays,  2.30pm - 4.30pm
+
+S/No.	List of Activities & Competition
+1.	National First Aid Competition
+2.	Donation Drive
+3.	World Red Cross Day
+4.	Linkamania Camp
+
+
+### Achievements:
 
 **2021**
 
-1. Excellence Unit Award 2020 – No assessment due to national posture.
-2. National First Aid Competition (2021) – Competition not carried out due to national posture.
-3. Director’s Award (2021) – Jewel Koh (6E)
+1.  **Excellence Unit Award 2020** –
 
+No assessment due to national posture.
 
-<img src="/images/First-Aid-Lesson-146x300.jpg" 
-     style="width:40%">
-<center>First Aid Lesson</center>
+2.  **National First Aid Competition (2021)** –
 
-<img src="/images/Linkamania-Camp-300x176.jpg" 
-     style="width:40%">
-<center>Linkamania Camp</center>
+Competition not carried out due to national posture.
 
-<img src="/images/Pract-Session-with-Taiwan-stud-243x300.jpg" 
-     style="width:40%">
-<center>Practical Session With Taiwan Students</center>
+3.  **Director’s Award (2021) – Jewel Koh (6E)**
 
-<img src="/images/TDD_Display-300x197.jpg" 
-     style="width:40%">
-<center>TDD Display</center>
+**2022**
 
-<img src="/images/TDD_Stud-Exp-239x300.jpg" 
-     style="width:40%">
-<center>TDD Student Experience</center>
+1.  **Excellence Unit Award 2021 –**
+
+No assessment due to national posture.
+
+2.  **National First Aid Competition (2022) –**
+
+Silver Award
+
+3.  **Director’s Award (2022) –**
+
+Harsika D/O Bala Murugan (6B)
