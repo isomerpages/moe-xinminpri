@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 # **Art Club**
 
-
+### CCA Mission & Key Programmes:
        
 
 “Every artist was first an amateur.”
