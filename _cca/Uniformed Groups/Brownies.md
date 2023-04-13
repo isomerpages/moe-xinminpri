@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 ![](/images/World-Thinking-DayXMPS.jpg)
 
-**Mission & Key Programmes:**
+### CCA Mission & Key Programmes:
       
 Following the Girl Guide movement, Brownies are inculcated with the skills to cope with the ever-changing demands of the world. It teaches and equips girls with life-skills which in turn shapes the lives of many girls.
 
