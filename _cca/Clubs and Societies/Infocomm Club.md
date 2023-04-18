@@ -42,13 +42,7 @@ Primary Category (AI Modelling) Champion Team
 
 ### Photo Gallery
 
+![P4 Coding with Scratch ](/images/p4%20coding%20with%20scratch%203.jpg)
+P4 Coding with Scratch
 
-![](/images/P5-Infocomm-Students-1024x768.jpeg)
-P6 Infocomm Students
-
-![](/images/P5-Infocomm-Students-2-1024x768.jpeg)
-P6 Infocomm Students 2
-
-![](/images/P5-Infocomm-Students-3-1024x768.jpeg)
-P6 Infocomm Students 3
 
