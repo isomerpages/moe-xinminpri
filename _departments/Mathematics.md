@@ -18,11 +18,17 @@ Through these experiences, we hope to encourage our students to:
 
 To develop Xinminites who are curious, open-minded, and lifelong learners, learning experiences include hands-on activities and use of technological aids to help our students relate abstract mathematical concepts with concrete experiences to make sense of various mathematical ideas as well as their connections and applications.
 
+![](/images/Math%20Department/think%20and%20learn%20like%20a%20mathematician.jpg)
+
+![](/images/Math%20Department/think%20and%20learn%20like%20a%20mathematician%202.jpg)
+
 ### Lead in Math Discoveries
 
 To create a sense of ownership for their learning among students, our teachers adopt an inquiry-based approach for students to co-construct knowledge with peers. 
 
 Teachers also provide students with authentic experiences where students can lead and contribute actively to learning and experience the ‘Eureka’ moment as a math learner. These experiences also allow our students to have their first-hand experience in Math as they learn to identify the application of Math in their many daily life experiences making learning meaningful. 
+
+
 
 ### Collaborate in solving Math problems
 
