@@ -56,4 +56,17 @@ In the lower primary English lessons, Xinminites learn how to write independentl
 ### •	Mentor Texts
 As Xinminites progress to upper primary, they are exposed to mentor texts in addition to the STELLAR texts to help them hone their writing skills. Through mentor texts, Xinminites examine how vocabulary is used in context, learn different types sentence patterns and discover various writing techniques.
 
+![](/images/English%20Department/walk%20through%20the%20jungle.jfif)
+P1 Zoo Learning Journey for MLEA
 
+![](/images/English%20Department/speakers.jpg)
+Authors' Sharing Session
+
+![](/images/English%20Department/aladdin.png)
+Aladdin
+
+![](/images/English%20Department/big%20bad%20wolf.png)
+Big Bad Wolf
+
+![](/images/English%20Department/the%20hare%20&%20the%20tortoise.jpg)
+The Hare & the Tortoise
