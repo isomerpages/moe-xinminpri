@@ -24,9 +24,11 @@ All students from Primary 3 to Primary 6 subscribe to the Little Red Dot Newspap
 ### •	myON 
 An online digital library, myON provides a personalised reading experience. Xinminites can select books to read anytime and anywhere based on their reading level and interests. The myON platform also allows teachers and parents to monitor their reading progress and understanding. 
 
+
+### •	Eric Palmer’s Six Traits of Speaking
+
 To develop confident speakers, the Six Traits of Speaking is taught during Speak Up! lessons from Primary 1 to Primary 6. Adapted from a book by Eric Palmer, students learn how to speak confidently in front of an audience using the six traits. 
 
-##### •	Eric Palmer’s Six Traits of Speaking
 1.	Posture
 2.	Voice
 3.	Life
