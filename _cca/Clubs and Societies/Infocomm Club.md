@@ -42,7 +42,7 @@ Primary Category (AI Modelling) Champion Team
 
 ### Photo Gallery
 
-![P4 Coding with Scratch ](/images/p4%20coding%20with%20scratch%203.jpg)
+![](/images/Infocomm/p4%20coding%203.jpg)
 P4 Coding with Scratch
 
 ![P5 Lego](/images/Infocomm/p5%20coding%202.jpg)
@@ -56,5 +56,3 @@ P5 Coding with Lego
 
 ![](/images/Infocomm/p6%20coding.jpg)
 P6 Coding with Lego
-
-
