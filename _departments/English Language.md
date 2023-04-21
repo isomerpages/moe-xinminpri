@@ -26,7 +26,7 @@ An online digital library, myON provides a personalised reading experience. Xinm
 
 To develop confident speakers, the Six Traits of Speaking is taught during Speak Up! lessons from Primary 1 to Primary 6. Adapted from a book by Eric Palmer, students learn how to speak confidently in front of an audience using the six traits. 
 
-### •	Eric Palmer’s Six Traits of Speaking
+##### •	Eric Palmer’s Six Traits of Speaking
 1.	Posture
 2.	Voice
 3.	Life
@@ -52,4 +52,4 @@ To develop competent writers, a progressive and differentiated approach to writi
 In the lower primary English lessons, Xinminites learn how to write independently by integrating the knowledge gained through reading the STELLAR big book and related learning experiences. They are taken through a guided writing process - class, group and individual writing. The group writing activities provide the Xinminites with an opportunity to work on becoming innovative collaborators before embarking on individual writing where they are empowered to express their own creativity. 
 
 ### •	Mentor Texts
-As Xinminites progress to upper primary, they are exposed to mentor texts in addition to the STELLAR texts to help them hone their writing skills. Through mentor texts, Xinminites examine how vocabulary is used in context, learn different types sentence patterns and discover various writing techniques. 
+As Xinminites progress to upper primary, they are exposed to mentor texts in addition to the STELLAR texts to help them hone their writing skills. Through mentor texts, Xinminites examine how vocabulary is used in context, learn different types sentence patterns and discover various writing techniques.
