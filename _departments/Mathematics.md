@@ -28,11 +28,15 @@ To create a sense of ownership for their learning among students, our teachers a
 
 Teachers also provide students with authentic experiences where students can lead and contribute actively to learning and experience the ‘Eureka’ moment as a math learner. These experiences also allow our students to have their first-hand experience in Math as they learn to identify the application of Math in their many daily life experiences making learning meaningful. 
 
-
+![](/images/Math%20Department/lead%20in%20maths%20discovery%20v2.jpg)
 
 ### Collaborate in solving Math problems
 
 To develop metacognitive awareness and strategies, and know when and how to use the strategies, students are given opportunities in class to solve non-routine and open-ended problems, discuss their solutions, think aloud, and reflect on what they are doing. Through teamwork, our students learn to work well with others and become adaptable and resilient in solving challenging problems creatively. 
+
+![](/images/Math%20Department/collaborate%20in%20math%20problem%20solving.jpg)
+
+![](/images/Math%20Department/collaborate%20in%20math%20problem%20solving%202.jpg)
 
 ## Specialty Programmes
 
