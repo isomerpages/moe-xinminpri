@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - School Rules and Expectations.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Sexuality Education Programme.md
