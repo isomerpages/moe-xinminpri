@@ -13,7 +13,8 @@ Resources for Parents
 
 [Homework Policy](/homework-policy/)
 
-  [Parenting Tips]()
+[School Vendors' Contact Information](/school-vendors/)
 
 [Sexuality Education Programme](our-resources/for-parents/sexuality-education-programme/)
 
+  [Parenting Tips]()
