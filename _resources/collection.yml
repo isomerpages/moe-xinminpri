@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Parents.md
       - For Parents/.keep
       - For Parents/Sexuality Education Programme.md
       - For Staff.md
