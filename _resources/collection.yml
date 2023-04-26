@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Homework Policy.md
       - School Rules and Expectations.md
       - For Parents/.keep
       - For Parents/For Parents.md
