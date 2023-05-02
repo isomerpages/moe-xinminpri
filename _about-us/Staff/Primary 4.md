@@ -4,7 +4,6 @@ permalink: /school-organisation/primary-4/
 description: ""
 third_nav_title: Staff
 ---
-
 ![](/images/Primary4.jpg)
 
 # **Primary 4**
@@ -25,7 +24,7 @@ third_nav_title: Staff
 |4B	|Mr Aaron Tan|	4B Form Teacher	|tan_kwang_yang_aaron@schools.gov.sg|
 ||Mrs Mahandra|	4B Form Teacher	|s_thangachi_ammal@schools.gov.sg|
 |4C|	Miss Charlene Lim	|4C Form Teacher	|charlene_lim_xian_zhen@schools.gov.sg|
-||Mdm Norsekha Bte Juman	|4C Form Teacher|norsekha_juman@schools.gov.sg|
+||Mr V Vimal Kumar|4C Form Teacher|v_vimal_kumar@schools.gov.sg|
 |4D	|Mr Edwin Pang|	4D Form Teacher	|edwin_pang_ting_how@schools.gov.sg|
 ||Miss Foo Wei Woon	|4D Form Teacher	|foo_wei_woon@schools.gov.sg|
 |4E|	Mrs Vijay	|4E Form Teacher|	t_sumathy@schools.gov.sg|
