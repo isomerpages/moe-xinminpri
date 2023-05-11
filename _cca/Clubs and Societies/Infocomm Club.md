@@ -34,9 +34,10 @@ Mdm Norliana – P6
 Mdm Yang Xu – P5
 
 ### Achievements
-Rosyth Imagine Cup 2021 Circuit 2
-Senior Category (Individual) – 2 x Gold (with Honours)
+
 
 AI Festival Singapore 2022
 Primary Category (AI Modelling) Champion Team
 
+Rosyth Imagine Cup 2021 Circuit 2
+Senior Category (Individual) – 2 x Gold (with Honours)
