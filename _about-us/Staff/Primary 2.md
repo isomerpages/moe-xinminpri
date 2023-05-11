@@ -4,7 +4,7 @@ permalink: /school-organisation/primary-2/
 description: ""
 third_nav_title: Staff
 ---
-![](/images/Primary%202.jpg)
+
 
 # **Primary 2**
 
