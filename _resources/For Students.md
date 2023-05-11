@@ -5,7 +5,8 @@ description: ""
 ---
 # **For Students**
 
-[Koobits](https://www.koobits.com/)
+[SLS](https://vle.learning.moe.edu.sg/login)
+
 
 [MySkillsFuture Primary School Portal](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
 
@@ -16,3 +17,6 @@ description: ""
 
 
 [eZhiShi](https://www.ezhishi.net/)
+
+
+[Koobits](https://www.koobits.com/)
