@@ -42,8 +42,3 @@ Achievements
 
 SYF 2021 Category C – Recognition Award
 
-![](/images/3d%20relief_air%20dry%20clay.jpg)
-3D Air Dry Clay
-
-![Picasso Inspired Cardboard Art](/images/picasso%20inspired_cardboard%20art.jpg)
-Picasso Inspired Cardboard Art
