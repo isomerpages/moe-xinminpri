@@ -5,26 +5,29 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 # **Art Club**
-### Description
+
+### CCA Mission & Key Programmes:
+       
 
 “Every artist was first an amateur.”
 
 ~ Ralph Waldo Emerson
 
-Every talent begins with an interest. If a pupil has an interest in Art, then our club can help develop your skills. Our club aims to develop our pupil’s unique cognitive profile. Art Club members will learn to express their ideas, feelings and experiences through different art forms and medium.
+The Art Club fosters the development of the whole child cognitively, physically, social-emotionally and creatively. Members are exposed to varied artforms and artworks of known artists to get ideas and inspirations. The exposure gives them opportunities to engage in active discussions via inquiry-based learning routines to communicate their ideas, thoughts and feelings. As members are diverse in their dispositions, experiences and creative abilities, they learn to collaborate, adapt and adopt during artmaking. In so doing, members can contribute to areas they are confident in and at the same time cultivate the values of respect and care for one another.
 
-The Art Club fosters the development of the whole child, including the cognitive, physical, social-emotional and creative domains. The Art Club members respond through their creative artwork. They are motivated to communicate ideas from their imagination, thoughts and feelings by exploring varied genres of art. The Art Club activities challenge members to do art through various techniques, medium and materials. Values such as teamwork, cooperation, responsibility, respect, care and resilience are incorporated in our activities. The Art Club builds its members’ confidences and skills to express themselves freely and creatively.
+The Art Club activities challenge members to do art through various techniques, media and materials. While experiencing these, members are encouraged to stretch their imagination and creativity to maximise their potential. The Art Club hopes to build its members’ confidence and artistic skills while developing them to be self-directed and life-long learners.
 
-**Vision:**     
+**Vision:**  
 Every Xinminite an Artist
 
-**Mission:**      
+**Mission:**  
 To ignite the interest in art through active art making, participation and sharing.
 
-### Schedule:   
+Schedule:
+
 Monday: 2.30pm to 4.30pm
 
-###  Teachers In Charge
+Teachers In Charge
 
 Mdm Norsekha (overall in charge)
 
@@ -32,55 +35,10 @@ Mrs Paulyne Ho
 
 Mr Joel Teh
 
-### Planned Activities for 2022
+Achievements
 
-| No 	| P6 	| P5 and P4 	|
-|---	|---	|---	|
-| 1. 	| Gel Glue Batik 	| Printmaking on Acrylic 	|
-| 2. 	| Zentangle on Canvas 	| Collage Box 	|
-| 3. 	| Paper Quiling 	| Emboss Foil Relief 	|
-| 4. 	| Air Dry Clay Relief 	| Air Dry Clay 3D Miniatures 	|
+*   SYF 2017 Category A – Recognition Award
+*   SYF 2019 Category C – Recognition Award
 
+SYF 2021 Category C – Recognition Award
 
-### Achievements
-
-* SYF 2019 Category C – Recognition Award
-* SYF 2021 Category C – Recognition Award
-
-### Photo Gallery
-
-<img src="/images/Exploring-Materials-300x204.jpeg" 
-     style="width:40%">
-<center>Exploring Materials</center>
-
-<img src="/images/Mask-Painting-300x249.jpeg" 
-     style="width:40%">
-<center>Mask Painting</center>
-
-<img src="/images/Orientation-2022_design-a-cap-P5-193x300.jpeg" 
-     style="width:40%">
-<center>Orientation 2022 Design A Cap P5</center>
-
-<img src="/images/Orientation-2022_design-a-cap-P5a-192x300.jpeg" 
-     style="width:40%">
-<center>Orientation 2022 Design A Cap P5a</center>
-
-<img src="/images/Orientation-2022_design-a-cap-P6b-300x269.jpeg" 
-     style="width:40%">
-<center>Orientation 2022 Design A Cap P6b</center>
-
-<img src="/images/Orientation-2022_design-a-cap-P6c-193x300.jpeg" 
-     style="width:40%">
-<center>Orientation 2022 Design A Cap P6c</center>
-
-<img src="/images/Orientation-2022_design-a-cap-258x300.jpeg" 
-     style="width:40%">
-<center>Orientation 2022 Design A Cap</center>
-
-<img src="/images/SYF-2021_Category-C-members-at-work-300x187.jpeg" 
-     style="width:40%">
-<center>SYF 2021 Category C Members At Work</center>
-
-<img src="/images/SYF-Exhibition-2019-@-National-Museum-225x300.jpeg" 
-     style="width:40%">
-<center>SYF Exhibition 2019 @ National Museum</center>

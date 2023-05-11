@@ -3,161 +3,57 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-# **Mathematics**
+##  LEARNING APPROACH
 
-**VISION**    
-Every Child a confident Problem Solver
+At Xinmin Primary School, the Math Department believes every child can be a confident problem solver.  With this vision in mind, various activities are planned throughout the year to ensure that there are rich learning experiences in and beyond the classroom for our students. 
 
-### Organisation Structure
+Through these experiences, we hope to encourage our students to:
 
-**2022 Mathematics Department**
-
-|  	|  	|  	|
-|---	|---	|---	|
-| Mr Tan Kee Beng (Level Head) 	| Mrs Angela Tan (Senior Teacher) 	| Mrs Elaine Heng 	|
-| Mrs Serene Lee (Level Head) 	| Mrs Lim-Siew Wai Mun (Senior Teacher) 	| Mrs Joycelyn Soo 	|
-| Miss Susan Seow 	| Ms Livia Chua 	| Miss Charlene Lim 	|
-| Mrs Chia Soo Ying 	| Mr Lim Beng Liang 	| Mdm Agnes Tan 	|
-| Ms Sally Lim 	| Mrs Ng Marn Peng 	| Mr Aaron Tan 	|
+1. think and learn like a Mathematician
+2. lead in Math discoveries 
+3. collaborate in solving Math problems
 
 
-We want our students to be equipped with the various mathematical skills and possess the ability to reason and communicate their thinking processes effectively. We want to inculcate in our students a love for solving Mathematical problems. With this vision in mind, the department plans various activities throughout the year to ensure that there are rich learning experiences for our students in the classroom as well as out of the classroom.
+### Think & Learn like a Mathematician
 
-To instill the joy of learning in mathematics, meaningful tasks are designed to inculcate the love of solving Mathematical problems through. Students can demonstrate logical thinking through their reasoning to develop a deep understanding of Mathematics concept.
+To develop Xinminites who are curious, open-minded, and lifelong learners, learning experiences include hands-on activities and use of technological aids to help our students relate abstract mathematical concepts with concrete experiences to make sense of various mathematical ideas as well as their connections and applications.
 
-### Key Programmes
+![](/images/Math%20Department/think%20and%20learn%20like%20a%20mathematician.jpg)
 
-1.  Promoting problem solving skills and  reasoning and communication skills in classroom lessons
-2.  Spatial Visualisation Programme for P1 and P2 students
-3.  Opportunities to participate in key contests and competitions
-    *   Mathematical Olympiad for P5 and P6
-    *   Singapore Math Kangaroo Contest (SMKC) for P2-P6
+![](/images/Math%20Department/think%20and%20learn%20like%20a%20mathematician%202.jpg)
 
-**Learning Support for Mathematics (LSM)**
+### Lead in Math Discoveries
 
-LSM provides early intervention to support P1 and P2 students who need extra support in learning Mathematics. Through this programme, students are equipped with basic numeracy skills where their confidence can be boosted in problem solving.
+To create a sense of ownership for their learning among students, our teachers adopt an inquiry-based approach for students to co-construct knowledge with peers. 
 
-**Excellence 2000 Mathematics Programme (E2K) (P4 and P5)**
+Teachers also provide students with authentic experiences where students can lead and contribute actively to learning and experience the ‘Eureka’ moment as a math learner. These experiences also allow our students to have their first-hand experience in Math as they learn to identify the application of Math in their many daily life experiences making learning meaningful. 
 
-This programme aims to develop students’ mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach. Students are given opportunities to work independently or collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematical explorations specially designed for this programme.
+![](/images/Math%20Department/lead%20in%20maths%20discovery%20v2.jpg)
 
-It helps students to develop habits, attitudes and dispositions and to gain important 21st century competencies such as critical inventive thinking and effective communication skills.
+### Collaborate in solving Math problems
 
-**Authentic out-of-classroom experiences**
+To develop metacognitive awareness and strategies, and know when and how to use the strategies, students are given opportunities in class to solve non-routine and open-ended problems, discuss their solutions, think aloud, and reflect on what they are doing. Through teamwork, our students learn to work well with others and become adaptable and resilient in solving challenging problems creatively. 
 
-*   Maths Day for 3 different blocks (P1/P2, P3/P4, P5/P6)
-*   P3 Shopping Activity
-*   P4 ICT Maths Trail
-*   P5 Thinking Day
+![](/images/Math%20Department/collaborate%20in%20math%20problem%20solving.jpg)
 
-### Achievements
+![](/images/Math%20Department/collaborate%20in%20math%20problem%20solving%202.jpg)
 
-1.  **Singapore Math Kangaroo Competition(SMKC)**
+## Specialty Programmes
 
-| 2021 	|  	|  	|  	|
-|---	|---	|---	|---	|
-| **Primary 5/6** 	|  	| **Primary 3/4** 	|  	|
-| LIM JIA YI, JOEY 	| SILVER 	| PENG LINCONG 	| Gold 	|
-| CHIA WAN XUAN ALESEA 	| SILVER 	| AIDEN ONG JUN QI 	| Gold 	|
-| NICHOLAS TSHING TAN 	| SILVER 	| JAYDEN LEE 	| Silver 	|
-| JOVAN TAN JING XI 	| BRONZE 	| KANCHARLA SAI NANDAN 	| Silver 	|
-| TAN YONG HUI THADINE 	| BRONZE 	| FAITH TEO YA HUI 	| Bronze 	|
-| PEH YONG PENG VITUS 	| GOLD 	| YIP WEN LE JOSHUA 	| SILVER 	|
-| JAYDEN HUANG 	| SILVER 	| QUEK PENG LENG, JAYVEN 	| SILVER 	|
-| VINAY RANJITH KUMAR 	| SILVER 	| BRYAN LIM YI CHENG 	| SILVER 	|
-| POON XI SONG 	| SILVER 	| SIM TEK HAU GABRIEL 	| BRONZE 	|
-| GOH WAN NING RENEE 	| SILVER 	| PHANG JIA XUAN 	| BRONZE 	|
-|   	|   	| LIEW YONG JIE DUNCAN 	| BRONZE 	|
-|   	|   	| CHAN TIAN LE SKYLER 	| BRONZE 	|
-| **Primary 2** 	|   	|   	|   	|
-| XU LETIAN VICTOR 	| SILVER 	|   	|   	|
-| ERIC LIN HANYUAN 	| BRONZE 	|   	|   	|
-| POON XI HERN 	| BRONZE 	|   	|   	|
-| GOH YONG MING, DYLAN 	| BRONZE 	|   	|   	|
-| LIM YI ZHEN CHELSEA 	| BRONZE 	|   	|   	|
-| AALIYAH ONG XINYU 	| BRONZE 	|   	|   	|
+### Learning Support for Mathematics (LSM)
+
+LSM provides early intervention to support P1 to P2 students who need extra guidance in learning Mathematics. Through this programme, students are equipped with basic numeracy skills where their confidence can be boosted in problem solving.
 
 
-| 2020 	|  	|  	|  	|
-|---	|---	|---	|---	|
-| **Primary 5/6** 	|  	|  	|  	|
-| FOO JUN XIAN 	| Gold 	| JOVAN TAN JING XI 	| Silver 	|
-| KOH ZHI MING 	| Gold 	| KHOO XU HENG 	| Silver 	|
-| JOSEPH XU ZHERUI 	| Silver 	| LIM JIA YI, JOEY 	| Silver 	|
-| KWEE CHUN HONG (GUO JUNHONG) 	| Silver 	| NICHOLAS TSHING TAN 	| Silver 	|
-| TAN JIE EN JOHN (CHEN JIE’EN) 	| Silver 	| BAQUIRAN JOSH GRIFFIN OCOS 	| Bronze 	|
-| TEO WEN JIE JAYDEN 	| Silver 	| JEAN CHAN WEN YI (ZENG WENYI) 	| Bronze 	|
-| ZHENG YAWEN JOYCE 	| Silver 	| LIM QI LONG 	| Bronze 	|
-| DERRICK CHUA CHENG JUN 	| Silver 	| LIM YUE LEI 	| Bronze 	|
-| FINN KANG YUN ZHE 	| Silver 	| SEAH JIA LING ANNABELL 	| Bronze 	|
-| GOH SENG WOON, JAYDEN (WU CHENG’EN) 	| Silver 	| JAYDEN LEOW HONG JUN 	| Bronze 	|
-| GOVINDAN AJITESH 	| Silver 	| JAYVEN TAN SHAO JUN 	| Bronze 	|
-| HO DZONG JYOU (HE ZONGYOU) 	| Silver 	| JERMAINE GOH EN NING 	| Bronze 	|
-| PEH JIA QIAN 	| Silver 	| KHAN MUHAMMAD ALI YAR 	| Bronze 	|
-| JAXITH ARAI YASUHITO KANG REN 	| Bronze 	| LIM GUANG JUN, ISAAC 	| Bronze 	|
-| KUAH ZHI LE 	| Bronze 	| LIM JUN XIAN, JAYDEN (LIN JUNXIAN) 	| Bronze 	|
-| LAI SI XUAN 	| Bronze 	| SIM TENG SIANG ANDREW 	| Bronze 	|
-| ZAVIER KOO KAI AN 	| Bronze 	|   	|   	|
-| **Primary 3/4** 	|  	|  	|  	|
-| VINAY RANJITH KUMAR 	| Gold 	| TONG ZHENG FENG, ZEFDEN 	| Gold 	|
-| PEH YONG PENG VITUS 	| Silver 	| AIDEN ONG JUN QI 	| Silver 	|
-| POON XI SONG 	| Silver 	| LEONG MUN TING 	| Silver 	|
-| SEOW WEI JUN 	| Silver 	| MIKA ALEXIS ANTON 	| Silver 	|
-| XAVIER WAN HAO YU 	| Silver 	| JOIE TAN YI XUAN 	| Silver 	|
-| XU HAILIN 	| Bronze 	| KANCHARLA SAI NANDAN 	| Silver 	|
-| ANG RUI SHUANG ANDREA 	| Bronze 	| ELIJAH ONG YONG LE 	| Bronze 	|
-| LEE ZI FENG 	| Bronze 	| CHUAH E EN 	| Bronze 	|
-| CHENG TENG SUANG KAYLA 	| Bronze 	| CHEW JIA LE JUSTIN 	| Bronze 	|
-| GOH WAN NING RENEE 	| Bronze 	| SHAINA SUNDAR 	| Bronze 	|
-| JAYDEN HUANG 	| Bronze 	| TAN JUN LE, JARETT 	| Bronze 	|
-| TAN ZHI HAO ADAM 	| Bronze 	|   	|   	|
-| **Primary 2** 	|  	|  	|  	|
-| WANG YUZHI RYAN 	| Silver 	| CHAN TIAN LE SKYLER 	| Bronze 	|
-| SIM TEK HAU GABRIEL 	| Bronze 	| JAVEN YEO KAI JIE 	| Bronze 	|
-| YIP WEN LE, JOSHUA 	| Bronze 	| NANCELIA TSHING TAN 	| Bronze 	|
+### E2K Math Programme
 
+The E2K Mathematics Programme develops students Mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach. Students will have opportunities to collaborate with their peers and engage in Mathematical thinking through puzzles, games, and Mathematics explorations. The rich learning experiences serve to help students develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
 
-| 2019 	|  	|
-|---	|---	|
-| KANCHARLA SAI NANDAN (P2) 	| Gold 	|
-| VINAY RANJITH KUMAR (P3) 	| Gold 	|
-| PEH YONG PENG VITUS (P3) 	| Gold 	|
-| LIM JIA YI JOEY (P4) 	| Gold 	|
-| LIM JUN YI JOSH  (P6) 	| Gold 	|
+Our teachers who have been trained in the E2K pedagogy run this enrichment programme for selected P4 and P5 students who display interest in and aptitude for Mathematics.
 
-2.  **Singapore Math Olympiad for Primary Schools (SMOPS) organised by Hwa Chong Institution**
+### Awards
+2022 Singapore Math Kangaroo Contest: Gold, Silver and Bronze
 
-| **2021 (P6)** 	|  	|  	|  	|
-|---	|---	|---	|---	|
-| JOVAN TAN JING XI 	| SILVER 	| JEAN CHAN WEN YI (ZENG WENYI) 	| BRONZE 	|
-| CHIA WAN XUAN ALESEA 	| BRONZE 	| SELVAM DHARANITHARAN 	| BRONZE 	|
-| NICHOLAS TSHING TAN 	| BRONZE 	|   	|   	|
-| **2020 (P6)** 	|  	|  	|  	|
-| No competition 	|   	|   	|   	|
-| **2019 (P6)** 	|  	|  	|  	|
-| Lim Jun Yi Josh 	| Bronze 	|   	|   	|
-| Nathan Ang Peng Koon 	| Bronze 	|   	|   	|
+2022 Singapore Mathematical Olympiad: Silver and Bronze
 
-<img src="/images/IMG_1979-225x300.jpg" 
-     style="width:25%">
-
-<img src="/images/IMG_1980-225x300.jpg" 
-     style="width:25%">
-
-<img src="/images/IMG_1981-225x300.jpg" 
-     style="width:25%">
-		 
-![](/images/P3-Maths-App-1-1024x768.jpg)
-P3 Maths App 1
-
-![](/images/P3-Maths-App-5-300x225.jpg)
-P3 Maths App 2
-
-![](/images/P3-Maths-App-4-1024x768.jpg)
-P3 Maths App 3
-
-![](/images/P3-Maths-App-3-1024x768.jpg)
-P3 Maths App 4
-
-![](/images/P3-Maths-App-2-1-300x225.jpg)
-P3 Maths App 5
+2022 National Mathematics Olympiad:  Bronze

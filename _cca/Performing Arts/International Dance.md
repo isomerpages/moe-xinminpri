@@ -6,7 +6,6 @@ third_nav_title: Performing Arts
 ---
 # **International Dance**
 
-![](/images/IGHK2315.jpg)
 
 <img src="/images/Xinmin-Concert19-336-300x96.jpg" style="width:380px;height:180px;margin-left:15px;" align="right">
 
@@ -26,7 +25,7 @@ Modern dance has evolved with each subsequent generation of participating artist
 
 **International Dance CCA in Xinmin Primary School**
 
-The International Dance CCA began in 2015 following the amalgamation of Malay Dance & Indian Dance CCAs.
+The International Dance CCA began in 2015 following the amalgamation of Malay Dance &amp; Indian Dance CCAs.
 
 The International Dance CCA aims to:
 
@@ -34,7 +33,7 @@ The International Dance CCA aims to:
 * Instill discipline, build confidence and resilience in our dancers.
 * Develop a love and an appreciation for dance.
 
-Through dance, students develop a sense of rhythm through the dance techniques and inculcate the values of discipline and perseverance. Participation in modern dance fosters social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation. Open to Primary 2 to Primary 6 students who have an interest in dancing, dancers are given opportunities to develop leadership skills and inculcate personal qualities such as responsibility and perseverance.
+Through dance, students develop a sense of rhythm through the dance techniques and inculcate the values of discipline and perseverance. Participation in modern dance fosters social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.&nbsp;Open to Primary 2 to Primary 6 students who have an interest in dancing, dancers are given opportunities to develop leadership skills and inculcate personal qualities such as responsibility and perseverance.
 
 **Dance Training**
 
@@ -47,9 +46,9 @@ perform for other schools events like Chinese New Year, National Day, Recognitio
 
 As part of our contribution to community, our dancers performed at the National Day celebration organised by the People’s Association in 2019.
 
-Our dancers also performed in the Performing HeArts concerts in 2017 and 2019, Xinmin Primary School’s biannual concert, which allows parents of students in Performing Arts CCAs to appreciate & celebrate the long hours put in by their children in their respective CCAs.
+Our dancers also performed in the Performing HeArts concerts in 2017 and 2019, Xinmin Primary School’s biannual concert, which allows parents of students in Performing Arts CCAs to appreciate &amp; celebrate the long hours put in by their children in their respective CCAs.
 
-**Achievements & Participation**
+**Achievements &amp; Participation**
 
 * Performing HeArts Performances 2015
 * SYF 2016 – Certificate of Accomplishment
@@ -61,7 +60,7 @@ Our dancers also performed in the Performing HeArts concerts in 2017 and 2019, X
 
 Mrs Sharon Chia (Overall-In-Charge)
 
-Ms Grace Koh (2nd OIC)
+Ms Grace Koh (2nd&nbsp;OIC)
 
 Mrs Shanker Shaevah Pannir
 
@@ -74,24 +73,3 @@ Mdm Naimee
 
 Mondays, 2.30 – 4.30 pm
 
-**Photo Gallery**
-
-<img src="/images/CCA-in-progress-SMM-style-300x249.jpg" 
-     style="width:40%">
-<center>CCA In Progress SMM Style</center>
-
-<img src="/images/CCA-in-progress_Self-Introduction-using-Dance-Moves-300x241.jpg" 
-     style="width:40%">
-<center>Cca In Progress Self Introduction Using Dance Moves</center>
-
-<img src="/images/CCA-in-progress_Vaccinated-students-observe-and-learn-300x192.jpg" 
-     style="width:40%">
-<center>Cca In Progress Vaccinated Students Observe And Learn</center>
-
-<img src="/images/Performing-HeArts-2019_1-300x200.jpg" 
-     style="width:40%">
-<center>Performing Hearts 2019 1</center>
-
-<img src="/images/Performing-HeArts-2019_2-300x200.jpg" 
-     style="width:40%">
-<center>Performing Hearts 2019 2</center>
