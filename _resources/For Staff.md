@@ -34,8 +34,6 @@ description: ""
 
 [iConnect](https://icon.moe.edu.sg/)
 
-[VITAL](https://www.vital.gov.sg/)
-
 [OPAL2.0](https://idm.opal2.moe.edu.sg/)
 
 [RBS](https://rbs.avero-tech.com/)
