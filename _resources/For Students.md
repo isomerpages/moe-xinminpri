@@ -18,5 +18,3 @@ description: ""
 
 [eZhiShi](https://www.ezhishi.net/)
 
-
-[Koobits](https://www.koobits.com/)
