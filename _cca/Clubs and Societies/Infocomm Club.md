@@ -40,19 +40,3 @@ Senior Category (Individual) – 2 x Gold (with Honours)
 AI Festival Singapore 2022
 Primary Category (AI Modelling) Champion Team
 
-### Photo Gallery
-
-![](/images/Infocomm/p4%20coding%203.jpg)
-P4 Coding with Scratch
-
-![P5 Lego](/images/Infocomm/p5%20coding%202.jpg)
-P5 Coding with Lego
-
-![](/images/Infocomm/p5%20coding.jpg)
-P5 Coding with Lego
-
-![](/images/Infocomm/p5%20coding%203.jpg)
-P5 Coding with Lego
-
-![](/images/Infocomm/p6%20coding.jpg)
-P6 Coding with Lego
