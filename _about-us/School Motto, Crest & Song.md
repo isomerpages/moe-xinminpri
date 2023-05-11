@@ -3,20 +3,15 @@ title: School Motto, Crest & Song
 permalink: /about-us/school-motto-crest-song/
 description: ""
 ---
+# School Motto
 
-
-![](/images/Actual-155-e1492360638508.jpg)
-# **School Motto**
-
-![](/images/sch_motto.jpg)
+ In Word and Deed
 
 # **School Crest**
 
 ![](/images/sch_crest.png)
 
 The badge is designed with the traditional shield and with the name of the school on top and the motto supporting it. The open book signifies honesty and openness towards knowledge. The flames represent students’ holistic development in the Cognitive, Physical, Aesthetics, Social and Moral domains.
-
-![](/images/Actual-153.jpg)
 
 # **School Song**
 
