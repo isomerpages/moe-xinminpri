@@ -6,7 +6,6 @@ third_nav_title: Uniformed Groups
 ---
 # **Brownies**
 
-![](/images/World-Thinking-DayXMPS.jpg)
 
 ### CCA Mission & Key Programmes:
       
@@ -70,6 +69,3 @@ Mondays
 ·       UG Commemorative Day
 
 ·       SKM Kindness Badge Junior
-
-![Brownies Team Bonding](/images/team%20bonding.jpg)
-Brownies Team Bonding
