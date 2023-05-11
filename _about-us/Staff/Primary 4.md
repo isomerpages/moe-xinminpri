@@ -4,7 +4,7 @@ permalink: /school-organisation/primary-4/
 description: ""
 third_nav_title: Staff
 ---
-![](/images/Primary4.jpg)
+
 
 # **Primary 4**
 
