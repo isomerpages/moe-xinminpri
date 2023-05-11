@@ -23,8 +23,6 @@ description: ""
 
 [GeBIZ](https://www.gebiz.gov.sg/)
 
-Xinmin Library OPAC	
-
 
 ### Internet Applications
 
