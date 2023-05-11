@@ -30,3 +30,8 @@ In Word and Deed, we will stronger grow.
 Xinmin, Xinmin, count on us to do our best.
 
 We’ll bring you great honour for ever more.
+
+
+- Composed by: Soh Wee Yeok
+
+- Lyrics: Jenny Chan Sook Yee
