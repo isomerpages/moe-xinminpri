@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Staff
 ---
 
-![](/images/Primary%203.jpg)
 
 # **Primary 3**
 
