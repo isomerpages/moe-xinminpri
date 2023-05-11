@@ -24,30 +24,18 @@ description: ""
 [GeBIZ](https://www.gebiz.gov.sg/)
 
 Xinmin Library OPAC	
-Internet Applications
-default
 
-MOE Intranet	default-1
 
-School Cockpit		
-default-3
+### Internet Applications
 
-MOE Homepage	iconnect
+[MOE Homepage](https://www.moe.gov.sg/)
 
-iConnect	praise
+[iConnect](https://icon.moe.edu.sg/)
 
-VITAL	traisi
+[VITAL](https://www.vital.gov.sg/)
 
-TRAISI
-mc_online
+[OPAL2.0](https://idm.opal2.moe.edu.sg/)
 
-MC Online	edumall
+[RBS](https://rbs.avero-tech.com/)
 
-OPAL	koobits_ps-xinmin2
-
-Koobits	Rbs
-
-RBS
-praise
-
-MIMS	
+[MIMS](https://idp.mims.moe.gov.sg/)
