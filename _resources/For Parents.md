@@ -17,4 +17,7 @@ Resources for Parents
 
 [Sexuality Education Programme](our-resources/for-parents/sexuality-education-programme/)
 
+[Smart Device Request Form](https://form.gov.sg/61ce31b72e38540012e3e99d)
+
   [Parenting Tips]()
+	
