@@ -44,20 +44,3 @@ Achievements:
 1.	World Scout Day Participation (via zoom)
 
 
-
-
-
-<img src="/images/CCA-Badge-Activity-1-300x167.jpg" style="width:40%">
-<center>CCA Badge Activity 1</center>
-
-<img src="/images/CCA-Badge-Activity-2-300x188.jpg" style="width:40%">
-<center>CCA Badge Activity 2</center>
-
-<img src="/images/CCA-Fold-Paper-Crane-Activity-300x123.jpg" style="width:40%">
-<center>CCA Fold Paper Crane Activity</center>
-
-<img src="/images/CCA-Games-Activity-1-300x182.jpg" style="width:40%">
-<center>CCA Games Activity 1</center>
-
-<img src="/images/CCA-Games-Activity-2-300x198.jpg" style="width:40%">
-<center>CCA Games Activity 2</center>
