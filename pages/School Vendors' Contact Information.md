@@ -3,7 +3,7 @@ title: School Vendors' Contact Information
 permalink: /school-vendors/
 description: ""
 ---
-![](/images/Actual-175-e1492362367324.jpg)
+
 
 School Books Supplier:
 ----------------------
