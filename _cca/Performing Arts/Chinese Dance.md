@@ -6,7 +6,6 @@ third_nav_title: Performing Arts
 ---
 # **Chinese Dance**
 
-![](/images/Esplanade-Performance-1.jpg)
 
 Xinmin Primary School’s Chinese Dance is a CCA with a rich history. We accept both Chinese and non-Chinese students. We adopt dance movements from Chinese Folk and classic dance, which emphasise the establishment of a solid foundation and the development of artistic expression, by conveying emotions using the body and facial expressions.
 
@@ -43,31 +42,3 @@ Mdm Wang Xiaohua
 
 Mrs Ng Marn Peng
 
-### Photo Gallery
-
-![](/images/Performing-Heart-1-1350x1013.jpg)
-Performing Heart 1
-
-![](/images/Performing-Heart-4.jpg)
-Performing Heart 2
-
-![](/images/BPYH8838.jpg)
-Esplanade Performance
-
-![](/images/2f08bb15-3576-406d-b065-d0b06ab99c91.jpeg)
-Esplanade Performance 2
-
-![](/images/9433b205-c844-4b3b-ad6a-e71881824af6.jpeg)
-Esplanade Performance 3
-
-![](/images/Esplanade-Performance-2-1350x1013.jpg)
-Esplanade Performance 4
-
-![](/images/Esplanade-Performance-3-1350x1800.jpg)
-Esplanade Performance 5
-
-![](/images/Esplanade-Performance-4-1350x1013.jpg)
-Esplanade Performance 6
-
-![](/images/Esplanade-Performance-5-1350x1013.jpg)
-Esplanade Performance 7
