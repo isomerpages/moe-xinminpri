@@ -26,6 +26,10 @@ description: ""
 
 ### Internet Applications
 
+[SLS](https://vle.learning.moe.edu.sg/login)
+
+[SCMobile](https://scmobile.moe.edu.sg/login)
+
 [MOE Homepage](https://www.moe.gov.sg/)
 
 [iConnect](https://icon.moe.edu.sg/)
