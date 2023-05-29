@@ -11,14 +11,7 @@ Continual Pursuit of Healthy Lifestyle & Application of Sporting values into dai
 
 ### Organisation Structure
 
-**2021 Physical & Health Education Department**
 
-|  	|  	|
-|---	|---	|
-| Mr Adnan Omar (HOD PE\CCA) 	|  	|
-| Mr Azreen Mohammad Kus (Subject Head) 	| Mr Shahran Hamid 	|
-| Mr Quek Hsiu Yuan 	| Ms Yeung E-liz 	|
-| Mr Ang Wei Loon, Joseph 	|  	|
 
 ### **Key Programmes**
 
