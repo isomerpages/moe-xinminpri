@@ -15,19 +15,7 @@ To engender a caring and enabling school environment for all Xinminites
 *   Nurture positive attitudes and equip students with necessary knowledge, skills to meet lifelong challenges.
 *   Establish and develop an effective working relationship between school and community through partnerships.
 
-**Organisation Structure**
 
-| 2022 Student Well- being Department 	|  	|  	|
-|---	|---	|---	|
-| Mr Kumar ( Subject Head, Student Well-being) 	|  	|  	|
-| Mrs Norazimah 	| Miss Geraldine Tng      	| Mrs Daphne Goh       	|
-| Miss Lim Siew Lian (AED\LBS) 	| Mdm Noor Haseena (AED\LBS) 	| Miss Siti Zuraidah  (AED\LBS) 	|
-| Mdm Annuratha 	| Miss Tan Mun Ri (School Counsellor) 	| Mrs Lim-Siew WM 	|
-| Mr Shahran 	| Mrs Celine Ong 	| Miss Tang Lai Peng 	|
-| Miss Susan Seow      	| Mr Kenny Tan 	| Mr Kenneth Tan    	|
-| Mrs Magdalene Tan 	| Miss Sally Lim     	| Mrs Jodene Yow              	|
-| Mdm Shanti 	| Mdm Zarina       	| Miss Bong FN 	|
-| Mdm Sharifah Wardah    	| Mdm Norliana 	| Mdm Bai Yi Meng 	|
 
 
 **Key Programmes**
@@ -43,7 +31,7 @@ The aims of the peer support programmes are
 
 Each Xinminite will go through a structured peer support programme to build skills and competencies to show kindness and care and develop mindsets to be a positive influence for positive mindsets and pro-social online and offline behaviours. The programme is delievered through CCE lessons and student development exercises such as CCA, class activities as well as cohort camps.
 
-Some Xinminites will be chosen as Peer Support Leaders as advocators of positive influence and to look out and connect with their classmates for well-being issues.  These Leaders are selected by the teachers and trained by the school to effectively perform the role.
+Some Xinminites will be chosen as Peer Support Leaders as advocators of positive influence and to look out and connect with their classmates for well-being issues.&nbsp; These Leaders are selected by the teachers and trained by the school to effectively perform the role.
 
 **Cyberwellness**
 
@@ -99,26 +87,9 @@ Xinmin Primary works in partnership with Ministry of Social and Family (MSF) to 
 *   Informing and educating, empowering individuals through their life journey to form and build strong families.
 *   Making family life education programmes and resources easily accessible to parents, students and staff in school.
 
-We work with MSF to run the Positive Parenting Programme (Triple P). This is a parenting programme where our family education partners empower parents to positively impact and influence their children by addressing  behaviour and emotional challenges  in children. It offers simple and practical strategies to help parents confidently manage their children’s behaviour, prevent problems developing and build strong healthy relationships. A series of parenting talks has been planned to help to enrich and strengthen family life and foster better parent-child understanding and relationship.
+We work with MSF to run the Positive Parenting Programme (Triple P). This is a parenting programme where our family education partners empower parents to positively impact and influence their children by addressing&nbsp; behaviour and emotional challenges&nbsp; in children. It offers simple and practical strategies to help parents confidently manage their children’s behaviour, prevent problems developing and build strong healthy relationships. A series of parenting talks has been planned to help to enrich and strengthen family life and foster better parent-child understanding and relationship.
 
 **Share and Care**
 
 This is a termly school based programme where students are encouraged to appreciate their teachers and support staff for sharing and showing care to them. The objective of the programme is to imbue in our students the value of showing appreciation to others and to cultivate gratitude for the care shown by our staff.
 
-<img src="/images/Language-and-Literacy-Development-1-300x281.jpg" 
-     style="width:40%">
-<center>Language And Literacy Development 1</center>
-
-<img src="/images/Language-and-Literacy-Development-2-300x257.jpg" 
-     style="width:40%">
-<center>Language And Literacy Development 2</center>
-
-
-<img src="/images/Social-and-Emotional-Development-Support-1-225x300.jpg" 
-     style="width:40%">
-<center>Social And Emotional Development Support 1</center>
-
-
-<img src="/images/Social-and-Emotional-Development-Support-2-300x274.jpg" 
-     style="width:40%">
-<center>Social And Emotional Development Support 2</center>
