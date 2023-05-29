@@ -10,16 +10,7 @@ Nurturing every Xinminite to be future-ready and responsible digital learners.
 
 ### Organisation Structure
 
-**2022 ICT Department**
 
-|  	|  	|  	|
-|---	|---	|---	|
-| 	| Mdm Noor Hafizah Hamis (HOD ICT) 	|  	|
-| Ms Aneesa Faruvin 	| Mr Edwin Yu 	| Mr Kuah Guo Shen 	|
-| Mr Kenny Tan 	| Mrs Celine Ong 	| Mdm Norliana Ahmad Norli 	|
-| Mdm Zarina 	| Mr Tan Way Chye Kenneth 	| Ms Yeung E-Liz 	|
-| Mdm Zhao Ting Yan 	| Mdm Sharifah Wardah 	| Mdm Nicole De Souza 	|
-| Mdm Bai Yimeng 	|  	|  	|
 
 ### Key Programmes
 
@@ -50,14 +41,10 @@ Students are taught to create animation through a block of codes. Lessons typica
 
 Students will be trained to exercise sequential thinking as they need to know the sequence of the codes to achieve the figures that they want. Students will develop their visualisation skills as they need to first visualise what they want to create. There are opportunities for students to display creativity when they modify their codes.
 
-The opportunity to display creativity injects a high level of interest and engagement among students. The response from students  thus far has been positive.
+The opportunity to display creativity injects a high level of interest and engagement among students. The response from students&nbsp; thus far has been positive.
 
-<img src="/images/IMG_20220121_084056_1-300x225.jpg" 
-     style="width:40%">
-		 
-<img src="/images/IMG_20220121_083926-300x225.jpg" 
-     style="width:40%">
+
 		 
 ### New Media Literacies
 
-In our efforts to raise future-ready and responsible digital learners, we get our students to go through SLS packages teaching them these skills. Within a semester, students are to complete their NML SLS package at their own pace. We hope this will help to promote self-directedness in our students. The NML packages are created by our own ICT department members and unique to Xinmin Primary!
+In our efforts to raise future-ready and responsible digital learners, we get our students to go through SLS packages teaching them these skills. Within a semester, students are to complete their NML SLS package at their own pace. We hope this will help to promote self-directedness in our students.&nbsp;The NML packages are created by our own ICT department members and unique to Xinmin Primary!
