@@ -3,6 +3,8 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
+![](/images/Department%20Pics/math%20dept.JPG)
+
 ##  LEARNING APPROACH
 
 At Xinmin Primary School, the Math Department believes every child can be a confident problem solver.  With this vision in mind, various activities are planned throughout the year to ensure that there are rich learning experiences in and beyond the classroom for our students. 
