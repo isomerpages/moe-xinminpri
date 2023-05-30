@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
 ---
-
+![](/images/music%20dept.JPG)
 
 # **Aesthetics**
 
@@ -45,4 +45,3 @@ We will to develop our Xinminites with:
 *   Art Learning Journeys
 *   P1 &amp; P2 Talent Identification for Aesthetics CCAs
 *   Singapore Youth Festival participation by Aesthetics CCAs (Art Club, Chinese Dance, International Dance, Chinese Dance, Guzheng)
-
