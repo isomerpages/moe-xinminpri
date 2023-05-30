@@ -6,41 +6,34 @@ third_nav_title: Performing Arts
 ---
 # **Choir**
 ### Mission  
+
 1) To cultivate mental, emotional and musical growth through singing.
 2) To develop confident leaders through performances.
 3) To nurture innovative collaborators with a keen appreciation for music.
 4) To build a choral sound of our own and strive towards making music with excellence
 
 
-Also known as Xinmin Nightingales, the Xinmin Primary School Choir provides a platform for passionate children who enjoys singing, to make music together as an ensemble. The choir is under the baton of Mr Marcus Lee. Throughout their choir journey, students will learn to improve their musicianship through singing&nbsp;skills such as voice projection and pitching, and rhythmic sense through body percussion and rhythm games. Students will also grow to sing with confidence as they develop an appreciation for choral music through exposure to a vast repertoire of&nbsp;songs.
+Also known as Xinmin Nightingales, the Xinmin Primary School Choir provides a platform for passionate children who enjoy singing, to come together as an ensemble to make beautiful music. Under the baton of Mr Marcus Lee, Xinmin Nightingales will learn to improve their musicianship through singing skills such as voice projection and pitching, and rhythmic sense through body percussion and rhythm games throughout their choir journey. Anchored in our school’s core values of Care, Respect, Responsibility and Resilience, students will also grow to sing with confidence as they develop an appreciation for choral music through exposure to a vast repertoire of songs. 
 
-Xinmin Nightingales is not only very active in the participation of the Singapore Youth Festival&nbsp;(SYF), but also concert performances for&nbsp;various school events and community outreach programmes. Besides SYF, the choir participated in the ABRSM choral exam in 2018 and achieved a certificate of Distinction. Xinmin Nightingales also performed in Performing HeArts, our school’s biannual performing arts concert, in 2017 and 2019.
+Aside from our annual Recognition Day Concert and biennial Performing HeArts Concert, Xinmin Nightingales has actively participated for various school, community and national events. Every performance, regardless of size, is an opportunity for our Nightingales to build confidence and in their quest for singing with excellence, students will also learn to collaborate innovatively through singing together with other school choirs, and also using movements and props to bring their songs alive.
 
-Every performance, big or small, is an opportunity to build confidence in our Xinmin Nightingales. In their quest for singing with excellence, students will also learn the values of respect, resilience, responsibility and care.
+### Achievements and Participation 
 
-
-
-Xinmin Nightingales is not only very active in the participation of the Singapore Youth Festival&nbsp;(SYF), but also concert performances for&nbsp;various school events and community outreach programmes. Besides SYF, the choir participated in the ABRSM choral exam in 2018 and achieved a certificate of Distinction. Xinmin Nightingales also performed in Performing HeArts, our school’s biannual performing arts concert, in 2017 and 2019.
-
-Every performance, big or small, is an opportunity to build confidence in our Xinmin Nightingales. In their quest for singing with excellence, students will also learn the values of respect, resilience, responsibility and care.
-
-### Achievements
-
-* SYF 2018 – Certificate of Accomplishment
-* SYF 2016 – Certificate of Accomplishment
+2023 - Voices of Singapore Festival @ CHIJMES  
+2023 - March On @ Esplanade Concourse   
+2022 - Voices in Harmony Concert @ Goodman Arts Centre
+2022 - Voices of Singapore Festival @ CHIJMES   
+2022 - Singapore Youth Festival (Under Special Provision)
 
 ### Schedule
+Monday: 2.30 pm to 3.30 pm (Juniors)   
+Monday: 3.30 pm to 5.30 pm (Seniors)  
+Thursday (ad-hoc): 4.00pm to 5.30pm (Seniors)
 
-Monday: 2.30pm to 4.30pm
 
-### Teachers In Charge
-
-Mr Thomas Ong (In-charge)
-
-Miss Shek Yan Yee
-
-Miss Michelle Teo
-
-Mrs Celine Ong
-
-Mdm Syazana
+### 2023 Teachers In Charge
+Mr Thomas Ong (Overall-In-Charge)  
+Ms Shek Yan Yee (2nd OIC)  
+Ms Michelle Teo  
+Mrs Celine Ong  
+Mdm Serene Neo
