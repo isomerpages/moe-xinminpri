@@ -3,6 +3,7 @@ title: Chinese Language
 permalink: /departments/chinese-language/
 description: ""
 ---
+![](/images/Department%20Pics/cl%20dept.JPG)
 
 # **Chinese Language**
 
@@ -24,4 +25,3 @@ Tips for Parents to support the child in learning MTL:
 *   Parents can also use a variety of resources to extend your child’s language and literacy skills in MTL such as MT story books or online portal.
 *   Parents should encourage and accompany your child to revise MTL at home and to read more MTL reading materials.
 *   Provide a conducive environment for learning MTL-e.g. set up a reading corner at home, watch suitable TV programmes in MTL.
-
