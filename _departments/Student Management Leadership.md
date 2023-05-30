@@ -3,7 +3,7 @@ title: Student Management Leadership
 permalink: /departments/student-management-leadership/
 description: ""
 ---
-![](/images/sml%20dept.JPG)
+![](/images/Department%20Pics/sml%20dept.JPG)
 
 # **Student Management & Leadership**
 
