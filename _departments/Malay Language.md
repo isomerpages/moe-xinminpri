@@ -3,6 +3,8 @@ title: Malay Language
 permalink: /departments/malay-language/
 description: ""
 ---
+![](/images/malay%20dept.JPG)
+
 # **Malay Language**
 
 **Vision:**    
@@ -36,4 +38,3 @@ Cultural camp for the P5 students is conducted for them to experience the fine a
 **P6:**
 
 Fortnight Riddle Contest, Reading programme, Newspaper Subscriptions, Internal &amp; external competitions
-
