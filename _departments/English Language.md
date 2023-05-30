@@ -3,7 +3,7 @@ title: English Language
 permalink: /departments/english-language/
 description: ""
 ---
-![](/images/english.jpeg)
+![](/images/Department%20Pics/el%20dept.jpg)
 
 ## Vision 
 Every Xinminite, an active reader, a confident speaker and a competent writer with a love for the English Language.
