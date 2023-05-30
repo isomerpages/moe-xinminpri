@@ -3,7 +3,7 @@ title: Malay Language
 permalink: /departments/malay-language/
 description: ""
 ---
-![](/images/malay%20dept.JPG)
+![](/images/Department%20Pics/ml%20dept.JPG)
 
 # **Malay Language**
 
