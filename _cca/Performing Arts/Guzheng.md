@@ -38,4 +38,3 @@ Miss Toh Feng Joo
 Miss Bong Fung Nyuk
 
 Mr Aaron Tan
-
