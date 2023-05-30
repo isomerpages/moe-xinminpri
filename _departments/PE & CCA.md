@@ -3,6 +3,8 @@ title: PE & CCA
 permalink: /departments/pe-cca/
 description: ""
 ---
+![](/images/Department%20Pics/pe%20dept.JPG)
+
 # **PE / CCA**
 
 **Vision**
