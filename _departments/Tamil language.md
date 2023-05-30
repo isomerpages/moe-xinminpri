@@ -3,7 +3,7 @@ title: Tamil language
 permalink: /departments/tamil-language/
 description: ""
 ---
-
+![](/images/Department%20Pics/tamil%20dept.JPG)
 
 # **Tamil Language**
 
@@ -63,4 +63,3 @@ Mother Tongue fortnight activities are conducted for P3 students each year. Stud
 **P5 Cultural Camp**
 
 Cultural camp for the P5 students is conducted for them to experience the rich and robust Indian culture. Each year the students experience different Indian cultural aspects for example, food, arts, games and music. During the camp, students are given the opportunity to interact with each other in the Tamil language while learning new aspects of the Indian culture.
-
