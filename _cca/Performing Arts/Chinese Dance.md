@@ -6,39 +6,34 @@ third_nav_title: Performing Arts
 ---
 # **Chinese Dance**
 
+### Mission and Key Programs
 
-Xinmin Primary School’s Chinese Dance is a CCA with a rich history. We accept both Chinese and non-Chinese students. We adopt dance movements from Chinese Folk and classic dance, which emphasise the establishment of a solid foundation and the development of artistic expression, by conveying emotions using the body and facial expressions.
+At Xinmin Primary School, our Chinese Dance CCA embraces a rich history and promotes inclusivity, regardless of their cultural background. We create a passionate and innovative atmosphere that nurtures inquisitive students, inviting them to participate in and experience the beauty of dance. Our dance training draws upon movements from Chinese Folk and classic dance, placing emphasis on building a strong foundation and fostering artistic expression through the use of bodily and facial movements to convey emotions.
 
-Our Chinese Dance students have been actively participating in the Singapore Youth Festival (SYF) and performing in school concerts for various school events.
+Our Chinese dancers are very active in the participation of the Singapore Youth Festival (SYF) and concerts performance for various school events, such as CCA showcase and school recognition day concert.
 
-Apart from the SYF, our Chinese dance members have been actively involved in public performances. We took part in National Day dinner organised by Ang Mo Kio-Hougang GROs in 2016 in which Prime Minister Mr Lee Hsien Loong had been invited as the guest of honour. We also took part in the Chinese Dance Fiesta in June 2020 in Esplanade.
+Apart from the SYF, our Chinese dance members have been actively involved in public performances. We took part in National Day dinner organised by Ang Mo Kio-Hougang GROs in 2016 in which Prime Minister Mr Lee Hsien Loong had been invited as the guest of honour. We participated in the Chinese Dance Fiesta in June 2020 at Esplanade. Moreover, we were invited to perform at the MediaCorp theatre for the hyperLive Festival Singapore in 2022. We also took part in Pinetree Yuan Xiao Celebration 2023, with the attendance of grassroots adviser Mr Darryl David. 
 
-Through dance, students are able to serve the community and learn the values of resilience and teamwork. Dance is not just helping a dancer maintain physical fitness, but also cultivating one’s confidence and overcoming fears. We hope our members will continue to raise the prestige of Chinese Arts in this modern society.
+Through dance, students serve their community while also learning valuable lessons in resilience and teamwork. Beyond physical fitness, dance builds confidence and helps individuals overcome fears. At Xinmin Primary School, we are dedicated to promoting Chinese Arts and elevating their prestige in today's society.
 
-### Mission  
-1) To cultivate mental, emotional and musical growth through dancing.  
-2) To develop confident individuals through mastery of dance skills and successful performances.  
-3) To nurture motivated lifelong learners with a keen appreciation for dance.  
-4) To serve the community and learn the values of resilience and teamwork and strive to be excellent
+### Mission
+1) To cultivate mental, emotional and musical growth through dancing.
+2) To develop confident individuals through mastery of dance skills and successful performances.
+3) To nurture motivated lifelong learners with a keen appreciation for dance.
+4) to Collaborate innovatively in groups to serve community, learning values of resilience, teamwork, and striving for excellence.
 
-### Achievements
-
-* SYF 2018 – Certificate of Distinction
-* SYF 2016 – Certificate of Accomplishment
+### Achievements 
+•	SYF 2016 – Certificate of Accomplishment  
+•	SYF 2018 – Certificate of Distinction  
+•	SYF 2022 – Participation
 
 ### Schedule
-
-Mondays, 2.30pm to 4.30pm
+Monday 2.00pm to 5.00pm
+Tuesday 4.00pm to 5.30pm
 
 ### Teachers In Charge
-
-Mdm Guan Jiajia (In-charge)
-
-Mdm Zhao Tingyan
-
-Miss Foo Wei Woon
-
-Mdm Wang Xiaohua
-
+Mdm Guan Jiajia (Overall-In-Charge)   
+Ms Zhao Tingyan (2nd-In-charge)   
+Miss Foo Wei Woon   
+Mdm Wang Xiaohua   
 Mrs Ng Marn Peng
-
