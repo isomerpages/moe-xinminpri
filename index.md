@@ -7,7 +7,6 @@ permalink: /
 notification: Check out the latest announcements on the announcements page!
 sections:
   - hero:
-      background: /images/Drums.jpg
       key_highlights:
         - title: G.L.O.B.E
           description: ALP
