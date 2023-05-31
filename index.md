@@ -14,7 +14,7 @@ sections:
         - title: C.L.O.V.E
           description: LLP
           url: /departments/cce-department/
-      background: /images/homepage.gif
+      background: /images/home page 2.gif
   - resources:
       title: Announcements
       button: Click for more announcements
