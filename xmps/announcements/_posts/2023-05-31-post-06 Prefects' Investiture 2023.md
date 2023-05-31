@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+Dear parents,
+
+here is the link to the ceremony.
+
+https://www.youtube.com/watch?v=4qHvfIlJrnk
