@@ -3,25 +3,65 @@ title: Chinese Language
 permalink: /departments/chinese-language/
 description: ""
 ---
-![](/images/Department%20Pics/cl%20dept.JPG)
+![](/images/Department%20Pics/chinese%20language%20s.jpg)
 
-# **Chinese Language**
+# VISION:
+Every Chinese student, an active learner with the passion for Chinese language and culture.
 
-**Vision:**   
-An effective communicator who appreciates the MT language and culture.
+# MISSION:
+Nurturing effective communicators who appreciates the Chinese language and culture.
+
+# Key Programmes:
+Xinmin’s Mother Tongue Language (MTL) curriculum places a strong emphasis on verbal and written interaction skills to develop our Xinminites into effective communicators of the Chinese Language. We believe in bringing the language to life for our students to ignite their passion for it.
+
+### •	Speech and Drama Programme
+Authentic and meaningful activities such as the Speech and Drama programme planned for our Primary 1 & 2 students allows them to express themselves freely and confidently in their MTL from a young age. 
+
+### •	Department Reading Programmes
+
+#### Home Reading Programme
+Our Primary 1 and 2 students will bring home a Chinese storybook fortnightly to read and discuss with their parents. Through this programme, we hope to foster parent-school partnership and encourage parents to inculcate the reading habit by spending time to read together with their child.
+
+#### Class Reading Programme
+To encourage our students to read widely, our Primary 1 to 4 students are regularly exposed to Chinese storybooks during lessons. The activities designed for the students also allow for insightful reflections and through meaningful conversations, our students will be more open-minded to different opinions and thoughts..
+
+#### School Library Visits
+Our Primary 1 to 6 students are scheduled during the school terms to visit the school library for silent reading. This encourages our students to take responsibility of their reading habits in a conducive reading environment. By complimenting the library visits with reading programmes, we hope to develop passionate learners of the language confident in expressing themselves.
 
 
+### •	P1 to P3 Thumbs Up Junior Level Sharing
+Our key programme involves periodic level sharing sessions of lower primary Thumbs Up magazine materials through online platforms such as Zoom. This allows our students to explore beyond their textbooks on interesting texts, themes, and current affairs. Subsequently, students will immerse in meaningful conversations and discussions with their peers on the shared content. This encourages them to be curious as they acquire new knowledge and gain a better understanding of the world around them. Together with the reading programmes planned for them, we hope to develop passionate learners who reads widely in their MTL.
 
-MTL curriculum:
+To expose our students to their own culture and values, our cultural programmes aim to provide an immersive environment for our students to learn and use the language as well as to experience the culture.
 
-*   Greater emphasis on spoken &amp; written interaction skills;
-*   Greater focus on authentic activities to better engage students and develop their communication skills; and
-*   Continue to expose students to their own culture &amp; values through MTL learning
+### •	P3/P5 Cultural Camps, P4 Cultural Exposure Performance
+These programmes involve fun and interactive hands-on activities such as Chinese Calligraphy, Kite painting and other forms of traditional art. There are also ample opportunities for the students to collaborate with their peers to learn and appreciate Chinese culture together. 
 
-Tips for Parents to support the child in learning MTL:
+### Awards in 2022:
 
-*   Parents are encouraged to speak to your child in MTL as often as possible and show interest in your child’s MTL learning.
-*   Parents can also engage in regular conversation with your child about his/her MTL experience in class.
-*   Parents can also use a variety of resources to extend your child’s language and literacy skills in MTL such as MT story books or online portal.
-*   Parents should encourage and accompany your child to revise MTL at home and to read more MTL reading materials.
-*   Provide a conducive environment for learning MTL-e.g. set up a reading corner at home, watch suitable TV programmes in MTL.
+#### National Chinese Language Vlog Competition:
+Lai Ningmeng and Yee Zi Xuan ( National Top 8)
+
+#### Chinese Calligraphy Competition:
+Dai Rui Xuan (Merit)
+Neena Chen (Consolation)
+
+#### Chinese language recital competition
+Individual Awards:
+
+Ong Rui Lin (Bronze)
+
+Yuna The (Bronze)
+
+Gabriel Sim (Bronze)
+
+Demi Ng (Bronze)
+
+Team 1 (Bronze): Adele Ng, Jenna Chen, Constance Tey
+
+
+Team 2 (Bronze): Javier Phua, Kok Shi Min, Neo Rong Jun
+
+Team 3 (Silver): Victor Xu, Hayley Chwee
+
+Team 4 (Silver): Loo Yun Xuan Ariel, Liew Pei Yun, Lee Shannon
