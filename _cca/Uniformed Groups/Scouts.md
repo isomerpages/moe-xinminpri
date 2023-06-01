@@ -4,6 +4,8 @@ permalink: /cca/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/CCA/scouts%20s.jpg)
+
 # **Scouts**
 
 
@@ -42,5 +44,3 @@ Achievements:
 
 2021-2022
 1.	World Scout Day Participation (via zoom)
-
-
