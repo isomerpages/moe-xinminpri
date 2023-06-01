@@ -4,6 +4,8 @@ permalink: /cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
 ---
+![](/images/CCA/guzheng%20s.jpg)
+
 # **Guzheng**
 
 
