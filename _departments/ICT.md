@@ -3,6 +3,8 @@ title: ICT
 permalink: /departments/ict/
 description: ""
 ---
+![](/images/Department%20Pics/ict%20dept.jpg)
+
 # **ICT**
 
 **Vision**   
