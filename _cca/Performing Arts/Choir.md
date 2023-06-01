@@ -4,6 +4,10 @@ permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
+
+![](/images/CCA/choir%20s.jpg)
+
+
 # **Choir**
 ### Mission  
 
