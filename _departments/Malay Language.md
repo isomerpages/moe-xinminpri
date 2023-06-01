@@ -3,7 +3,7 @@ title: Malay Language
 permalink: /departments/malay-language/
 description: ""
 ---
-![](/images/Department%20Pics/ml%20dept.JPG)
+![](/images/Department%20Pics/malay%20language%20s.jpg)
 
 # VISION: 
 Every Malay student, an effective communicator who is passionate and appreciates Malay language and culture.
@@ -38,4 +38,3 @@ Students are given opportunities to display their talent through various competi
 1. Budiman Bestari 2023 (Final)
 Muhd Irfan Rais Bin Mohd Suhaimi (5D)
 (N1 Cluster Schools Champion)
-
