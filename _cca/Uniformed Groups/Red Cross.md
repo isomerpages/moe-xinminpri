@@ -4,6 +4,8 @@ permalink: /cca/uniformed-groups/red-cross/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/CCA/red%20cross%20s.jpg)
+
 # **Red Cross**
        
 ### CCA Mission & Key Programmes:
