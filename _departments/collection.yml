@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics.md
       - English Language.md
+      - Mathematics.md
       - Science.md
       - Chinese Language.md
       - Malay Language.md
