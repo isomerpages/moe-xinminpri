@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/brownies/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# **Brownies**
+![](/images/CCA/brownies%20s.jpg)# **Brownies**
 
 
 ### CCA Mission & Key Programmes:
