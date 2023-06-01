@@ -4,7 +4,6 @@ permalink: /cca/Clubs-and-Societies/art-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
 ![](/images/CCA/art%20club%20s.jpg)
 # **Art Club**
 
