@@ -4,6 +4,8 @@ permalink: /cca/Clubs-and-Societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+![](/images/CCA/infocomm%20club%20s.jpg)
+
 # **Infocomm Technology Club**
 
 ## “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”
