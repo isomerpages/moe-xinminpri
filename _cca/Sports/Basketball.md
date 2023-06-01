@@ -4,6 +4,8 @@ permalink: /cca/sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
+![](/images/CCA/bball%20s.jpg)
+
 # **Basketball**
 
 ### CCA Mission & Key Programmes:
