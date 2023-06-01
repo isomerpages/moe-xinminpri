@@ -3,8 +3,6 @@ title: Parent Support Group
 permalink: /our-partners/psg/
 description: ""
 ---
-
-
 ## Xinmin Primary School Parent Support Group (XMPS PSG) 
 
 
