@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
 ---
-![](/images/music%20dept.JPG)
+![](/images/Department%20Pics/aesthetics%20s.jpg)
 
 # **Aesthetics**
 
