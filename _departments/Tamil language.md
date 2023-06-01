@@ -3,7 +3,7 @@ title: Tamil language
 permalink: /departments/tamil-language/
 description: ""
 ---
-![](/images/Department%20Pics/tamil%20dept.JPG)
+![](/images/Department%20Pics/tamil%20language%20s.jpg)
 
 # **Tamil Language**
 
