@@ -3,7 +3,7 @@ title: Student Well being
 permalink: /departments/student-well-being/
 description: ""
 ---
-![](/images/Department%20Pics/swb%20dept.JPG)
+![](/images/Department%20Pics/student%20well%20being%20s.jpg)
 
 # **Student Well-Being**
 
