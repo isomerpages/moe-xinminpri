@@ -4,7 +4,9 @@ permalink: /cca/performing-arts/international-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-# **International Dance**
+![](/images/CCA/modern%20dance%20s.jpg)
+
+# **Modern Dance**
 
 
 The Xinmin Dance Crew aims to provide dancers with a fun and dynamic way to express themselves through movement. 
