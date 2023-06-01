@@ -4,6 +4,8 @@ permalink: /cca/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
+![](/images/CCA/chinese%20dance%20s2.jpg)
+
 # **Chinese Dance**
 
 ### Mission and Key Programs
