@@ -3,7 +3,7 @@ title: Science
 permalink: /departments/science/
 description: ""
 ---
-![](/images/Department%20Pics/science.jpg)
+![](/images/Department%20Pics/science s.jpg)
 
 # **Science**
 
