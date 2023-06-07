@@ -4,6 +4,8 @@ permalink: /cca/Clubs-and-Societies/environmental-science-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+![](/images/CCA/env%20club%20s.jpg)
+
 # ENVIRONMENTAL SCIENCE CLUB CCA
 ### XMPS ENVIRONMENTAL ACTIVISTS
 The Environmental Science Club was first established in 2019, formerly known as the Eco-Green Club. Our club is the driving force of the school’s eco-environment programmes to create awareness of environmental issues such as environment protection, conservation, preservation and restoration.

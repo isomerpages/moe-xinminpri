@@ -3,6 +3,8 @@ title: Student Well being
 permalink: /departments/student-well-being/
 description: ""
 ---
+![](/images/Department%20Pics/student%20well%20being%20s.jpg)
+
 # **Student Well-Being**
 
 **Vision**
@@ -92,4 +94,3 @@ We work with MSF to run the Positive Parenting Programme (Triple P). This is a p
 **Share and Care**
 
 This is a termly school based programme where students are encouraged to appreciate their teachers and support staff for sharing and showing care to them. The objective of the programme is to imbue in our students the value of showing appreciation to others and to cultivate gratitude for the care shown by our staff.
-

@@ -4,6 +4,8 @@ permalink: /cca/uniformed-groups/brownies/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/CCA/brownies%20s.jpg)
+
 # **Brownies**
 
 

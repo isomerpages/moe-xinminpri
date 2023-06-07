@@ -3,7 +3,7 @@ title: CCE Department
 permalink: /departments/cce-department/
 description: ""
 ---
-
+![](/images/Department%20Pics/cce%20dept.jpg)
 
 # **CCE Department**
 

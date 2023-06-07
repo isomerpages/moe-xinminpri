@@ -3,37 +3,38 @@ title: Malay Language
 permalink: /departments/malay-language/
 description: ""
 ---
-# **Malay Language**
+![](/images/Department%20Pics/malay%20language%20s.jpg)
 
-**Vision:**    
-Mengenali dan memahami bahasa dan budaya Melayu sebagai sebahagian daripada masyarakat majmuk Singapura. (To know and understand the Malay Language and the Malay culture as a part of a multi-racial Singapore)
+# VISION: 
+Every Malay student, an effective communicator who is passionate and appreciates Malay language and culture.
 
+# MISSION: 
+Every Malay student, has strong foundation in Malay language and culture.
 
-### Key Programmes:
+# Key Programmes:
+At Xinmin Primary, our Malay department places great emphasis on the 4 key learning skills such as listening, speaking, writing and reading focusing on authentic activities that better helps us engage our students. We aim to promote students’ interest to appreciate their own culture and values by: 
 
-**P1 &amp; P2 :**
+### Speech and Drama
+Authentic and meaningful activities such as the Speech and Drama programme planned for our Primary 1 & 2 students allows them to express themselves freely and confidently in their MTL from a young age. 
 
-Fortnight Riddle Contest, Home Reading Programme, Oratorical activities, Internal and External Language Competitions
+### Home Reading Programme for P1 and P2
+Our Primary 1 and 2 students will bring home a Malay storybook fortnightly to read and discuss with their parents. Through this programme, we hope to foster parent-school partnership and encourage parents to build responsibility in the students to take charge of their reading habits by spending time to read together with their child.
 
-Oratorical activities were carried out to provide platforms to students to use the Malay language confidently. The activities will allow students to use the new words that they have learnt and acquired during their Malay lessons
+#### Reading Programme for P3 – P6
+Students from P3 to P6 are encouraged to read Malay storybooks from the class library to discover the world around them. Afterwards, activities are specially design to all students encouraging them to show their understanding of the stories they read. Reading certificates are also awarded to students who fulfill the criteria termly. Through this programme, we hope to develop passionate learners of the language, confident in expressing themselves.
 
-**P3:**
+### P3 MT Fortnight activities / P5 Cultural Camp
+To enable our students to appreciate the Malay culture and values, our cultural programmes aim to provide an immersive environment for our students to learn and use the language to better connect with the rich heritage in the Malay culture.
 
-Fortnight Riddle Contest, Malay Language Fortnight (Term 3), Performance Tasks, Home Reading Programme, Internal &amp; External Competitions
+These programmes involve fun and interactive activities such as learning journey to Kampong Buangkok and hands-on activities such as making traditional kuih and basket weaving. There are also different types of indoor and outdoor traditional games and there are ample opportunities for the students to collaborate with their peers when making and playing the traditional games.
 
-Malay Language fortnight activities are conducted for P3 students each year. Students are exposed to folklore stories. They learn how to present a story through drama. Students acted out the story using props and wore costumes to bring out the character they acted. Students enjoy their learning through these activities.
+### Malay newspaper subscription for P4 - P6
+The newspaper supplement learning and teaching in the classroom. Students are exposed to current affairs and there are follow up activities on grammar and listening comprehension as well. Students are given opportunities to discuss about the articles read in the newspaper and present to the class their views.
 
-**P4:**
+### School Based competitions 2023
+Students are given opportunities to display their talent through various competitions planed for them. These competitions are poetry recitation, spelling bee, language quiz, essay writing and scrabble.
 
-Fortnight Riddle Contest, Drama Viewing, Reading Programmes, Internal &amp; External Competitions, Newspaper Subscriptions
-
-**P5:**
-
-Fortnight Riddle Contest, Malay Language Cultural Camp (Term 3), Class Reading Programme, Newspaper Subscriptions, Internal &amp; External Competition
-
-Cultural camp for the P5 students is conducted for them to experience the fine and rich Malay culture. Students will experience the different Malay cultural aspects. Students had the opportunity to create Wedding gift set, creating Wayang Kulit puppets and Batik painting. During the camp, students are given the opportunity to interact with each other using Malay language while learning, understanding and appreciating the Malay culture.
-
-**P6:**
-
-Fortnight Riddle Contest, Reading programme, Newspaper Subscriptions, Internal &amp; external competitions
-
+# Achievements in 2023
+1. Budiman Bestari 2023 (Final)
+Muhd Irfan Rais Bin Mohd Suhaimi (5D)
+(N1 Cluster Schools Champion)

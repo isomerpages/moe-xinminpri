@@ -4,6 +4,7 @@ permalink: /cca/Clubs-and-Societies/art-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+![](/images/CCA/art%20club%20s.jpg)
 # **Art Club**
 
 ### CCA Mission & Key Programmes:
@@ -17,17 +18,17 @@ The Art Club fosters the development of the whole child cognitively, physically,
 
 The Art Club activities challenge members to do art through various techniques, media and materials. While experiencing these, members are encouraged to stretch their imagination and creativity to maximise their potential. The Art Club hopes to build its members’ confidence and artistic skills while developing them to be self-directed and life-long learners.
 
-**Vision:**  
+### Vision: 
 Every Xinminite an Artist
 
-**Mission:**  
+### Mission:  
 To ignite the interest in art through active art making, participation and sharing.
 
-Schedule:
+### Schedule:
 
 Monday: 2.30pm to 4.30pm
 
-Teachers In Charge
+### Teachers In Charge
 
 Mdm Norsekha (overall in charge)
 
@@ -41,4 +42,3 @@ Achievements
 *   SYF 2019 Category C – Recognition Award
 
 SYF 2021 Category C – Recognition Award
-

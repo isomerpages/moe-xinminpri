@@ -4,10 +4,10 @@ permalink: /cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
 ---
+![](/images/CCA/guzheng%20s.jpg)
+
 # **Guzheng**
 
-
-### Description
 
 Guzheng&nbsp;is a Chinese traditional plucked musical instrument with over 2500 years of history. Throughout its history, the&nbsp;Guzheng&nbsp;keeps its vitality by interweaving its music with rich folk culture and creative performances in each generation.
 
@@ -19,22 +19,24 @@ In Xinmin Primary&nbsp;Guzheng&nbsp;Ensemble, students will pick up the foundati
 2) To nurture motivated lifelong learners with a keen appreciation for Guzheng.  
 3) To develop confident and resilient individuals through mastery of Guzheng playing skills and successful performances.
 
+### Achievements
+
+* SYF 2016 Certificate of Distinction
+* SYF 2018 Certificate of Distinction
+
 ### Schedule
 
-Mondays, 2.00pm to 4.00pm
+Mondays 2-4.30 pm (Team 1 and Team 2)
+Tuesdays 4-5.30 pm (Team 1)   
+Thursdays 4-5.30 pm (Team 2)
 
-### 2022 Teachers in charge
 
-Mr Kuah Guo Shen&nbsp;(Overall in-charge)
+### Teachers In Charge
+
+Mr Kuah Guo Shen
 
 Miss Toh Feng Joo
 
 Miss Bong Fung Nyuk
 
 Mr Aaron Tan
-
-### Achievements
-
-* SYF 2018 Certificate of Distinction
-* SYF 2016 Certificate of Distinction
-
