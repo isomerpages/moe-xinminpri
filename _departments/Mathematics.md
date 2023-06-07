@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /departments/permalink/
+permalink: /departments/mathematics/
 description: ""
 ---
 ![](/images/Department%20Pics/maths%20s.jpg)

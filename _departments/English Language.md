@@ -1,6 +1,6 @@
 ---
 title: English Language
-permalink: /departments/permalink/
+permalink: /departments/english/
 description: ""
 ---
 ![](/images/Department%20Pics/el%20dept%20s.jpg)
@@ -50,4 +50,4 @@ To develop competent writers, a progressive and differentiated approach to writi
 In the lower primary English lessons, Xinminites learn how to write independently by integrating the knowledge gained through reading the STELLAR big book and related learning experiences. They are taken through a guided writing process - class, group and individual writing. The group writing activities provide the Xinminites with an opportunity to work on becoming innovative collaborators before embarking on individual writing where they are empowered to express their own creativity. 
 
 ### •	Mentor Texts
-As Xinminites progress to upper primary, they are exposed to mentor texts in addition to the STELLAR texts to help them hone their writing skills. Through mentor texts, Xinminites examine how vocabulary is used in context, learn different types sentence patterns and discover various writing techniques. 
+As Xinminites progress to upper primary, they are exposed to mentor texts in addition to the STELLAR texts to help them hone their writing skills. Through mentor texts, Xinminites examine how vocabulary is used in context, learn different types sentence patterns and discover various writing techniques.
