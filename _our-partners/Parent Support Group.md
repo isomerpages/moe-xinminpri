@@ -26,5 +26,5 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 | S/N | Event | Date | Sign-up link |
 | -------- | -------- | -------- | -- |
-| 1.     | XMPS SwimSafer Programme for P4     | 28 June to 4 Oct 2023    | https://tinyurl.com/XMPSP4SwimSafer |
-| 2. |Drug Awareness Day | 26 June 2023 | https://tinyurl.com/DADXMPS2023 |
+| 1.     | XMPS SwimSafer Programme for P4     | 28 June to 4 Oct 2023    | [https://tinyurl.com/XMPSP4SwimSafer](https://tinyurl.com/XMPSP4SwimSafer) |
+| 2. |Drug Awareness Day | 26 June 2023 | [https://tinyurl.com/DADXMPS2023](https://tinyurl.com/DADXMPS2023) |
