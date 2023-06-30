@@ -49,5 +49,4 @@ Thursday (ad-hoc): 4.00pm to 5.30pm (Seniors)
 
 2023 - March On @ Esplanade Concourse
 
-[SYF 2022 Performance @ SOTA](https://www.youtube.com/watch?v=NtVnDF1lDec)SYF 2022 Performance @ SOTA
-
+[SYF 2022 Performance @ SOTA](https://www.youtube.com/watch?v=NtVnDF1lDec)
