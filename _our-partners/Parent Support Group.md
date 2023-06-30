@@ -27,13 +27,8 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 | S/N | Event | Date | Sign-up link |
 | -------- | -------- | -------- | -- |
 | 1.     | XMPS SwimSafer Programme for P4     | 28 June to 4 Oct 2023    | [https://tinyurl.com/XMPSP4Swim23](https://tinyurl.com/XMPSP4Swim23)  |
-| 2. | P5 LJ to Indian Heritage Centre |  |
-[https://tinyurl.com/XMPSP5IHC23](https://tinyurl.com/XMPSP5IHC23) |
-|3. |Arts Alive Recess Programme | |
-[https://tinyurl.com/XMPSArtsAlive23](https://tinyurl.com/XMPSArtsAlive23) |
-|4.| P4 Arts LJ | |
-[https://tinyurl.com/XMPSP4ArtsLJ23](https://tinyurl.com/XMPSP4ArtsLJ23) |
-|5.| Racial Harmony Day | |
-[https://tinyurl.com/XMPSRHD23](https://tinyurl.com/XMPSRHD23) |
-|6.| (P5 ALP Globe LJ to ) | |
-[https://tinyurl.com/XMPSP5ALPLJ23](https://tinyurl.com/XMPSP5ALPLJ23) |
+| 2. | P5 LJ to Indian Heritage Centre |  | [https://tinyurl.com/XMPSP5IHC23](https://tinyurl.com/XMPSP5IHC23) |
+|3. |Arts Alive Recess Programme | | [https://tinyurl.com/XMPSArtsAlive23](https://tinyurl.com/XMPSArtsAlive23) |
+|4.| P4 Arts LJ | | [https://tinyurl.com/XMPSP4ArtsLJ23](https://tinyurl.com/XMPSP4ArtsLJ23) |
+|5.| Racial Harmony Day | | [https://tinyurl.com/XMPSRHD23](https://tinyurl.com/XMPSRHD23) |
+|6.| (P5 ALP Globe LJ to ) | | [https://tinyurl.com/XMPSP5ALPLJ23](https://tinyurl.com/XMPSP5ALPLJ23) |
