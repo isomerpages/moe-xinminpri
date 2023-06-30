@@ -32,33 +32,19 @@ Students in the Environmental Science Club are empowered to promote environmenta
 
 T-shirt Tote Bags
 
-![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)     ![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
-
 Catapult Making
 
-![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)     ![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)
-
-Repurposing Plastic Milk Cartons
-
-![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)     ![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)         
+Repurposing Plastic Milk Cartons    
 
 Tetra Pak Coasters
-
-![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)     ![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
 
 **Biodiversity activity like the following**
 
 GrowFridge (Growing Microgreens)
 
-![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)   ![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
-
 Terrarium
 
-![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)    ![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg)
-
 Hydroponics
-
-![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg)     ![](file:///C:/Users/S88266~1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.jpg)
 
 **Teachers-in-Charge**
 
