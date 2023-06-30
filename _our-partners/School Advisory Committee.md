@@ -3,8 +3,11 @@ title: School Advisory Committee
 permalink: /school-organisation/school-advisory-committee/
 description: ""
 ---
-
 # **School Advisory Committee**
+
+
+The establishment of School Advisory Committees (SAC) reflects the Ministry of Education’s belief in forming strong partnerships between Schools and their communities. In Xinmin Primary School, we leverage on our SAC members’ expertise in their professional industries to value-add to our student learning experiences, staff developments and school effectiveness, so as to achieve our school’s Vision, Mission and Core Values.
+
 
 | Name 	| Appointment 	|
 | ---	| ---	|
@@ -16,3 +19,7 @@ description: ""
 | Mr Tan Chin Aik, Robert 	| Member 	|
 | Mr Tony Ng Boon Phiang 	| Member 	|
 | Mr Lee Beng Chye 	| Member 	|
+|Mr Loh Chee Wai Felix | Member |
+|Mr Chew Ban Eng Stephen | Member |
+|Ms Simran Kuar Toor | Member |
+|Mr Lee Hong Chuang | Member |
