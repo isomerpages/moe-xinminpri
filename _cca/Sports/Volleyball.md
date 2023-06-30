@@ -37,6 +37,6 @@ National School Games Volleyball Championship 2023
 
 ·       Junior Girls: Tier 2 – 1st Placing
 
-·        National School Games Volleyball Championship 2022
+National School Games Volleyball Championship 2022
 
 ·       Junior Girls: Tier 2 - 2nd Placing
