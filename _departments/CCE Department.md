@@ -5,58 +5,57 @@ description: ""
 ---
 ![](/images/Department%20Pics/cce%20dept.jpg)
 
-# **CCE Department**
 
-Vision : To develop students who consistently demonstrate positive character traits and thinking skills necessary to be successful and contributing citizens.
+# **Vision:**
 
-Xinmin adopts a holistic approach to Character and Citizenship Education. The CCE curriculum “Cultivating a Life of Values and Excellence” or&nbsp;**CLOVE**&nbsp;which blends daily experiences with personal, social and academic development.
+Every Xinminite, a future-ready citizen of good character and resilient with positive well-being.
 
-### Key Programs:
+# **Mission:**
 
-**Learning for Life Programme LLP – CLOVE (Signature Programme)**
+We strive to imbue a strong foundation of positive core values,
 
-It is our goal that the Character Education Program will assist every student in Xinmin Primary to become assets to society by acquiring the following core beliefs and character traits:&nbsp;**Care, Respect, Responsibility**&nbsp;and&nbsp;**Resilience**. The school believes that there is a core set of beliefs and character traits that we share. Hence much emphasis has been placed on the development of these personal qualities in learning so that students become contributing citizens in their schools, families and communities.
+with platforms for Xinminites to display traits of our learner vision outcomes.
 
-**Values In Action (VIA)**
+# **Key Programs:**
 
-VIAs planned are community-based (if SMMs permit) and real-world experiences that illustrate character traits. It is structured in such a way that it spirals from self, family to school to community.
+Xinmin adopts a holistic approach to Character and Citizenship Education. The CCE curriculum “Cultivating a Life of Values and Excellence” or **CLOVE** blends daily experiences with personal, social and academic development through the following programmes.
 
-**4 Commemorative events (Total Defence Day, International Friendship Day,Racial Harmony Day, National Day**）
+### **Values In Action (VIA)**
 
-All commemorative events go through the cycle of&nbsp;**exposure, experience, extension**&nbsp;and&nbsp;**reflection**&nbsp;stage.
+VIA provide authentic opportunities for students to make responsible choices for themselves and others. Students may face challenges in making their choices and will need to demonstrate an open mind, listen to different perspectives, and make decisions that promote school core values and accepted in our social visions.
 
-At the&nbsp;**Exposure**&nbsp;stage, engaging lessons are conducted in class either during Social Studies, Art and Craft, PE or Music periods a week prior to the commemoration of the NE events. This allows students to make connections and ensures continuity in learning. It also makes learning more meaningful.
+In Xinmin, VIAs are community-based and real-world experiences that enhance the development of positive character traits. It is structured in such a way that it spirals from self, family to school to community.
 
-Fun and experiential activities are planned during the&nbsp;**Experience**&nbsp;stage where students develop understandings of themselves and their world through active, hands-on investigation.
+### **4 Commemorative events (Total Defence Day, International Friendship Day,Racial Harmony Day, National Day**）
 
-During the&nbsp;**Extension**&nbsp;stage, relationships are key. It sees parents being involved in the students’ learning where they are engaged in simple activities related to the experiences that the students had gone through. Such partnerships are important as by working together, students’ learning and well-being are enhanced. Teachers are also able to link the students’ experiences at home with the activities that they do in school.
+Our Xinminites will go through the customised learning experiences in the 4 commemorative events to better appreciate the Singapore history and apply their learning to contribute as active citizens.
 
-To help students develop their critical thinking skills and improve on future performance,&nbsp;**Reflections**&nbsp;done in the&nbsp;**Xinminites Journal**&nbsp;allows students to analyse what they have learned and how far they have come.
+Using the 4 stages of Exposure. Experience, Extension and Reflection, our Xinminites will be engaged in these activities which contribute to the development of our Xinminites Learner Vision statement.
 
-**CCE Learning Journeys (Virtual/Non Virtual if SMMs allow)**
+At the **Exposure** stage, engaging lessons are conducted in class either during Social Studies, Art and Craft, PE or Music periods a week prior to the commemoration of the NE events. This allows students to make connections to what they have been learning in their lessons with the activities held on the of the commemorative events. This ensures continuity in learning and makes learning more meaningful.
 
-All students go on compulsory learning journeys (Virtual/Non Virtual if SMMs allow) which are aligned to the theme identified in the CCE curriculum. The NE experiences that the students go on are important experiences that make their learning more concrete and meaningful. By visiting key installations and institutions in Singapore, students will be better able to appreciate what they have learnt in textbooks.
+Fun and experiential activities are planned during the **Experience** stage where students develop understandings of themselves and their world through hands-on investigations. Students also leverage on their knowledge at the earlier stage to better understand the context of their learning environment and open their mind as they listen to others’ perspectives.
 
-**Overseas Trip (Virtual/Non Virtual if SMMs allow)**
+During the **Extension** stage, parents will be robed in to enhance in the students’ learning through specially designed learning that promotes parent-child interactions. Such partnerships are important as by working together, both parents and our Xinminites will better appreciate the essence of the 4 commemorative events, especially in the rapid changing landscape like Singapore. Teachers are also able to link the students’ experiences at home with the activities that they do in school.
 
-Selected Primary 4 and 5 students who are able to interact in relation to others with care, empathy and respect are invited to go on NE focused overseas trips (Virtual/Non Virtual if SMMs allow). They must have developed emerging autonomy, inter-dependence, resilience, knowledge and confident self-identities too.
+To help students develop their critical thinking skills and improve on future performance, **Reflections** done in the **Xinminites Journal** allow students to summarise what they have learned and how they can contribute as active citizens.
 
-**Friend of Singa (FOS)**
+### **CCE Cohort Learning Journeys (LJ)**
 
-Friend of Singa (FOS) Primary program is an initiative by Singapore Kindness Movement to encourage students to contribute beyond themselves and to the betterment of their surroundings. 2022 sees the popular FOS Primary programme transformed into mission undertakings so that Kindness becomes an inclusive movement for all. Every student gets an opportunity to be a Friend of Singa. Students will continue to exemplify kindness through our FOS missions in 2022.
+Cohort Learning Journeys (LJs) provide Xinminites with opportunities to explore their Singaporean identity through the arts, culture and heritage. These cohort LJs have been specially curated for students’ formative years for the development of citizenship dispositions and national identity. These LJ experiences that the students go through are important experiences that make their learning more concrete and meaningful. By visiting key installations and institutions in Singapore, students are given the platforms to display their life-long learner traits and will be better able to appreciate and relate to what they have learnt in textbooks.
 
-At the end of the year, students who have completed both FOS missions will be recognised as a Friend of Singa!
+### **Virtual Overseas Trip (2023)**
 
-**CCE Conversations**
+Primary 5 students will be exchanging school experiences with selected schools in Taiwan/China. Students will be resilient in adapting to their new environment and will be able to interact with their counterparts with care and respect. Students will be able to showcase confidently their school projects and CCAs using this platform. As our Xinminites raise questions on the different cultural practices to their counterparts to satisfy their curiosity, they do enhance their sense of identity and further reinforce the importance of positive CCE traits in our Xiniminites.
 
-With a range of global and current issues confronting students, dedicated periods have been allocated for the discussion of contemporary issues every term. The purpose of this is to instill a strong foundation in critical thinking and problem-solving skills to nurture our students into caring and concerned citizens who are intrinsically motivated to contribute to the success and well-being of fellow Singaporeans.
+### **Programme for Active Learning (PAL)**
 
-**Social Studies**
+P1 and P2 Xinminites undergo Programme for Active Learning (PAL) during curriculum hours. During PAL, students are exposed to varied and fun learning experiences that facilitate their holistic development in the physical, cognitive, social, aesthetics and moral domains. Students also learn socio-emotional competencies such as respecting others and responsible decision-making. The PAL modules aim for students to develop confidence in what they do, develop a sense of curiosity and positive attitude towards learning and enjoy group experiences and teamwork.
 
-The inquiry approach is used for the learning of concepts, skills and exploration of topics in Social Studies. Students by nature are inquisitive and teaching through inquiry aims to harness this innate motivation in our students to inquire into things that interest them.
+### **Friend of Singa (FOS）**
 
-Students also embark on Project Work (PW) to develop their competencies for the 21st century. The project incorporates the process-oriented form of inquiry where it is characterised by the four aspects (sparking curiosity, gathering data, exercising reasoning and reflective thinking). Students collaborate online to gather the necessary information, make sense of the data collected and draw conclusions based on sound judgement.
+Friend of Singa (FOS) Primary programme is an initiative by Singapore Kindness Movement to encourage students to contribute beyond themselves and to the betterment of their surroundings. 2023 will see the popular FOS Primary programme transformed into a project-based type of mission. Students are to take the lead into getting the school onto a kindness movement and every student will get an opportunity to be a Friend of Singa. Through this activity, we hope to see our Xinminites displaying the characteristics of an innovative collaborator and confident leader through leading their peers in their own-initiated project.
 
-**Sexuality Education Programme**
+###  **CCE Conversations**
 
-More info can be found&nbsp;[here](/our-resources/for-parents/sexuality-education-programme/).
+With a range of global current issues confronting students, dedicated periods have been allocated for the discussion of contemporary issues every term. The purpose of this is to instill a strong foundation in critical thinking and problem-solving skills to nurture our students into caring and concerned citizens who are intrinsically motivated to contribute to the success and well-being of fellow Singaporeans.
