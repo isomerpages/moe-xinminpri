@@ -5,48 +5,28 @@ description: ""
 ---
 ![](/images/Department%20Pics/ict%20dept%20s.jpg)
 
-# **ICT**
+# **Department Vision: 
+A community of future-ready and responsible digital learners**
 
-**Vision**   
-Nurturing every Xinminite to be future-ready and responsible digital learners.
+# **Department Mission: 
+To enable active learning experiences and meaningful connected learning through an ICT- enriched learning environment.**
 
-### Organisation Structure
+# Key Programmes;
 
+To realise our vision, the following programmes have been specially designed to bring active and meaningful learning experiences to our Xinminites.
 
+### **Primary 1 and 2 ICT Lessons**
 
-### Key Programmes
+The lower primary students learn basic ICT skills during their EL-ICT lessons. These lessons are carried out every fortnight by our resident ICT Trainer. Students are taught basic ICT and New Media Literacy (NML) skills. These lessons provide opportunity for students to develop knowledge and skills that are useful in the real world.
 
-**Primary 1 and 2 ICT Lessons**
+### **Primary 3, 4 and 5 New Media Literacy Lessons**
 
-Objective:
+In our efforts to raise life-long learners and innovative collaborators, the ICT Department teachers conduct lessons to teach students useful skills in creating digital content, curating information obtained from the Internet and connecting with others to deepen their knowledge and subject mastery.
 
-*   To provide opportunity for students to develop knowledge and skills that are useful in the real world.
+Students are empowered to learn with technology through the tools such as Google slides, Google sites and keynotes, which provide them with opportunities to be future ready creators, learners and collaborators.
 
-These lessons are carried out every fortnight by our resident ICT Trainer. Students are taught basic ICT and New Media Literacy skills.
+With these skills learnt, students will be self-directed in creating digital artefacts as a platform to demonstrate their learning in various subjects.
 
-| SKILLS 	| LEVEL 	|
-|---	|---	|
-| • Log in to Windows<br>• Navigate SLS, MyOn, Student Icon and Zoom<br>• Touch typing<br>• Creating a document using Microsoft Word and Google Docs 	| P1 	|
-| • Create a presentation using Microsoft PowerPoint and Google Slides<br>• Demonstrate effective search skills<br>• Practise safe and ethical serach 	| P2 	|
+### **Use of e-Pedagogy for Active Learning**
 
-
-### P3 Coding Programme
-
-**Objective:**
-
-*   To develop basic coding skills.
-*   To instill interest in coding.
-
-This programme is catered to all Primary 3 students. After 7 sessions, each student will be able to create a simple game of their own on Scratch. This 10.5-hour programme is conducted during Modular CCA sessions.
-
-Students are taught to create animation through a block of codes. Lessons typically start with the instructor teaching them how to build a block of codes that are required for the day. Time is given for students to explore the codes for themselves and modify them to form the animation that they want.
-
-Students will be trained to exercise sequential thinking as they need to know the sequence of the codes to achieve the figures that they want. Students will develop their visualisation skills as they need to first visualise what they want to create. There are opportunities for students to display creativity when they modify their codes.
-
-The opportunity to display creativity injects a high level of interest and engagement among students. The response from students&nbsp; thus far has been positive.
-
-
-		 
-### New Media Literacies
-
-In our efforts to raise future-ready and responsible digital learners, we get our students to go through SLS packages teaching them these skills. Within a semester, students are to complete their NML SLS package at their own pace. We hope this will help to promote self-directedness in our students.&nbsp;The NML packages are created by our own ICT department members and unique to Xinmin Primary!
+Technology allows students to create digital artefacts of their own learning.  Our teachers being Innovative learners in Xinmin, design lessons with the aid of Active Learning Processes. They provide opportunities for students to create and collaborate via tools learnt during through the ICT lessons and New Media Literacy lessons using SLS portals. Such platforms allows our Xinminites to be inquisitive and self-directed learners.
