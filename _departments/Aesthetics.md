@@ -5,42 +5,40 @@ description: ""
 ---
 ![](/images/Department%20Pics/aesthetics%20s.jpg)
 
+# **Vision:**
 
+Every Xinminite, an **artist** and a **musician**.
 
+# **Mission:**
 
+Nurturing the **Passion** for the **Arts**
 
+### **Aesthetics Curriculum Focus to develop Xinminites to be artists and musicians:**
 
-**VISION:**  
-Every Xinminite, a confident citizen of character, ready for the future.
+•       equipped with Visual Inquiry Skill (Art) & musicians and musical Skills (Listening, Creating & Performing)
 
-**MISSION:**    
-Nurturing the Passion for the Arts (Visual Arts &amp; Performing Arts) in every Xinminite.
+•       imbued with awareness, appreciation and respect for the cultures of various art forms (Visual Art & Music)
 
-**AESTHETICS CURRICULUM:**
+•       working collaboratively with their peers in art making and music making
 
-We will to develop our Xinminites with:
+# **Aesthetics Signature Programmes:**
 
-1.  a) Visual Inquiry skill &amp; Musical skills (Listening, creating and performing)
-2.  b) Awareness, appreciation and respect for the cultures of various art forms (Visual art and Music)
-3.  c) Enjoyment in art making and music making.
+## **Aesthetics Week**
 
-**KEY ART &amp; MUSIC CURRICULUM**
+Our annual Aesthetics Week is a celebration of the arts (visual and music) with the aim of igniting the passion for arts in our Xinminites. The students are given the opportunity to participate in a variety of activities in class and during recess. It is not just about creating things but about appreciating the beauty of Aesthetics in our lives.
 
-| Levels 	| Art 	| Music 	|
-|---	|---	|---	|
-| P1 	| Self-portrait<br>Malay craft: Wayang Kulit 	| Percussion 	|
-| P2 	| Family portrait<br>Chinese Ink Painting 	| Cajon 	|
-| P3 	| Ceramics<br>Indian Craft: Henna Art 	| Movements in music 	|
-| P4 	| Scenery Painting<br>Singapore Cityscape 	| Keyboard 	|
-| P5 	| Batik<br>Paper Mache 	| Ukulele 	|
-| P6 	| Mosaic Art<br>Wire Sculpture 	| Bandlab 	|
+## **Arts Alive@Recess**
 
-**KEY PROGRAMMES**
+The environment is the third teacher, thus we provide opportunities to nurture the passion for the visual arts through Arts Alive@ recess. Art activities were specially planned by the art teachers and conducted by parent volunteers during recess. Besides consuming food during recess, students are encouraged to meaningfully occupy their time with art activities like origami craft work, pebble painting, designing bookmarks.
 
-*   Aesthetics Week
-*   In-House Art Gallery
-*   Music Recitals
-*   ARTS Alive! @ Recess
-*   Art Learning Journeys
-*   P1 &amp; P2 Talent Identification for Aesthetics CCAs
-*   Singapore Youth Festival participation by Aesthetics CCAs (Art Club, Chinese Dance, International Dance, Chinese Dance, Guzheng)
+## **Xinmin Got Talent**
+
+Xinmin Got Talent is a platform for our Xinminites to showcase their talents. We encourage our students to exhibit any form of talents either individually or collaborate with their friends to put up a performance. Through this platform, the performers build their resilience and confidence. The audience are exposed to different forms of performing arts and learn to appreciate and show support to their peer performers. 
+
+## **Performing HeArts Concert**
+
+Performing HeArts takes place biannually at Xinmin Primary School and is highly anticipated by both performers and parents. The concert showcases the diversity of artistic talents from the Performing Arts CCAs – Modern Dance, Chinese Dance, Guzheng Ensemble and Choir.
+
+## **Singapore Youth Festival (Visual Arts & Performing Arts)**
+
+Singapore Youth Festival is an annual event organized by the Ministry of Education to celebrate the vitality of our youths and their diverse talents. Our Aesthetics CCAs CCSs – Art & Crafts CCA, Modern Dance, Chinese Dance, Guzheng Ensemble and Choir participate actively in SYF. It is a good platform for development of our Xinminites to be showcase their diverse artistic talents and to collaborate among their peers within the CCAs.
