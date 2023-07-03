@@ -6,37 +6,42 @@ third_nav_title: Performing Arts
 ---
 ![](/images/CCA/guzheng%20s.jpg)
 
-# **Guzheng**
+        
 
+# **Mission & Key Programmes:**
 
-Guzheng&nbsp;is a Chinese traditional plucked musical instrument with over 2500 years of history. Throughout its history, the&nbsp;Guzheng&nbsp;keeps its vitality by interweaving its music with rich folk culture and creative performances in each generation.
+# **Mission**
 
-In Xinmin Primary&nbsp;Guzheng&nbsp;Ensemble, students will pick up the foundational skills and move on to play various genres of music once they acquire the basic playing techniques. Students are often given platforms to showcase what they have learnt, e.g. Performing HeArts, Recognition Day concert and festive celebration concert. In both 2016 and 2018,&nbsp;Xinmin Primary&nbsp;Guzheng&nbsp;Ensemble managed to attain the Certificate of Distinction in the SYF Arts Presentation (Guzheng).
+1) To cultivate mental, emotional, and musical growth through learning Guzheng.
 
-### Mission  
-1) To cultivate mental, emotional and musical growth through learning of Guzheng.
+2) To nurture motivated lifelong learners with a keen appreciation for Guzheng  
+3) To develop confident and resilient individuals who can collaborate with other players in music making through the mastery of Guzheng playing skills and successful performances.
 
-2) To nurture motivated lifelong learners with a keen appreciation for Guzheng.  
-3) To develop confident and resilient individuals through mastery of Guzheng playing skills and successful performances.
+In Xinmin Primary Guzheng Ensemble, students will pick up the foundational skills and move on to play various genres of music once they acquire the basic playing techniques. Through our training sessions, students will understand the importance of teamwork and learn to collaborate with other players to make music together. The ensemble has been working hard towards excellence over the years and has developed strong bonding among the members.
 
-### Achievements
+Throughout the years in Xinmin Primary Guzheng Ensemble, students will be exposed to traditional Chinese music pieces, Mandopop medleys and even English pop songs. Students are often given platforms to showcase what they have learnt, e.g. the bi-annual Performing HeArts concerts, Recognition Day concerts and festive celebration concerts.
 
-* SYF 2016 Certificate of Distinction
-* SYF 2018 Certificate of Distinction
-
-### Schedule
-
-Mondays 2-4.30 pm (Team 1 and Team 2)
-Tuesdays 4-5.30 pm (Team 1)   
-Thursdays 4-5.30 pm (Team 2)
-
-
-### Teachers In Charge
+### **Teachers-In-Charge**
 
 Mr Kuah Guo Shen
 
-Miss Toh Feng Joo
+Ms Toh Feng Joo
 
-Miss Bong Fung Nyuk
+Ms Bong Fung Nyuk
 
 Mr Aaron Tan
+
+**Schedule**
+
+Mondays 2-4.30 pm (Team 1 and Team 2)
+
+Tuesdays 4-5.30 pm (Team 1)
+
+Thursdays 4-5.30 pm (Team 2)
+
+\*Students are allocated into various teams according to the parts they are playing for the songs.
+
+  
+**Achievements**
+
+NIL

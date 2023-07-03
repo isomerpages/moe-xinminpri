@@ -12,9 +12,6 @@ third_nav_title: Clubs and Societies
 —Bill Gates, Co-Chairman, Bill & Melinda Gates Foundation, Co-Founder, Microsoft
 
 
-### Vision:
-Every Infocomm Club member a logical problem solver. 
-
 ### Mission:
 To instil the joy of logic-based coding and programming 
 

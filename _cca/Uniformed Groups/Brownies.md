@@ -6,16 +6,13 @@ third_nav_title: Uniformed Groups
 ---
 ![](/images/CCA/brownies%20s.jpg)
 
-# **Brownies**
+# **Mission & Key Programmes:**
 
-
-### CCA Mission & Key Programmes:
-      
 Following the Girl Guide movement, Brownies are inculcated with the skills to cope with the ever-changing demands of the world. It teaches and equips girls with life-skills which in turn shapes the lives of many girls.
 
-Brownies are given opportunities to participate in various competitions organised by the Girl Guide Singapore (Headquarters). Xinmin Brownies also partner with North Division Guides to contribute their services to the community. To instill the value of empathy, Brownies also participate in Service-Learning projects.  With such projects, the Brownies are made aware of the plight of others and play a part in improving and changing the lives of the community.
+Brownies are given opportunities to participate in various competitions organized by the Girl Guide Singapore (Headquarters). Xinmin Brownies also partner North Division Guides to contribute their services to the community. To instill the value of empathy, Brownies also participate in Service-Learning projects.  With such projects, the Brownies are made aware of the plight of others as they play a part in improving and changing the lives of the community. Brownies collaborate with other Uniform Groups (Red Cross and Scouts) in Xinmin Primary School to teach and learn about skills that can be used across the Uniformed Groups.
 
-### Teachers in Charge:
+### Teachers-in-Charge
 
 Mrs Malini Madasamy (Overall-in-charge)
 
@@ -25,20 +22,21 @@ Miss Charlene Lim
 
 Miss Steffi Tan
 
-### Schedule:
+### Schedule
 
-Mondays
-2.30pm - 4.30pm
+Mondays: 2.30pm - 4.30pm
 
-### Achievements (2021):
+### Achievements
 
-·       North Division Day – Girls Have Talent Competition: Merit Award
+### 2021
+
+·       North Division Day 2021 – Girls Have Talent Competition: Merit Award
 
 ·       GGS World Thinking Day 2021 Social Action Video Contest – 3rd Place
 
 ·       Puan Noor Aishah Award – Gold Award
 
-### Achievements (2022):
+### 2022
 
 ·       North Division Day – 3Rs Poster Design - 1st Place
 
