@@ -19,7 +19,7 @@ Mother Tongue
 |Mdm Fun Kai Tien |CL Coordinator |	fun_kai_tien@schools.gov.sg|
 |Miss Bong Fung Nyuk | Senior Teacher / CL | bong_fung_nyuk@schools.gov.sg |
 | Mr Kuah Guo Shen | Senior Teacher / CL | kuah_guo_shen@schools.gov.sg |
- | Mr Gary Tang	 | Assistant Year/ P5  | tang_kia_miang_gary@schools.gov.sg | 
+ | Mr Gary Tang	 | Assistant Year Head / P5  | tang_kia_miang_gary@schools.gov.sg | 
  | Mr Tan Hoe Tsong|	Subject Head / ICT (Data Management) 	| [tan_hoe_tsong@schools.gov.sg](tan_hoe_tsong@schools.gov.sg) |
  | Mdm Li Wenting  | 	 | li_wenting@schools.gov.sg | 
  | Mdm Liu Swee Yen  | 	 | liu_swee_yen@schools.gov.sg | 
