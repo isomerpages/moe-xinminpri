@@ -26,7 +26,6 @@ Mother Tongue
  | Mdm Wang Xiao Hua  |  |  	wang_xiaohua@schools.gov.sg | 
  | Mdm Guan Jiajia | |  	guan_jiajia@schools.gov.sg | 
  | Mdm Yang Xu | |  	yang_xu@schools.gov.sg | 
-
  | Mdm Teh Swee Sing |  | 	teh_swee_sing@schools.gov.sg | 
  | Miss Shek Yan Yee |  | 	shek_yan_yee@schools.gov.sg | 
  | Mdm Zhao Tingyan |  | 	zhao_tingyan@schools.gov.sg | 
