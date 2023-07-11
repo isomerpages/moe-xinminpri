@@ -21,5 +21,5 @@ The establishment of School Advisory Committees (SAC) reflects the Ministry of E
 | Mr Lee Beng Chye 	| Member 	|
 |Mr Loh Chee Wai Felix | Member |
 |Mr Chew Ban Eng Stephen | Member |
-|Ms Simran Kuar Toor | Member |
+|Ms Simran Kaur Toor | Member |
 |Mr Lee Hong Chuang | Member |
