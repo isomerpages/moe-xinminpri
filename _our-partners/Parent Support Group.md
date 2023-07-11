@@ -32,5 +32,5 @@ Event | Date | Sign-up link |
 | P4 Arts LJ | | [https://tinyurl.com/XMPSP4ArtsLJ23](https://tinyurl.com/XMPSP4ArtsLJ23) |
 | Racial Harmony Day | | [https://tinyurl.com/XMPSRHD23](https://tinyurl.com/XMPSRHD23) |
 | (P5 ALP Globe LJ to ) | | [https://tinyurl.com/XMPSP5ALPLJ23](https://tinyurl.com/XMPSP5ALPLJ23) |
-|P4 NAPFA 1.6KM RUN| | |https://tinyurl.com/XMPSP4NAPFA23|
-|P3/P4 Sports Carnival 2023||https://tinyurl.com/XMPSP3P4SPORTS23|
+|P4 NAPFA 1.6KM RUN|  |[https://tinyurl.com/XMPSP4NAPFA23](https://tinyurl.com/XMPSP4NAPFA23)|
+|P3/P4 Sports Carnival 2023||[https://tinyurl.com/XMPSP3P4SPORTS23](https://tinyurl.com/XMPSP3P4SPORTS23)|
