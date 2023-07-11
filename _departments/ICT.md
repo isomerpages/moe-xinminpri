@@ -5,13 +5,13 @@ description: ""
 ---
 ![](/images/Department%20Pics/ict%20dept%20s.jpg)
 
-# **Department Vision: 
-A community of future-ready and responsible digital learners**
+# Vision: 
+A community of future-ready and responsible digital learners
 
-# **Department Mission: 
-To enable active learning experiences and meaningful connected learning through an ICT- enriched learning environment.**
+# Mission: 
+To enable active learning experiences and meaningful connected learning through an ICT- enriched learning environment.
 
-# Key Programmes;
+# Key Programmes:
 
 To realise our vision, the following programmes have been specially designed to bring active and meaningful learning experiences to our Xinminites.
 
