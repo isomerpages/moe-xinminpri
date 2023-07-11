@@ -20,6 +20,7 @@ Mother Tongue
 |Miss Bong Fung Nyuk | Senior Teacher / CL | bong_fung_nyuk@schools.gov.sg |
 | Mr Kuah Guo Shen | Senior Teacher / CL | kuah_guo_shen@schools.gov.sg |
  | Mr Gary Tang	 | Assistant Year/ P5  | tang_kia_miang_gary@schools.gov.sg | 
+ | Mr Tan Hoe Tsong|	Subject Head / ICT (Data Management) 	| [tan_hoe_tsong@schools.gov.sg](tan_hoe_tsong@schools.gov.sg) |
  | Mdm Li Wenting  | 	 | li_wenting@schools.gov.sg | 
  | Mdm Liu Swee Yen  | 	 | liu_swee_yen@schools.gov.sg | 
  | Miss Toh Feng Joo | 	 | toh_feng_joo@schools.gov.sg | 
@@ -28,7 +29,12 @@ Mother Tongue
  | Mdm Yang Xu | |  	yang_xu@schools.gov.sg | 
  | Mdm Teh Swee Sing |  | 	teh_swee_sing@schools.gov.sg | 
  | Miss Shek Yan Yee |  | 	shek_yan_yee@schools.gov.sg | 
+ |Mdm Chai Chang Ciek|	|	chai_chang_ciek@schools.gov.sg|
  | Mdm Zhao Tingyan |  | 	zhao_tingyan@schools.gov.sg | 
+ |Ms Grace Koh	| |	grace_koh_ai_meng@schools.gov.sg|
+ |Miss Foo Wei Woon	|	|foo_wei_woon@schools.gov.sg|
+ | | Mdm Naime	| 	| [noor_naime_zainal_abidin@schools.gov.sg](noor_naime_zainal_abidin@schools.gov.sg) |
+ 
 
 # Malay Language
 
