@@ -24,7 +24,7 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 
 
-Event | Date | Sign-up link |
+|Event | Date | Sign-up link |
 | -------- | -------- | -------- |
 | XMPS SwimSafer Programme for P4     | 28 June to 4 Oct 2023    | [https://tinyurl.com/XMPSP4Swim23](https://tinyurl.com/XMPSP4Swim23)  |
 | P5 LJ to Indian Heritage Centre |  | [https://tinyurl.com/XMPSP5IHC23](https://tinyurl.com/XMPSP5IHC23) |
