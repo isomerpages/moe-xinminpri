@@ -4,8 +4,7 @@ permalink: /school-organisation/allied-educators/
 description: ""
 third_nav_title: Staff
 ---
-
-# **Allied Educators**
+# *Special Educational Needs Officers*
 
 | Name 	| Designation 	| Email 	|
 |---	|---	|---	|
