@@ -1,5 +1,5 @@
 ---
-title: Student Management Leadership
+title: Student Management & Leadership
 permalink: /departments/student-management-leadership/
 description: ""
 ---

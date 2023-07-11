@@ -15,8 +15,12 @@ third_nav_title: Clubs and Societies
 ### Mission:
 To instil the joy of logic-based coding and programming 
 
-The Infocomm Club is a CCA for students who are passionate about coding. Students will develop critical thinking skills and creativity through the basics of coding on Scratch. They will be equipped with knowledge to present stories or to create games online before moving onto LEGO Spike Prime robotic sets in the 2nd half of the year. 
-P5 and P6 members will continue to explore coding with LEGO Spike Prime programme sponsored by IMDA. The potential for our students to build is limitless, with their imagination as the only limit. Through the use of LEGO Spike Pro sets, they are able to build robots using sensors, motors and arms to carry out a variety of tasks such as navigating a drawn route or pick up items. This encourages them to code efficiently and also develops their resilience and logical thinking. Students get to apply concepts learnt in their mathematics and science lessons such as angles, light and speed while they code.
+The Infocomm Club is a CCA for students who are passionate about coding. Students will develop critical thinking skills and creativity through the basics of coding on Scratch. 
+
+Our middle primary members will be equipped with knowledge to present stories or to create games online on Scratch before moving onto LEGO Spike Prime robotic sets in the 2nd half of the year. They will learn to use block-based programming in both programmes which eases the transition between the two.
+
+Our upper primary members will continue to explore coding with LEGO Spike Prime programme. With their limitless imagination, they are able to build robots using sensors, motors and arms to carry out a variety of tasks such as navigating a drawn route or pick up items. Besides learning the skills to code efficiently, it develops their resilience and logical thinking. Students get to apply concepts learnt in their mathematics and science lessons such as angles, light and speed while they code.
+
 Through logic-based coding, students hone their logical reasoning as they get the robots to carry out tasks in a fun and meaningful way. They also work in groups and learn collaboratively with their peers. This gives them opportunities to develop effective communication skills and become better team players.
 
 

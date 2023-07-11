@@ -1,5 +1,5 @@
 ---
-title: Student Well being
+title: Student Well Being
 permalink: /departments/student-well-being/
 description: ""
 ---

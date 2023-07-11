@@ -1,11 +1,10 @@
 ---
-title: Allied Educators
-permalink: /school-organisation/allied-educators/
+title: Special Educational Needs Officers
+permalink: /school-organisation/special-educational-needs/
 description: ""
 third_nav_title: Staff
 ---
-
-# **Allied Educators**
+# *Special Educational Needs Officers*
 
 | Name 	| Designation 	| Email 	|
 |---	|---	|---	|

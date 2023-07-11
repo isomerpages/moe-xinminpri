@@ -1,6 +1,6 @@
 ---
-title: PE & CCA
-permalink: /departments/pe-cca/
+title: Physical Education
+permalink: /departments/physical-education/
 description: ""
 ---
 ![](/images/Department%20Pics/pe%20dept%20s.jpg)

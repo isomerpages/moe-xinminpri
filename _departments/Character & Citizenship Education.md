@@ -1,6 +1,6 @@
 ---
-title: CCE Department
-permalink: /departments/cce-department/
+title: Character & Citizenship Education
+permalink: /departments/character-citizenship-education/
 description: ""
 ---
 ![](/images/Department%20Pics/cce%20dept.jpg)
