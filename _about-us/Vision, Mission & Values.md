@@ -3,9 +3,7 @@ title: Vision, Mission & Values
 permalink: /about-us/vision-mission-values/
 description: ""
 ---
-![](/images/Actual-113-e1492360151340.jpg)
 
-# **School Vision, Mission & Values**
 
 ## Our Vision ##
 Every Xinminite, a confident citizen of character, ready for the future
