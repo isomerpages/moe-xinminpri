@@ -4,8 +4,6 @@ permalink: /school-organisation/primary-4/
 description: ""
 third_nav_title: Staff
 ---
-
-
 # **Primary 4**
 
 ### Year Head
@@ -27,7 +25,7 @@ third_nav_title: Staff
 ||Mr V Vimal Kumar|4C Form Teacher|v_vimal_kumar@schools.gov.sg|
 |4D	|Mr Edwin Pang|	4D Form Teacher	|edwin_pang_ting_how@schools.gov.sg|
 ||Miss Foo Wei Woon	|4D Form Teacher	|foo_wei_woon@schools.gov.sg|
-|4E|	Mrs Vijay	|4E Form Teacher|	t_sumathy@schools.gov.sg|
+|4E|	Mrs Vijay	|4E Form Teacher|	xinmin_ps@moe.edu.sg|
 ||Mdm Li Wenting|	4E Form Teacher	|li_wenting@schools.gov.sg|
 4F	|Mdm Zhao Tingyan	|4F Form Teacher	|zhao_tingyan@schools.gov.sg|
 ||Mrs Melinda Lim	|4F Form Teacher	|melinda_ashleigh_sim@schools.gov.sg|
