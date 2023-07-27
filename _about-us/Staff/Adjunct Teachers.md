@@ -19,4 +19,5 @@ third_nav_title: Staff
 |Ms Koh Ying Sin| FAJT (Chinese Language) | [koh_ying_sin@schools.gov.sg](koh_ying_sin@schools.gov.sg)|
 |Mrs Pagon Ong|FAJT (English) |[xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) |
 |Mdm Myyher Lim|FAJT (Math)|[xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) |
+|Mdm Ng Chay Luan| FAJT (Math) |[xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg)|
 |Mr Sadik|FAJT (PE)|[xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) |
