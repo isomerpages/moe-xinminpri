@@ -4,7 +4,6 @@ permalink: /school-organisation/school-executive-committee/
 description: ""
 third_nav_title: Staff
 ---
-
 # **School Executive Committee**
 
 ### School Leaders
@@ -28,7 +27,7 @@ third_nav_title: Staff
 | Mrs Joycelyn Soo 	| HOD / Discipline and Student Leadership 	| [yeo_su_yong_joycelyn@schools.gov.sg](mailto:yeo_su_yong_joycelyn@schools.gov.sg) 	|
 | Miss Yap Li Ling 	| HOD / Mother Tongue 	| [yap_li_ling@schools.gov.sg](mailto:yap_li_ling@schools.gov.sg) 	|
 | Mdm Azlinah Bte Dakarlan  	| HOD / Character and Citizenship Education (CCE) 	| [azlinah_dakarlan@schools.gov.sg](mailto:azlinah_dakarlan@schools.gov.sg) 	|
-| Mdm Noor Hafizah Bte Hamis 	| HOD / Information and Communication Technology (ICT) 	| [noor_hafizah_hamis@schools.gov.sg](mailto:noor_hafizah_hamis@schools.gov.sg) 	|
+| Mdm Noor Hafizah Bte Hamis 	| HOD / Information and Communication Technology (ICT) 	| [xinmin_ps@moe.edu.sg](xinmin_ps@moe.edu.sg) 	|
 
 
 ### Year Heads and Assistant Year Head

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff
 ---
 # Subject Teachers
-================
+
 
 
 
@@ -19,4 +19,5 @@ third_nav_title: Staff
  | Mr Adnan Bin Omar | 	xinmin_ps@moe.edu.sg | 
  | Mrs Joycelyn Soo | 	yeo_su_yong_joycelyn@schools.gov.sg | 
  | Mdm Noor Hafizah Bte Hamis | 	noor_hafizah_hamis@schools.gov.sg | 
- | Mrs Ruth Pakiam | 	ruth_josephine_arul_soosay@schools.gov.sg | 
+ | Mrs Ruth Pakiam | 	ruth_josephine_arul_soosay@schools.gov.sg |
+ |Mr Rohinesh|xinmin_ps@moe.edu.sg|
