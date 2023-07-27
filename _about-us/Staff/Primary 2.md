@@ -10,13 +10,13 @@ third_nav_title: Staff
 
 |Name|	Designation|	Email|
 |----|----|----|
-|Mdm Sim Choy Yin|	Year Head (Lower Block / P2)	|sim_choy_yin@schools.gov.sg|
+|Mdm Sim Choy Yin|	Year Head (Lower Block / P2)	|[sim_choy_yin@schools.gov.sg](sim_choy_yin@schools.gov.sg)|
 
 **Form Teachers**
 
 | Class | Name | Designation | Contact | 
 | -------- | -------- | -------- |-------- |
-|2A	|Mrs Nur Amilia Fendy|	2A Form Teacher|	nur_amilia_abdul_rahim@schools.gov.sg|
+|2A	|Mrs Nur Amilia Fendy|	2A Form Teacher|	[nur_amilia_abdul_rahim@schools.gov.sg](nur_amilia_abdul_rahim@schools.gov.sg)|
 ||Mrs Celine Ong	|2A Form Teacher|	lim_celine@schools.gov.sg||
 |2B	|Mrs Agnes Tan	|2B Form Teacher|	agnes_tan_hai_hui@schools.gov.sg|
 ||Mdm Wang Xiao Hua	|2B Form Teacher|	wang_xiaohua@schools.gov.sg|
