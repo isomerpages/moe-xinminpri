@@ -4,7 +4,6 @@ permalink: /school-organisation/adjunct-teachers/
 description: ""
 third_nav_title: Staff
 ---
-
 # **Adjunct Teachers**
 
 | Name 	| Designation 	| Email 	|
@@ -13,11 +12,8 @@ third_nav_title: Staff
 | Mrs Wendy Chua 	| FAJT (English/Maths) 	| [wendy_quek_seng_yuen@schools.gov.sg](mailto:wendy_quek_seng_yuen@schools.gov.sg) 	|
 | Mdm Soon Sok Hian 	| FAJT (English/Maths/SS) 	| [xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) 	|
 | Mrs Melinda Ashleigh Lim-Sim 	| FAJT (English/Maths) 	| [melinda_ashleigh_sim@schools.gov.sg](mailto:melinda_ashleigh_sim@schools.gov.sg) 	|
-| Mrs Chelsia Ng-Lim 	| FAJT (English/Maths) 	| [chelsia_lim@schools.gov.sg](mailto:chelsia_lim@schools.gov.sg) 	|
 | Ms Tan Soi Lan 	| FAJT (Chinese Language) 	| xinmin_ps@moe.edu.sg 	|
 | Ms Lim Lay Leng 	| FAJT (Chinese Language) 	| [xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) 	|
-| Ms Herda Binte Dolfata 	| FAJT (Malay Language) 	| [herda_dolfata@schools.gov.sg](mailto:herda_dolfata@schools.gov.sg)|
 |Ms Richelle Teng| FAJT | teng_mei_lin_richelle@schools.gov.sg|
 |Mrs Lim-Siew Wai Mun | FAJT (Math/Science) | siew_wai_mun@schools.gov.sg|
 |Ms Koh Ying Sin| FAJT (Chinese Language) | koh_ying_sin@schools.gov.sg| 
-|Mrs Roslyn Sim| FAJT (Math/Science)|yeo_yin_siew_roslyn@moe.edu.sg|
