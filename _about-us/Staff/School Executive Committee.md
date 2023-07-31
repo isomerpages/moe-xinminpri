@@ -23,7 +23,6 @@ third_nav_title: Staff
 | Mrs Nurhidayah Ejjad 	| HOD / English Language 	| [nurhidayah_hashim@schools.gov.sg](mailto:nurhidayah_hashim@schools.gov.sg) 	|
 | Mdm Lyn Ong 	| HOD / Math 	| [lyn_ong@schools.gov.sg](lyn_ong@schools.gov.sg) 	|
 | Miss Geraldine Tng Hiang Tiang 	| HOD / Science 	| [tng_hiang_tiang_geraldine@schools.gov.sg](mailto:tng_hiang_tiang_geraldine@schools.gov.sg) 	|
-| Mr Adnan Bin Omar 	| HOD / PHE & CCA 	|[xinmin_ps@moe.edu.sg](xinmin_ps@moe.edu.sg) |
 | Mrs Joycelyn Soo 	| HOD / Discipline and Student Leadership 	| [yeo_su_yong_joycelyn@schools.gov.sg](mailto:yeo_su_yong_joycelyn@schools.gov.sg) 	|
 | Miss Yap Li Ling 	| HOD / Mother Tongue 	| [yap_li_ling@schools.gov.sg](mailto:yap_li_ling@schools.gov.sg) 	|
 | Mdm Azlinah Bte Dakarlan  	| HOD / Character and Citizenship Education (CCE) 	| [azlinah_dakarlan@schools.gov.sg](mailto:azlinah_dakarlan@schools.gov.sg) 	|
