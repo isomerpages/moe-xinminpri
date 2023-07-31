@@ -7,14 +7,17 @@ description: ""
 
 # **Student Well-Being**
 
-Student Well-Being 
-Vision 
+
+## Vision 
 Every Xinminite a responsible cyber citizen, a caring peer and a resilient individual. 
-Mission
+
+## Mission
 We strive to develop in every Xinminite, good prosocial online and offline behaviour, dispositions to show care for the community and being adaptable to respond to challenges.
-Key Programmes
+
+## Key Programmes
 To help realise our departments vision and mission, we have crafted the following programming for them.
-Peer Support
+
+### Peer Support
 Peer support programmes develop every Xinminite as a peer supporter for one another.The aims of the peer support programmes are:
 To empower students to look out and care for each others through bonding, helping and being a positive influence.
 To promote positive mindsets, prosocial behaviours and mental well-being among students.
@@ -31,6 +34,3 @@ This is a termly school-based programme which students are encouraged to appreci
 PACE@XMP
 PACE@XMP is targeted to increase the self-esteem of Xinminites who face different challenges at home and school. The programme builds upon the Self Determination Theory of Motivation and promotes the development of:
 A Learner who is open minded to take up challenges to learn new skills and improve himself/ herself and a collaborator who works well with others, adaptable to changing circumstances and resilient in overcoming challenges.
-
-
-
