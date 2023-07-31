@@ -19,4 +19,4 @@ Resources for Parents
 
 [Smart Device Request Form](https://form.gov.sg/61ce31b72e38540012e3e99d)
 
-[Parenting Tips]()
+[Parenting Tips](/files/Family-Matters-Webpage.pdf))
