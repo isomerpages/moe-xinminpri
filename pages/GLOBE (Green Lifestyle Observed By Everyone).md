@@ -3,64 +3,39 @@ title: GLOBE (Green Lifestyle Observed By Everyone)
 permalink: /globe-green-lifestyle-observed-by-everyone/
 description: ""
 ---
+# **G.L.O.B.E (Green Lifestyle Observed By Everyone)**
 
-# **GLOBE (Green Lifestyle Observed By Everyone)**
+# **Vision:**
+Nurturing Every Xinminite to Be an Environmental Steward for Life
 
-**Mission:**    
-To educate Xinminites to be responsible to the environment which they live in
+# **Mission:**
+To broaden and deepen Xinminites’ environmental knowledge, and inculcate a sense of responsibility in making positive environmental efforts
 
-**Vision:**    
-To broaden and deepen students’ level of environmental knowledge so that they can transfer their learning into positive environmental actions.
+## **Signature Programmes**
 
-The ALP – GLOBE aims to promote environmental sustainability among Xinminites and educate them to protect and preserve the natural environment, in line with our school values of ‘Care’ and ‘Responsibility’. Our school-wide efforts are in support of the philosophy of G.L.O.B.E – Green Lifestyles Observed By Everyone.
+Programmes for G.L.O.B.E., the Environmental Science Education Applied Learning Programme in XMPS, have been carefully curated and executed to equip students to be Lifelong Learners and do their parts to alleviate environmental problems.
 
-Environmental&nbsp;issues are inherently&nbsp;interdisciplinary. Overcoming threats to the human society in the face of global climatic changes requires collaboration between knowledge and skills from various disciplines. The ALP – GLOBE takes on a multi-disciplinary approach, spanning different subject disciplines, to develop passionate environment advocates. We hope to create awareness of environmental issues, such as environment protection, conservation, preservation, and restoration.
+### **(1) Hydroponics Farming**
 
-Through both the curricular and co-curricular activities, the ALP – GLOBE works to deepen Xinminites’ level of environmental awareness by promoting environmentally conscious activities among the general student population so that they may transfer their learning into positive actions. Through our efforts, we aim to develop environmental enthusiasts and inspiring individuals who do their part to ensure a healthy planet and a sustainable future.
+Innovative and sustainable farming methods such as Hydroponics pique students’ curiosity about the process of reproduction in plants and environmental science as they learn about how they can grow their own food using non-traditional soil-less methods. With the hands-on experience of planting, transplanting and crop harvesting, students are inspired to share their food and learning with their families. 
 
-### Key Programmes:
+### **(2) GrowFridge Farming**
 
-#### Tier 1
+Students experience growing herbs and vegetables using new innovations. The micro-fridge device is Singapore’s first plug-and-play smart micro-farm designed like a kitchen appliance to allow students and teachers to grow their own micro-greens, under controlled climatic conditions, in the comforts of an indoor setting. Students not only gain deep knowledge in healthy living but also learn urban farming technology such as temperature setting, watering cycle and lighting for optimal plant growth.
 
-**Meat-Free Day:**
+### **(3) Organic Veggie Tower Farming**
 
-On this day, Xinminites are reminded that diet choices can make a big difference to their health and the health of our planet. Replacing meat with plant-based choices can offer numerous health benefits and help against climate change by reducing carbon footprint and conserving precious environmental resources.
+Students take charge of their learning and develop responsibility in caring for the vegetables. As the Veggie Tower replicates a natural ecosystem and turns kitchen scraps into natural fertilisers for the vegetables, this programme inspires students to find out more about the processes of decomposition and plant growth.
 
-<img style="width:40%" src="/images/No-Meat-Day-300x225.jpg">
-<center>No Meat Day</center>
+### **(4) Rice Planting & Food Sustainability Programme**
 
-**Assembly programmes:**
+The rice planting programme aims to inculcate good sustainability habits and knowledge in Xinminites. Under the guidance of a rice farmer and a scientist, students experience first-hand the entire rice-planting process from seed germination, seedling transplanting to rice-harvesting. Through this programme, students will understand that rice-planting is an arduous process that involves back-breaking efforts and, thus, appreciate the rice grains on their plates and become Confident Leaders and advocates of food waste reduction. Through their rice-planting efforts, students learn endurance and build resilience in overcoming challenging conditions.
 
-Through our varied assembly programmes, students learn how to reduce the production of greenhouse gases that impact climate change through adopting green habits.
+## **Awards**
 
-**Green Educational Materials for Students – &nbsp;GEMS:**
+### **(1) School Green Awards - Vanda Miss Joaquim Sustained Achievement Award 2022**
+Organised by the Singapore Environment Council, the annual School Green Awards recognises efforts by schools that have made efforts to achieve positive environmental impacts. Having achieved top scores for three consecutive years, Xinmin Primary School was awarded the highest tiered award. 
 
-GEMS is a series of fun bite-sized online lessons that promote eco-friendly ways of life and educate our students to reduce our negative&nbsp; impact on the environment
+### **(2) School Green Awards - Vanda Miss Joaquim Achievement Award 2021**
 
-#### Tier 2:
-
-**Environmental Science Club:**
-
-The Environmental Science Club curates activities which encourage students to live a “greener” lifestyle, at home and at school by teaching them at a young age to be environmentally aware, so as to cultivate lifelong habits that could potentially make a dramatic difference in the future of the earth.
-
-<img src="/images/DIY-Recycling-Bins-for-classroom-300x162.jpg" 
-     style="width:40%">
-<center>Diy Recycling Bins For Classroom</center>
-
-<img src="/images/Hydroponics_Contributing-Towards-SG-Green-Plan_1-Transplanting-225x300.jpeg" 
-     style="width:40%">
-<center>Hydroponics Contributing Towards Sg Green Plan 1 Transplanting</center>
-
-<img src="/images/Tower-Garden-Activity-Using-Recycled-PET-Bottles-300x225.jpeg" 
-     style="width:40%">
-<center>Tower Garden Activity Using Recycled Pet Bottles</center>
-
-In collaboration with Science Centre, students participate in the Young Scientists badge scheme:
-
-*   Young environmentalists
-*   Young energy saver
-*   Young sustainability champion
-*   Young Botanist
-
-![](/images/Young-Scientist-Badges.jpg)
-Young Scientist Badges
+### **(3) School Green Awards - Vanda Miss Joaquim Achievement Award 2020**
