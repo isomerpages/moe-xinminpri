@@ -3,7 +3,7 @@ title: GLOBE (Green Lifestyle Observed By Everyone)
 permalink: /globe-green-lifestyle-observed-by-everyone/
 description: ""
 ---
-# **GLOBE (Green Lifestyle Observed By Everyone)**
+# **G.L.O.B.E (Green Lifestyle Observed By Everyone)**
 
 # **Vision:**
 Nurturing Every Xinminite to Be an Environmental Steward for Life
