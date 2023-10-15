@@ -8,4 +8,4 @@ image: ""
 ---
 Dear 2024 P1 parents,
 
-please find the orientation guide [here](/files/2024%20p1%20orientation%20guide.pdf).
+Please find the orientation guide [here](/files/2024%20p1%20orientation%20guide.pdf).
