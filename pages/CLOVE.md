@@ -20,3 +20,8 @@ Students are given many opportunities to experience character traits, see them i
 
 Values in Action, cooperative learning and peer mentoring are important parts of the approach. Ample time is also allowed for the discussion and reflection.
 
+
+![](/images/clove%20image.png)
+
+
+
