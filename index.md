@@ -13,7 +13,7 @@ sections:
           url: /globe-green-lifestyle-observed-by-everyone/
         - title: C.L.O.V.E
           description: LLP
-          url: /departments/cce-department/
+          url: /clove/
       background: /images/main-banner.gif
   - resources:
       title: Announcements
