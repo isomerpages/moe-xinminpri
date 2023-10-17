@@ -9,4 +9,7 @@ image: ""
 Dear 2024 P1 parents,
 
 Please find the orientation guide
-[here](https://file.go.gov.sg/2024xmpsp1.pdf)
+[here](https://file.go.gov.sg/2024xmpsp1.pdf).
+
+Please find the briefing slides 
+[here](https://go.gov.sg/xmps2024p1orientationslides).
