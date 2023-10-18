@@ -20,3 +20,4 @@ Resources for Parents
 [Smart Device Request Form](https://form.gov.sg/61ce31b72e38540012e3e99d)
 
 [2024 P1 Orientation Guide](https://file.go.gov.sg/2024xmpsp1.pdf)
+updated 16th Oct
