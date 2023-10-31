@@ -13,14 +13,13 @@ School Books Supplier:
 School Uniform :
 ----------------
 
-### **Jeep Sing**
+### **Magdalene Sewing Centre Pte Ltd**
 
 
 
 | | | 
 | -------- | -------- | 
-| Name:     | Magdalene&nbsp;Sewing Centre Pte Ltd    |
-|Website: | Website: [https://www.magdalene.com.sg/](https://www.magdalene.com.sg/)
+|Website: | [https://www.magdalene.com.sg/](https://www.magdalene.com.sg/)
 |Telephone: | 62935840 |
 || 86380499 (Whatsapp only)|
 |Email: |[info@magdalene.com.sg](mailto:info@magdalene.com.sg)|
