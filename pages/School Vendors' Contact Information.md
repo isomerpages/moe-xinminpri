@@ -13,9 +13,17 @@ School Books Supplier:
 School Uniform :
 ----------------
 
-### &nbsp;**Jeep Sing**&nbsp;
+### **Magdalene Sewing Centre Pte Ltd**
 
-<table border="1" style="width: 687px;"><tbody><tr style="height: 56px;"><td style="width: 156px; height: 56px;"><strong>Telephone</strong></td><td style="width: 28px; height: 56px; text-align: center;">:</td><td style="width: 481px; height: 56px;">64563198</td></tr><tr style="height: 54.0625px;"><td style="width: 156px; height: 54.0625px;"><strong>Website</strong></td><td style="width: 28px; height: 54.0625px; text-align: center;">:</td><td style="width: 481px; height: 54.0625px;"><a href="https://jeepsinguniform.com/collections/xinmin-primary-school">https://jeepsinguniform.com/collections/xinmin-primary-school</a></td></tr><tr style="height: 80px;"><td style="width: 156px; height: 80px;"><strong>Home delivery service charge</strong></td><td style="width: 28px; height: 80px; text-align: center;">:</td><td style="width: 481px; height: 80px;">$6</td></tr></tbody></table>
+
+
+| | | 
+| -------- | -------- | 
+|Website: | [https://www.magdalene.com.sg/](https://www.magdalene.com.sg/)
+|Telephone: | 62935840 |
+|| 86380499 (Whatsapp only)|
+|Email: |[info@magdalene.com.sg](mailto:info@magdalene.com.sg)|
+|Home delivery service charge: |$8 - $15 (depending on weight)|
 
 School Bus Services:
 --------------------
