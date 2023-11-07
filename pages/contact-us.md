@@ -30,15 +30,5 @@ contacts:
       - email: xinmin_ps@moe.edu.sg
       - other: ""
     title: "Email:"
-  - content:
-      - phone: ""
-      - email: ""
-      - other: https://www.facebook.com/XinminPrimarySchool/
-    title: "Facebook:"
-  - content:
-      - phone: ""
-      - email: ""
-      - other: https://www.instagram.com/officialxmps/
-    title: "Instagram:"
 feedback: ""
 ---
