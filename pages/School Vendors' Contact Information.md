@@ -26,7 +26,7 @@ School Uniform :
 |Email: |[info@magdalene.com.sg](mailto:info@magdalene.com.sg)|
 |Home delivery service charge: |$8 - $15 (depending on weight)|
 
-     <!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {font-size:14.0pt; mso-number-format:"\\\[$-F800\\\]dddd\\\\\\,\\\\ mmmm\\\\ dd\\\\\\,\\\\ yyyy"; text-align:left; border:.5pt solid windowtext;} .xl66 {font-size:14.0pt; border:.5pt solid windowtext;} .xl67 {font-size:14.0pt; font-weight:700; text-decoration:underline; text-underline-style:single; text-align:center; vertical-align:middle; border:.5pt solid windowtext;} .xl68 {font-size:14.0pt; text-align:center; vertical-align:middle; border:.5pt solid windowtext; white-space:normal;} -->
+
 
 <table style="border-collapse:
  collapse;width:277pt" width="369" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="width:48pt" width="64"> <col style="mso-width-source:userset;mso-width-alt:10635;width:229pt" width="305"></colgroup><tbody><tr style="mso-height-source:userset;height:29.25pt" height="39"><td style="height:29.25pt;
