@@ -2,6 +2,7 @@
 title: School Vendors' Contact Information
 permalink: /school-vendors/
 description: ""
+variant: markdown
 ---
 School Books Supplier:
 ----------------------
@@ -23,7 +24,23 @@ School Uniform :
 |Telephone: | 62935840 |
 || 86380499 (Whatsapp only)|
 |Email: |[info@magdalene.com.sg](mailto:info@magdalene.com.sg)|
-|Home delivery service charge: |$8 - $15 (depending on weight)|
+|Home delivery service charge: |$8 - $15 |
+
+
+
+### **December 2023 Walk-in Purchase** 
+
+<table style="border-collapse:
+ collapse;width:277pt" width="369" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="width:48pt" width="64"> <col style="mso-width-source:userset;mso-width-alt:10635;width:229pt" width="305"></colgroup><tbody><tr style="mso-height-source:userset;height:29.25pt" height="39"><td style="height:29.25pt;
+  width:277pt" width="369" class="xl67" height="39" colspan="2">Walk-in purchase of school uniform</td></tr><tr style="height:18.5pt" height="25"><td style="height:148.0pt;
+  border-top:none;width:48pt" width="64" class="xl68" height="200" rowspan="8">Dates:<span style="mso-spacerun:yes">&nbsp;</span></td><td style="border-top:none;border-left:none" class="xl65">Monday, December 4, 2023</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none;border-left:
+  none" class="xl65" height="25">Tuesday, December 12, 2023</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none;border-left:
+  none" class="xl65" height="25">Wednesday, December 13, 2023</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none;border-left:
+  none" class="xl65" height="25">Thursday, December 14, 2023</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none;border-left:
+  none" class="xl65" height="25">Monday, December 18, 2023</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none;border-left:
+  none" class="xl65" height="25">Tuesday, December 19, 2023</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none;border-left:
+  none" class="xl65" height="25">Tuesday, December 26, 2023</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none;border-left:
+  none" class="xl65" height="25">Wednesday, December 27, 2023</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl66" height="25">Time:</td><td style="border-top:none;border-left:none" class="xl66">9am to<span style="mso-spacerun:yes">&nbsp; </span>3pm</td></tr></tbody></table>
 
 School Bus Services:
 --------------------
