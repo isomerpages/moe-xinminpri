@@ -28,7 +28,7 @@ School Uniform :
 
 
 
-### **December 2023 Walk-in Sales** 
+### **December 2023 Walk-in Purchase** 
 
 <table style="border-collapse:
  collapse;width:277pt" width="369" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="width:48pt" width="64"> <col style="mso-width-source:userset;mso-width-alt:10635;width:229pt" width="305"></colgroup><tbody><tr style="mso-height-source:userset;height:29.25pt" height="39"><td style="height:29.25pt;
