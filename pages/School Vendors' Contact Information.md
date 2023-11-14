@@ -24,7 +24,7 @@ School Uniform :
 |Telephone: | 62935840 |
 || 86380499 (Whatsapp only)|
 |Email: |[info@magdalene.com.sg](mailto:info@magdalene.com.sg)|
-|Home delivery service charge: |$8 - $15 (depending on weight)|
+|Home delivery service charge: |$8 - $15 |
 
 
 
