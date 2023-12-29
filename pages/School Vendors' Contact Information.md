@@ -51,7 +51,7 @@ School Bus Services:
 
      
 
-### Bus fares applicable from 1 January 2023 to 31 December 2023:
+### Bus fares applicable from 1 January 2024 to 31 December 2025:
 
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" align="left" width="565" style="width:423.45pt;border-collapse:collapse;mso-yfti-tbllook:
@@ -125,32 +125,32 @@ School Bus Services:
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$139.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
+  mso-fareast-language:EN-SG">$157.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$149.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
+  mso-fareast-language:EN-SG">$168.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$139.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
+  mso-fareast-language:EN-SG">$157.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$149.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
+  mso-fareast-language:EN-SG">$168.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$139.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
+  mso-fareast-language:EN-SG">$157.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$149.00</span></p></td></tr><tr style="mso-yfti-irow:3;height:11.65pt"><td width="130" nowrap="" valign="bottom" style="width:1.35in;border:solid windowtext 1.0pt;
+  mso-fareast-language:EN-SG">$168.00</span></p></td></tr><tr style="mso-yfti-irow:3;height:11.65pt"><td width="130" nowrap="" valign="bottom" style="width:1.35in;border:solid windowtext 1.0pt;
   border-top:none;padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
@@ -159,32 +159,32 @@ School Bus Services:
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$160.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
+  mso-fareast-language:EN-SG">$180.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$171.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
+  mso-fareast-language:EN-SG">$193.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$160.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
+  mso-fareast-language:EN-SG">$180.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$171.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
+  mso-fareast-language:EN-SG">$193.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$160.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
+  mso-fareast-language:EN-SG">$180.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$171.00</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:11.65pt"><td width="130" nowrap="" valign="bottom" style="width:1.35in;border:solid windowtext 1.0pt;
+  mso-fareast-language:EN-SG">$193.00</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:11.65pt"><td width="130" nowrap="" valign="bottom" style="width:1.35in;border:solid windowtext 1.0pt;
   border-top:none;padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
@@ -193,32 +193,32 @@ School Bus Services:
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$203.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
+  mso-fareast-language:EN-SG">$229.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$214.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
+  mso-fareast-language:EN-SG">$241.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$203.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
+  mso-fareast-language:EN-SG">$229.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$214.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
+  mso-fareast-language:EN-SG">$241.00</span></p></td><td width="72" nowrap="" valign="bottom" style="width:54.35pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$203.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
+  mso-fareast-language:EN-SG">$229.00</span></p></td><td width="73" nowrap="" valign="bottom" style="width:54.4pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:11.65pt"><p class="MsoNormal" style="line-height:150%;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;
   mso-element-anchor-horizontal:column;mso-height-rule:exactly"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-ansi-language:EN-SG;
-  mso-fareast-language:EN-SG">$214.00</span></p></td></tr></tbody></table>
+  mso-fareast-language:EN-SG">$241.00</span></p></td></tr></tbody></table>
  
  
  <br>
