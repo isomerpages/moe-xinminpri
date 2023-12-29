@@ -238,7 +238,7 @@ School Dental Clinic:
 
 &nbsp; &nbsp;Tel: 8764 3972
 
-*   [Child Online Consent Portal](http://Childconsent.hpb.gov.sg)
+*   [Child Online Consent Portal](https://consent.hpb.gov.sg/)
 
 School Insurance:
 -----------------
