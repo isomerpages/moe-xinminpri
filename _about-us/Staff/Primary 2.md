@@ -3,6 +3,7 @@ title: Primary 2
 permalink: /school-organisation/primary-2/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # **Primary 2**
 
@@ -10,7 +11,7 @@ third_nav_title: Staff
 
 |Name|	Designation|	Email|
 |----|----|----|
-|Mdm Sim Choy Yin|	Year Head (Lower Block / P2)	|[sim_choy_yin@schools.gov.sg](sim_choy_yin@schools.gov.sg)|
+|Mdm Sharifah Wardah|	Assistant Year Head (Lower Block / P2)	|sharifah_wardah@schools.gov.sg
 
 **Form Teachers**
 
