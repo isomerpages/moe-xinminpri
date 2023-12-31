@@ -30,5 +30,5 @@ variant: markdown
 ||Miss Toh Feng Joo|	2E Form Teacher	|toh_feng_joo@schools.gov.sg|
 |2F	|Mrs Malini d/o Madasamy |	2F Form Teacher	|malini_madasamy@schools.gov.sg]
 ||Mdm Teh Swee Sing	|2F Form Teacher|	teh_swee_sing@schools.gov.sg|
-|2G	|Miss Michelle Teo Wei Ling	|2G Form Teacher|	teo_wei_ling@schools.gov.sg|
-||Ms Richelle Teng|	2G Form Teacher	|teng_mei_lin_richelle@schools.gov.sg|
+|2G	|Mr Thomas Ong Ding Yi	|2G Form Teacher|	ong_ding_yi@schools.gov.sg|
+||Miss Steffi Tan Hui Jun|	2G Form Teacher	|tan_hui_jun_steffi@schools.gov.sg|
