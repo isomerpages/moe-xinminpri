@@ -3,24 +3,23 @@ title: Primary 3
 permalink: /school-organisation/primary-3/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
-
-
 # **Primary 3**
 
 ### Year Head
 
 |Name|	Designation|	Email|
 |----|----|----|
-|Mdm Rosnani Bte Yusof	|Year Head (Middle Block / P3)|	rosnani_yusof@schools.gov.sg|
+|Mdm Azlinah Bte Dakarlan	|Assistant Year Head (Middle Block / P3)|	rosnani_yusof@schools.gov.sg|
 
 
 **Form Teachers**
 
 | Class | Name | Designation | Contact | 
 | -------- | -------- | -------- |-------- |
-|3A	|Mrs Sharon Chia-Ng	|3A Form Teacher	|ng_yuen_fun@schools.gov.sg|
-||Mr Arthur Tay	|3A Form Teacher	|tay_yee_jin_arthur@schools.gov.sg|
+|3A	|Mr Quek Hsiu Yuan	|3A Form Teacher	|quek_hsiu_yuan@schools.gov.sg|
+||Mdm Zhao Ting Yan	|3A Form Teacher	|zhao_tingyan@schools.gov.sg|
 |3B	|Mrs Jodene Yow	|3B Form Teacher	|new_xin_yi_jodene@schools.gov.sg|
 ||Ms E-liz Yeung	|3B Form Teacher|	yeung_e-liz@schools.gov.sg|
 |3C	|Mr M Murugappan|	3C Form Teacher	|m_murugappan@schools.gov.sg|
