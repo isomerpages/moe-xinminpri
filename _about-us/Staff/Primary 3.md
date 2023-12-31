@@ -11,7 +11,7 @@ variant: markdown
 
 |Name|	Designation|	Email|
 |----|----|----|
-|Mdm Azlinah Bte Dakarlan	|Assistant Year Head (Middle Block / P3)|	rosnani_yusof@schools.gov.sg|
+|Mdm Azlinah Bte Dakarlan	|Assistant Year Head (Middle Block / P3)|	azlinah_dakarlan@schools.gov.sg|
 
 
 **Form Teachers**
@@ -29,4 +29,4 @@ variant: markdown
 |3E	|Mrs Serene Tan-Neo Wei Li	|3E Form Teacher	|neo_wei_li_serene@schools.gov.sg|
 ||Mdm Foo Wei Woon|	3E Form Teacher|	foo_wei_woon@schools.gov.sgg|
 |3F|	Mrs Magdalene Tan	|3F Form Teacher	|tan_magdalene@schools.gov.sg|
-||Mdm Azlinah Bte Dakarlan|	3F Form Teacher	|tochange@schools.gov.sg|
+||Mdm Azlinah Bte Dakarlan|	3F Form Teacher	|azlinah_dakarlan@schools.gov.sg|
