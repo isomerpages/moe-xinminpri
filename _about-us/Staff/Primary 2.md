@@ -21,8 +21,9 @@ variant: markdown
 ||Mdm Wang Xiao Hua	|2A Form Teacher|	wang_xiaohua@schools.gov.sg
 |2B	|Mrs Chia-Goh Soo Ying	|2B Form Teacher|	goh_soo_ying@schools.gov.sg|
 ||Mdm Noor Naime Bte Zainal Abidin	|2B Form Teacher|	noor_naime_zainal_abidin@schools.gov.sg|
-|2C	|Miss Syasya	|2C Form Teacher|	hadia_syahir@schools.gov.sg](hadia_syahir@schools.gov.sgg|
-||Mrs Wendy Chua|	2C Form Teacher	|wendy_quek_seng_yuen@schools.gov.sg|
+|2C	|Mrs Hadia Syahir	|2C Form Teacher|	hadia_syahir@schools.gov.sg](hadia_syahir@schools.gov.sgg|
+||Mr Tan Hoe Tsong|	2C Form Teacher	|tan_hoe_tsong@schools.gov.sg|
+||Mr Arthur Tay|	2C Form Teacher	|tay_yee_jin_arthur@schools.gov.sg|
 |2D|	Mrs Ng Marn Peng	|2D Form Teacher|	ng_marn_peng@schools.gov.sg|
 ||Mdm Herda|	2D Form Teacher|herda_dolfata@schools.gov.sg|
 |2E	|Mdm Gabrielle Lim	|2E Form Teacher|	lim_huiwen_gabrielle@schools.gov.sg|
