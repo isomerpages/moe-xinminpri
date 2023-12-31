@@ -21,7 +21,7 @@ variant: markdown
 | Class | Name | Designation | Contact | 
 | -------- | -------- | -------- |-------- |
 | 1A | Mrs Ng Marn Peng     |  1A Form Teacher	    |  ng_marn_peng@schools.gov.sg
-| | Mdm Li Wen Ting |	1A Form Teacher	| [shek_yan_yee@schools.gov.sgXXchange
+| | Mdm Li Wen Ting |	1A Form Teacher	| li_wenting@schools.gov.sg
 |1B	| Mdm Guan Jia Jia	| 1B Form Teacher	|guan_jiajia@schools.gov.sg
 | |Mr Mohd Hanif	|1B Form Teacher|	kwek_hui_ying@schools.gov.sgXXchange
 |1C	|Mdm Gabrielle Lim Huiwen  |	1C Form Teacher	| lim_huiwen_gabrielle@schools.gov.sg
