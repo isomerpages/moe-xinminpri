@@ -32,5 +32,5 @@ variant: markdown
 | | Ms Grace Koh Ai Meng	| 1E Form Teacher	| grace_koh_ai_meng@schools.gov.sg|
 | 1F |	Mrs Agnes Tan Hai Hui |	1F Form Teacher	| agnes_tan_hai_hui@schools.gov.sg
 ||Mr Kuah Guo Shen |	1F Form Teacher	|kuah_guo_shen@schools.gov.sg
-|1G	| Mrs Mahandra  |	1G Form Teacher	| [tan_hui_jun_steffi@schools.gov.sg](tan_hui_jun_steffi@schools.gov.sg) |
-| | Miss Richelle Teng Mei Lin	| 1G Form Teacher	|[ong_ding_yi@schools.gov.sg](ong_ding_yi@schools.gov.sg) |
+|1G	| Mrs Mahandra  |	1G Form Teacher	| s_thangachi_ammal@schools.gov.sg
+| | Miss Richelle Teng Mei Lin	| 1G Form Teacher	|teng_mei_lin_richelle@schools.gov.s
