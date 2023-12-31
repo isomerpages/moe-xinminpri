@@ -28,7 +28,7 @@ variant: markdown
 ||Mrs Celine Ong-Lim|	2D Form Teacher|lim_celine@schools.gov.sg|
 |2E	|Mdm Sharifah Wardah	|2E Form Teacher|sharifah_wardah@schools.gov.sg|
 ||Miss Toh Feng Joo|	2E Form Teacher	|toh_feng_joo@schools.gov.sg|
-|2F	|Mrs Serene Tan-Neo |	2F Form Teacher	|[neo_wei_li_serene@schools.gov.sg](neo_wei_li_serene@schools.gov.sg)|
-||Mdm Guan Jiajia	|2F Form Teacher|	guan_jiajia@schools.gov.sg|
+|2F	|Mrs Malini d/o Madasamy |	2F Form Teacher	|malini_madasamy@schools.gov.sg]
+||Mdm Teh Swee Sing	|2F Form Teacher|	teh_swee_sing@schools.gov.sg|
 |2G	|Miss Michelle Teo Wei Ling	|2G Form Teacher|	teo_wei_ling@schools.gov.sg|
 ||Ms Richelle Teng|	2G Form Teacher	|teng_mei_lin_richelle@schools.gov.sg|
