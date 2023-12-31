@@ -24,9 +24,9 @@ variant: markdown
 ||Mdm Reshmi Rai	|3B Form Teacher|	tochangeXX@schools.gov.sg|
 |3C	|Mr Lim Beng Liang|	3C Form Teacher	|lim_beng_liang@schools.gov.sg|
 ||Mrs Vijay-T Sumathy	|3C Form Teacher|	xinmin_ps@moe.edu.sgg|
-|3D|	Ms Sally Lim Lay Koon	|3D Form Teacher	|lim_lay_koon@schools.gov.sg|
-||Mdm Zarina Binte Kamaron|	3D Form Teacher	|zarina_kamaron@schools.gov.sg|
-|3E	|Mrs Farah Ritz	|3E Form Teacher	|farah_amir_hamzah@schools.gov.sg|
+|3D|	Mrs Lee-Kwek Hui Ying	|3D Form Teacher	|kwek_hui_ying@schools.gov.sg|
+||Mrs Melinda Lim|	3D Form Teacher	|melinda_ashleigh_sim@schools.gov.sg|
+|3E	|Mrs Serene Tan-Neo Wei Li	|3E Form Teacher	|neo_wei_li_serene@schools.gov.sg|
 ||Mdm Chai Chang Ciek|	3E Form Teacher|	chai_chang_ciek@schools.gov.sg|
 |3F|	Mdm Norliana Binte Ahmad Norli	|3F Form Teacher	|norliana_ahmad_norli@schools.gov.sg|
 ||Mr Joel Teh|	3F Form Teacher	|joel_teh_yu_cheng@schools.gov.sg|
