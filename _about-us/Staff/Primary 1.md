@@ -23,7 +23,7 @@ variant: markdown
 | 1A | Mrs Ng Marn Peng     |  1A Form Teacher	    |  ng_marn_peng@schools.gov.sg
 | | Mdm Li Wen Ting |	1A Form Teacher	| [shek_yan_yee@schools.gov.sgXXchange
 |1B	| Mdm Guan Jia Jia	| 1B Form Teacher	|guan_jiajia@schools.gov.sg
-| |Mr Mohd Hanif	|1B Form Teacher|	[kwek_hui_ying@schools.gov.sg](kwek_hui_ying@schools.gov.sg)|
+| |Mr Mohd Hanif	|1B Form Teacher|	kwek_hui_ying@schools.gov.sgXXchange
 |1C	|Mdm Gabrielle Lim Huiwen  |	1C Form Teacher	| [hadia_syahir@schools.gov.sg](hadia_syahir@schools.gov.sg) |
 | | Mdm Norliana Bte Ahmad Norli|	1C Form Teacher	| [tan_hoe_tsong@schools.gov.sg](tan_hoe_tsong@schools.gov.sg) |
 | 1D |	Mdm Sim Choy Yin |	1D Form Teacher	| [seow_susan@schools.gov.sg](seow_susan@schools.gov.sg) |
