@@ -24,9 +24,9 @@ variant: markdown
 |2C	|Mrs Hadia Syahir	|2C Form Teacher|	hadia_syahir@schools.gov.sg](hadia_syahir@schools.gov.sgg|
 ||Mr Tan Hoe Tsong|	2C Form Teacher	|tan_hoe_tsong@schools.gov.sg|
 ||Mr Arthur Tay|	2C Form Teacher	|tay_yee_jin_arthur@schools.gov.sg|
-|2D|	Mrs Ng Marn Peng	|2D Form Teacher|	ng_marn_peng@schools.gov.sg|
-||Mdm Herda|	2D Form Teacher|herda_dolfata@schools.gov.sg|
-|2E	|Mdm Gabrielle Lim	|2E Form Teacher|	lim_huiwen_gabrielle@schools.gov.sg|
+|2D|	Miss Susan Seow|2D Form Teacher|	seow_susan@schools.gov.sg|
+||Mrs Celine Ong-Lim|	2D Form Teacher|lim_celine@schools.gov.sg|
+|2E	|Mdm Sharifah Wardah	|2E Form Teacher|sharifah_wardah@schools.gov.sg|
 ||Miss Aneesa Faruvin|	2E Form Teacher	|aneesa_faruvin_mohd_ibrahim@schools.gov.sg|
 |2F	|Mrs Serene Tan-Neo |	2F Form Teacher	|[neo_wei_li_serene@schools.gov.sg](neo_wei_li_serene@schools.gov.sg)|
 ||Mdm Guan Jiajia	|2F Form Teacher|	guan_jiajia@schools.gov.sg|
