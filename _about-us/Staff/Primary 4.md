@@ -18,8 +18,8 @@ variant: markdown
 
 | Class | Name | Designation | Contact | 
 | -------- | -------- | -------- |-------- |
-|4A|	Mrs Daphne Goh|	4A Form Teacher	|chua_bee_har@schools.gov.sg|
-||Mr Kenny Tan|	4A Form Teacher	|tan_khee_ngiap@schools.gov.sg|
+|4A|	Mrs Sharon Chia-Ng Yuen Fun|	4A Form Teacher	|ng_yuen_fun@schools.gov.sg|
+||Mdm Yang Xu|	4A Form Teacher	|yang_xu@schools.gov.sg|
 |4B	|Mr Aaron Tan|	4B Form Teacher	|tan_kwang_yang_aaron@schools.gov.sg|
 ||Mrs Mahandra|	4B Form Teacher	|s_thangachi_ammal@schools.gov.sg|
 |4C|	Miss Charlene Lim	|4C Form Teacher	|charlene_lim_xian_zhen@schools.gov.sg|
