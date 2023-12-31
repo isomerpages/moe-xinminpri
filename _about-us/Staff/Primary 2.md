@@ -17,8 +17,8 @@ variant: markdown
 
 | Class | Name | Designation | Contact | 
 | -------- | -------- | -------- |-------- |
-|2A	|Mrs Nur Amilia Fendy|	2A Form Teacher|	[nur_amilia_abdul_rahim@schools.gov.sg](nur_amilia_abdul_rahim@schools.gov.sg)|
-||Mrs Celine Ong	|2A Form Teacher|	lim_celine@schools.gov.sg||
+|2A	|Mdm Santhi d/o Perumal|	2A Form Teacher| santhi_perumal@schools.gov.sg
+||Mdm Wang Xiao Hua	|2A Form Teacher|	wang_xiaohua@schools.gov.sg
 |2B	|Mrs Agnes Tan	|2B Form Teacher|	agnes_tan_hai_hui@schools.gov.sg|
 ||Mdm Wang Xiao Hua	|2B Form Teacher|	wang_xiaohua@schools.gov.sg|
 |2C	|Miss Syasya	|2C Form Teacher|	syasya_syafiqah_roslee@schools.gov.sg|
