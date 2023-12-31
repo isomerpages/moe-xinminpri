@@ -26,7 +26,7 @@ variant: markdown
 | |Mr Mohd Hanif	|1B Form Teacher|	kwek_hui_ying@schools.gov.sgXXchange
 |1C	|Mdm Gabrielle Lim Huiwen  |	1C Form Teacher	| lim_huiwen_gabrielle@schools.gov.sg
 | | Mdm Norliana Bte Ahmad Norli|	1C Form Teacher	| norliana_ahmad_norli@schools.gov.sg
-| 1D |	Mdm Sim Choy Yin |	1D Form Teacher	| [seow_susan@schools.gov.sg](seow_susan@schools.gov.sg) |
+| 1D |	Mdm Sim Choy Yin |	1D Form Teacher	| seow_susan@schools.gov.sgXXchange
 | | Mdm Chai Chang Ciek	| 1D Form Teacher	| [noor_naime_zainal_abidin@schools.gov.sg](noor_naime_zainal_abidin@schools.gov.sg) |
 | 1E	| Mdm Rosnita Bte Ibrahim |	1E Form Teacher	| [sharifah_wardah@schools.gov.sg](sharifah_wardah@schools.gov.sg) |
 | | Ms Grace Koh Ai Meng	| 1E Form Teacher	| [toh_feng_joo@schools.gov.sg](toh_feng_joo@schools.gov.sg) |
