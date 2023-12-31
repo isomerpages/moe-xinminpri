@@ -3,6 +3,7 @@ title: Primary 4
 permalink: /school-organisation/primary-4/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # **Primary 4**
 
@@ -10,7 +11,7 @@ third_nav_title: Staff
 
 |Name|	Designation|	Email|
 |----|----|----|
-|Mrs Daphne Goh	|Assistant Year Head (P4)|	chua_bee_har@schools.gov.sg|
+|Mdm Rosnani Bte Yusof	|Year Head (P4)|	rosnani_yusof@schools.gov.sg|
 
 
 **Form Teachers**
