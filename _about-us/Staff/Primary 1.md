@@ -20,7 +20,7 @@ variant: markdown
 
 | Class | Name | Designation | Contact | 
 | -------- | -------- | -------- |-------- |
-| 1A | Mrs Ng Marn Peng     |  1A Form Teacher	    |  [rosnita_ibrahim@schools.gov.sg](rosnita_ibrahim@schools.gov.sg) |
+| 1A | Mrs Ng Marn Peng     |  1A Form Teacher	    |  ng_marn_peng@schools.gov.sg
 | | Mdm Li Wen Ting |	1A Form Teacher	| [shek_yan_yee@schools.gov.sg](shek_yan_yee@schools.gov.sg) |
 |1B	| Mdm Guan Jia Jia	| 1B Form Teacher	|[goh_soo_ying@schools.gov.sg](goh_soo_ying@schools.gov.sg) |
 | |Mr Mohd Hanif	|1B Form Teacher|	[kwek_hui_ying@schools.gov.sg](kwek_hui_ying@schools.gov.sg)|
