@@ -3,6 +3,7 @@ title: Primary 5
 permalink: /school-organisation/primary-5/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # **Primary 5**
 
@@ -10,16 +11,16 @@ third_nav_title: Staff
 
 |Name|	Designation|	Email|
 |----|----|----|
-|Mrs Norazimah Junari	|Year Head (Upper Block / P5)	|norazimah_md_shariff@schools.gov.sg|
+|Mr Gary Tang Kia Miang	| Assistant Year Head (Upper Block / P5)	|tang_kia_miang_gary@schools.gov.sg|
 
 **Form Teachers**
 
 | Class | Name | Designation | Contact | 
 | -------- | -------- | -------- |-------- |
-|5A|	Mrs Shanker Shaevah Pannir|5A Form Teacher	|shaevah_shankari_pannir_selvan@schools.gov.sg|
-||Mdm Fun Kai Tien	|5A Form Teacher|	fun_kai_tien@schools.gov.sg|
-|5B|	Mr Lim Beng Liang	|5B Form Teacher|	lim_beng_liang@schools.gov.sg|
-||Mrs Shanmugam	|5B Form Teacher|	palaniyandi_magasvari@schools.gov.sg|
+|5A|	Mrs Serene Lee-Neo|5A Form Teacher	|neo_xiao_ling_serene@schools.gov.sg|
+||Mr Rohinesh s/o K Kanaiah	|5A Form Teacher|	xinmin_ps@moe.edu.sg|
+|5B|	Mr Aaron Tan Kwang Yang	|5B Form Teacher|tan_kwang_yang_aaron@schools.gov.sg|
+||Mdm Zarina Bte Kamaron	|5B Form Teacher|	zarina_kamaron@schools.gov.sg|
 |5C|	Mr Kumar	|5C Form Teacher|	kumaresan_arasapam@schools.gov.sg|
 ||Mr Sadik	|5C Form Teacher	|xinmin_ps@moe.edu.sg|
 |5D|	Ms Sumita	|5D Form Teacher|	sumita_kunalingam@schools.gov.sg|
