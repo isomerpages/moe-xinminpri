@@ -26,8 +26,7 @@ variant: markdown
 ||Mrs Paulyne Ho-Ng Bao Lin|	6C Form Teacher	|ng_bao_lin_paulyne@schools.gov.sg|
 |6D	|Ms Sumita Kunalingam|	6D Form Teacher	|sumita_kunalingam@schools.gov.sgg|
 ||Ms Liang Rui Shan|	6D Form Teacher	|liang_ruishan@schools.gov.sg|
-|6E|	Mrs Iris Chan-Lee|	6E Form Teacher	|iris_lee_poh_chin@schools.gov.sg|
-||Mr Gary Tang	|6E Form Teacher	|tang_kia_miang_gary@schools.gov.sg|
-||Mr Kuah Guo Shen	|6E Form Teacher	|kuah_guo_shen@schools.gov.sg|
-|6F	|Mrs Magdalene Tan|	6F Form Teacher	|tan_magdalene@schools.gov.sg|
-||Mrs Paulyne Ho|	6F Form Teacher	|ng_bao_lin_paulyne@schools.gov.sg|
+|6E|	Ms Lau Shu Mei|	6E Form Teacher	|lau_shu_mei@schools.gov.sg|
+||Mrs Norazimah Junari	|6E Form Teacher	|norazimah_md_shariff@schools.gov.sg|
+|6F	|Miss Bong Fung Nyuk|	6F Form Teacher	|bong_fung_nyuk@schools.gov.sg|
+||Mdm Annuratha Veilathurai|	6F Form Teacher	|annuratha_veilathurai@schools.gov.sg|
