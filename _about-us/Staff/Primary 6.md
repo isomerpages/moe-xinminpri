@@ -3,16 +3,15 @@ title: Primary 6
 permalink: /school-organisation/primary-6/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
-
-
 # **Primary 6**
 
 ### Year Head
 
 |Name|	Designation|	Email|
 |----|----|----|
-|Mr Gary Tang	|Assistant Year Head (P6)|	tang_kia_miang_gary@schools.gov.sg|
+|Mrs Norazimah Junari	|Year Head (P6)|	norazimah_md_shariff@schools.gov.sg|
 
 **Form Teachers**
 
