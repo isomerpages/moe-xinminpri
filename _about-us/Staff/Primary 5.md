@@ -23,8 +23,8 @@ variant: markdown
 ||Mdm Zarina Bte Kamaron	|5B Form Teacher|	zarina_kamaron@schools.gov.sg|
 |5C|	Mr Gary Tang Kia Miang	|5C Form Teacher|	tang_kia_miang_gary@schools.gov.sg|
 ||Mr Arden Lim Kaixiang	|5C Form Teacher	|xinmin_ps@moe.edu.sg|
-|5D|	Ms Sumita	|5D Form Teacher|	sumita_kunalingam@schools.gov.sg|
-||Mdm Liang Rui Shan|	5D Form Teacher|	liang_ruishan@schools.gov.sg|
+|5D|	Mr Tan Kee Beng	|5D Form Teacher|	tan_kee_beng@schools.gov.sg|
+||Miss Syasya Syafiqah Binte Roslee|	5D Form Teacher|	syasya_syafiqah_roslee@schools.gov.sg|
 |5E	|Ms Lau Shu Mei	|5E Form Teacher|	lau_shu_mei@schools.gov.sg|
 ||Mdm Yang Xu	|5E Form Teacher	|yang_xu@schools.gov.sg|
 |5F	|Mr Tan Kee Beng	|5F Form Teacher|	tan_kee_beng@schools.gov.sg|
