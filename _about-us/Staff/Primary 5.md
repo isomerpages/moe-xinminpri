@@ -21,8 +21,8 @@ variant: markdown
 ||Mr Rohinesh s/o K Kanaiah	|5A Form Teacher|	xinmin_ps@moe.edu.sg|
 |5B|	Mr Aaron Tan Kwang Yang	|5B Form Teacher|tan_kwang_yang_aaron@schools.gov.sg|
 ||Mdm Zarina Bte Kamaron	|5B Form Teacher|	zarina_kamaron@schools.gov.sg|
-|5C|	Mr Kumar	|5C Form Teacher|	kumaresan_arasapam@schools.gov.sg|
-||Mr Sadik	|5C Form Teacher	|xinmin_ps@moe.edu.sg|
+|5C|	Mr Gary Tang Kia Miang	|5C Form Teacher|	tang_kia_miang_gary@schools.gov.sg|
+||Mr Arden Lim Kaixiang	|5C Form Teacher	|xinmin_ps@moe.edu.sg|
 |5D|	Ms Sumita	|5D Form Teacher|	sumita_kunalingam@schools.gov.sg|
 ||Mdm Liang Rui Shan|	5D Form Teacher|	liang_ruishan@schools.gov.sg|
 |5E	|Ms Lau Shu Mei	|5E Form Teacher|	lau_shu_mei@schools.gov.sg|
