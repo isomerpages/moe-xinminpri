@@ -17,8 +17,8 @@ variant: markdown
 
 | Class | Name | Designation | Contact | 
 | -------- | -------- | -------- |-------- |
-|6A|	Mdm Annuratha Veilathurai	|6A Form Teacher	|annuratha_veilathurai@schools.gov.sg|
-||Mr Shahran B Hamid|	6A Form Teacher|	shahran_hamid@schools.gov.sg|
+|6A|	Mrs Shanker Shaevah Pannir	|6A Form Teacher	|shaevah_shankari_pannir_selvan@schools.gov.sg|
+||Mdm Fun Kai Tien|	6A Form Teacher|	fun_kai_tien@schools.gov.sg|
 |6B	|Mr Kenneth Tan|	6B Form Teacher|	tan_way_chye_kenneth@schools.gov.sg|
 ||Mr Quek Hsiu Yuan|	6B Form Teacher	|quek_hsiu_yuan@schools.gov.sg|
 |6C	|Mrs Angela Tan|	6C Form Teacher	|tan_shi_fern@schools.gov.sg|
