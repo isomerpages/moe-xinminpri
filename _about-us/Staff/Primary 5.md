@@ -27,5 +27,5 @@ variant: markdown
 ||Miss Syasya Syafiqah Binte Roslee|	5D Form Teacher|	syasya_syafiqah_roslee@schools.gov.sg|
 |5E	|Mrs Angela Tan Shi Fern	|5E Form Teacher|	tan_shi_fern@schools.gov.sg|
 ||Mr Matthew Chan Jia Hui	|5E Form Teacher	|matthew_chan_jia_hui@schools.gov.sg|
-|5F	|Mr Tan Kee Beng	|5F Form Teacher|	tan_kee_beng@schools.gov.sg|
-||Miss Bong Fung Nyuk	|5F Form Teacher|	bong_fung_nyuk@schools.gov.sg|
+|5F	|Mrs Daphne Goh-Chua	|5F Form Teacher|	chua_bee_har@schools.gov.sg|
+||Mr Kenneth Tan Way Chye	|5F Form Teacher|	tan_way_chye_kenneth@schools.gov.sg|
