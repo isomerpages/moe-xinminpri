@@ -24,8 +24,8 @@ variant: markdown
 |6C	|Mr Kumar|	6C Form Teacher	|kumaresan_arasapam@schools.gov.sg|
 ||Mrs Iris Chan-Lee|	6C Form Teacher	|iris_lee_poh_chin@schools.gov.sg|
 ||Mrs Paulyne Ho-Ng Bao Lin|	6C Form Teacher	|ng_bao_lin_paulyne@schools.gov.sg|
-|6D	|Mrs Serene Lee-Neo|	6D Form Teacher	|neo_xiao_ling_serene@schools.gov.sg|
-||Mdm Teh Swee Sing|	6D Form Teacher	|teh_swee_sing@schools.gov.sg|
+|6D	|Ms Sumita Kunalingam|	6D Form Teacher	|sumita_kunalingam@schools.gov.sgg|
+||Ms Liang Rui Shan|	6D Form Teacher	|liang_ruishan@schools.gov.sg|
 |6E|	Mrs Iris Chan-Lee|	6E Form Teacher	|iris_lee_poh_chin@schools.gov.sg|
 ||Mr Gary Tang	|6E Form Teacher	|tang_kia_miang_gary@schools.gov.sg|
 ||Mr Kuah Guo Shen	|6E Form Teacher	|kuah_guo_shen@schools.gov.sg|
