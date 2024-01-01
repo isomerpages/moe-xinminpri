@@ -21,8 +21,9 @@ variant: markdown
 ||Mdm Fun Kai Tien|	6A Form Teacher|	fun_kai_tien@schools.gov.sg|
 |6B	|Mr Edwin Pang|	6B Form Teacher|	edwin_pang_ting_how@schools.gov.sg|
 ||Mrs Shanmugam|	6B Form Teacher	|palaniyandi_magasvari@schools.gov.sg|
-|6C	|Mrs Angela Tan|	6C Form Teacher	|tan_shi_fern@schools.gov.sg|
-||Mr Mohd Azreen|	6C Form Teacher	|mohamad_azreen_mohamad_kus@schools.gov.sg|
+|6C	|Mr Kumar|	6C Form Teacher	|kumaresan_arasapam@schools.gov.sg|
+||Mrs Iris Chan-Lee|	6C Form Teacher	|iris_lee_poh_chin@schools.gov.sg|
+||Mrs Paulyne Ho-Ng Bao Lin|	6C Form Teacher	|ng_bao_lin_paulyne@schools.gov.sg|
 |6D	|Mrs Serene Lee-Neo|	6D Form Teacher	|neo_xiao_ling_serene@schools.gov.sg|
 ||Mdm Teh Swee Sing|	6D Form Teacher	|teh_swee_sing@schools.gov.sg|
 |6E|	Mrs Iris Chan-Lee|	6E Form Teacher	|iris_lee_poh_chin@schools.gov.sg|
