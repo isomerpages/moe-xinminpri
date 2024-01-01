@@ -21,7 +21,7 @@ variant: markdown
 |3A	|Mr Quek Hsiu Yuan	|3A Form Teacher	|quek_hsiu_yuan@schools.gov.sg|
 ||Mdm Zhao Ting Yan	|3A Form Teacher	|zhao_tingyan@schools.gov.sg|
 |3B	|Mrs Nur Amilia Fendy	|3B Form Teacher	|nur_amilia_abdul_rahim@schools.gov.sg|
-||Mdm Reshmi Rai	|3B Form Teacher|	tochangeXX@schools.gov.sg|
+||Mdm Reshmi Rai	|3B Form Teacher|	reshmi_rai@schools.gov.sg|
 |3C	|Mr Lim Beng Liang|	3C Form Teacher	|lim_beng_liang@schools.gov.sg|
 ||Mrs Vijay-T Sumathy	|3C Form Teacher|	xinmin_ps@moe.edu.sgg|
 |3D|	Mrs Lee-Kwek Hui Ying	|3D Form Teacher	|kwek_hui_ying@schools.gov.sg|
