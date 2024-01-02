@@ -27,7 +27,8 @@ variant: markdown
 | Mrs Joycelyn Soo 	| HOD / Discipline and Student Leadership 	| [yeo_su_yong_joycelyn@schools.gov.sg](mailto:yeo_su_yong_joycelyn@schools.gov.sg) 	|
 | Miss Yap Li Ling 	| HOD / Mother Tongue 	| [yap_li_ling@schools.gov.sg](mailto:yap_li_ling@schools.gov.sg) 	|
 | Mdm Azlinah Bte Dakarlan  	| HOD / Character and Citizenship Education (CCE) 	| [azlinah_dakarlan@schools.gov.sg](mailto:azlinah_dakarlan@schools.gov.sg) 	|
-| Mdm Noor Hafizah Bte Hamis 	| HOD / Information and Communication Technology (ICT) 	| [xinmin_ps@moe.edu.sg](xinmin_ps@moe.edu.sg) 	|
+| Mdm Noor Hafizah Bte Hamis 	| HOD / Information and Communication Technology (ICT) 	| noor_hafizah_hamis@schools.gov.sg 	|
+| Miss Michelle Teo Wei Ling 	| Subject Head / Aesthetics 	| [teo_wei_ling@schools.gov.sg](mailto:teo_wei_ling@schools.gov.sg) 	
 
 
 ### Year Heads and Assistant Year Head
@@ -58,7 +59,6 @@ variant: markdown
 | Name 	| Designation 	| Email 	|
 |---	|---	|---	|
 | Mrs Shanmugam 	| Subject Head / Tamil & Malay Language	| [palaniyandi_magasvari@schools.gov.sg](palaniyandi_magasvari@schools.gov.sg) |
-| Miss Michelle Teo Wei Ling 	| Subject Head / Aesthetics 	| [teo_wei_ling@schools.gov.sg](mailto:teo_wei_ling@schools.gov.sg) 	|
 | Mrs Iris Chan-Lee Poh Chin 	| Subject Head / Social Studies & National Education 	| [iris_lee_poh_chin@schools.gov.sg](mailto:iris_lee_poh_chin@schools.gov.sg) 	|
 | Mr Kumaresan 	|  Subject Head / Student Well-Being 	| [kumaresan_arasapam@schools.gov.sg](mailto:kumaresan_arasapam@schools.gov.sg) 	|
 | Ms Aneesa Faruvin 	| Subject Head / Information and Communication Technology (ICT) 	| [aneesa_faruvin_mohd_ibrahim@schools.gov.sg ](aneesa_faruvin_mohd_ibrahim@schools.gov.sg ) |
