@@ -3,6 +3,7 @@ title: Red Cross
 permalink: /cca/uniformed-groups/red-cross/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCA/red%20cross%20s.jpg)
 
@@ -22,11 +23,14 @@ Opportunities are also given to Links to contribute service during Total Defence
 
 Mdm Zarina Binte Kamaron (Overall-In-Charge)
 
-Mdm Teh Swee Sing (2nd-In-charge)
+Mdm Sumita Kunalingam (2nd-In-charge)
+
+Miss Charlene Lim Xian Zhen
 
 Mdm Li Wenting
 
-Mdm Sumita Kunalingam
+
+
 
 ### Schedule
 
