@@ -3,6 +3,7 @@ title: Subject Teachers
 permalink: /school-organization/subject-teachers/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # Subject Teachers
 
@@ -19,4 +20,3 @@ third_nav_title: Staff
  | Mrs Joycelyn Soo | 	yeo_su_yong_joycelyn@schools.gov.sg | 
  | Mdm Noor Hafizah Bte Hamis | 	noor_hafizah_hamis@schools.gov.sg | 
  | Mrs Ruth Pakiam | 	ruth_josephine_arul_soosay@schools.gov.sg |
- |Mr Rohinesh|xinmin_ps@moe.edu.sg|
