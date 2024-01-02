@@ -23,10 +23,10 @@ variant: markdown
 |3B	|Mrs Nur Amilia Fendy	|3B Form Teacher	|nur_amilia_abdul_rahim@schools.gov.sg|
 ||Mdm Reshmi Rai	|3B Form Teacher|	reshmi_rai@schools.gov.sg|
 |3C	|Mr Lim Beng Liang|	3C Form Teacher	|lim_beng_liang@schools.gov.sg|
-||Mrs Vijay-T Sumathy	|3C Form Teacher|	xinmin_ps@moe.edu.sgg|
+||Mrs Vijay-T Sumathy	|3C Form Teacher|	t_sumathy@schools.gov.sg|
 |3D|	Mrs Lee-Kwek Hui Ying	|3D Form Teacher	|kwek_hui_ying@schools.gov.sg|
 ||Mrs Melinda Lim|	3D Form Teacher	|melinda_ashleigh_sim@schools.gov.sg|
 |3E	|Mrs Serene Tan-Neo Wei Li	|3E Form Teacher	|neo_wei_li_serene@schools.gov.sg|
-||Mdm Foo Wei Woon|	3E Form Teacher|	foo_wei_woon@schools.gov.sgg|
+||Mdm Foo Wei Woon|	3E Form Teacher|	foo_wei_woon@schools.gov.sg|
 |3F|	Mrs Magdalene Tan	|3F Form Teacher	|tan_magdalene@schools.gov.sg|
 ||Mdm Azlinah Bte Dakarlan|	3F Form Teacher	|azlinah_dakarlan@schools.gov.sg|
