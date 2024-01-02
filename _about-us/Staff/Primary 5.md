@@ -11,7 +11,7 @@ variant: markdown
 
 |Name|	Designation|	Email|
 |----|----|----|
-|Mr Gary Tang Kia Miang	| Assistant Year Head (Upper Block / P5)	|tang_kia_miang_gary@schools.gov.sg|
+|Mr Gary Tang Kia Miang	| Assistant Year Head (P5)	|tang_kia_miang_gary@schools.gov.sg|
 
 **Form Teachers**
 
