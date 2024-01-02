@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /cca/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/chinese%20dance%20s2.jpg)
 
@@ -30,13 +31,11 @@ Through such platforms, students collaborate innovatively in groups to serve com
 
 ### **Teachers-In-Charge**
 
-Mdm Guan Jiajia (Overall-In-Charge)
+Mdm Guan Jiajia (Overall-in-charge)
 
-Ms Zhao Tingyan (2nd-In-charge)
+Mdm Wang Xiaohua (2nd-in-charge)
 
 Miss Foo Wei Woon
-
-Mdm Wang Xiaohua
 
 Mrs Ng Marn Peng
 
