@@ -49,7 +49,7 @@ Hydroponics
 
 **Teachers-in-Charge**
 
-Mrs Jodene Yow (Overall-In-Charge)
+Mrs Jodene Yow (Overall-in-charge)
 
 Mdm Gabrielle Lim Huiwen  (2nd-in-charge)
 
