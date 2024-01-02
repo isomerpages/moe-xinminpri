@@ -27,7 +27,7 @@ The Art Club activities challenge members to do art through various techniques, 
 
 Mrs Paulyne Ho (Overall-in-charge)
 
-Mr Joel Teh (2nd-In-charge)
+Mr Joel Teh (2nd-in-charge)
 
 Mdm Reshmi Rai
 
