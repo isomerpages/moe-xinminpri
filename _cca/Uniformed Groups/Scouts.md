@@ -18,9 +18,9 @@ During our CCA sessions, our Xinmin Scouts aim to earn a series of badges throug
 
 ### Teachers-in-Charge
 
-Mdm Santhi d/o Perumal (Overall-In-Charge)
+Mdm Santhi d/o Perumal (Overall-in-charge)
 
-Ms Sally Lim Lay Koon (2nd-In-charge)
+Ms Sally Lim Lay Koon (2nd-in-charge)
 
 Mr Arden Lim Kaixiang
 
