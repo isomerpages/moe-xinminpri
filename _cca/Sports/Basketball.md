@@ -3,6 +3,7 @@ title: Basketball
 permalink: /cca/sports/basketball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/CCA/bball%20s.jpg)
 
@@ -15,15 +16,13 @@ Through this CCA, students can forge friendships and strong camaraderie with the
 
 ### Teachers-in-Charge:
 
-Mr Quek Hsiu Yuan (Overall-In-Charge)
+Mr Quek Hsiu Yuan (Overall-in-charge)
 
-Mr Gary Tang (2nd-In-charge)
+Mr. Kenneth Tan (2nd-in-charge)
 
-Mdm Fun Kai Tien
+Mr Rohinesh
 
-Mr. Kenneth Tan
-
-Ms Amanda Lim
+Mr Matthew Chan
 
 ### Schedule:
 
