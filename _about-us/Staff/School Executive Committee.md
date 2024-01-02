@@ -41,7 +41,7 @@ variant: markdown
 | Mdm Azlinah Bte Dakarlan 	| Assistant Year Head / P3 	| azlinah_dakarlan@schools.gov.sg	|
 | Mdm Rosnani Bte Yusof  	| Year Head / P4 	| rosnani_yusof@schools.gov.sg
 | Mr Gary Tang 	|  Assistant Year Head / P5	| tang_kia_miang_gary@schools.gov.sg|
-| Mrs Norazimah Junari 	| Year Head  / P6 	| norazimah_md_shariff@schools.gov.sg|
+| Mrs Norazimah Junari 	| Assistant Year Head  / P6 	| norazimah_md_shariff@schools.gov.sg|
 
 
 ### Level Heads (LH)
