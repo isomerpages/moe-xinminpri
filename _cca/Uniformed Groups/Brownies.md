@@ -17,7 +17,7 @@ Brownies are given opportunities to participate in various competitions organize
 
 Mrs Lee Hui Ying (Overall-in-charge)
 
-Mrs Malini Madasamy (2nd-In-charge)
+Mrs Malini Madasamy (2nd-in-charge)
 
 Mdm Chai Chang Ciek
 
