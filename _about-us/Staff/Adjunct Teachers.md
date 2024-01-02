@@ -16,30 +16,9 @@ variant: markdown
 |Mrs Pagon Ong-Boh|	FAJT (English/Maths/Science)| xinmin_ps@moe.edu.sg
 |Mdm Myyher Lim|	FAJT (English/Maths)| xinmin_ps@moe.edu.sg
 |Mr Mohd Hanif|	FAJT (English/Maths)| xinmin_ps@moe.edu.sg
-|Mdm Koh Ying Sin|	FAJT (Chinese)| xinmin_ps@moe.edu.sg
+|Mdm Koh Ying Sin|	FAJT (Chinese)| koh_ying_sin@schools.gov.sg
 |Mr Ng Yee Hong|	FAJT (Chinese)| xinmin_ps@moe.edu.sg
 |Mdm Ng Chay Luan|	FAJT (English/Maths)| xinmin_ps@moe.edu.sg
 |Mdm Soon Sock Hian|	FAJT (English/Social Studies)| xinmin_ps@moe.edu.sg
-|Miss Richelle Teng Mei Lin|	FAJT (English/Maths)| xinmin_ps@moe.edu.sg
+|Miss Richelle Teng Mei Lin|	FAJT (English/Maths)|teng_mei_lin_richelle@schools.gov.sg
 |Miss Tan Soi Lan|	FAJT (Chinese)| xinmin_ps@moe.edu.sg
-
-
-
-
-
-| Mdm Soon Sok Hian 	| FAJT (English/Maths/SS) 	| [xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) 	|
-
-
-| Ms Tan Soi Lan 	| FAJT (Chinese Language) 	| [xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg)	|
-| Ms Lim Lay Leng 	| FAJT (Chinese Language) 	| [xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) 	|
-
-|Ms Richelle Teng| FAJT (English/Math) | [teng_mei_lin_richelle@schools.gov.sg](teng_mei_lin_richelle@schools.gov.sg)|
-
-
-|Ms Koh Ying Sin| FAJT (Chinese Language) | [koh_ying_sin@schools.gov.sg](koh_ying_sin@schools.gov.sg)|
-
-|Mrs Pagon Ong|FAJT (English) |[xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) |
-
-|Mdm Myyher Lim|FAJT (Math)|[xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) |
-|Mdm Ng Chay Luan| FAJT (Math) |[xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg)|
-|Mr Sadik|FAJT (PE)|[xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) |
