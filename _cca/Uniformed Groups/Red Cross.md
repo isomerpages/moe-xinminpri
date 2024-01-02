@@ -21,9 +21,9 @@ Opportunities are also given to Links to contribute service during Total Defence
 
 ### Teachers-in-Charge
 
-Mdm Zarina Binte Kamaron (Overall-In-Charge)
+Mdm Zarina Binte Kamaron (Overall-in-charge)
 
-Mdm Sumita Kunalingam (2nd-In-charge)
+Mdm Sumita Kunalingam (2nd-in-charge)
 
 Miss Charlene Lim Xian Zhen
 
