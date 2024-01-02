@@ -3,6 +3,7 @@ title: School Executive Committee
 permalink: /school-organisation/school-executive-committee/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # **School Executive Committee**
 
@@ -34,12 +35,12 @@ third_nav_title: Staff
 
 | Name 	| Designation 	| Email 	|
 |---	|---	|---	|
-| Mdm Sim Choy Yin  	| Year Head (Lower Block / P2) 	| [sim_choy_yin@schools.gov.sg](mailto:sim_choy_yin@schools.gov.sg) 	|
-| Mdm Rosnani Bte Yusof  	| Year Head (Middle Block / P3) 	| [rosnani_yusof@schools.gov.sg](mailto:rosnani_yusof@schools.gov.sg) 	|
-| Mrs Norazimah Junari 	| Year Head (Upper Block / P5) 	| [norazimah_md_shariff@schools.gov.sg](mailto:norazimah_md_shariff@schools.gov.sg) 	|
-| Mdm Rosnita Bte Ibrahim 	| AYH P1 	| [rosnita_ibrahim@schools.gov.sg](mailto:rosnita_ibrahim@schools.gov.sg) 	|
-| Mrs Daphne Goh-Chua 	| AYH P4 	| [chua_bee_har@schools.gov.sg](mailto:chua_bee_har@schools.gov.sg) 	|
-| Mr Gary Tang 	| AYH P6 	| [tang_kia_miang_gary@schools.gov.sg](mailto:tang_kia_miang_gary@schools.gov.sg) 	|
+| Mdm Rosnita Bte Ibrahim 	| Assistant Year Head / P1 	| rosnita_ibrahim@schools.gov.sg	|
+| Mdm Sharifah Wardah  	| Assistant Year Head / P2	| sim_choy_yin@schools.gov.sg	|
+| Mdm Azlinah Bte Dakarlan 	| Assistant Year Head / P3 	| azlinah_dakarlan@schools.gov.sg	|
+| Mdm Rosnani Bte Yusof  	| Year Head / P4 	| rosnani_yusof@schools.gov.sg
+| Mr Gary Tang 	|  Assistant Year Head / P5	| tang_kia_miang_gary@schools.gov.sg|
+| Mrs Norazimah Junari 	| Year Head  / P6 	| norazimah_md_shariff@schools.gov.sg|
 
 
 ### Level Heads (LH)
