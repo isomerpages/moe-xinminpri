@@ -27,7 +27,7 @@ variant: markdown
 | Mrs Joycelyn Soo 	| HOD / Discipline and Student Leadership 	| yeo_su_yong_joycelyn@schools.gov.sg	|
 | Miss Yap Li Ling 	| HOD / Mother Tongue 	| yap_li_ling@schools.gov.sg 	|
 | Mdm Noor Hafizah Bte Hamis 	| HOD / Information and Communication Technology (ICT) 	| noor_hafizah_hamis@schools.gov.sg 	|
-| Miss Michelle Teo Wei Ling 	| HOD / Physical Education, Art & Music (PAM) 	| teo_wei_ling@schools.gov.sg 	
+| Miss Michelle Teo Wei Ling 	| HOD / Physical Education, Art, Music & CCA (PAM & CCA) 	| teo_wei_ling@schools.gov.sg 	
 | Mrs Daphne Goh 	| HOD / SEN (Covering) 	| chua_bee_har@schools.gov.sg 
 
 
