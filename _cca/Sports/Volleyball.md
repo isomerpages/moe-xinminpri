@@ -3,6 +3,7 @@ title: Volleyball
 permalink: /cca/sports/volleyball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/CCA/volleyball%20s.jpg)
 
@@ -17,13 +18,17 @@ Although our players join the sport with the differences in ability, they learn 
 
 ### Teachers-in-Charge
 
-Mr M Muruggapan (Overall In-charge)
+Miss Syasya (Overall-in-charge)
 
-Miss Syasya (2nd In-charge)
+Mr M Muruggapan (2nd-in-charge)
+
+Mrs Agnes Tan
 
 Mr Tan Hoe Tsong
 
-Mrs Agnes Tan
+Mrs Shaevah Pannir-Shanker 
+
+
 
 ### Schedule
 

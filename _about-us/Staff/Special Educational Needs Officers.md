@@ -3,6 +3,7 @@ title: Special Educational Needs Officers
 permalink: /school-organisation/special-educational-needs/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # *Special Educational Needs Officers*
 
@@ -14,4 +15,4 @@ third_nav_title: Staff
 | Miss Lim Siew Lian 	| Senior Special Education Needs Officer (SENO) | [lim_siew_lian@schools.gov.sg](mailto:lim_siew_lian@schools.gov.sg) |
 | Mdm Noor Haseena Syed Abd Rahim Shah 	| Special Education Needs Officer (SENO) 	| [noor_haseena_syed_abdul@schools.gov.sg](mailto:noor_haseena_syed_abdul@schools.gov.sg) 	|
 | Ms Siti Zuraidah Binte Zudirman 	| Special Education Needs Officer (SENO) 	| [siti_zuraidah_zudirman@schools.gov.sg](mailto:siti_zuraidah_zudirman@schools.gov.sg) 	|
-|Miss Denise Seah|Special Education Needs Officer (SENO) |[xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg)|
+|Miss Denise Seah|Special Education Needs Officer (SENO) |[denise_seah_ju_ling@schools.gov.sg](mailto:denise_seah_ju_ling@schools.gov.sg)|

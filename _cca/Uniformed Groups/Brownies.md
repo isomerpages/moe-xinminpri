@@ -3,6 +3,7 @@ title: Brownies
 permalink: /cca/uniformed-groups/brownies/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCA/brownies%20s.jpg)
 
@@ -14,11 +15,11 @@ Brownies are given opportunities to participate in various competitions organize
 
 ### Teachers-in-Charge
 
-Mrs Malini Madasamy (Overall-in-charge)
+Mrs Lee Hui Ying (Overall-in-charge)
 
-Mrs Lee Hui Ying
+Mrs Malini Madasamy (2nd-in-charge)
 
-Miss Charlene Lim
+Mdm Chai Chang Ciek
 
 Miss Steffi Tan
 

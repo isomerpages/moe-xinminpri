@@ -3,6 +3,7 @@ title: Football
 permalink: /cca/sports/football/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/CCA/football%20s.jpg)
 
@@ -26,11 +27,15 @@ Football CCA in Xinmin develop our student-athletes to be lifelong learners, inn
 
 ### Teachers-in-Charge
 
-Mr Mohamad Azreen (Overall In-Charge)
+Mr Mohamad Azreen (Overall-in-charge)
 
-Mr Shahran (2nd In-Charge)
+Mr Shahran (2nd-in-charge)
+
+Mrs Chia Soo Ying
 
 Mdm Sharifah Wardah
+
+Mrs Angela Tan Shi Fern
 
 Ms E-Liz Yeung
 

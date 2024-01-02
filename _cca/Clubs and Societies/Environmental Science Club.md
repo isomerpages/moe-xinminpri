@@ -3,6 +3,7 @@ title: Environmental Science Club
 permalink: /cca/Clubs-and-Societies/environmental-science-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/CCA/env%20club%20s.jpg)
 
@@ -48,11 +49,11 @@ Hydroponics
 
 **Teachers-in-Charge**
 
-Mrs Jodene Yow (Overall-In-Charge)
+Mrs Jodene Yow (Overall-in-charge)
 
-Mrs Hadia Syahir (2nd OIC)
+Mdm Gabrielle Lim Huiwen  (2nd-in-charge)
 
-Mdm Liang Rui Shan
+Mdm Nicole De Souza
 
 
 **Schedule**

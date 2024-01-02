@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /school-organisation/mother-tongue/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Mother Tongue
 =============
@@ -16,7 +17,7 @@ Mother Tongue
 |Name of Teacher| Designation |	Email |
 | -------- | -------- | -------- |
 |Miss Yap Li Ling|HOD / MT| [yap_li_ling@schools.gov.sg](yap_li_ling@schools.gov.sg) |
-|Mdm Fun Kai Tien |CL Coordinator |	fun_kai_tien@schools.gov.sg|
+|Mdm Fun Kai Tien |Subject Head / CL |	fun_kai_tien@schools.gov.sg|
 |Miss Bong Fung Nyuk | Senior Teacher / CL | bong_fung_nyuk@schools.gov.sg |
 | Mr Kuah Guo Shen | Senior Teacher / CL | kuah_guo_shen@schools.gov.sg |
  | Mr Gary Tang	 | Assistant Year Head / P5  | tang_kia_miang_gary@schools.gov.sg | 

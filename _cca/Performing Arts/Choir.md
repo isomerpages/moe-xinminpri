@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/choir%20s.jpg)
 
@@ -21,13 +22,15 @@ Aside from our annual Recognition Day Concert and biennial Performing HeArts Con
 
 ### **Teachers-In-Charge**
 
-Mr Thomas Ong (Overall-In-Charge)
+Mr Thomas Ong (Overall-in-charge)
 
-Miss Shek Yan Yee (2nd OIC)
+Miss Shek Yan Yee (2nd-in-charge)
+
+Mdm Zhao Ting Yan
+
+Ms Liang Rui SHan
 
 Mrs Celine Ong
-
-Miss Michelle Teo
 
 ### **Schedule**
 

@@ -3,6 +3,7 @@ title: Guzheng
 permalink: /cca/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/guzheng%20s.jpg)
 
@@ -23,9 +24,9 @@ Throughout the years in Xinmin Primary Guzheng Ensemble, students will be expose
 
 ### **Teachers-In-Charge**
 
-Mr Kuah Guo Shen
+Mr Kuah Guo Shen (Overall-in-charge)
 
-Ms Toh Feng Joo
+Ms Toh Feng Joo (2nd-in-charge)
 
 Ms Bong Fung Nyuk
 

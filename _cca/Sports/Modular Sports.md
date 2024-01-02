@@ -3,6 +3,7 @@ title: Modular Sports
 permalink: /cca/sports/modular-sports/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/CCA/modular%20sports%20s.jpg)
 
@@ -22,11 +23,11 @@ Equipped with the knowledge and skills to play a variety of sports, students dev
 
 ### **Teachers In-Charge**
 
-Mrs Farah Ritz (Overall In-Charge)
+Mr Arthur Tay  (Overall-in-charge)
 
-Mr Arthur Tay (2nd In-Charge)
+Mrs Farah Ritz (2nd-in-charge)
 
-Mrs Chia-Goh Soo Ying
+Mdm Siti Fatimah
 
 ### **Schedule**
 

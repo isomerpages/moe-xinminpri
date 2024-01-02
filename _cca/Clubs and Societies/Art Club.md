@@ -3,6 +3,7 @@ title: Art Club
 permalink: /cca/Clubs-and-Societies/art-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/CCA/art%20club%20s.jpg)
      
@@ -24,11 +25,11 @@ The Art Club activities challenge members to do art through various techniques, 
 
 ### Teachers-in-Charge
 
-Mdm Norsekha (overall in charge)
+Mrs Paulyne Ho (Overall-in-charge)
 
-Mrs Paulyne Ho
+Mr Joel Teh (2nd-in-charge)
 
-Mr Joel Teh
+Mdm Reshmi Rai
 
 ### Schedule
 

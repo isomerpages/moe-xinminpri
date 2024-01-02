@@ -3,6 +3,7 @@ title: Primary 1
 permalink: /school-organisation/primary-1/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # **Primary 1**
 
@@ -19,17 +20,17 @@ third_nav_title: Staff
 
 | Class | Name | Designation | Contact | 
 | -------- | -------- | -------- |-------- |
-| 1A | Mdm Rosnita Bte Ibrahim     |  1A Form Teacher	    |  [rosnita_ibrahim@schools.gov.sg](rosnita_ibrahim@schools.gov.sg) |
-| | Miss Shek Yan Yee |	1A Form Teacher	| [shek_yan_yee@schools.gov.sg](shek_yan_yee@schools.gov.sg) |
-|1B	| Mrs Chia-Goh Soo Ying	| 1B Form Teacher	|[goh_soo_ying@schools.gov.sg](goh_soo_ying@schools.gov.sg) |
-| |Mrs Lee Hui Ying	|1B Form Teacher|	[kwek_hui_ying@schools.gov.sg](kwek_hui_ying@schools.gov.sg)|
-|1C	|Mrs Hadia Syahir |	1C Form Teacher	| [hadia_syahir@schools.gov.sg](hadia_syahir@schools.gov.sg) |
-| | Mr Tan Hoe Tsong|	1C Form Teacher	| [tan_hoe_tsong@schools.gov.sg](tan_hoe_tsong@schools.gov.sg) |
-| 1D |	Miss Susan Seow |	1D Form Teacher	| [seow_susan@schools.gov.sg](seow_susan@schools.gov.sg) |
-| | Mdm Naime	| 1D Form Teacher	| [noor_naime_zainal_abidin@schools.gov.sg](noor_naime_zainal_abidin@schools.gov.sg) |
-| 1E	| Mdm Sharifah Wardah |	1E Form Teacher	| [sharifah_wardah@schools.gov.sg](sharifah_wardah@schools.gov.sg) |
-| | Miss Toh Feng Joo	| 1E Form Teacher	| [toh_feng_joo@schools.gov.sg](toh_feng_joo@schools.gov.sg) |
-| 1F |	Mdm Malini Madasamy |	1F Form Teacher	| [malini_madasamy@schools.gov.sg](malini_madasamy@schools.gov.sg) |
-||Mdm Santhi Perumal |	1F Form Teacher	|[santhi_perumal@schools.gov.sg](santhi_perumal@schools.gov.sg)|
-|1G	| Miss Tan Hui Jun Steffi |	1G Form Teacher	| [tan_hui_jun_steffi@schools.gov.sg](tan_hui_jun_steffi@schools.gov.sg) |
-| | Mr Thomas Ong	| 1G Form Teacher	|[ong_ding_yi@schools.gov.sg](ong_ding_yi@schools.gov.sg) |
+| 1A | Mrs Ng Marn Peng     |  1A Form Teacher	    |  ng_marn_peng@schools.gov.sg
+| | Mdm Li Wen Ting |	1A Form Teacher	| li_wenting@schools.gov.sg
+|1B	| Mdm Guan Jia Jia	| 1B Form Teacher	|guan_jiajia@schools.gov.sg
+| |Mr Mohd Hanif	|1B Form Teacher|	xinmin_ps@moe.edu.sg
+|1C	|Mdm Gabrielle Lim Huiwen  |	1C Form Teacher	| lim_huiwen_gabrielle@schools.gov.sg
+| | Mdm Norliana Bte Ahmad Norli|	1C Form Teacher	| norliana_ahmad_norli@schools.gov.sg
+| 1D |	Mdm Sim Choy Yin |	1D Form Teacher	| sim_choy_yin@schools.gov.sg
+| | Mdm Chai Chang Ciek	| 1D Form Teacher	| chai_chang_ciek@schools.gov.sg
+| 1E	| Mdm Rosnita Bte Ibrahim |	1E Form Teacher	| rosnita_ibrahim@schools.gov.sg
+| | Ms Grace Koh Ai Meng	| 1E Form Teacher	| grace_koh_ai_meng@schools.gov.sg|
+| 1F |	Mrs Agnes Tan Hai Hui |	1F Form Teacher	| agnes_tan_hai_hui@schools.gov.sg
+||Mr Kuah Guo Shen |	1F Form Teacher	|kuah_guo_shen@schools.gov.sg
+|1G	| Mrs Mahandra  |	1G Form Teacher	| s_thangachi_ammal@schools.gov.sg
+| | Miss Richelle Teng Mei Lin	| 1G Form Teacher	|teng_mei_lin_richelle@schools.gov.sg
