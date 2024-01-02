@@ -37,7 +37,7 @@ variant: markdown
 | Name 	| Designation 	| Email 	|
 |---	|---	|---	|
 | Mdm Rosnita Bte Ibrahim 	| Assistant Year Head / P1 	| rosnita_ibrahim@schools.gov.sg	|
-| Mdm Sharifah Wardah  	| Assistant Year Head - Covering / P2	| sim_choy_yin@schools.gov.sg	|
+| Mdm Sharifah Wardah  	| Assistant Year Head - Covering / P2	| sharifah_wardah@schools.gov.sg|
 | Mdm Azlinah Bte Dakarlan 	| Assistant Year Head / P3 	| azlinah_dakarlan@schools.gov.sg	|
 | Mdm Rosnani Bte Yusof  	| Year Head / P4 	| rosnani_yusof@schools.gov.sg
 | Mr Gary Tang 	|  Assistant Year Head / P5	| tang_kia_miang_gary@schools.gov.sg|
