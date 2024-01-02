@@ -10,8 +10,8 @@ variant: markdown
 |Name|	Designation|	Email|
 |----|----|----|
 |Miss Sharon Woo|	FAJT (Maths/Science)| xinmin_ps@moe.edu.sg
-|Mrs Melinda Ashleigh Lim-Sim Li Yi|	FAJT (Maths/Science)| xinmin_ps@moe.edu.sg
-|Miss Sharon Woo|	FAJT (Maths/Science)| xinmin_ps@moe.edu.sg
+|Mrs Melinda Ashleigh Lim-Sim Li Yi|	FAJT (English/Maths​)| xinmin_ps@moe.edu.sg
+|Mrs Lim-Siew Wai Mun|	FAJT (Maths/Science)| xinmin_ps@moe.edu.sg
 |Miss Sharon Woo|	FAJT (Maths/Science)| xinmin_ps@moe.edu.sg
 |Miss Sharon Woo|	FAJT (Maths/Science)| xinmin_ps@moe.edu.sg
 |Miss Sharon Woo|	FAJT (Maths/Science)| xinmin_ps@moe.edu.sg
