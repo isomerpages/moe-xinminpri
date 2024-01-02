@@ -22,13 +22,15 @@ Aside from our annual Recognition Day Concert and biennial Performing HeArts Con
 
 ### **Teachers-In-Charge**
 
-Mr Thomas Ong (Overall-In-Charge)
+Mr Thomas Ong (Overall-in-charge)
 
 Miss Shek Yan Yee (2nd-in-charge)
 
-Mrs Celine Ong
+Mdm Zhao Ting Yan
 
-Miss Michelle Teo
+Ms Liang Rui SHan
+
+Mrs Celine Ong
 
 ### **Schedule**
 
