@@ -29,6 +29,7 @@ variant: markdown
 | Mdm Azlinah Bte Dakarlan  	| HOD / Character and Citizenship Education (CCE) 	| azlinah_dakarlan@schools.gov.sg 	|
 | Mdm Noor Hafizah Bte Hamis 	| HOD / Information and Communication Technology (ICT) 	| noor_hafizah_hamis@schools.gov.sg 	|
 | Miss Michelle Teo Wei Ling 	| HOD / Physical Education, Art & Music (PAM) 	| teo_wei_ling@schools.gov.sg 	
+| Mrs Daphne Goh 	| HOD (int) / Special Educational Needs 	| chua_bee_har@schools.gov.sg 
 
 
 ### Year Heads and Assistant Year Head
