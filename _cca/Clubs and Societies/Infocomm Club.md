@@ -3,6 +3,7 @@ title: Infocomm Club
 permalink: /cca/Clubs-and-Societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/CCA/infocomm%20club%20s.jpg)
 
@@ -30,9 +31,10 @@ Mondays, 2.30 p.m. to 4.30 p.m. (P5 and 6s)
 Mondays 2.30 p.m. to 5.00 p.m. (P4s)
 
 #### Teachers-In-Charge
-Mr Kenny Tan – P4 (Overall In-charge)
 
-Mdm Norliana – P6
+Mdm Norliana (Overall-in-charge)
+
+Mr Lim Beng Liang (2nd-in-charge)
 
 Mdm Yang Xu – P5
 
