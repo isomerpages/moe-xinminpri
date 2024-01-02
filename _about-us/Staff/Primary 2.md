@@ -11,7 +11,7 @@ variant: markdown
 
 |Name|	Designation|	Email|
 |----|----|----|
-|Mdm Sharifah Wardah|	Assistant Year Head (Lower Block / P2)	|sharifah_wardah@schools.gov.sg
+|Mdm Sharifah Wardah|	Assistant Year Head - Covering (Lower Block / P2)	|sharifah_wardah@schools.gov.sg
 
 **Form Teachers**
 
