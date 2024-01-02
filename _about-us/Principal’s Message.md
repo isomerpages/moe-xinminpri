@@ -8,7 +8,7 @@ variant: markdown
 
 
 
-Welcome to Xinmin Primary School!
+Welcome to Xinmin Primary School.
 
 On behalf of my staff, we look forward to partnering the community in nurturing our Xinminites’ hearts and minds for a changing world.
 
