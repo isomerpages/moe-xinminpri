@@ -7,11 +7,11 @@ variant: markdown
 ---
 # **Primary 6**
 
-### Year Head
+### Assistant Year Head
 
 |Name|	Designation|	Email|
 |----|----|----|
-|Mrs Norazimah Junari	|Year Head (P6)|	norazimah_md_shariff@schools.gov.sg|
+|Mrs Norazimah Junari	|Assistant Year Head (P6)|	norazimah_md_shariff@schools.gov.sg|
 
 **Form Teachers**
 
