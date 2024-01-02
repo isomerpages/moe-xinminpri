@@ -3,6 +3,7 @@ title: Scouts
 permalink: /cca/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/CCA/scouts%20s.jpg)
 
@@ -17,13 +18,11 @@ During our CCA sessions, our Xinmin Scouts aim to earn a series of badges throug
 
 ### Teachers-in-Charge
 
-Mr Lim Beng Liang (Overall-In-Charge)
+Mdm Santhi d/o Perumal (Overall-In-Charge)
 
-Mdm Santhi Perumal (2nd-In-charge)
+Ms Sally Lim Lay Koon (2nd-In-charge)
 
-Ms Sally Lim Lay Koon
-
-Mdm Chai Chang Ciek
+Mr Arden Lim Kaixiang
 
 ### Schedule
 
