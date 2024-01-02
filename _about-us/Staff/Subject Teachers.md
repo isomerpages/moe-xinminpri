@@ -20,3 +20,4 @@ variant: markdown
  | Mdm Noor Hafizah Bte Hamis | 	noor_hafizah_hamis@schools.gov.sg | 
  | Ms Michelle Teo Wei Ling | teo_wei_ling@schools.gov.sg |
  | Mrs Ruth Pakiam | 	ruth_josephine_arul_soosay@schools.gov.sg |
+ | Mdm Liu Swee Yen | 	liu_swee_yen@schools.gov.sg|
