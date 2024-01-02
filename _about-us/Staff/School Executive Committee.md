@@ -64,3 +64,4 @@ variant: markdown
 | Ms Aneesa Faruvin 	| Subject Head / Information and Communication Technology (ICT) 	| aneesa_faruvin_mohd_ibrahim@schools.gov.sg |
 |Mr Tan Hoe Tsong | Subject Head / ICT (Data Management) | tan_hoe_tsong@schools.gov.sg |
 |Mdm Fun Kai Tien | Subject Head / Chinese Language | fun_kai_tien@schools.gov.sg |
+|Mdm Teh Swee Sing | Subject Head / Student Leadership (Covering)| teh_swee_sing@schools.gov.sg |
