@@ -7,7 +7,8 @@ variant: markdown
 ---
 # **Adjunct Teachers**
 
-
+|Name|	Designation|	Email|
+|----|----|----|
 
 | Miss Sharon Woo 	| FAJT (Maths/Science) 	| xinmin_ps@moe.edu.sg
 
