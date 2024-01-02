@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /school-organisation/mother-tongue/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Mother Tongue
 =============
