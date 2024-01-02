@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /cca/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/modern%20dance%20s.jpg)
 
@@ -45,15 +46,13 @@ At Xinmin Primary School, we believe that dance is an important part of a well-r
 
 ### Teachers-in-Charge
 
-Mrs Sharon Chia - Ng (Overall-In-Charge)
+Mrs Sharon Chia - Ng (Overall-in-charge)
 
-Ms Grace Koh (2nd OIC)
-
-Mrs Shanker Shaevah Pannir
+Ms Grace Koh (2nd-in-charge)
 
 Mdm Noor Naime
 
-Mdm Nicole Marie De Souza
+Mdm Teh Swee Sing
 
 ### Schedule
 
