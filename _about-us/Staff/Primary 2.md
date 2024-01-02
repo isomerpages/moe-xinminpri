@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Primary 2**
 
-### Year Head
+### Assistant Year Head
 
 |Name|	Designation|	Email|
 |----|----|----|
