@@ -22,7 +22,7 @@ variant: markdown
 | -------- | -------- | -------- |-------- |
 | 1A | Mrs Ng Marn Peng     |  1A Form Teacher	    |  ng_marn_peng@schools.gov.sg
 | | Mdm Li Wen Ting |	1A Form Teacher	| li_wenting@schools.gov.sg
-| | Mr Ng Ye Hong |	1A Form Teacher	| xinmin_ps@moe.edu.sg
+| | Mr Ng Yee Hong |	1A Form Teacher	| xinmin_ps@moe.edu.sg
 |1B	| Mdm Guan Jia Jia	| 1B Form Teacher	|guan_jiajia@schools.gov.sg
 | |Mr Mohd Hanif	|1B Form Teacher|	xinmin_ps@moe.edu.sg
 |1C	|Mdm Gabrielle Lim Huiwen  |	1C Form Teacher	| lim_huiwen_gabrielle@schools.gov.sg
