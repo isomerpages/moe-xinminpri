@@ -2,6 +2,7 @@
 title: For Parents
 permalink: /our-resources/for-parents/
 description: ""
+variant: markdown
 ---
 For Parents
 ===========
@@ -21,3 +22,5 @@ Resources for Parents
 
 [2024 P1 Orientation Guide](https://file.go.gov.sg/2024xmpsp1.pdf)
 updated 16th Oct
+
+[2024 P1 Parents Engagement Slides](https://go.gov.sg/xmps2024p1parentengagement)
