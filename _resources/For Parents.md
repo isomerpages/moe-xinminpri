@@ -23,4 +23,4 @@ Resources for Parents
 [2024 P1 Orientation Guide](https://file.go.gov.sg/2024xmpsp1.pdf)
 updated 16th Oct
 
-[P1 Parents Engagement Slides](https://go.gov.sg/xmps2024p1parentengagement)
+[2024 P1 Parents Engagement Slides](https://go.gov.sg/xmps2024p1parentengagement)
