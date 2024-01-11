@@ -11,7 +11,7 @@ variant: markdown
 
 |Name|	Designation|	Email|
 |----|----|----|
-|Mrs Norazimah Junari	|Assistant Year Head (P6)|	norazimah_md_shariff@schools.gov.sg|
+|Mrs Norazimah Junari	|Assistant Year Head (P6)|norazimah_md_shariff@schools.gov.sg|
 
 **Form Teachers**
 
@@ -27,6 +27,6 @@ variant: markdown
 |6D	|Ms Sumita Kunalingam|	6D Form Teacher	|sumita_kunalingam@schools.gov.sg|
 ||Ms Liang Rui Shan|	6D Form Teacher	|liang_ruishan@schools.gov.sg|
 |6E|	Ms Lau Shu Mei|	6E Form Teacher	|lau_shu_mei@schools.gov.sg|
-||Mrs Norazimah Junari	|6E Form Teacher	|norazimah_md_shariff@schools.gov.sg|
+||Mdm Annuratha Veilathurai	|6E Form Teacher	|annuratha_veilathurai@schools.gov.sg|
 |6F	|Miss Bong Fung Nyuk|	6F Form Teacher	|bong_fung_nyuk@schools.gov.sg|
-||Mdm Annuratha Veilathurai|	6F Form Teacher	|annuratha_veilathurai@schools.gov.sg|
+||Mrs Norazimah Junari|	6F Form Teacher	|norazimah_md_shariff@schools.gov.sg|
