@@ -1,0 +1,22 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - Vision, Mission & Values.md
+      - School Motto, Crest & Song.md
+      - Staff/.keep
+      - Staff/School Executive Committee.md
+      - Staff/Primary 1.md
+      - Staff/Primary 2.md
+      - Staff/Primary 3.md
+      - Staff/Primary 4.md
+      - Staff/Primary 5.md
+      - Staff/Primary 6.md
+      - Staff/Subject Teachers.md
+      - Staff/Adjunct Teachers.md
+      - Staff/Special Educational Needs Officers.md
+      - Staff/Mother Tongue.md
+      - Staff/Executive & Administrative Staff.md
+      - Staff/Support Staff (Agencies).md
+      - Contact Us.md

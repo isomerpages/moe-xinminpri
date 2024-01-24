@@ -1,0 +1,22 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/.keep
+      - Clubs and Societies/Art Club.md
+      - Clubs and Societies/Environmental Science Club.md
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/.keep
+      - Sports/Basketball.md
+      - Sports/Volleyball.md
+      - Sports/Football.md
+      - Sports/Modular Sports.md
+      - Sports/.keep
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Guzheng.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/.keep

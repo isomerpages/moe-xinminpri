@@ -1,0 +1,14 @@
+logo: /images/Xinmin Pri logo.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Departments
+    collection: departments
+  - title: Cca
+    collection: cca
+  - title: Our Partners
+    collection: our-partners
+  - title: Resources
+    collection: resources
+  - title: Calendar
+    url: /about-us/calendar/
