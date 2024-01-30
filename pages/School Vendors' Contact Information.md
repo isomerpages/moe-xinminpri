@@ -217,7 +217,7 @@ School Bus Services:
 
 ### **SCHOOL-BASED STUDENT CARE CENTRE – NASCANS **
 
-<table><tbody><tr><td width="169">Telephone</td><td width="426">82988540</td></tr><tr><td width="169">Website</td><td width="426"><a href="https://www.nascans.com">https://www.nascans.com</a></td></tr><tr><td width="169">Email</td><td width="426"><a href="mailto:xmscc@nascans.com">xmscc@nascans.com</a></td></tr><tr><td width="169">Expression of Interest</td><td width="426"><a href="https://tinyurl.com/3pnx26fx">https://tinyurl.com/3pnx26fx</a></td></tr></tbody></table>
+<table><tbody><tr><td width="169">Telephone</td><td width="426">82988540</td></tr><tr><td width="169">Website</td><td width="426"><a href="https://www.nascans.com">https://www.nascans.com</a></td></tr><tr><td width="169">Email</td><td width="426"><a href="mailto:xmscc@nascans.com">xmscc@nascans.com</a></td></tr><tr><td width="169"></td></tr></tbody></table>
 
 School Dental Clinic:
 ---------------------
