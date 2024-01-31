@@ -7,3 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Parents,</p>
+<p></p>
+<p>Xinmin Primary School wishes to partner you in our holistic development
+of our Xinminites. Through volunteering, you will be able to support their
+development and appreciate the varied learning experiences planned for
+them. Please click the link to indicate your interest.</p>
+<p></p>
+<p>Thank you.</p>
