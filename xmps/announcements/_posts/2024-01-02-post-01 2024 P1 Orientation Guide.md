@@ -1,10 +1,11 @@
 ---
-title: 07 2024 P1 Orientation Guide
+title: 01 2024 P1 Orientation Guide
 permalink: /xmps/announcements/2024p1orientationguide/
-date: 2023-10-13
+date: 2024-01-02
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 Dear 2024 P1 parents,
 
