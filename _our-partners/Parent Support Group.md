@@ -20,7 +20,7 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 
 
-1. Schools will publish the various school events on the School Website.
+1. School will publish the various school events on the School Website.
 
 2. Parents can sign up to volunteer for the upcoming event(s) through the PSG.
 
