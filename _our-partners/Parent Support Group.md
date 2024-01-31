@@ -34,11 +34,11 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 | -------- | -------- | -------- |
 | 24_01_01  | P4 Swimsafer Programmes     | 10/1/2024 to 8/3/2024     |
 | 24_02_02 | P3 Learning Journey to Tampines Hub (Food Waste)     | 29/1/2024 to 30/01/2024     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| 24_02_01 |   P6AC Museum-based Learning Journey   | 7/2/2024     |
+| 24_02_02 | CNY cum Total Defence cum Aesthetics Week (1)     | 8/2/2024  |
+| 24_02_03 | CNY cum Total Defence cum Aesthetics Week (2)     | 15/2/2024  |
+| 24_02_04 | P1 English Learning Journey to Zoo     | 19/2/2024 to 20/2/2024  |
+| 24_02_05 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
 
 
    
