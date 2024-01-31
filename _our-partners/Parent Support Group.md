@@ -13,13 +13,18 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 ## Xinmin PSG Exco
 
-![](/images/psg%20exco%20final.png)
+![](/images/PSG_Executive_Committee.jpg)
+
 
 ## How to Volunteer?
 
-![](/images/how%20to%20volunteer.png)
 
-   
+
+1. Schools will publish the various school events on the School Website.
+
+2. Parents can sign up to volunteer for the upcoming event(s) through the PSG.
+
+3. A PSG EXCO member will contact them to confirm their participation. 
 
 ## SCHEDULE OF SCHOOL EVENTS
 
