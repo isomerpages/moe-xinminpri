@@ -5,9 +5,9 @@ date: 2023-01-19
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-
-Dear parents/guardian,
+Dear Parents/Guardian,
 
 Please click on the link and complete the form if you would like to seek permission from the school for your child/ward to bring a smart device to school.
 
