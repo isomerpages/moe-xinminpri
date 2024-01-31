@@ -32,8 +32,8 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| 24_01_01  | P4 Swimsafer Programmes     | 10/1/2024 to 8/3/2024     |
+| 24_02_02 | P3 Learning Journey to Tampines Hub (Food Waste)     | 29/1/2024 to 30/01/2024     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
