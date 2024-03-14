@@ -15,16 +15,14 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 ![](/images/PSG_Executive_Committee.jpg)
 
+## How to Join the PSG?
+
+![](/images/psg_infograph_2024_png_page_1.png)
 
 ## How to Volunteer?
 
+![](/images/psg_infograph_2024_pg_2.png)
 
-
-1. School will publish the various school events on the School Website.
-
-2. Parents can sign up to volunteer for the upcoming event(s) through the PSG.
-
-3. A PSG EXCO member will contact them to confirm their participation. 
 
 ## SCHEDULE OF SCHOOL EVENTS
 
@@ -39,4 +37,3 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 | 24_02_03 | CNY cum Total Defence cum Aesthetics Week (2)     | 15/2/2024  |
 | 24_02_04 | P1 English Learning Journey to Zoo     | 19/2/2024 to 20/2/2024  |
 | 24_02_05 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
-
