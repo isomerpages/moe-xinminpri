@@ -35,7 +35,12 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 24_03_01  | P3 Swimsafer Programmes     | 20/3/2024 to 21/5/2024     |
 | 24_03_02 | English Week Recess Activity     |22/3/2024    |
 | 24_03_03 |   P3 ALP/Science LJ    |26/3/2024 & 27/3/2024     |
-| 24_02_02 | CNY cum Total Defence cum Aesthetics Week (1)     | 8/2/2024  |
-| 24_02_03 | CNY cum Total Defence cum Aesthetics Week (2)     | 15/2/2024  |
-| 24_02_04 | P1 English Learning Journey to Zoo     | 19/2/2024 to 20/2/2024  |
-| 24_02_05 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_03_04 | CNY cum Total Defence cum Aesthetics Week (1)     | 8/2/2024  |
+| 24_04_01 | CNY cum Total Defence cum Aesthetics Week (2)     | 15/2/2024  |
+| 24_04_02 | P1 English Learning Journey to Zoo     | 19/2/2024 to 20/2/2024  |
+| 24_04_03 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_04_04 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_04_05 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_04_06 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_04_07 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_04_08 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
