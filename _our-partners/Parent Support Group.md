@@ -32,9 +32,9 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-| 24_01_01  | P4 Swimsafer Programmes     | 10/1/2024 to 8/3/2024     |
-| 24_02_02 | P3 Learning Journey to Tampines Hub (Food Waste)     | 29/1/2024 to 30/01/2024     |
-| 24_02_01 |   P6AC Museum-based Learning Journey   | 7/2/2024     |
+| 24_03_01  | P3 Swimsafer Programmes     | 20/3/2024 to 21/5/2024     |
+| 24_03_02 | English Week Recess Activity     |22/3/2024    |
+| 24_03_03 |   P3 ALP/Science LJ    |26/3/2024 & 27/3/2024     |
 | 24_02_02 | CNY cum Total Defence cum Aesthetics Week (1)     | 8/2/2024  |
 | 24_02_03 | CNY cum Total Defence cum Aesthetics Week (2)     | 15/2/2024  |
 | 24_02_04 | P1 English Learning Journey to Zoo     | 19/2/2024 to 20/2/2024  |
