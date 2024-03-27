@@ -41,10 +41,10 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 24_04_03 |Anti-Bullying Campaign (ABC)    | 15/4/2024 to 17/4/2024  |
 | 24_04_04 | P4ABC ALP/ Sci LJ Week     | 16/4/2024  |
 | 24_04_05 |  P4DEF ALP/ Sci LJ Week  | 18/4/2024  |
-| 24_04_06 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
-| 24_04_07.1 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
-| 24_04_07.2 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
-| 24_04_08 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
-| 24_05_01 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
-| 24_05_02 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
-| 24_05_03 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_04_06 |Science Week-Of-Wonder   | 22/4/2024 to 26/4/20244  |
+| 24_04_07.1 |P5CD MBL (Indian Heritage Centre)    | 23/4/2024  |
+| 24_04_07.2 | P5BE MBL (Indian Heritage Centre)  | 24/4/2024  |
+| 24_04_08 | Catch Me Good Program 2024    | 2/5/2024 and 23/5/2024 |
+| 24_05_01 |P6 NAPFA 1.6km run    | 6/5/2024  |
+| 24_05_02 |  P6BF MBL (Asian Civilisations Museum)   | 8/5/2024  |
+| 24_05_03 |  P6DE MBL (Asian Civilisations Museum)   | 13/5/2024  |
