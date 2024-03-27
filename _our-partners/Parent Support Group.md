@@ -42,5 +42,9 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 24_04_04 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
 | 24_04_05 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
 | 24_04_06 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
-| 24_04_07 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_04_07.1 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_04_07.2 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
 | 24_04_08 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_05_01 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_05_02 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
+| 24_05_03 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
