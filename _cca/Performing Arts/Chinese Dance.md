@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/CCA/chinese%20dance%20s2.jpg)
+![](/images/Xinmin_Recognition_Day_2023_248.jpg)
 
      
 
@@ -29,6 +29,7 @@ Apart from that, we have also been involved in public performances, such as Sing
 
 Through such platforms, students collaborate innovatively in groups to serve the community by showing their talents while learning valuable lessons in resilience and teamwork. Beyond physical fitness, dance builds confidence and helps individuals overcome stage fright. At Xinmin Primary School, we are dedicated to promoting Chinese Arts and elevating their prestige in today's society.
 
+![](/images/HRVP1500.jpg)
 
 ### **Teachers-In-Charge**
 
