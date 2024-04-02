@@ -45,4 +45,5 @@ National Day Observance Ceremony
 **2023**
 
 World Scout Day Participation
+
 North Division Founder’s Day hike
