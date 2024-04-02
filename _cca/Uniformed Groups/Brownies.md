@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/CCA/brownies%20s.jpg)
 
 # **Mission & Key Programmes:**
 
@@ -95,3 +94,9 @@ Mondays: 2.30pm - 4.30pm
 ·       UG Commemorative Day_22 Feb 2024
 
 ·       North Division Day
+
+![](/images/B3.jpg)
+
+![](/images/b2.jpg)
+
+![](/images/Founder_s_Day___World_Thinking_Day_22_Feb_2024_1.jpg)
