@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-  
-
 # **Mission & Key Programmes:**
 
 Red Cross Youth provides a common space for friendships and social integration amongst students of diverse backgrounds. Primary school units known as ‘Links’ learn the knowledge of universal Humanitarian Values advocated by the Singapore Red Cross Society.
+
 In addition, the CCA creates opportunities for ‘Links’ to develop leadership qualities, collaborate, build character, essential red-cross knowledge and basic foot drills. 
 Members of the Red Cross learn core values, social and emotional competencies through their weekly sessions, activities and competitions.
+
 Opportunities are also given to Links to contribute service during Total Defence Day and to represent the school at zonal and national events, competitions and camps organised by SCRS HQ.
 
 
@@ -82,4 +82,10 @@ Bronze Award
 
 3.  **Director’s Award (2022) –**
 
-Raghavan Sruthigha  (6C) 
+Raghavan Sruthigha  (6C)
+
+![](/images/Total_Defence_Day_Booth_Activity_1.jpg)
+
+![](/images/Total_Defence_Day_Booth_Activity_2.jpg)
+
+![](/images/World_Red_Cross_Day.jpg)
