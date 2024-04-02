@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/CCA/scouts%20s.jpg)
 
-
+![](/images/20240205_154751.jpg)
 # **Mission &amp; Key Programmes:**
 
 Scouting encourages the holistic physical, mental, spiritual and social development of youths with a strong emphasis on the duty to God and to the country and helping others.
@@ -47,3 +46,8 @@ National Day Observance Ceremony
 World Scout Day Participation
 
 North Division Founder’s Day hike
+
+![](/images/Pic_1__1_.jpg)
+
+![](/images/Founder_s_Day___World_Thinking_Day_22_Feb_2024_1.jpg)
+
