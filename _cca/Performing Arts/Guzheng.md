@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/CCA/guzheng%20s.jpg)
-
-        
+![](/images/Guzheng_1.jpg)
 
 # **Mission & Key Programmes:**
 
@@ -26,6 +24,8 @@ Students are often given platforms to showcase what they have learnt. In 2023, w
 
 Xinmin Primary Guzheng Ensemble offers students a comprehensive musical journey, providing a nurturing environment for students to grow as musicians, collaborators, and performers, enriching their holistic development.
 
+![](/images/Guzheng_2.jpg)
+
 
 ### **Teachers-In-Charge**
 
@@ -43,8 +43,9 @@ Monday: 2pm to 5pm (Junior Group and Senior Group)
 
 Thursday: 4.00pm to 5.30pm (Senior Group)
 
-
   
 **Achievements**
 
 •	Performing HeArts 2023 - Participation
+
+![](/images/Guzheng_4.jpg)
