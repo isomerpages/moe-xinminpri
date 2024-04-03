@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/CCA/modern%20dance%20s.jpg)
-
-       
+ ![](/images/SYF_2022_2.jpg)
 
 # **Mission & Key Programmes:**
 
@@ -35,6 +33,8 @@ _Confident Leaders_
 
 Open to Primary 4 to Primary 6 students who have an interest in dancing, dancers are given opportunities to develop leadership skills and inculcate personal qualities such as responsibility and perseverance.
 
+![](/images/Recognition_Day_2022_2.jpg)
+
 # **Key Programmes:**
 
 ### **Service to School and the Community**
@@ -44,6 +44,8 @@ Our dancers are active in the participation of the Singapore Youth Festival (SYF
 The highlight of the year is the Recognition Day Concert at the end of the year. Our dancers also performed in the Performing HeARTS concerts in 2019 and 2023, Xinmin Primary School’s biannual concert, which provides students with a chance to shine on stage and to share their hard work and dedication with their family members.
 
 At Xinmin Primary School, we believe that dance is an important part of a well-rounded education. We are committed to providing our dancers with the best possible dance experience. 
+
+![](/images/SYF_2022_1.jpg)
 
 
 ### Teachers-in-Charge
