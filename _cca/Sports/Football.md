@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-![](/images/CCA/football%20s.jpg)
-
+![](/images/WhatsApp_Image_2024_02_22_at_4_43_07_PM__2_.jpg)
  
 
  # **Mission & Key Programmes:**
@@ -25,24 +24,28 @@ Football CCA in Xinmin develop our student-athletes to be lifelong learners, inn
 
 ·       Partnership with Sports Singapore for our coaching sessions: Our coaching sessions are conducted with coaches from Active Sg Football Academy as part of our Schools Sports Partnership with Sports Singapore. Under this collaboration, students will also focus on values through football such resilience, sportsmanship and teamwork.
 
+![](/images/WhatsApp_Image_2024_02_22_at_4_43_08_PM__5_.jpg)
+
 ### Teachers-in-Charge
 
 Mr Mohamad Azreen (Overall-in-charge)
 
 Mr Shahran (2nd-in-charge)
 
-Mrs Chia Soo Ying
-
 Mdm Sharifah Wardah
 
 Mrs Angela Tan Shi Fern
+
+Mrs Chia Soo Ying
 
 Ms E-Liz Yeung
 
 ### Achievements
 
+2023: National School Games (Junior Boys) – 1st in Tier 2
+
 2022: National Division 2nd Tier for Junior Boys.
 
 2021: No NSG
 
-2020: No NSG
+![](/images/WhatsApp_Image_2024_02_22_at_4_42_43_PM__7_.jpg)
