@@ -34,7 +34,7 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | -------- | -------- | -------- |
 | 24_03_01  | P3 Swimsafer Programmes     | 20/3/2024 to 21/5/2024     |
 | 24_03_02 | English Week Recess Activity     |22/3/2024    |
-| 24_03_03 |   P3 ALP/Science LJ    |26/3/2024 & 27/3/2024     |
+| 24_03_03 |   P3 ALP/Science LJ    |26/3/2024 to 28/3/2024     |
 | 24_03_04 | Arts Alive Program     | 27/3/2024 to 17/5/2024  |
 | 24_04_01 | International Friendship Day     | 5/4/2024  |
 | 24_04_02 | P5AF MBL (Indian Heritage Centre)     | 12/4/2024  |
@@ -42,9 +42,9 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 24_04_04 | P4ABC ALP/ Sci LJ Week     | 16/4/2024  |
 | 24_04_05 |  P4DEF ALP/ Sci LJ Week  | 18/4/2024  |
 | 24_04_06 |Science Week-Of-Wonder   | 22/4/2024 to 26/4/20244  |
-| 24_04_07.1 |P5CD MBL (Indian Heritage Centre)    | 23/4/2024  |
-| 24_04_07.2 | P5BE MBL (Indian Heritage Centre)  | 24/4/2024  |
-| 24_04_08 | Catch Me Good Program 2024    | 2/5/2024 and 23/5/2024 |
+| 24_04_07 |P5CD MBL (Indian Heritage Centre)    | 23/4/2024  |
+| 24_04_08 | P5BE MBL (Indian Heritage Centre)  | 24/4/2024  |
+| 24_04_09 | Catch Me Good Program 2024    | 2/5/2024 and 23/5/2024 |
 | 24_05_01 |P6 NAPFA 1.6km run    | 6/5/2024  |
 | 24_05_02 |  P6BF MBL (Asian Civilisations Museum)   | 8/5/2024  |
 | 24_05_03 |  P6DE MBL (Asian Civilisations Museum)   | 13/5/2024  |
