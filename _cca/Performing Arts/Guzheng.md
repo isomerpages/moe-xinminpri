@@ -18,9 +18,14 @@ variant: markdown
 2) To nurture motivated lifelong learners with a keen appreciation for Guzheng  
 3) To develop confident and resilient individuals who can collaborate with other players in music making through the mastery of Guzheng playing skills and successful performances.
 
-In Xinmin Primary Guzheng Ensemble, students will pick up the foundational skills and move on to play various genres of music once they acquire the basic playing techniques. Through our training sessions, students will understand the importance of teamwork and learn to collaborate with other players to make music together. The ensemble has been working hard towards excellence over the years and has developed strong bonding among the members.
+In Xinmin Primary Guzheng Ensemble, students will pick up the foundational skills and move on to play various genres of music once they acquire the basic playing techniques. Through our training sessions, students will understand the importance of teamwork and learn to collaborate with other players to make music together. The ensemble has been working hard towards excellence over the years and has developed strong bonding among the members.
 
-Throughout the years in Xinmin Primary Guzheng Ensemble, students will be exposed to traditional Chinese music pieces, Mandopop medleys and even English pop songs. Students are often given platforms to showcase what they have learnt, e.g. the bi-annual Performing HeArts concerts, Recognition Day concerts and festive celebration concerts.
+Throughout the years in Xinmin Primary Guzheng Ensemble, students will be exposed to traditional Chinese music pieces, Mandopop medleys and even English pop songs. 
+
+Students are often given platforms to showcase what they have learnt. In 2023, we actively participated in performances for various school events, such as in the biennial Performing HeArts concert, CCA showcase, P6 Appreciation Day and Recognition Day concert. Apart from the school performances, students are also actively preparing for the upcoming Singapore Youth Festival in 2024.
+
+Xinmin Primary Guzheng Ensemble offers students a comprehensive musical journey, providing a nurturing environment for students to grow as musicians, collaborators, and performers, enriching their holistic development.
+
 
 ### **Teachers-In-Charge**
 
@@ -34,15 +39,12 @@ Mr Aaron Tan
 
 **Schedule**
 
-Mondays 2-4.30 pm (Team 1 and Team 2)
+Monday: 2pm to 5pm (Junior Group and Senior Group)
 
-Tuesdays 4-5.30 pm (Team 1)
+Thursday: 4.00pm to 5.30pm (Senior Group)
 
-Thursdays 4-5.30 pm (Team 2)
-
-\*Students are allocated into various teams according to the parts they are playing for the songs.
 
   
 **Achievements**
 
-NIL
+•	Performing HeArts 2023 - Participation
