@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
- ![](/images/SYF_2022_2.jpg)
+![](/images/SYF_2022_2.jpg)
 
 # **Mission & Key Programmes:**
 
