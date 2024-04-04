@@ -15,16 +15,16 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 ![](/images/PSG_Executive_Committee.jpg)
 
+## How to Join the PSG?
+
+![](/images/psg_infograph_2024_updated.png)
+
+Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG. 
 
 ## How to Volunteer?
 
+![](/images/psg_infograph_2024_pg_2.png)
 
-
-1. School will publish the various school events on the School Website.
-
-2. Parents can sign up to volunteer for the upcoming event(s) through the PSG.
-
-3. A PSG EXCO member will contact them to confirm their participation. 
 
 ## SCHEDULE OF SCHOOL EVENTS
 
@@ -32,11 +32,19 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-| 24_01_01  | P4 Swimsafer Programmes     | 10/1/2024 to 8/3/2024     |
-| 24_02_02 | P3 Learning Journey to Tampines Hub (Food Waste)     | 29/1/2024 to 30/01/2024     |
-| 24_02_01 |   P6AC Museum-based Learning Journey   | 7/2/2024     |
-| 24_02_02 | CNY cum Total Defence cum Aesthetics Week (1)     | 8/2/2024  |
-| 24_02_03 | CNY cum Total Defence cum Aesthetics Week (2)     | 15/2/2024  |
-| 24_02_04 | P1 English Learning Journey to Zoo     | 19/2/2024 to 20/2/2024  |
-| 24_02_05 | P2 English Learning Journey to Jacob Ballas    | 21/2/2024 to 23/2/2024  |
-
+| 24_03_01  | P3 Swimsafer Programmes     | 20/3/2024 to 21/5/2024     |
+| 24_03_02 | English Week Recess Activity     |22/3/2024    |
+| 24_03_03 |   P3 ALP/Science LJ    |26/3/2024 to 28/3/2024     |
+| 24_03_04 | Arts Alive Program     | 27/3/2024 to 17/5/2024  |
+| 24_04_01 | International Friendship Day     | 5/4/2024  |
+| 24_04_02 | P5AF MBL (Indian Heritage Centre)     | 12/4/2024  |
+| 24_04_03 |Anti-Bullying Campaign (ABC)    | 15/4/2024 to 17/4/2024  |
+| 24_04_04 | P4ABC ALP/ Sci LJ Week     | 16/4/2024  |
+| 24_04_05 |  P4DEF ALP/ Sci LJ Week  | 18/4/2024  |
+| 24_04_06 |Science Week-Of-Wonder   | 22/4/2024 to 26/4/20244  |
+| 24_04_07 |P5CD MBL (Indian Heritage Centre)    | 23/4/2024  |
+| 24_04_08 | P5BE MBL (Indian Heritage Centre)  | 24/4/2024  |
+| 24_04_09 | Catch Me Good Program 2024    | 2/5/2024 and 23/5/2024 |
+| 24_05_01 |P6 NAPFA 1.6km run    | 6/5/2024  |
+| 24_05_02 |  P6BF MBL (Asian Civilisations Museum)   | 8/5/2024  |
+| 24_05_03 |  P6DE MBL (Asian Civilisations Museum)   | 13/5/2024  |

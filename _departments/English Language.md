@@ -2,20 +2,20 @@
 title: English Language
 permalink: /departments/english/
 description: ""
+variant: markdown
 ---
-![](/images/Department%20Pics/el%20dept%20s.jpg)
-
 # Vision
 Every Xinminite, an active reader, a confident speaker and a competent writer with a love for the English Language.
 
 # Mission
-We strive to build a strong foundation in English for every Xinminite and provide a rich language environment for developing the language. 
+We strive to build a strong foundation in English for every Xinminite and provide a rich language environment for developing the language.
 
-# Key Programmes
-To develop active readers, Xinminites are given access and exposure to a variety of books and reading materials that would also propel them to be life-long learners. Our reading programme includes the following: 
+# STELLAR Curriculum:
+The school adopts STELLAR (STrategies for English Language Learning and Reading) programme in the teaching and learning of English Language.  It targets to strengthen Xinminites’ reading skills and language as well as promoting a positive attitude towards learning.  Learning tasks and activities are designed for Xinminites to learn language skills in authentic and meaningful contexts. 
 
-### •	Class Book Flood
-Every class is provided with a set of books of different titles and genres for students to choose from. These books can be borrowed during the reading periods or taken home to allow our Xinminites to explore what they like and pique their curiosity on topics that interest them. Thus, they will read more and discover the joy of reading.
+Teaching strategies include:
+### •	Shared Book Approach (SBA)
+The Shared Book Approach involves teachers reading captivating texts aloud to Xinminites, modelling effective reading strategies and prompting discussions about the text’s themes, characters and plot.  Through interactive sessions, Xinminites learn to engage in meaningful discussions, widen their vocabulary and work on comprehension activities. Repeated readings and assessments for learning help reinforce language skills.  This approach promotes collaborative learning, critical thinking and a love for literature. 
 
 ### •	Home Reading Programme
 Every fortnight, Primary 1 and 2 Xinminites will take home a storybook to read and discuss with their parents. We hope to foster partnership with parents and encourage all parents to spend time reading together with their child to inculcate the reading habit.
