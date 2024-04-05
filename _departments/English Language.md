@@ -51,11 +51,27 @@ To develop confident speakers, the Six Traits of Speaking is taught during ‘Sp
 The six traits of speaking, as outlined by Eric Palmer, are:
 
 1.	Posture
-
-3.	Voice
-4.	Life
-5.	Eye contact
-6.	Gestures
-7.	Speed
+2.	Voice
+3.	Life
+4.	Eye contact
+5.	Gestures
+6.	Speed
 
 Having acquired the traits, Xinminites will then put them into practice in the following activities either individually or in groups as innovative collaborators:
+
+
+To develop competent writers, a progressive and differentiated approach to writing is conducted in line with English Language STELLAR programme for primary schools.
+
+### • Intervention and Enrichment Programme
+
+•	Primary 1 & 2: Learning Support Programme (LSP)
+
+•	Primary 3 & 4: Reading Remediation Programme (RRP)
+
+•	Primary 3 & 4: School Dyslexic Remediation (SDR)
+
+•	Primary 3 to 6: Remedial Sessions
+
+•	Primary 4 & 5: English Enrichment Programme
+
+### Achievements in 2023:
