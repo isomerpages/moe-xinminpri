@@ -60,6 +60,19 @@ The six traits of speaking, as outlined by Eric Palmer, are:
 Having acquired the traits, Xinminites will then put them into practice in the following activities either individually or in groups as innovative collaborators:
 
 
+
+[ Primary 1 ] •	Show and Tell, •	Moo-O Digital Puppetry
+
+[ Primary 2 ]•	Read and Tell, •	Moo-O Digital Puppetry
+
+[ Primary 3 ] •	Readers’ Theatre Primary
+
+[ Primary 4 ] •	Storytelling Primary
+
+[ Primary 5 & 6 ] •	Oral Presentations
+
+
+
 To develop competent writers, a progressive and differentiated approach to writing is conducted in line with English Language STELLAR programme for primary schools.
 
 ### • Intervention and Enrichment Programme
