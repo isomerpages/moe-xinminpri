@@ -26,28 +26,36 @@ As Xinminites progress to upper primary, they are exposed to mentor texts in add
 ## Key Programmes 
 To develop active readers, Xinminites are given access and exposure to a variety of books and reading materials that would also propel them to be life-long learners. Our reading programme includes the following:
 
-To develop confident speakers, the Six Traits of Speaking is taught during Speak Up! lessons from Primary 1 to Primary 6. Adapted from a book by Eric Palmer, students learn how to speak confidently in front of an audience using the six traits. 
+### • Class Book Flood
+Every class is provided with a set of books of different titles and genres for Xinminitess to choose from. These books can be borrowed during the reading periods or taken home to allow our Xinminites to explore what they like and pique their curiosity on topics that interest them. Thus, they will read more and discover the joy of reading.
 
-### •	 Eric Palmer’s Six Traits of Speaking
+### • Home Reading Programme (HRP)
+
+Primary 1 and 2 Xinminites will take home a storybook every fortnight to read and discuss with their parents. We hope to foster partnership with parents and encourage all parents to spend time reading together with their child to inculcate the reading habit.
+
+### • Little Red Dot (LDR)
+
+Little Red Dot is a special newspaper publication by The Straits Times which the school subscribes for our Primary 3 to 6 Xinminites. The exposure to current affairs helps create awareness of local and global issues. It also widens their knowledge and broadens their perspectives to be receptive and open-minded to the thoughts and opinions of others. Xinminites then translate what they read in the LRD newspapers into personal written reflections and engage in oral presentations in class.
+
+### • myON
+
+An online digital library, myON provides a personalised reading experience. Xinminites from Primary 1 to Primary 3 can select books to read anytime and anywhere based on their reading level and interests. The myON platform also allows teachers and parents to monitor their reading progress and understanding through the online quizzes.
+
+### • Moo-O
+
+Moo-O is a digital platform that has been designed to enhance writing skills in a fun and engaging way.  Primary 1 and 2 Xinminites learn to create multimedia stories using a combination of texts, images and audio.  The platform allows Xinminties to express themselves confidently and develop essential literacy skills in a modern and interactive learning environment.
+
+### • Six Traits of Speaking
+
+To develop confident speakers, the Six Traits of Speaking is taught during ‘Speak Up!’ lessons from Primary 1 to Primary 6. Adapted from a book by Eric Palmer, Xinminites learn to elevate their oral communication skills and to speak confidently in front of an audience using the six traits. 
+The six traits of speaking, as outlined by Eric Palmer, are:
+
 1.	Posture
-2.	Voice
-3.	Life
-4.	Eye contact
-5.	Gestures
-6.	Speed
 
-Having acquired the traits, students will then put them into practice in the following activities either individually or in groups as innovative collaborators: 
+3.	Voice
+4.	Life
+5.	Eye contact
+6.	Gestures
+7.	Speed
 
-Primary 1: Show and Tell, Moo O Digital Puppetry
-Primary 2: Read and Tell, Moo O Digital Puppetry
-Primary 3: Readers’ Theatre
-Primary 4: Storytelling
-Primary 5/6: Oral Presentations
-
-To develop competent writers, a progressive and differentiated approach to writing is conducted in line with English Language STELLAR programme for primary schools.
-
-### •	Modified Language Experience Approach (MLEA)
-In the lower primary English lessons, Xinminites learn how to write independently by integrating the knowledge gained through reading the STELLAR big book and related learning experiences. They are taken through a guided writing process - class, group and individual writing. The group writing activities provide the Xinminites with an opportunity to work on becoming innovative collaborators before embarking on individual writing where they are empowered to express their own creativity. 
-
-### •	Mentor Texts
-As Xinminites progress to upper primary, they are exposed to mentor texts in addition to the STELLAR texts to help them hone their writing skills. Through mentor texts, Xinminites examine how vocabulary is used in context, learn different types sentence patterns and discover various writing techniques.
+Having acquired the traits, Xinminites will then put them into practice in the following activities either individually or in groups as innovative collaborators:
