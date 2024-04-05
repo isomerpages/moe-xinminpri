@@ -59,8 +59,6 @@ The six traits of speaking, as outlined by Eric Palmer, are:
 
 Having acquired the traits, Xinminites will then put them into practice in the following activities either individually or in groups as innovative collaborators:
 
-
-
 [ Primary 1 ] •	Show and Tell, •	Moo-O Digital Puppetry
 
 [ Primary 2 ]•	Read and Tell, •	Moo-O Digital Puppetry
@@ -88,3 +86,12 @@ To develop competent writers, a progressive and differentiated approach to writi
 •	Primary 4 & 5: English Enrichment Programme
 
 ### Achievements in 2023:
+
+[ Merit Award ] Moo-O Speaking Competition
+
+[ 1st Place ] N1 Cluster Spin-A-Tale (Storytelling) Competition 
+
+-	Deng Xiting Alexis
+-	Prabu Ridhi Vinayak
+
+[ Challenge Trophy ] N1 Cluster Spin-A-Tale (Storytelling) Competition 
