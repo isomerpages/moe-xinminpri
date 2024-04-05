@@ -4,6 +4,8 @@ permalink: /departments/english/
 description: ""
 variant: markdown
 ---
+![](/images/english.jpeg)
+
 # Vision
 Every Xinminite, an active reader, a confident speaker and a competent writer with a love for the English Language.
 
@@ -70,7 +72,6 @@ Having acquired the traits, Xinminites will then put them into practice in the f
 [ Primary 5 & 6 ] •	Oral Presentations
 
 
-
 To develop competent writers, a progressive and differentiated approach to writing is conducted in line with English Language STELLAR programme for primary schools.
 
 ### • Intervention and Enrichment Programme
@@ -91,7 +92,9 @@ To develop competent writers, a progressive and differentiated approach to writi
 
 [ 1st Place ] N1 Cluster Spin-A-Tale (Storytelling) Competition 
 
--	Deng Xiting Alexis
+-	Deng Xiting Alexis!
 -	Prabu Ridhi Vinayak
 
-[ Challenge Trophy ] N1 Cluster Spin-A-Tale (Storytelling) Competition 
+[ Challenge Trophy ] N1 Cluster Spin-A-Tale (Storytelling) Competition
+
+![](/images/Achievements_in_2023_Spin_A_Tale_2.jpg)
