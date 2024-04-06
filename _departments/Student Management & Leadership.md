@@ -14,6 +14,8 @@ Every Xinminite, a self-disciplined and morally upright individual, ready to ser
 
 To develop confident leaders in every Xinminite who has the moral courage to distinguish right from wrong, acts on them and contributes actively in class, school and community.
 
+![](/images/Xinmin_Recognition_Day_2023_63.jpg)
+
 ## Key Programmes:
 
 ### ·       **Watch Your Step**
@@ -40,6 +42,7 @@ _An avenue for Xinminites to actively participate in decision-making processes b
 
 WHYx promotes a student-centered learning environment, aiming to cultivate critical thinking and problem-solving skills among Xinminites. This approach empowers students, encouraging them to play an active role in their educational journey and fostering a sense of ownership over their learning.
 
+![](/images/Xinmin_Recognition_Day_2023_38.jpg)
 
 •	Progressive leadership training programs have been crafted to enhance the self-leadership, team leadership, and thought leadership skills of Xinminites. These programs empower Xinminites to effectively lead themselves, collaborate with and guide teams, and inspire others through innovative and forward-thinking approaches. By building confidence and encouraging collaboration, these training sessions cultivate Xinminites who not only exude as confident leaders, but also excel as innovative collaborators.
 
@@ -57,3 +60,5 @@ WHYx promotes a student-centered learning environment, aiming to cultivate criti
 -	Spot the Leaders workshop: Workshop aimed at identifying Xinminites with outstanding leadership qualities to take on increased responsibilities and elevated roles. 
 
 -	Training camps and workshops in collaborations with stakeholders and partners.
+
+![](/images/IMG_0563_Edited.jpg)
