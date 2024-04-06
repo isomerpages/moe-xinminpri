@@ -2,19 +2,20 @@
 title: Physical Education
 permalink: /departments/physical-education/
 description: ""
+variant: markdown
 ---
 ![](/images/Department%20Pics/pe%20dept%20s.jpg)
 
 
 # **Vision:**
 
-Every Xinminite, a physically educated child.
+Every Xinminite, a **physically educated** child.
 
 # **Mission:**
 
-Inculcating in students the Passion for Sports, the Outdoors and other Physical Activities.
+Nurturing the **Passion** for **Sports**.
 
-### **PE Curriculum focus to develop Xinminites to be:**
+## **PE Curriculum focus to develop Xinminites to be:**
 
 ·       Self-directed learners by participating in all PE activities so that they can lead a physically active lifestyle in and beyond school.
 
@@ -22,7 +23,7 @@ Inculcating in students the Passion for Sports, the Outdoors and other Physical 
 
 ·       Confident leaders in PE lessons and sports activities as PE Monitors, Sports leaders and PE group leaders. They are given centralised and de-centralised training to assist the PE teacher during and after lessons, leading the class in warm up and cool down exercises, captaining their PE groups in intra and inter-class games.
 
-# **PE Signature Programmes:**
+## **PE Signature Programmes:**
 
 ### **Sports Carnival**
 
@@ -32,6 +33,10 @@ Sports Carnival is the major event for both students and the PE Department. It i
 
 A niche program that encapsulates the outdoor education of Xinmin Primary School. It has a evolved into a program where students also learn about a green and sustainable environment and growth mindset. The students work together to overcome challenges in an unfamiliar setting.
 
+### **Swimsafer Programme**
+
+SwimSafer 2.0 programme is an important component of movement education in the PE syllabus dedicated to equip students with essential water safety knowledge and self-preservation skills. It aims to develop fundamental swimming abilities in eight sessions of 90 minutes each.
+
 ### **Unstructured Recess Play**
 
-An informal setting where students keep fit, and be more physically active. This is the perfect platform for students to apply the value of lifelong learning to pursue health and physical activeness beyond the classroom.
+An informal platform to encourage students to keep fit and increase physical activity, recess play provides opportunities for them to apply the value of lifelong learning to pursue health and physical activeness beyond the classroom.
