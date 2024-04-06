@@ -34,27 +34,18 @@ To enable our student to be exposed to current affairs and empathise to those le
 
 ### Home reading programme
 
-       Our Primary 1 and 2 students will bring home a Tamil
 
-       storybook fortnightly to read and discuss with their parents.
+Our Primary 1 and 2 students will bring home a Tamil storybook fortnightly to read and discuss the story with their parents. Through this programme, we hope to foster parent-school partnership and encourage parents to inculcate the reading habit in their child by spending time to read together.
 
-       Through this programme, we hope to foster parent-school
-
-        partnership and encourage parents to inculcate the
-
-        reading habit by spending time to read together with their
-
-        child.
 
 ### Reading Programme
 
-        Students from P3 to P6 are encouraged to read Tamil
+Students from P3 to P6 are encouraged to read Tamil storybooks through organised activities like visit to the school library and reading time within the class library. Reading cards are given to all students to enable them to show their understanding of the stories and further excite them with fun filled activities to motivate them to continue reading.
 
-        storybooks through organised activities like visit to the school library and reading time within the class library. Reading cards are given to all students which allow them to show their understanding of stories and further excite them with fun filled activities to motivate them to continue reading.
-
-Reading badges are also awarded to students who fulfill criteria. Through this programme, we hope to develop passionate learners of the language who are confident in expressing themselves.
+Reading badges are also awarded to students who fulfill the criteria. Through this programme, we hope to develop passionate learners of the language who are confident in expressing themselves.
 
 To expose our students to their own culture and values, our cultural programmes aim to provide an immersive environment for our students to learn and use the language as well as to appreciate the culture.
+
 
 ### P3 Fortnight activities /P5 Cultural Camp
 
