@@ -49,22 +49,8 @@ To expose our students to their own culture and values, our cultural programmes 
 
 ### P3 Fortnight activities /P5 Cultural Camp
 
-       These programmes involve fun and interactive hands-on
+These programmes involve fun and interactive hands-on activities such as Kolam, pot painting and different types of indoor and outdoor traditional games. There are also ample opportunities for the students to collaborate with their peers to learn and appreciate the Indian culture together.
 
-       activities such as Kolam, pot painting and different types of
+### School Based competitions 2024
 
-       indoor and outdoor traditional games.There are also ample
-
-       opportunities for the students to collaborate with their
-
-       peers to learn and appreciate Indian culture together.
-
-### N1 cluster P4 Tamil Language and cultural camp
-
-      We believe that our students should collaborate with peers beyond Xinmin Primary School. N1 cluster activities have given them the opportunity to make new friends through.
-
-traditional games, different art forms and taking part in language activities together.
-
-### School Based competitions 2023
-
-      Students are given opportunities to display their talent   through various competitions planed for them. These platforms allows them to showcase their strength in singing, role-playing, essay writing and video creations.
+Students are given opportunities to display their talent through various competitions planned for them. These platforms allow them to showcase their strength in singing, role-playing, essay writing and video creation. 
