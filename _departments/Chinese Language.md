@@ -2,6 +2,7 @@
 title: Chinese Language
 permalink: /departments/chinese-language/
 description: ""
+variant: markdown
 ---
 ![](/images/Department%20Pics/chinese%20language%20s.jpg)
 
@@ -37,31 +38,42 @@ To expose our students to their own culture and values, our cultural programmes 
 ### •	P3/P5 Cultural Camps, P4 Cultural Exposure Performance
 These programmes involve fun and interactive hands-on activities such as Chinese Calligraphy, Kite painting and other forms of traditional art. There are also ample opportunities for the students to collaborate with their peers to learn and appreciate Chinese culture together. 
 
-### Awards in 2022:
+### Awards in 2023:
 
-#### National Chinese Language Vlog Competition:
-Lai Ningmeng and Yee Zi Xuan ( National Top 8)
+#### National Chinese Story-telling Competition
+Lai Ningmeng
 
-#### Chinese Calligraphy Competition:
-Dai Rui Xuan (Merit)
-Neena Chen (Consolation)
-
-#### Chinese language recital competition
-Individual Awards:
-
-Ong Rui Lin (Bronze)
-
-Yuna The (Bronze)
-
-Gabriel Sim (Bronze)
-
-Demi Ng (Bronze)
-
-Team 1 (Bronze): Adele Ng, Jenna Chen, Constance Tey
+Deng Xi Ting Alexis
 
 
-Team 2 (Bronze): Javier Phua, Kok Shi Min, Neo Rong Jun
+#### Chinese Language Recital Competition
+Lai Ning Meng (Silver)
 
-Team 3 (Silver): Victor Xu, Hayley Chwee
+Deng Xi Ting Alexis (Silver)
 
-Team 4 (Silver): Loo Yun Xuan Ariel, Liew Pei Yun, Lee Shannon
+Gao MengXuan (Silver)
+
+Teo Wan Xin
+
+Tan Li Ying
+
+Chan Shixuan, Eva
+
+Beth Tay Kai Heng
+
+Kueh Jie Lin Alvera
+
+Vera Wan Yu Xin
+
+Chwee Xuan Ya Hayley
+
+Hong Ka Cheong
+
+Hebe Quan Rui’ En
+ 
+Ang Peng Sim
+
+
+#### Chinese Calligraphy Competition
+Javier Low (Consolation Award)
+
