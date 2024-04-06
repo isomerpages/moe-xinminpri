@@ -27,6 +27,8 @@ VIA provide authentic opportunities for students to make responsible choices for
 
 In Xinmin, VIAs are community-based and real-world experiences that enhance the development of positive character traits. It is structured in such a way that it spirals from self, family to school to community.
 
+![](/images/VIA__1_.jpg)
+
 ### **4 Commemorative Events (Total Defence Day, International Friendship Day,Racial Harmony Day, National Day**）
 
 Our Xinminites will go through the customised learning experiences during the 4 commemorative events to better appreciate the Singapore history and apply their learning to contribute as active citizens.
