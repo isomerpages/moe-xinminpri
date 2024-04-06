@@ -53,4 +53,4 @@ These programmes involve fun and interactive hands-on activities such as Kolam, 
 
 ### School Based competitions 2024
 
-Students are given opportunities to display their talent through various competitions planned for them. These platforms allow them to showcase their strength in singing, role-playing, essay writing and video creation. 
+Students are given opportunities to display their talent through various competitions planned for them. These platforms allow them to showcase their strength in singing, role-playing, essay writing and video creation.
