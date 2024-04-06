@@ -2,6 +2,7 @@
 title: GLOBE (Green Lifestyle Observed By Everyone)
 permalink: /globe-green-lifestyle-observed-by-everyone/
 description: ""
+variant: markdown
 ---
 # **G.L.O.B.E (Green Lifestyle Observed By Everyone)**
 
@@ -33,9 +34,10 @@ The rice planting programme aims to inculcate good sustainability habits and kno
 
 ## **Awards**
 
-### **(1) School Green Awards - Vanda Miss Joaquim Sustained Achievement Award 2022**
-Organised by the Singapore Environment Council, the annual School Green Awards recognises efforts by schools that have made efforts to achieve positive environmental impacts. Having achieved top scores for three consecutive years, Xinmin Primary School was awarded the highest tiered award. 
+### **(1) School Green Awards - Vanda Miss Joaquim Sustained Achievement Award 2023**
 
-### **(2) School Green Awards - Vanda Miss Joaquim Achievement Award 2021**
+Organised by the Singapore Environment Council, the annual School Green Awards recognises efforts by schools that have made efforts to achieve positive environmental impacts. Having achieved top scores for three consecutive years, Xinmin Primary School was first awarded the highest tiered award in 2022. For our continuous efforts in inculcating the green lifestyle in and through Xinminites, the school was presented with this prestigious award again 2023.
 
-### **(3) School Green Awards - Vanda Miss Joaquim Achievement Award 2020**
+### **(2) School Green Awards - Vanda Miss Joaquim Sustained Achievement Award 2022**
+
+### **(3) School Green Awards - Vanda Miss Joaquim Achievement Award 2021**
