@@ -4,8 +4,9 @@ permalink: /departments/aesthetics/
 description: ""
 variant: markdown
 ---
-
-# **Vision**
+ ![](/images/Life_Long_Learner_Musical_Skills_Cajon__Music__1.jpg)
+ 
+ # **Vision**
 
 Every Xinminite, an **artist** and a **musician**.
 
@@ -20,6 +21,8 @@ Nurturing the **Passion** for the **Arts (Art & Music)**
 •       Imbued with awareness, appreciation and respect for the cultures of various art forms (Visual Art & Music)
 
 •       Working collaboratively with their peers in art making and music making
+
+![](/images/Lesson_at_The_Art_Space.jpg)
 
 ## **Aesthetics Signature Programmes**
 
@@ -38,6 +41,10 @@ Xinmin Got Talent is a platform for our Xinminites to showcase their talents. We
 ### **Performing HeArts Concert**
 
 Performing HeArts takes place biannually at Xinmin Primary School and is highly anticipated by both performers and parents. The concert showcases the diversity of artistic talents from the Performing Arts CCAs – Modern Dance, Chinese Dance, Guzheng Ensemble and Choir. 
+
+ ![](/images/Performing_HeArts_6.jpg)
+ 
+ ![](/images/Performing_HeArts_3.jpg)
 
 ### **Singapore Youth Festival (Visual Arts & Performing Arts)**
 
