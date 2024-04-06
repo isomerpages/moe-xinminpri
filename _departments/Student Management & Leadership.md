@@ -41,18 +41,19 @@ _An avenue for Xinminites to actively participate in decision-making processes b
 WHYx promotes a student-centered learning environment, aiming to cultivate critical thinking and problem-solving skills among Xinminites. This approach empowers students, encouraging them to play an active role in their educational journey and fostering a sense of ownership over their learning.
 
 
-Student leadership training programs are designed to develop Xinminites' self-leadership, team leadership, and thought leadership skills by imparting head, hand, and heart knowledge. These programs empower Xinminites to lead themselves effectively, collaborate with and guide teams, and inspire others through innovative and forward-thinking approaches. By fostering confidence and promoting collaboration, such training cultivates Xinminites who are not only confident leaders but also innovative collaborators. These programmes include
+•	Progressive leadership training programs have been crafted to enhance the self-leadership, team leadership, and thought leadership skills of Xinminites. These programs empower Xinminites to effectively lead themselves, collaborate with and guide teams, and inspire others through innovative and forward-thinking approaches. By building confidence and encouraging collaboration, these training sessions cultivate Xinminites who not only exude as confident leaders, but also excel as innovative collaborators.
 
-\-        Generic trainings
+•	Programmes include: 
 
-\-        Specialised trainings
+-	Generic training: Inclusive training designed for a broad audience.
 
-\-        Class leaders trainings (Category 2)
+-	Specialised training: Tailored programs focusing on specific skills or areas of expertise.
 
-\-        Student leaders Trainings (Category 3 & 4)
+-	Class leaders training (Category 2): Training catered to Xinminites holding leadership positions, guiding and serving their respective classes.  
+-	Student leaders Training (Category 3 & 4): Training catered to Xinminites holding leadership positions responsible for leading and serving the entire school community.
 
-\-        Class and student Leaders dialogues & review session
+-	Class and Student Leaders dialogue & review session: Session providing a platform for communication, feedback, and assessment for both class and student leaders.
 
-\-        Spot the Leaders workshop
+-	Spot the Leaders workshop: Workshop aimed at identifying Xinminites with outstanding leadership qualities to take on increased responsibilities and elevated roles. 
 
-\-        Training camps and workshops in collaborations with stakeholders and partners.
+-	Training camps and workshops in collaborations with stakeholders and partners.
