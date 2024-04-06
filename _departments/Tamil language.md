@@ -2,6 +2,7 @@
 title: Tamil language
 permalink: /departments/tamil-language/
 description: ""
+variant: markdown
 ---
 ![](/images/Department%20Pics/tamil%20language%20s.jpg)
 
@@ -13,19 +14,23 @@ Every Tamil student in Xinmin Primary to have a strong foundation in Tamil langu
 
 # Key Programmes:
 
-  Xinmin’s Tamil Language (TL) curriculum places a strong emphasis on oral and written interaction skills to develop our Xinminites to be effective communicators. We create opportunities for students to express themselves effectively through various programmes organized which will instill in students the strong desire to learn and understand the Tamil Language and be appreciative of the culture. The following key prorammes have been implemented to help us realise our department vision and mission.
+Xinmin’s Tamil Language (TL) curriculum places a strong emphasis on oral and written interaction skills to develop our Xinminites to be effective communicators. We create opportunities for students to express themselves effectively through various programmes to instill in students a strong desire to learn and understand the Tamil Language and to be appreciative of the culture. The following key prorammes have been implemented to help us realise our department vision and mission.
 
-### Speech and drama
+### Speech and Drama
 
 Authentic and meaningful activities such as the Speech and Drama programme planned for our Primary 1 & 2 students allows them to express their thoughts freely and confidently in their MTL from a young age.
 
-### Creative writing
+### Language Booster Games
 
-Through our creative writing workshop, the students                       learn to express themselves effectively in written form and also learn skills like poster making foradvertisements, poem and song writing. This promotes our students’ curiosity as they get to  explore and select the appropriate modes of expressions.
+Through Language Booster Games workshop, we hope to instil in students the spirit of life-long learning as well as pique their curiosity in learning new words and phrases in Tamil. Through this workshop, students will think and speak in Tamil confidently and develop their communication skills by expressing their ideas clearly and effectively.
 
-### Tamil newspaper subscription
+### Media Communication
 
-      To enable our student  to be exposed to current affairs and  empathise to those less fortunate than them, Tamil newspaper has been introduced to all students studying Tamil language. With these rich resources, students will be given opportunities to discuss about the articles read in the newspaper, present their results to the class and be open to receive others’ views.
+Through our media communication workshop, students are given the opportunity to express themselves effectively in spoken Tamil through re-enactment and role-playing using scripts provided. The workshop develops our students’ communication skills as well as their ability to collaborate with their peers. 
+
+### Tamil Newspaper Subscription
+
+To enable our student to be exposed to current affairs and empathise to those less fortunate than them, Tamil newspaper has been introduced to all students studying Tamil language. With these rich resources, students will be given opportunities to discuss about the articles read in the newspaper, present their results to the class and be open to receive others’ views.
 
 ### Home reading programme
 
