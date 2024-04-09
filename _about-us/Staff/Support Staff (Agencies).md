@@ -12,9 +12,6 @@ variant: markdown
 | Mrs Joyce Huber-Yeo	|Receptionist ||
 
 
-| Name 	| Designation 	|
-|---	|---	|
-|  	| Receptionist 	|
 |Mr Haidi | ICT DE|
 |Mr Simon Lee|ICT DE|
 | Mr Umarrudin Selamat 	| ICT Trainer 	|
