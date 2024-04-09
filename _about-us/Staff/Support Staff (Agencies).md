@@ -7,14 +7,14 @@ variant: markdown
 ---
 # **Support Staff (Agencies)**
 
-| Name| Designation |  |  | 
-| -------- | -------- | -------- |-------- |
-|2A	|Mdm Santhi d/o Perumal|	2A Form Teacher| santhi_perumal@schools.gov.sg
+| Name    | Designation |  |  | 
+| ----------- | -------- | -------- |-------- |
+| Mrs Joyce Huber-Yeo	|Receptionist ||
 
 
 | Name 	| Designation 	|
 |---	|---	|
-| Mrs Joyce Huber-Yeo 	| Receptionist 	|
+|  	| Receptionist 	|
 |Mr Haidi | ICT DE|
 |Mr Simon Lee|ICT DE|
 | Mr Umarrudin Selamat 	| ICT Trainer 	|
