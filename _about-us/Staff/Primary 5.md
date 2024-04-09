@@ -19,6 +19,7 @@ variant: markdown
 | -------- | -------- | -------- |-------- |
 |5A|	Mrs Serene Lee-Neo|5A Form Teacher	|neo_xiao_ling_serene@schools.gov.sg|
 ||Mr Rohinesh s/o K Kanaiah	|5A Form Teacher|rohinesh_so_k_kanaiah@schools.gov.sg|
+||Ms Heng Khai Yee	|5A Form Teacher|heng_khai_yee@schools.gov.sg|
 |5B|	Mr Aaron Tan Kwang Yang	|5B Form Teacher|tan_kwang_yang_aaron@schools.gov.sg|
 ||Mdm Zarina Bte Kamaron	|5B Form Teacher|	zarina_kamaron@schools.gov.sg|
 |5C|	Mr Gary Tang Kia Miang	|5C Form Teacher|	tang_kia_miang_gary@schools.gov.sg|
