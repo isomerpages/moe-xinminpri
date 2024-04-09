@@ -4,8 +4,8 @@ permalink: /departments/aesthetics/
 description: ""
 variant: markdown
 ---
- ![](/images/Life_Long_Learner_Musical_Skills_Cajon__Music__1.jpg)
- 
+
+![](/images/music%20dept.JPG) 
  # **Vision**
 
 Every Xinminite, an **artist** and a **musician**.
