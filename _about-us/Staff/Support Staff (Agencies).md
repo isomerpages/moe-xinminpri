@@ -11,13 +11,10 @@ variant: markdown
 | ----------- | -------- | -------- |-------- |
 | Mrs Joyce Huber-Yeo	|Receptionist ||
 | Mr Quek Yam Guan	| ICT Manager ||
-| Mrs Joyce Huber-Yeo	|Receptionist ||
-| Mrs Joyce Huber-Yeo	|Receptionist ||
-| Mrs Joyce Huber-Yeo	|Receptionist ||
+| Mr Haidi	|ICT DE ||
+| Mr Simon Lee	|ICT DE ||
+| Mr Umarrudin Selamat	| ICT Trainer ||
+| Mdm Ang Sock Khim Candy 	| Science Laboratory Assistant ||
+| Ms M Sumathee	| Librarian  ||
+| Ms Tammy Seow	| Printing Assistant ||
 
-|Mr Haidi | ICT DE|
-|Mr Simon Lee|ICT DE|
-| Mr Umarrudin Selamat 	| ICT Trainer 	|
-| Mdm Ang Sock Khim Candy 	| Science Laboratory Assistant 	|
-| Ms M Sumathee 	| Librarian 	|
-|Ms Tammy Seow| Printing Assistant|
