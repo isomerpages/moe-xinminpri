@@ -10,7 +10,10 @@ variant: markdown
 | Name    | Designation |  |  | 
 | ----------- | -------- | -------- |-------- |
 | Mrs Joyce Huber-Yeo	|Receptionist ||
-
+| Mr Quek Yam Guan	| ICT Manager ||
+| Mrs Joyce Huber-Yeo	|Receptionist ||
+| Mrs Joyce Huber-Yeo	|Receptionist ||
+| Mrs Joyce Huber-Yeo	|Receptionist ||
 
 |Mr Haidi | ICT DE|
 |Mr Simon Lee|ICT DE|
