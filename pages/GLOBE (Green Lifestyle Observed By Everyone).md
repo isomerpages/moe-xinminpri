@@ -2,6 +2,7 @@
 title: GLOBE (Green Lifestyle Observed By Everyone)
 permalink: /globe-green-lifestyle-observed-by-everyone/
 description: ""
+variant: markdown
 ---
 # **G.L.O.B.E (Green Lifestyle Observed By Everyone)**
 
@@ -27,15 +28,20 @@ Students experience growing herbs and vegetables using new innovations. The micr
 
 Students take charge of their learning and develop responsibility in caring for the vegetables. As the Veggie Tower replicates a natural ecosystem and turns kitchen scraps into natural fertilisers for the vegetables, this programme inspires students to find out more about the processes of decomposition and plant growth.
 
+![](/images/Applied_Learning_Programme_Veggie_Tower_1.jpg)
+
 ### **(4) Rice Planting & Food Sustainability Programme**
 
 The rice planting programme aims to inculcate good sustainability habits and knowledge in Xinminites. Under the guidance of a rice farmer and a scientist, students experience first-hand the entire rice-planting process from seed germination, seedling transplanting to rice-harvesting. Through this programme, students will understand that rice-planting is an arduous process that involves back-breaking efforts and, thus, appreciate the rice grains on their plates and become Confident Leaders and advocates of food waste reduction. Through their rice-planting efforts, students learn endurance and build resilience in overcoming challenging conditions.
 
 ## **Awards**
 
-### **(1) School Green Awards - Vanda Miss Joaquim Sustained Achievement Award 2022**
-Organised by the Singapore Environment Council, the annual School Green Awards recognises efforts by schools that have made efforts to achieve positive environmental impacts. Having achieved top scores for three consecutive years, Xinmin Primary School was awarded the highest tiered award. 
+### **(1) School Green Awards - Vanda Miss Joaquim Sustained Achievement Award 2023**
 
-### **(2) School Green Awards - Vanda Miss Joaquim Achievement Award 2021**
+Organised by the Singapore Environment Council, the annual School Green Awards recognises efforts by schools that have made efforts to achieve positive environmental impacts. Having achieved top scores for three consecutive years, Xinmin Primary School was first awarded the highest tiered award in 2022. For our continuous efforts in inculcating the green lifestyle in and through Xinminites, the school was presented with this prestigious award again 2023.
 
-### **(3) School Green Awards - Vanda Miss Joaquim Achievement Award 2020**
+![](/images/Applied_Learning_Programme_Achievements_1.jpg)
+
+### **(2) School Green Awards - Vanda Miss Joaquim Sustained Achievement Award 2022**
+
+### **(3) School Green Awards - Vanda Miss Joaquim Achievement Award 2021**

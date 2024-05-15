@@ -2,6 +2,7 @@
 title: Information & Communication Technology
 permalink: /departments/information-communication-technology/
 description: ""
+variant: markdown
 ---
 ![](/images/Department%20Pics/ict%20dept%20s.jpg)
 
@@ -11,7 +12,7 @@ A community of future-ready and responsible digital learners
 # Mission: 
 To enable active learning experiences and meaningful connected learning through an ICT- enriched learning environment.
 
-# Key Programmes:
+## Key Programmes:
 
 To realise our vision, the following programmes have been specially designed to bring active and meaningful learning experiences to our Xinminites.
 
@@ -21,12 +22,13 @@ The lower primary students learn basic ICT skills during their EL-ICT lessons. T
 
 ### **Primary 3, 4 and 5 New Media Literacy Lessons**
 
-In our efforts to raise life-long learners and innovative collaborators, the ICT Department teachers conduct lessons to teach students useful skills in creating digital content, curating information obtained from the Internet and connecting with others to deepen their knowledge and subject mastery.
+In our efforts to raise life-long learners and innovative collaborators, the ICT Department teachers conduct lessons to teach students useful skills in creating digital content, curating information obtained from the Internet and connecting with others to deepen their knowledge and subject mastery. 
 
-Students are empowered to learn with technology through the tools such as Google slides, Google sites and keynotes, which provide them with opportunities to be future ready creators, learners and collaborators.
+Students are empowered to learn with technology through these tools: Google Slides, Google Sites, iMovie and Freeform. These platforms provide them with opportunities to be future-ready creators, learners and collaborators. 
 
-With these skills learnt, students will be self-directed in creating digital artefacts as a platform to demonstrate their learning in various subjects.
+With these skills learnt, students will be self-directed in creating digital artefacts as a platform to demonstrate their learning in various subjects. 
+
 
 ### **Use of e-Pedagogy for Active Learning**
 
-Technology allows students to create digital artefacts of their own learning.  Our teachers being Innovative learners in Xinmin, design lessons with the aid of Active Learning Processes. They provide opportunities for students to create and collaborate via tools learnt during through the ICT lessons and New Media Literacy lessons using SLS portals. Such platforms allows our Xinminites to be inquisitive and self-directed learners.
+Technology allows students to create digital artefacts of their own learning.  Our teachers, being innovative learners in Xinmin, design lessons with the structure of Active Learning Processes. They provide opportunities for students to create and collaborate via tools learnt during the ICT and New Media Literacy lessons. SLS continues to be the main platform where content and instructions are provided to students to complement in-classroom lessons. The use of e-Pedagogy helps our Xinminites to be inquisitive and self-directed learners. 
