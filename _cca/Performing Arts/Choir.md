@@ -59,7 +59,12 @@ Thursday (ad-hoc): 4.00pm to 5.30pm
 
 2024 – Singapore International Choral Cantat (Gold) + Category Winner (Children’s Choir)
 
+2024 - Singapore Youth Festival (Distinction)
+
+2024 - SYF Celebrations @ Gardens by the Bay
+
+
 
 **SYF 2022 Performance @ SOTA**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/NtVnDF1lDec?si=LeTpP_AAoZa8ALlz" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/iDbl3LR1rEM?si=VZJEWWOcdTXHb5dA" height="315" width="560"></iframe>
