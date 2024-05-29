@@ -46,6 +46,11 @@ Thursday: 4.00pm to 5.30pm (Senior Group)
   
 **Achievements**
 
-•	Performing HeArts 2023 - Participation
+•	Performing HeArts 2023 – Participation
+
+•	SYF 2024 – Distinction
+
+•	SYF 2024 Celebrations @ Gardens by the Bay - Participation
+
 
 ![](/images/Guzheng_4.jpg)
