@@ -65,6 +65,6 @@ Thursday (ad-hoc): 4.00pm to 5.30pm
 
 
 
-**SYF 2022 Performance @ SOTA**
+**SYF 2024 Performance @ SOTA**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/iDbl3LR1rEM?si=VZJEWWOcdTXHb5dA" height="315" width="560"></iframe>
