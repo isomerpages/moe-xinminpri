@@ -54,3 +54,5 @@ Tuesday: 4.00pm to 5.30pm (Senior Group)
 ·       SYF 2022 – Participation
 
 ·       Performing HeArts 2023 - Participation
+
+·       SYF 2024 – Distinction
