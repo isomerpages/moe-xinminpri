@@ -52,10 +52,10 @@ games and friendly matches with other schools.</p>
 <p>National School Games (Senior Boys)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>League 4 (Group Stage) (Champion)</p>
+<p>League 4 (Group Stage) - Champion</p>
 </li>
 <li>
-<p>League 4 (Overall) (First Runner Up)</p>
+<p>League 4 (Overall) - First Runner Up</p>
 </li>
 </ul>
 <p></p>
