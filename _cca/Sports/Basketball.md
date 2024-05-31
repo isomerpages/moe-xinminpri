@@ -58,7 +58,8 @@ games and friendly matches with other schools.</p>
 <p>League 4 (Overall) (First Runner Up)</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/League_4_first_runner_up.jpg">
 </div>
 <p></p>
