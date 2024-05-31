@@ -68,3 +68,5 @@ Thursday 4.00 – 5.30pm \[Extra Practice\]
 
 *   SYF 2022 – Participation
 *   Performing HeARTS Performance 2023
+*    SYF 2024 – Accomplishment
+*    SYF 2024 Celebrations @ Gardens by the Bay - Participation
