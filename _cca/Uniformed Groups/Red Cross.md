@@ -80,7 +80,7 @@ Silver Award
 
 Bronze Award
 
-3.  **Director’s Award (2022) –**
+3.  **Director’s Award (2023) –**
 
 Raghavan Sruthigha  (6C)
 
