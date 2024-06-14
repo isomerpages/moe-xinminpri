@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-
 ![](/images/20240205_154751.jpg)
 # **Mission &amp; Key Programmes:**
 
@@ -50,4 +49,3 @@ North Division Founder’s Day hike
 ![](/images/Pic_1__1_.jpg)
 
 ![](/images/Founder_s_Day___World_Thinking_Day_22_Feb_2024_1.jpg)
-

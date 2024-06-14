@@ -37,12 +37,20 @@ Tuesdays, 4.00p.m - 5.30p.m (P6, P4)
 
 ### **Achievements**
 
-National School Games Volleyball Championship 2023
-
-·       Junior Girls: Tier 2 – 1st Placing
 
 National School Games Volleyball Championship 2022
 
 ·       Junior Girls: Tier 2 - 2nd Placing
+
+National School Games Volleyball Championship 2023
+
+·       Junior Girls: Tier 2 – 1st Placing
+
+National School Games Volleyball Championship 2024
+
+·       Senior Girls: League 3 – Top 10
+
+·       Junior Girls: Tier 1 – Top 12
+
 
 ![](/images/WhatsApp_Image_2024_02_22_at_4_08_58_PM.jpg)
