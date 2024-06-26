@@ -37,14 +37,10 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 24_06_03 |   Drug Awareness Day (DAD)    |26/6/2024     |
 | 24_07_01 | P4 National Art Gallery Learning Journey     | 9/7/2024 to 11/7/2024  |
 | 24_07_02 | P5 ALP Science Learning Journey     | 15/7/2024 to 18/7/2024  |
-| 24_04_02 | P5AF MBL (Indian Heritage Centre)     | 12/4/2024  |
-| 24_04_03 |Anti-Bullying Campaign (ABC)    | 15/4/2024 to 17/4/2024  |
-| 24_04_04 | P4ABC ALP/ Sci LJ Week     | 16/4/2024  |
-| 24_04_05 |  P4DEF ALP/ Sci LJ Week  | 18/4/2024  |
-| 24_04_06 |Science Week-Of-Wonder   | 22/4/2024 to 26/4/20244  |
-| 24_04_07 |P5CD MBL (Indian Heritage Centre)    | 23/4/2024  |
-| 24_04_08 | P5BE MBL (Indian Heritage Centre)  | 24/4/2024  |
-| 24_04_09 | Catch Me Good Program 2024    | 2/5/2024 and 23/5/2024 |
-| 24_05_01 |P6 NAPFA 1.6km run    | 6/5/2024  |
-| 24_05_02 |  P6BF MBL (Asian Civilisations Museum)   | 8/5/2024  |
-| 24_05_03 |  P6DE MBL (Asian Civilisations Museum)   | 13/5/2024  |
+| 24_07_03 | Racial Harmony Day     | 19/7/2024  |
+| 24_07_04 |P1 PAL earning Journey （1F and 1G)    | 24/7/2024  |
+| 24_07_05 | Catch Me Good Redemption Program     | 25/7/2024  |
+| 24_08_01 |  National Day Celebration  | 8/8/2024  |
+| 24_08_02 |Catch Me Good Redemption Program   | 22/8/2024  |
+| 24_08_03 |P3 and P4 Sports Carnival    | 27/8/2024  |
+| 24_08_04 | Teacher's Day Celebration  | 29/8/2024  |
