@@ -32,11 +32,11 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-| 24_03_01  | P3 Swimsafer Programmes     | 20/3/2024 to 21/5/2024     |
-| 24_03_02 | English Week Recess Activity     |22/3/2024    |
-| 24_03_03 |   P3 ALP/Science LJ    |26/3/2024 to 28/3/2024     |
-| 24_03_04 | Arts Alive Program     | 27/3/2024 to 17/5/2024  |
-| 24_04_01 | International Friendship Day     | 5/4/2024  |
+| 24_06_01  | P5 and P6 New Story Books Maintance Program     | 26/6/2024 to 5/7/2024     |
+| 24_06_02 | P4 Traffic Game at Road Safety Park     |26/6/2024 to 27/6/2024    |
+| 24_06_03 |   Drug Awareness Day (DAD)    |26/6/2024     |
+| 24_07_01 | P4 National Art Gallery Learning Journey     | 9/7/2024 to 11/7/2024  |
+| 24_07_02 | P5 ALP Science Learning Journey     | 15/7/2024 to 18/7/2024  |
 | 24_04_02 | P5AF MBL (Indian Heritage Centre)     | 12/4/2024  |
 | 24_04_03 |Anti-Bullying Campaign (ABC)    | 15/4/2024 to 17/4/2024  |
 | 24_04_04 | P4ABC ALP/ Sci LJ Week     | 16/4/2024  |
