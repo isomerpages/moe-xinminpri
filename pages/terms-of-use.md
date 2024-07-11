@@ -22,7 +22,11 @@ Proprietary Rights
 
 
 5. Click here to review this Web Site Privacy Statement. 
-Restrictions on Use of Materials 
+
+
+#### Restrictions on Use of Materials 
+
+
 6. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Xinmin Primary School.  To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient. 
 7. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Xinmin Primary School’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Xinmin Primary School.
 
@@ -47,4 +51,4 @@ Links to This Web Site from Other Web Sites
 17. Xinmin Primary School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights. 
 18. Xinmin Primary School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents. 
 Governing Law 
-19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore. 
+19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
