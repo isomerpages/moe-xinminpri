@@ -11,7 +11,8 @@ variant: markdown
 #### General 
 
 2) These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
-Proprietary Rights 
+
+#### Proprietary Rights 
 
 3) This Web Site is maintained by Xinmin Primary School. It is owned by Xinmin Primary School.
 
@@ -44,7 +45,7 @@ Disclaimer of Warranties and Liability
 
 10) Xinmin Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site. 
 
-####Links from This Web Site to Other Web Sites 
+#### Links from This Web Site to Other Web Sites 
 
 11) This Web Site contains hyperlinks to web sites which are not maintained Xinmin Primary School.Xinmin Primary School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk. 
 
