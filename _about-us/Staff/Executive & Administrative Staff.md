@@ -13,12 +13,10 @@ Executive &amp; Administrative Staff
 | -------- | -------- |
 |Mr Albert Liong | 	Administration Manager |
 |Mdm Jessie Seah | 	Administration Manager |
-|Mr Thenna Raj S/O Rengasamy | 	Operations Manager | 
-|Mdm Chan Chew Hua | 	Corporate Support Officer | 
-|Ms Loh Poh Yee | 	Corporate Support Officer | 
+|Mr Quek Yam Guan | 	ICT Manager |
+|Ms Hanyza Binte Roslan | 	Admin Executive |
 |Ms Norziha Binte Omar | 	Corporate Support Officer | 
 |Mdm Joanne Chung Wai Lan | 	Corporate Support Officer | 
-|Mdm Leong Yoke Mui | 	Operations Support Officer | 
-|Mdm Teo Geok Hwa	 | Operations Support Officer | 
-|Mdm S. Jayanti | 	Operations Support Officer | 
 |Mdm Suradmi Binte Ahmad Mazuki | 	Operations Support Officer |
+|Mrs Shantha Selvakumaran | 	Operations Support Officer |
+|Mdm Deelaila Binte Dollah       | 	Operations Support Officer |

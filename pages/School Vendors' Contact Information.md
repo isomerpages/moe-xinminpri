@@ -9,7 +9,18 @@ School Books Supplier:
 
 ### &nbsp;**Pacific Bookstores**
 
-<table border="1" style="height: 230px; width: 677px;"><tbody><tr style="height: 56px;"><td style="width: 250px; height: 56px;"><strong>Contact Person</strong></td><td style="width: 59px; height: 56px; text-align: center;">:</td><td style="width: 346px; height: 56px;">Ms Lena</td></tr><tr style="height: 56px;"><td style="width: 250px; height: 56px;"><strong>Telephone</strong></td><td style="width: 59px; height: 56px; text-align: center;">:</td><td style="width: 346px; height: 56px;">90918461</td></tr><tr style="height: 56px;"><td style="width: 250px; height: 56px;"><strong>Website</strong></td><td style="width: 59px; height: 56px; text-align: center;">:</td><td style="width: 346px; height: 56px;"><a href="http://www.pacificbookstores.com/">http://www.pacificbookstores.com/</a></td></tr><tr style="height: 52.5312px;"><td style="width: 250px; height: 52.5312px;"><strong>Home delivery service charge</strong></td><td style="width: 59px; height: 52.5312px; text-align: center;">:</td><td style="width: 346px; height: 52.5312px;">$14.60</td></tr></tbody></table>
+
+| | | 
+| -------- | -------- | 
+|Contact Person: | Ms Lena
+|Telephone: | 90918461 |
+|Website: |http://www.pacificbookstores.com|
+|Home delivery service charge: |$14.60 |
+|Operational Hours: |Monday to Friday,  8:30AM to 9:00AM  |
+
+
+
+
 
 School Uniform :
 ----------------
