@@ -14,7 +14,7 @@ Executive &amp; Administrative Staff
 |Mr Albert Liong | 	Administration Manager |
 |Mdm Jessie Seah | 	Administration Manager |
 |Mr Quek Yam Guan | 	ICT Manager |
-|Ms Hanyza Binte Roslan | 	Admin Executive |
+|Ms Hanyza Binte Roslan | 	Administrative Executive |
 |Ms Norziha Binte Omar | 	Corporate Support Officer | 
 |Mdm Joanne Chung Wai Lan | 	Corporate Support Officer | 
 |Mdm Suradmi Binte Ahmad Mazuki | 	Operations Support Officer |
