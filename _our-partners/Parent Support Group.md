@@ -32,15 +32,18 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-| 24_06_01  | P5 and P6 New Story Books Maintance Program     | 26/6/2024 to 5/7/2024     |
-| 24_06_02 | P4 Traffic Game at Road Safety Park     |26/6/2024 to 27/6/2024    |
-| 24_06_03 |   Drug Awareness Day (DAD)    |26/6/2024     |
-| 24_07_01 | P4 National Art Gallery Learning Journey     | 9/7/2024 to 11/7/2024  |
-| 24_07_02 | P5 ALP Science Learning Journey     | 15/7/2024 to 18/7/2024  |
-| 24_07_03 | Racial Harmony Day     | 19/7/2024  |
-| 24_07_04 |P1 PAL earning Journey （1F and 1G)    | 24/7/2024  |
-| 24_07_05 | Catch Me Good Redemption Program     | 25/7/2024  |
-| 24_08_01 |  National Day Celebration  | 8/8/2024  |
-| 24_08_02 |Catch Me Good Redemption Program   | 22/8/2024  |
-| 24_08_03 |P3 and P4 Sports Carnival    | 27/8/2024  |
-| 24_08_04 | Teacher's Day Celebration  | 29/8/2024  |
+| 24_09_01  |   Mid-Autumn Festival Celebration   | 17/9/2024     |
+| 24_09_02 |  P4AF MBL (Kreta Ayer Heritable Gallery)    |25/9/2024    |
+| 24_09_03 |    P3 Shopping Day Learning Journey   | 26/9/2024 to 27/9/2024    |
+| 24_10_01 |   Children's Day Celebration  | 3/10/2024  |
+| 24_10_02 |   P1 PAL Learning Journey （1D and 1E)   | 9/10/2024  |
+| 24_10_03 |  P6 Sports Carnival     | 18/10/2024  |
+| 24_10_04 | P6 ALP/Sci LJ Week  | 28/10/2024 to 1/11/2024  |
+| 24_10_05 |   P4CD MBL (Geylang Serai Heritage Gallery)  | 28/10/2024  |
+| 24_10_06 |  P4BE MBL (Geylang Serai Heritage Gallery)  | 30/10/2024  |
+| 24_10_07 | P1/2 Sports Carnival  | 30/10/2024  |
+| 24_11_01 | P4BE MBL (Kreta Ayer Heritable Gallery)  | 4/11/2024  |
+| 24_11_02 | P3/4 Sports Carnival   | 6/11/2024  |
+| 24_11_03 | P4CD MBL (Kreta Ayer Heritable Gallery)   | 7/11/2024  |
+| 24_11_04 | P4AB MBL (Geylang Serai Heritage Gallery) | 8/11/2024  |
+| 24_11_05 | P5 Sports Carnival    | 11/11/2024  |
