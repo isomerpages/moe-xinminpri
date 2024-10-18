@@ -13,6 +13,7 @@ Executive &amp; Administrative Staff
 | -------- | -------- |
 |Mr Albert Liong | 	Administration Manager |
 |Mdm Jessie Seah | 	Administration Manager |
+|Mr Koh Chye Leong | 	Operations Manager |
 |Mr Quek Yam Guan | 	ICT Manager |
 |Ms Hanyza Binte Roslan | 	Administrative Executive |
 |Ms Norziha Binte Omar | 	Corporate Support Officer | 
