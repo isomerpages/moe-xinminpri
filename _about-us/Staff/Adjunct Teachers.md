@@ -202,7 +202,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Amin-Aishah</p>
+<p>Mrs Amin-Aisah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FAJT (Tamil)</p>
