@@ -183,13 +183,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Iris Chan-Lee Poh Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HOD/CCE (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>iris_lee_poh_chin@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -324,17 +324,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Serene Lee-Neo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>neo_xiao_ling_serene@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Ngo-Lau Shu Mei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -374,17 +363,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>palaniyandi_magasvari@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Iris Chan-Lee Poh Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Social Studies &amp; National Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>iris_lee_poh_chin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
