@@ -3,65 +3,412 @@ title: School Executive Committee
 permalink: /school-organisation/school-executive-committee/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
-# **School Executive Committee**
-
-### School Leaders
-
-
-| Name 	| Designation 	| Email 	|
-|---	|---	|---	|
-| Mrs Judy Lim 	| Principal 	| [xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) 	|
-| Mrs Julia Edison 	| Vice Principal 	| [xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) 	|
-| Mr Lim Boon Teck 	| Vice Principal (Admin) 	| [xinmin_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg) 	|
-
-### Heads of Department (HOD)
-
-| Name 	| Designation 	| Email 	|
-|---	|---	|---	|
-| Mrs Elaine Heng-Tan Su Lin 	| School Staff Developer 	| tan_su_lin_elaine@schools.gov.sg	|
-| Mrs Nurhidayah Ejjad 	| HOD / English Language 	| nurhidayah_hashim@schools.gov.sg 	|
-| Mdm Lyn Ong 	| HOD / Math 	| lyn_ong@schools.gov.sg 	|
-| Miss Geraldine Tng Hiang Tiang 	| HOD / Science 	| tng_hiang_tiang_geraldine@schools.gov.sg	|
-| Mrs Joycelyn Soo 	| HOD / Discipline and Student Leadership 	| yeo_su_yong_joycelyn@schools.gov.sg	|
-| Miss Yap Li Ling 	| HOD / Mother Tongue 	| yap_li_ling@schools.gov.sg 	|
-| Mdm Noor Hafizah Bte Hamis 	| HOD / Information and Communication Technology (ICT) 	| noor_hafizah_hamis@schools.gov.sg 	|
-| Miss Michelle Teo Wei Ling 	| HOD / Physical Education, Art, Music & CCA (PAM & CCA) 	| teo_wei_ling@schools.gov.sg 	
-| Mrs Daphne Goh 	| HOD / SEN	| chua_bee_har@schools.gov.sg 
-
-
-### Year Heads and Assistant Year Head
-
-
-| Name 	| Designation 	| Email 	|
-|---	|---	|---	|
-| Mdm Rosnita Bte Ibrahim 	| Assistant Year Head / P1 	| rosnita_ibrahim@schools.gov.sg	|
-| Mdm Sharifah Wardah  	| Assistant Year Head / P2 (Covering)	| sharifah_wardah@schools.gov.sg|
-| Mdm Azlinah Bte Dakarlan 	| Assistant Year Head / P3 	| azlinah_dakarlan@schools.gov.sg	|
-| Mdm Rosnani Bte Yusof  	| Year Head / P4 	| rosnani_yusof@schools.gov.sg
-| Mr Gary Tang 	|  Assistant Year Head / P5	| tang_kia_miang_gary@schools.gov.sg|
-| Mrs Norazimah Junari 	| Assistant Year Head  / P6 	| norazimah_md_shariff@schools.gov.sg|
-
-
-### Level Heads (LH)
-
-| Name 	| Designation 	| Email 	|
-|---	|---	|---	|
-|Mrs Amilia Fendy | Level Head / English | nur_amilia_abdul_rahim@schools.gov.sg |
-| Mr Tan Kee Beng 	| Level Head / Mathematics 	| tan_kee_beng@schools.gov.sg |
-| Mrs Serene Lee-Neo 	| Level Head / Mathematics 	| neo_xiao_ling_serene@schools.gov.sg |
-| Mrs Ngo-Lau Shu Mei 	| Level Head / Science 	| lau_shu_mei@schools.gov.sg |
-
-
-### Subject Heads (SH)
-
-| Name 	| Designation 	| Email 	|
-|---	|---	|---	|
-| Mrs Shanmugam 	| Subject Head / Tamil & Malay Language	| palaniyandi_magasvari@schools.gov.sg |
-| Mrs Iris Chan-Lee Poh Chin 	| Subject Head / Social Studies & National Education 	| iris_lee_poh_chin@schools.gov.sg	|
-| Mr Kumaresan 	|  Subject Head / Student Well-Being 	| kumaresan_arasapam@schools.gov.sg	|
-| Ms Aneesa Faruvin 	| Subject Head / Information and Communication Technology (ICT) 	| aneesa_faruvin_mohd_ibrahim@schools.gov.sg |
-|Mr Tan Hoe Tsong | Subject Head / ICT (Data Management) | tan_hoe_tsong@schools.gov.sg |
-|Mdm Fun Kai Tien | Subject Head / Chinese Language | fun_kai_tien@schools.gov.sg |
-|Mdm Teh Swee Sing | Subject Head / Student Leadership (Covering)| teh_swee_sing@schools.gov.sg |
+<h1><strong>School Executive Committee</strong></h1>
+<h3>School Leaders</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Judy Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xinmin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xinmin_ps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Julia Edison</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xinmin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xinmin_ps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Boon Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xinmin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xinmin_ps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Heads of Department (HOD)</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Elaine Heng-Tan Su Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_su_lin_elaine@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Nurhidayah Ejjad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurhidayah_hashim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lyn Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lyn_ong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Geraldine Tng Hiang Tiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tng_hiang_tiang_geraldine@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Joycelyn Soo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Discipline and Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_su_yong_joycelyn@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Yap Li Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yap_li_ling@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Noor Hafizah Bte Hamis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Information and Communication Technology (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>noor_hafizah_hamis@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Michelle Teo Wei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Physical Education, Art, Music &amp; CCA (PAM &amp; CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_wei_ling@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Daphne Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / SEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_bee_har@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Iris Chan-Lee Poh Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/CCE (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>iris_lee_poh_chin@schools.gov.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Year Heads and Assistant Year Head</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thomas Ong Ding Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / P1 (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_ding_yi@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosnita Bte Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rosnita_ibrahim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Norazimah Junari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>norazimah_md_shariff@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Azlinah Bte Dakarlan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>azlinah_dakarlan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head / P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_ching@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Gary Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head / P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_kia_miang_gary@schools.gov.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Level Heads (LH)</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Amilia Fendy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head / English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_amilia_abdul_rahim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kee Beng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_kee_beng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ngo-Lau Shu Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lau_shu_mei@schools.gov.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Subject&nbsp;Heads (SH)</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Shanmugam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Tamil &amp; Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>palaniyandi_magasvari@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kumaresan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kumaresan_arasapam@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Aneesa Faruvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Information and Communication Technology (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>aneesa_faruvin_mohd_ibrahim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fun Kai Tien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>fun_kai_tien@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teh Swee Sing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Student Leadership (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teh_swee_sing@schools.gov.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
