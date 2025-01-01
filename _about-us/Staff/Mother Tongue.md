@@ -75,7 +75,7 @@ variant: tiptap
 <p>Mr Gary Tang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / P5</p>
+<p>Assistant Year Head / P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tang_kia_miang_gary@schools.gov.sg</p>
