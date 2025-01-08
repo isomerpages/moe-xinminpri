@@ -227,7 +227,7 @@ variant: tiptap
 <p>6F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
+<p>charlene_lim_xian_zhen@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
