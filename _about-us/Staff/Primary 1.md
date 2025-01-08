@@ -129,7 +129,7 @@ variant: tiptap
 <p>1C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
+<p>wu_sufang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +213,7 @@ variant: tiptap
 <p>1F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
+<p>tan_jac_see@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
