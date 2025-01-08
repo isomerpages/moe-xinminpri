@@ -33,7 +33,7 @@ variant: tiptap
 <p>Year Head (P5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_ching@schools.gov.sg</p>
+<p>lee_ching_a@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -87,7 +87,7 @@ variant: tiptap
 <p>5A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
+<p>koh_ying_sin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
