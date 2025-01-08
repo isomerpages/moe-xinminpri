@@ -213,7 +213,7 @@ variant: tiptap
 <p>3F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
+<p>yeung_e-liz@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
