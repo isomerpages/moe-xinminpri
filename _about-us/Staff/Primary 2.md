@@ -115,7 +115,7 @@ variant: tiptap
 <p>2B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
+<p>boh_peck_kay@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
