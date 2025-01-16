@@ -13,9 +13,23 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Respect</strong>
-</p>
+<h4><strong>Respect</strong></h4>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Respecting Singapore </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Students who are Singapore citizens must sing the National Anthem and
+take the Pledge. Students will take the Pledge with the right fist over
+the heart.</p>
+</li>
+</ul>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -153,8 +167,7 @@ the canteen or the bookshop.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Responsibility</strong>
-</p>
+<h4><strong>Responsibility</strong></h4>
 </td>
 </tr>
 <tr>
@@ -337,8 +350,7 @@ meal.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Care</strong>
-</p>
+<h4><strong>Care</strong></h4>
 </td>
 </tr>
 <tr>
@@ -397,8 +409,7 @@ certifying that the student is fit to return to school must be produced.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Resilience</strong>
-</p>
+<h4><strong>Resilience</strong></h4>
 </td>
 </tr>
 <tr>
