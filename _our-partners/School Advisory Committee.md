@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /school-organisation/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 # **School Advisory Committee**
 
@@ -23,3 +24,5 @@ The establishment of School Advisory Committees (SAC) reflects the Ministry of E
 |Mr Chew Ban Eng Stephen | Member |
 |Ms Simran Kaur Toor | Member |
 |Mr Lee Hong Chuang | Member |
+
+Updated as of Jan 2025
