@@ -292,8 +292,26 @@ examinations.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Students should not take things belonging to others without first seeking
+<ul data-tight="true" class="tight">
+<li>
+<p>Students should not take things belonging to others without first seeking
 permission.</p>
+</li>
+<li>
+<p>Students are to use social media platforms and technology responsibly
+and with discernment.</p>
+</li>
+<li>
+<p>Students should not post inappropriate pictures of themselves or others,
+making inappropriate comments that hurt themselves or others and using
+offensive language online.</p>
+</li>
+<li>
+<p>Students should not resort to unauthorised access and use of computer
+service (e.g. using another person’s ID and password without proper authority
+to access data or a program).</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -302,11 +320,19 @@ permission.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Students should keep the school premises clean.
-<br>• Students should consume all food and drinks in the canteen unless permission
-is given.
-<br>• Students should return used utensils and clear their tables after their
+<ul data-tight="true" class="tight">
+<li>
+<p>Students should keep the school premises clean.</p>
+</li>
+<li>
+<p>Students should consume all food and drinks in the canteen unless permission
+is given.</p>
+</li>
+<li>
+<p>Students should return used utensils and clear their tables after their
 meal.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -321,8 +347,12 @@ meal.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Students should inform a teacher or trusted adult should they feel unsafe
+<ul data-tight="true" class="tight">
+<li>
+<p>Students should inform a teacher or trusted adult should they feel unsafe
 within or outside school premises.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -331,10 +361,22 @@ within or outside school premises.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Students should not resort to physical violence or verbal abuse.• Students
-should not engage in bullying (verbal, physical, emotional) or cyberbullying
-acts. They should report all bullying cases to the teacher or authorities
-in the school.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students should not resort to physical violence or verbal abuse.</p>
+</li>
+<li>
+<p>Students should not engage in bullying (verbal, physical, emotional) or
+cyberbullying acts. They should report all bullying cases to the teacher
+or authorities in the school.</p>
+</li>
+<li>
+<p>Students should not attend school during the period specified in his/her
+medical certificate if he/she is unwell. If a student returns to school
+before the date indicated on the medical certificate, a note from the doctor
+certifying that the student is fit to return to school must be produced.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -343,7 +385,14 @@ in the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Students should dispose of litter and rubbish into the bins provided.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students should dispose of litter and rubbish into the bins provided.</p>
+</li>
+<li>
+<p>Students should pick up any litter they see on the floor.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -358,8 +407,12 @@ in the school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Students should put in effort and give of their best in all assessments
-and tasks assigned and not give up easily.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students should put in their best effort on all assessments and assigned
+tasks and should not give up easily.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -370,14 +423,22 @@ and tasks assigned and not give up easily.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>• Students are to use social media platforms and technology responsibly
-and with discernment.
-<br>• Students should not post inappropriate pictures of themselves or others,
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to use social media platforms and technology responsibly
+and with discernment.</p>
+</li>
+<li>
+<p>Students should not post inappropriate pictures of themselves or others,
 making inappropriate comments that hurt themselves or others and using
-vulgar language online.
-<br>• Students should not resort to unauthorised access and use of computer
+vulgar language online.</p>
+</li>
+<li>
+<p>Students should not resort to unauthorised access and use of computer
 service (e.g. using another person’s ID and password without proper authority
 to access data or a program). Such offence will be dealt with severely.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
