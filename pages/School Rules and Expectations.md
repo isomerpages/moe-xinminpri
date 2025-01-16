@@ -130,15 +130,25 @@ each ear.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Students must be respectful and courteous to fellow Xinminites, staff,
-parent volunteers and visitors to the school.
-<br>• Students must seek permission to enter or leave the classroom and school.
-<br>• Students are not allowed to use abusive or foul language, symbols or
-sign.
-<br>• Students should walk briskly, orderly and quietly within the school
-premises.
-<br>• Students should queue up in an orderly manner when making purchases
-at the canteen or the bookshop.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students must be respectful and courteous to fellow Xinminites, staff,
+parent volunteers and visitors to the school.</p>
+</li>
+<li>
+<p>Students must seek permission to enter or leave the classroom and school.</p>
+</li>
+<li>
+<p>Students are not allowed to use abusive or foul language, symbols or sign.</p>
+</li>
+<li>
+<p>Students should walk briskly, orderly and quietly within the school premises.</p>
+</li>
+<li>
+<p>Students should queue up in an orderly manner when making purchases at
+the canteen or the bookshop.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
