@@ -73,27 +73,55 @@ and knee-length socks are not allowed.</p>
 <p>
 <br><strong>Appearance and Grooming </strong>
 <br>
-<br>• Coloured or highlighted hair is not allowed.
-<br>• Funky hairstyles or inner cut styles (inconsistent length and styles)
-are not allowed.
-<br>• Finger nails must be kept short and clean without any nail polish or
-varnish.
-<br>
-<br>For boys:
-<br>
-<br>• They must be clean-shaven with no facial hair.
-<br>• Hair must be short and neat. It must not touch the ears or the collar
-of the school uniform.
-<br>• Length of fringe must not touch the eyebrows.
-<br>• Sideburns must be short and must not extend beyond the middle level
-of each ear.
-<br>
-<br>For girls:
-<br>
-<br>• Long fringe must be pinned up neatly and it must not touch the eyebrows.
-<br>• Hair touching collar of the uniform must be tied up neatly at all times.
-<br>• Only plain black hair bands or clips are allowed.
-<br>• No scarf or hair netting is allowed.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Coloured or highlighted hair is not allowed.</p>
+</li>
+<li>
+<p>Funky hairstyles or inner cut styles (inconsistent length and styles)
+are not allowed.</p>
+</li>
+<li>
+<p>Fingernails must be kept short and clean without any nail polish or varnish.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><u>For boys:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>They must be clean-shaven with no facial hair.</p>
+</li>
+<li>
+<p>Hair must be short and neat. It must not touch the ears or the collar
+of the school uniform.</p>
+</li>
+<li>
+<p>Length of fringe must not touch the eyebrows.</p>
+</li>
+<li>
+<p>Sideburns must be short and must not extend beyond the middle level of
+each ear.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><u>For girls:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Long fringe must be pinned up neatly and it must not touch the eyebrows.</p>
+</li>
+<li>
+<p>Hair touching collar of the uniform must be tied up neatly at all times.</p>
+</li>
+<li>
+<p>Only plain black hair bands or clips are allowed.</p>
+</li>
+<li>
+<p>No scarf or hair netting is allowed.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
