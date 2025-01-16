@@ -19,23 +19,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Respecting Singapore</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Students who are Singapore citizens must sing the National Anthem and
-take the National Pledge with the right fist placed over the heart.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Respecting Attendance and Punctuality</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Students must observe punctuality during school days and for all school
-events. They will be considered late if they report to school after the
-stipulated reporting time.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students must observe punctuality on school days and for all school events.
+They must enter the school premises and be seated in the school hall by
+7:30 a.m. They will be considered late if they arrive after the stipulated
+reporting time.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -44,19 +39,39 @@ stipulated reporting time.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Attire
+<p><strong>Attire </strong>
 <br>
-<br>• Students are to wear the prescribed school uniform neatly. Any modification
-to the uniform is not allowed.
-<br>• Students are required to have a name tag sewn above the school badge
-on his/her uniform.
-<br>• Students must put on the approved school PE attire during PE lessons.
-<br>• Shirts must be tucked in.
-<br>• Shoes must be plain white.
-<br>• Socks must be plain white, but may include those with school name. Ankle
-and knee-length socks are not allowed.
-<br>
-<br>Appearance and Grooming
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to wear the prescribed school uniform and modification to
+the uniform is not allowed.</p>
+</li>
+<li>
+<p>Jacket/windbreaker must be single tone colour e.g., white, blue and black
+with no loud prints or profanity.</p>
+</li>
+<li>
+<p>Students are required to have a name tag with a border of the correct
+colour (based on his/her current level), sewn above the school badge on
+his/her uniform.</p>
+</li>
+<li>
+<p>Students must put on the approved school PE attire during PE lessons.</p>
+</li>
+<li>
+<p>Shirts must be tucked in.</p>
+</li>
+<li>
+<p>Shoes must be plain white.</p>
+</li>
+<li>
+<p>Socks must be plain white, but may include those with school name. Ankle
+and knee-length socks are not allowed.</p>
+</li>
+</ul>
+<p>
+<br><strong>Appearance and Grooming </strong>
 <br>
 <br>• Coloured or highlighted hair is not allowed.
 <br>• Funky hairstyles or inner cut styles (inconsistent length and styles)
