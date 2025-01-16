@@ -2,6 +2,7 @@
 title: CLOVE
 permalink: /clove/
 description: ""
+variant: markdown
 ---
 # **C.L.O.V.E (Cultivating a Life of Values and Excellence)**
 
@@ -22,3 +23,5 @@ Values in Action, cooperative learning and peer mentoring are important parts of
 
 
 ![](/images/clove%20image.png)
+
+Updated as of Jan 2025
