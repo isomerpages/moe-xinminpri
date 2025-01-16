@@ -44,8 +44,41 @@ stipulated reporting time.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Attire<br><br>• Students are to wear the prescribed school uniform neatly. Any modification to the uniform is not allowed.<br>• Students are required to have a name tag sewn above the school badge on his/her uniform.<br>• Students must put on the approved school PE attire during PE lessons.<br>• Shirts must be tucked in.<br>• Shoes must be plain white.\<br>• Socks must be plain white, but may include those with school name. Ankle and knee-length socks are not allowed.<br><br>Appearance and Grooming<br><br>• Coloured or highlighted hair is not allowed.<br>• Funky hairstyles or inner cut styles (inconsistent length and styles) are not allowed.<br>• Finger nails must be kept short and clean without any nail polish or varnish.<br><br>For boys:<br><br>• They must be clean-shaven with no facial hair.<br>• Hair must be short and neat. It must not touch the ears or the collar of the school uniform.<br>• Length of fringe must not touch the eyebrows.<br>• Sideburns must be short and must not extend beyond the middle level of each ear.<br><br>For girls:<br><br>• Long fringe must be pinned up neatly and it must not touch the eyebrows.<br>• Hair touching collar of the uniform must be tied up neatly at all times.<br>• Only plain black hair bands or clips are allowed.<br>• No scarf or hair netting is allowed.</strong>
-</p>
+<p>Attire
+<br>
+<br>• Students are to wear the prescribed school uniform neatly. Any modification
+to the uniform is not allowed.
+<br>• Students are required to have a name tag sewn above the school badge
+on his/her uniform.
+<br>• Students must put on the approved school PE attire during PE lessons.
+<br>• Shirts must be tucked in.
+<br>• Shoes must be plain white.
+<br>• Socks must be plain white, but may include those with school name. Ankle
+and knee-length socks are not allowed.
+<br>
+<br>Appearance and Grooming
+<br>
+<br>• Coloured or highlighted hair is not allowed.
+<br>• Funky hairstyles or inner cut styles (inconsistent length and styles)
+are not allowed.
+<br>• Finger nails must be kept short and clean without any nail polish or
+varnish.
+<br>
+<br>For boys:
+<br>
+<br>• They must be clean-shaven with no facial hair.
+<br>• Hair must be short and neat. It must not touch the ears or the collar
+of the school uniform.
+<br>• Length of fringe must not touch the eyebrows.
+<br>• Sideburns must be short and must not extend beyond the middle level
+of each ear.
+<br>
+<br>For girls:
+<br>
+<br>• Long fringe must be pinned up neatly and it must not touch the eyebrows.
+<br>• Hair touching collar of the uniform must be tied up neatly at all times.
+<br>• Only plain black hair bands or clips are allowed.
+<br>• No scarf or hair netting is allowed.</p>
 </td>
 </tr>
 <tr>
