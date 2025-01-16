@@ -163,29 +163,64 @@ the canteen or the bookshop.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Students are to observe safety rules set by the school.
-<br>• Students should act responsibly at all times.
-<br>• Students should play only in designated areas.
-<br>• Students are not allowed to stay in the classroom during recess or after
-school without the supervision of a teacher.
-<br>• Students are not allowed to loiter outside school in their school uniform.
-<br>• Students are not allowed to bring any electronic/media devices such
-as MP3/4 players, smartwatch, tablet, electronic game set, etc.
-<br>• Students are not allowed to bring sharp/dangerous objects such as scissors,
-cutting blade and metal ruler.
-<br>• Students should seek approval to bring mobile phone to school. Request
-will be granted based on needs. Parents will need to apply for permission
-through the link in the School Website.
-<br>• Both parents and child will need to adhere strictly to the conditions
-stated.
-<br>• Students are not allowed to wear jewellery, valuable ornaments or accessories
-of any kind.
-<br>• Only girls are allowed to wear one pair of plain, simple, identical
-earrings, ear studs or ear sticks on the lower earlobes.
-<br>• Religious ornaments should be worn inside the uniform and not exposed.
-<br>• No expensive or fancifully-designed watch should be worn to school.
-<br>• Only spectacles with simple plastic or metal frame and clear lenses
-are allowed.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are to observe safety rules set by the school.</p>
+</li>
+<li>
+<p>Students should act responsibly at all times.</p>
+</li>
+<li>
+<p>Students should play only in designated areas.</p>
+</li>
+<li>
+<p>Students are not allowed to stay in the classroom during recess or after
+school without the supervision of a teacher.</p>
+</li>
+<li>
+<p>Students are not allowed to loiter outside school in their school uniform.</p>
+</li>
+<li>
+<p>Students are not allowed to bring personal digital device into the classroom.
+This includes electronic game, tablet, mobile phone, smartwatch (except
+for those used solely for e-payment in the school canteen) or any item
+with communication or recording capabilities.</p>
+</li>
+<li>
+<p>Students must seek approval before bringing personal digital device to
+school. Requests will be granted based on individual needs. Parents should
+apply for permission through the link provided on the school website. Both
+parents and students must adhere strictly to the conditions outlined.</p>
+</li>
+<li>
+<p>Students who have received permission from the school to bring personal
+digital device are not allowed to use it during school hours, including
+recess, CCA and after-school programmess (e.g. supplementary, enrichment,
+or remedial lessons).</p>
+</li>
+<li>
+<p>Students who have received permission from the school to bring personal
+digital device must put it in his/her locker before the start of school.
+He/She can retrieve the device after school ends. Students are responsible
+for the safekeeping of his/her device.</p>
+</li>
+<li>
+<p>Students are not allowed to wear jewellery, valuable ornaments or accessories
+of any kind.</p>
+</li>
+<li>
+<p>Only girls are allowed to wear one pair of plain, simple, identical ear
+studs or ear sticks on the lower earlobes. &nbsp;</p>
+</li>
+<li>
+<p>No expensive or fancifully designed watch should be worn to school.</p>
+</li>
+<li>
+<p>Only spectacles with simple plastic or metal frame and clear lenses are
+allowed.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
