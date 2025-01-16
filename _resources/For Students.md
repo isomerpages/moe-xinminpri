@@ -2,6 +2,7 @@
 title: For Students
 permalink: /our-resources/for-students/
 description: ""
+variant: markdown
 ---
 # **For Students**
 
@@ -18,3 +19,4 @@ description: ""
 
 [eZhiShi](https://www.ezhishi.net/)
 
+Updated as of Jan 2025
