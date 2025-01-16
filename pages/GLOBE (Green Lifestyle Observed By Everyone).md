@@ -45,3 +45,6 @@ Organised by the Singapore Environment Council, the annual School Green Awards r
 ### **(2) School Green Awards - Vanda Miss Joaquim Sustained Achievement Award 2022**
 
 ### **(3) School Green Awards - Vanda Miss Joaquim Achievement Award 2021**
+
+
+Updated as of Dec 2024
