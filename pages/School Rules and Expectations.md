@@ -229,12 +229,18 @@ allowed.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Students are not allowed to have in their possession any weapon. They
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are not allowed to have in their possession any weapon. They
 are also not allowed to bring any weapon-like item which is used or intended
-to cause harm to others.
-<br>• Students are not allowed to engage in repeated or persistent behaviours
+to cause harm to others.</p>
+</li>
+<li>
+<p>Students are not allowed to engage in repeated or persistent behaviours
 such as using derogatory or hurtful remarks that have the intention to
 cause hurt, distress or humiliation towards others.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -243,15 +249,41 @@ cause hurt, distress or humiliation towards others.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Students must be attentive during lessons and avoid moving around in
-the classroom unnecessarily.
-<br>• Students must complete all assignments and submit them complete and
-punctually.
-<br>• Students must bring all the books and items required for the day.
-<br>• Students must be present for all compulsory school events. A medical
-certificate or a letter of explanation must be produced when student is
-absent from school.
-<br>• Students should not attempt to cheat or assist to cheat during examinations</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students must be attentive during lessons and avoid moving around in the
+classroom unnecessarily.</p>
+</li>
+<li>
+<p>Students must complete all assignments and submit them punctually.</p>
+</li>
+<li>
+<p>Students must bring all the books and items required for the day.</p>
+</li>
+<li>
+<p>Students must be present for all compulsory school events. A medical certificate
+or a letter of explanation must be produced when student is absent from
+school. Only up to five letters of explanation (not exceeding 5 days) will
+be accepted per semester. All such letters will be accepted on a case-by-case
+basis. Any additional letters beyond this limit will not be considered
+as valid reasons for absence.</p>
+</li>
+<li>
+<p>All absences for the WA/EYE/Prelim must be supported by a Medical Certificate.
+Students who are absent from the WA/EYE/Prelim on medical grounds will
+be given VR (Valid Reason) for the paper they have missed. Students who
+are absent without valid reason will not be awarded any marks for the paper
+they have missed. He/She will also not be considered for any academic-based
+awards.</p>
+</li>
+<li>
+<p>Students must comply with assessment rules and guidelines.</p>
+</li>
+<li>
+<p>Students must not attempt to cheat or assist others in cheating during
+examinations.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
