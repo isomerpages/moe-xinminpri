@@ -2,6 +2,7 @@
 title: For Staff
 permalink: /our-resources/for-staff/
 description: ""
+variant: markdown
 ---
 ### MOE/School Intranet Applications
 
@@ -39,3 +40,6 @@ description: ""
 [RBS](https://rbs.avero-tech.com/)
 
 [MIMS](https://idp.mims.moe.gov.sg/)
+
+
+Updated as of Jan 2025
