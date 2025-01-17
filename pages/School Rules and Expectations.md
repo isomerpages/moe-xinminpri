@@ -276,10 +276,9 @@ classroom unnecessarily.</p>
 <li>
 <p>Students must be present for all compulsory school events. A medical certificate
 or a letter of explanation must be produced when student is absent from
-school. Only up to five letters of explanation (not exceeding 5 days) will
-be accepted per semester. All such letters will be accepted on a case-by-case
-basis. Any additional letters beyond this limit will not be considered
-as valid reasons for absence.</p>
+school. Only up to five letters of explanation will be accepted per semester.
+Any additional letters beyond this limit will not be considered as valid
+reasons for absence.</p>
 </li>
 <li>
 <p>All absences for the WA/EYE/Prelim must be supported by a Medical Certificate.
@@ -422,32 +421,6 @@ certifying that the student is fit to return to school must be produced.</p>
 <li>
 <p>Students should put in their best effort on all assessments and assigned
 tasks and should not give up easily.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Responsible Use of Technology</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students are to use social media platforms and technology responsibly
-and with discernment.</p>
-</li>
-<li>
-<p>Students should not post inappropriate pictures of themselves or others,
-making inappropriate comments that hurt themselves or others and using
-vulgar language online.</p>
-</li>
-<li>
-<p>Students should not resort to unauthorised access and use of computer
-service (e.g. using another person’s ID and password without proper authority
-to access data or a program). Such offence will be dealt with severely.</p>
 </li>
 </ul>
 </td>
