@@ -413,4 +413,4 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<p>Staff list updated as of Jan 2025</p>
+<p></p>
