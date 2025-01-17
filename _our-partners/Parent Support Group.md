@@ -41,3 +41,6 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 25_02_04 | P1AF English Learning Journey to Singapore Zoo   | 25/2/2025 |
 | 25_02_05 |   P1BCG English Learning Journey to Singapore Zoo   | 26/2/2025  |
 | 25_02_06 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+
+
+Updated as of Jan 2025
