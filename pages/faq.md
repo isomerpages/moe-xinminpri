@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 # **FAQ**
 
@@ -35,3 +36,5 @@ Techplace 1 #01-08/09
 S(569628)    
 
 Tel no: 64563198
+
+Updated as of Jan 2025
