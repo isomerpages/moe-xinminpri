@@ -2,6 +2,7 @@
 title: Homework Policy
 permalink: /homework-policy/
 description: ""
+variant: markdown
 ---
 # **Homework Policy**
 
@@ -9,34 +10,34 @@ description: ""
 
 **1\. Purpose of Homework**
 
-In Xinmin Primary School, we believe that homework is beneficial to our students as it
+Homework refers to any learning activity that students are required by the school to complete outside of curriculum time, regardless of the mode of delivery (i.e. pen-and-paper, virtual/ online). This includes assignments and projects but not revision of school work or studying for tests and examinations.
 
-*   reinforces learning and deepens understanding of lessons taught
-*   allows studentsto regularly practise and apply skills and concepts taught
-*   develops good study habits
+**2\. Objectives of Homework**
 
-**2\. Types of Homework**
+Homework, when used appropriately, can reinforce students’ learning, provide feedback on their progress and cultivate a healthy disposition towards continual learning. Effective use of homework can:
 
-Homework is varied in type in accordance with the needs of students and the objectives of the subject.&nbsp; It could include the&nbsp;&nbsp; following activities:-
+* Reinforce learning and deepen understanding of lessons taught.
+* Allow students to regularly practise, apply skills and concepts taught.
+* Develop good study skills and habits.
+* Encourage greater ownership and responsibility for independent learning.
+* Provide parents with timely information on the learning progress of their child and opportunities to be involved in their child’s learning.
 
-*   revision of what was taught in class
-*   reading comprehension
-*   writing composition
-*   learning vocabulary
-*   project work
 
-Homework excludes studying for tests and examinations.
+**3\. Quantity of Homework**
 
-**3\. What teachers&nbsp;would do**
+The school is mindful of the well-being of students when assigning homework. For holistic development, students need to have a balanced life with adequate time for family bonding, social activities, personal interests and rest.
 
-*   Design appropriate and meaningful homework
-*   Set realistic deadlines for submission of homework
-*   Establish and communicate clear expectations to students on the purpose and procedure of homework
-*   Coordinate with other teachers of the class on the frequency and quantity of homework to be given
-*   Update the&nbsp;**homework assignment whiteboard**&nbsp;daily
-*   Check homework and provide timely feedback to students
-*   Provide timely intervention and support to students; and
-*   Engage parents on homework matters and provide them with information pertaining to students’ learning progress.
+**4\. We use the following guidelines when assigning homework:**
+
+
+
+| Level | Approximate Daily Homework Load (Mon – Fri)| Maximum Weekly Homework Load (Mon – Fri) |
+| -------- | -------- | -------- |
+| P1 &amp; P2    | 45mins     | 4hr     |
+| P3 &amp; P4    | 1hr     | 6hr     |
+| P1 &amp; P2    | 2hr     | 11hr     |
+
+
 
 **4\. What students should do**
 
