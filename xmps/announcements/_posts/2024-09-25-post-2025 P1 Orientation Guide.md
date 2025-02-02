@@ -1,5 +1,5 @@
 ---
-title: 01 2025 P1 Orientation Guide
+title: 2025 P1 Orientation Guide
 permalink: /xmps/announcements/2024p1orientationguide/
 date: 2024-09-25
 layout: post

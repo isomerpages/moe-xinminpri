@@ -1,5 +1,5 @@
 ---
-title: 02 Smart Device Request 2024
+title: Smart Device Request
 permalink: /xmps/announcements/permalink/02smartdevice/
 date: 2024-01-31
 layout: post
