@@ -78,4 +78,4 @@ b.       Character and Citizenship Education (CCE)
 10.       Parents can contact the school at 6283 5479 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 
-Updated as of Feb 2024
+Updated as of Feb 2025
