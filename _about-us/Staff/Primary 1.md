@@ -81,7 +81,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Shauna Lea Tupaz</p>
+<p>Mdm Mandy Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1A Form Teacher</p>
