@@ -26,11 +26,11 @@ variant: markdown
 
 (d)        Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](hhttps://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education. 
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education. 
 
 **Overview of Xinmin Primary School’s Sexuality Education Programme for 2024**
 
-4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
   
 5.         The subjects that incorporate topics on sexuality include:
@@ -45,13 +45,13 @@ b.       Character and Citizenship Education (CCE)
 
 7\.         Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. 
 
-**At Xinmin Primary School, the following Sexuality Education lessons will be taught in 2024:**
+**At Xinmin Primary School, the following Sexuality Education lessons will be taught in 2025:**
 
-**Primary 5**
+### **Primary 5**
 
-**CCE (FTGP) Theme: Growing Years**
+##### **CCE (FTGP) Theme: Growing Years**
 
-|**LESSON TITLE / DURATION**|**Lesson OVERVIEW**| **TIME PERIOD** **(e.g. Term 1 Week 2)**|
+|**LESSON TITLE / DURATION**|**LESSON OVERVIEW**| **TIME PERIOD** **(e.g. Term 1 Week 2)**|
 | --- | --- | --- | 
 |The Changes in Me (60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*| Term 4 Week 8|
 |Did You Know?(60 mins)| This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*| Term 4 Week 9 |
