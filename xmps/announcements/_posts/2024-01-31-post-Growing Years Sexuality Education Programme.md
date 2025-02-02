@@ -10,3 +10,5 @@ variant: markdown
 Dear parents,
 
 For more information, please click [here.](https://xinminpri.moe.edu.sg/our-resources/for-parents/sexuality-education-programme/)
+
+Updated as of Feb 2025
