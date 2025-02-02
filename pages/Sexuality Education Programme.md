@@ -53,16 +53,17 @@ b.       Character and Citizenship Education (CCE)
 
 |**LESSON TITLE / DURATION**|**LESSON OVERVIEW**| **TIME PERIOD** **(e.g. Term 1 Week 2)**|
 | --- | --- | --- | 
-|The Changes in Me (60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*| Term 4 Week 8|
-|Did You Know?(60 mins)| This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*| Term 4 Week 9 |
+|The Changes in Me (60 min) | TThis lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.  *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*| Term 4 Week 8|
+|Did You Know?(60 mins)| This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’**. *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*| Term 4 Week 9 |
 | Keeping Myself Safe (60 mins)| In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*|Term 4 Week 10|  
 
 
-**Primary 6**
+### **Primary 6**
 
-**CCE (FTGP) Theme: Growing Years**
 
-|**LESSON TITLE / DURATION**|**Lesson OVERVIEW**| **TIME PERIOD** **(e.g. Term 1 Week 2)**|
+##### **CCE (FTGP) Theme: Growing Years**
+
+|**LESSON TITLE / DURATION**|**LESSON OVERVIEW**| **TIME PERIOD** **(e.g. Term 1 Week 2)**|
 | --- | --- | --- | 
 |Are We More than Friends? Lesson 1 (60 mins) |In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends. |Term 4 Week 7|
 | Are We More than Friends? Lesson 2 (60 mins)| In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.|Term 4 Week 7|
@@ -70,11 +71,11 @@ b.       Character and Citizenship Education (CCE)
 
 **Information for Parents**
 
-8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
+8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://go.gov.sg/xmps2024optoutform). The completed opt-out form is to be submitted by 16/02/2024.
+9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://file.go.gov.sg/annex-a-opt-out-form-xmps.pdf). The completed opt-out form is to be submitted by 14/02/2025.
 
 10.       Parents can contact the school at 6283 5479 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 
-Updated as of Jan 2024
+Updated as of Feb 2024
