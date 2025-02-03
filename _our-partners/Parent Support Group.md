@@ -13,7 +13,7 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 ## Xinmin PSG Exco
 
-![](/images/PSG_Executive_Committee.jpg)
+![](/images/PSG_EXCO_2025_New_2.png)
 
 ## How to Join the PSG?
 
@@ -32,18 +32,15 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-| 24_09_01  |   Mid-Autumn Festival Celebration   | 17/9/2024     |
-| 24_09_02 |  P4AF MBL (Kreta Ayer Heritable Gallery)    |25/9/2024    |
-| 24_09_03 |    P3 Shopping Day Learning Journey   | 26/9/2024 to 27/9/2024    |
-| 24_10_01 |   Children's Day Celebration  | 3/10/2024  |
-| 24_10_02 |   P1 PAL Learning Journey （1D and 1E)   | 9/10/2024  |
-| 24_10_03 |  P6 Sports Carnival     | 18/10/2024  |
-| 24_10_04 | P6 ALP/Sci LJ Week  | 28/10/2024 to 1/11/2024  |
-| 24_10_05 |   P4CD MBL (Geylang Serai Heritage Gallery)  | 28/10/2024  |
-| 24_10_06 |  P4BE MBL (Geylang Serai Heritage Gallery)  | 30/10/2024  |
-| 24_10_07 | P1/2 Sports Carnival  | 30/10/2024  |
-| 24_11_01 | P4BE MBL (Kreta Ayer Heritable Gallery)  | 4/11/2024  |
-| 24_11_02 | P3/4 Sports Carnival   | 6/11/2024  |
-| 24_11_03 | P4CD MBL (Kreta Ayer Heritable Gallery)   | 7/11/2024  |
-| 24_11_04 | P4AB MBL (Geylang Serai Heritage Gallery) | 8/11/2024  |
-| 24_11_05 | P5 Sports Carnival    | 11/11/2024  |
+| 25_01_01  |   P3 Swimsafer Programmes    | 14/1/2025 to 12/3/2025     |
+| 25_01_02 |  P6AF Museum-based Learning Journey  | 15/1/2025   |
+| 25_01_03 |    P6BE Museum-based Learning Journey   | 17/1/2025  |
+| 25_02_01 |   P2AB English Learning Journey to Jacob Ballas   | 18/2/2025  |
+| 25_02_02 |   P2DEF English Learning Journey to Jacob Ballas    | 19/2/2025  |
+| 25_02_03 |  P2CG English Learning Journey to Jacob Ballas    | 20/2/2025  |
+| 25_02_04 | P1AF English Learning Journey to Singapore Zoo   | 25/2/2025 |
+| 25_02_05 |   P1BCG English Learning Journey to Singapore Zoo   | 26/2/2025  |
+| 25_02_06 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+
+
+Updated as of Jan 2025
