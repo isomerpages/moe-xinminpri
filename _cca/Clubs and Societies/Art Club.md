@@ -33,7 +33,7 @@ Mdm Reshmi Rai
 
 ### Schedule
 
-Monday: 2.30 p.m. to 4.30 p.m.
+Monday 2.30 p.m. – 4.30 p.m.
 
 ### Achievements
 
