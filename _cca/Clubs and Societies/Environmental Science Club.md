@@ -61,14 +61,15 @@ Students in the Environmental Science Club play a key role in promoting eco-frie
 ##### School Garden Tour
 
 
-**Teachers-in-Charge**
+### Teachers-in-Charge
 
-Miss Charlene Lim Xian Zhen (Overall-In-Charge)
-Mdm Gabrielle Lim Huiwen (2nd-in-charge)
+Miss Charlene Lim Xian Zhen (1st IC)
+
+Mdm Gabrielle Lim Huiwen (2nd IC)
+
 Mrs Low-Koh Ying Sin
 
 
+### Schedule
 
-**Schedule**
-
-Monday 2.30 – 4.30pm
+Monday 2.30 – 4.30 p.m.
