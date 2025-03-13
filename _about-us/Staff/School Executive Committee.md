@@ -265,7 +265,8 @@ variant: tiptap
 <p>Year Head / P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_ching@schools.gov.sg</p>
+<p><a href="mailto:lee_ching_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ching_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
