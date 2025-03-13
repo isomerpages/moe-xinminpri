@@ -13,48 +13,38 @@ variant: markdown
 
 # **Mission**
 
-•	To create awareness and personal responsibility within XMPS and the community.
+* To create awareness and instill personal responsibility for the environment within XMPS and the wider community.
 
-•	To develop in our members environmentally-friendly and sustainable habits which translate into lifelong actions that seek to make our world a better place
+* To cultivate environmentally friendly and sustainable habits that translate into lifelong actions, making our world a better place.
+* To enable our members to learn more about biodiversity and strive to ‘Protect and Conserve our Biodiversity’
 
-•	To enable our members to learn more about biodiversity and strive to ‘Protect and Conserve our Biodiversity’
+The Environmental Science Club, formerly known as the Eco-Green Club, has been the driving force behind the school’s eco-environment initiatives since 2019. The club actively raises awareness of environmental issues, including protection, conservation, preservation and restoration efforts.
 
-The Environmental Science Club, formerly known as the Eco-Green Club has been the driving force of the school’s eco-environment programmes to create awareness of environmental issues such as environment protection, conservation, preservation and restoration since 2019
+Our CCA brings together students who are passionate about:
 
-Our CCA brings together students who are interested in
+* Environmental advocacy and sustainability
+* Key environmental issues, such as climate change and biodiversity conservation
 
-•	environmental advocacy and sustainability and
-
-•	environmental issues such as climate change and biodiversity
-
-Students in the Environmental Science Club are empowered to promote environmentally-conscious activities among the general student population.  They are given opportunities to develop and demonstrate their leadership skills while educating fellow Xinminites on environmental issues. Some of the activities included:
+Students in the Environmental Science Club play a key role in promoting eco-friendly practices within the school community. They are given opportunities to develop leadership skills while educating their fellow Xinminites on pressing environmental issues. Some of the activities include:
 
 
-# **Upcycling activities like the following**
+### **Upcycling activities like the following**
 
-T-shirt Tote Bags
+##### Creating Toys Using Recyclables
 
 ![](/images/T_shirt_tote_bag_1.jpg)
 
 ![](/images/T_shirt_tote_bag_2.jpg)
 
-Fabric Waste Reduction Workshop   
+##### Creating Thank You Cards Using Recyclables  
 
 ![](/images/Fabric_1.jpg)
 
-![](/images/Fabric_2.jpg)
 
-![](/images/Fabric_3.jpg)
 
-Tetra Pak Coasters
+### **Biodiversity Activities**
 
-![](/images/Tetra_Pak_1.jpg)
-
-![](/images/Tetra_Pak_2.jpg)
-
-**Biodiversity activity like the following**
-
-GrowFridge (Growing Microgreens)
+##### Terrarium
 
 ![](/images/GrowFridge_1.jpg)
 
