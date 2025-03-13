@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-
 ### *“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”*
 
  —	Bill Gates, Co-Chairman, Bill & Melinda Gates Foundation, Co-Founder, Microsoft
