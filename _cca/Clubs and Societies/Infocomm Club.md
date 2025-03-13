@@ -5,27 +5,32 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-![](/images/CCA/infocomm%20club%20s.jpg)
 
-# **Infocomm Technology Club**
+### *“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”*
 
-## “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”
-—Bill Gates, Co-Chairman, Bill & Melinda Gates Foundation, Co-Founder, Microsoft
+ —	Bill Gates, Co-Chairman, Bill & Melinda Gates Foundation, Co-Founder, Microsoft
 
+# **Mission**
 
-### Mission:
-To instill the joy of logic-based coding and programming 
+To instill the joy of logic-based coding and programming
 
-### Vision:
-Every Infocomm Club member a logical problem solver
+# **Vision**
 
-The Infocomm Club is a CCA for students who are passionate about coding. Students will develop critical thinking skills and creativity through the basics of coding on Scratch.
+Every Infocomm Club member a logical problem solver. 
 
-Our middle primary members will be equipped with knowledge to present stories or to create games online on Scratch before moving onto LEGO Spike Prime robotic sets in the second half of the year. They will learn to use block-based programming in both programmes which would ease the transition between the two.
+The Infocomm Club is a CCA for students who are passionate about coding. Students develop critical thinking skills and creativity through learning the basics of coding with LEGO Spike Prime.
 
-Our upper primary members will continue to explore coding with LEGO Spike Prime programme. With their limitless imagination, they are able to build robots using sensors, motors and arms to carry out a variety of tasks such as navigating a drawn route or pick up items. Besides learning the skills to code efficiently, the students would develop resilience and logical thinking. Students get to apply concepts learnt in their mathematics and science lessons such as angles, light and speed while they code.
+Our middle primary members learn block-based programming using LEGO Spike Prime, starting with the beginner level in the first half of the year before progressing to the intermediate level.
 
-Through logic-based coding, students hone their logical reasoning as they get the robots to carry out tasks in a fun and meaningful way. They also work in groups and learn collaboratively with their peers. This gives them the opportunities to develop effective communication skills and become better team players.
+At the beginner level, students are introduced to foundational coding concepts and mechanisms, including sequencing, motors, sensors, loops and conditionals, while developing their computational thinking and fostering creativity, collaboration, communication and critical thinking skills.
+
+At the intermediate level, students build upon their foundational coding knowledge with advanced concepts. Additionally, they explore competition preparation through flowcharting, strategy development and hands-on problem-solving.
+
+Our upper primary members continue to explore coding with the LEGO Spike Prime programme. With their limitless imagination, they build robots using sensors, motors and arms to carry out various tasks such as navigating drawn routes or picking up items. Besides learning to code efficiently, students develop resilience and logical thinking. They apply concepts learnt in their Mathematics and Science lessons, such as angles, light and speed, while coding.
+
+Through logic-based coding, students hone their logical reasoning as they programme robots to carry out tasks in a fun and meaningful way. They also work in groups and learn collaboratively with their peers. This gives them opportunities to develop effective communication skills and become better team players.
+
+The Infocomm Club thus provides a dynamic platform where students can develop both technical expertise and essential life skills, preparing them for the increasingly digital world of tomorrow.
 
 
 ### Schedule
