@@ -46,29 +46,27 @@ Students in the Environmental Science Club play a key role in promoting eco-frie
 
 ##### Terrarium
 
-![](/images/GrowFridge_1.jpg)
+##### Hydroponics
 
-![](/images/GrowFridge_2.jpg)
+### **Science Experiments**
 
-Terrarium
+##### Investigating the Acidity of Food
 
-![](/images/Terrarium_1.jpg)
+### **Sustainability Projects**
 
-Hydroponics
+##### Poster-making
 
-Rice Planting
+### **Outdoor Learning**
 
-![](/images/Rice_1.jpg)
+##### School Garden Tour
 
-![](/images/Rice_2.jpg)
-
-![](/images/Rice_3.jpg)
 
 **Teachers-in-Charge**
 
-Mrs Jodene Yow (Overall-in-charge)
+Miss Charlene Lim Xian Zhen (Overall-In-Charge)
+Mdm Gabrielle Lim Huiwen (2nd-in-charge)
+Mrs Low-Koh Ying Sin
 
-Mdm Gabrielle Lim Huiwen  (2nd-in-charge)
 
 
 **Schedule**
