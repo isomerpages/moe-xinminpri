@@ -14,4 +14,4 @@ variant: tiptap
 <p></p>
 <p>Thank you.</p>
 <p></p>
-<p>Updated 13 Mar 2025</p>
+<p>Updated as of 13 Mar 2025</p>
