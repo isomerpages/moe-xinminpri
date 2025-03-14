@@ -7,32 +7,33 @@ variant: markdown
 ---
 # **Mission & Key Programmes:**
 
-Red Cross Youth provides a common space for friendships and social integration amongst students of diverse backgrounds. Primary school units known as ‘Links’ learn the knowledge of universal Humanitarian Values advocated by the Singapore Red Cross Society.
+Red Cross Youth provides a common space for friendships and social integration amongst students of diverse backgrounds. Primary school units, known as 'Links', learn about universal humanitarian values advocated by the Singapore Red Cross Society.
 
-In addition, the CCA creates opportunities for ‘Links’ to develop leadership qualities, collaborate, build character, essential red-cross knowledge and basic foot drills. 
-Members of the Red Cross learn core values, social and emotional competencies through their weekly sessions, activities and competitions.
+The CCA creates opportunities for Links to develop leadership qualities, build character, and acquire essential Red Cross knowledge and basic foot drills.
 
-Opportunities are also given to Links to contribute service during Total Defence Day and to represent the school at zonal and national events, competitions and camps organised by SCRS HQ.
+Through weekly sessions, activities and competitions, members learn core values and develop social and emotional competencies.
+
+Links have opportunities to contribute during Total Defence Day and represent the school at zonal and national events, competitions and camps organised by Singapore Red Cross Society Headquarters.
+
 
 
 ### Teachers-in-Charge
 
-Mdm Zarina Binte Kamaron (Overall-in-charge)
+Mdm Zarina Binte Kamaron (1st IC)
 
-Mdm Sumita Kunalingam (2nd-in-charge)
+Mdm Sumita Kunalingam (2nd IC)
 
-Miss Charlene Lim Xian Zhen
+Mdm Siti Fatimah
 
-Mdm Li Wenting
 
 
 
 
 ### Schedule
 
-Mondays:  2.30p.m. - 4.30p.m.
+Monday 2.30 p.m. – 4.30 p.m.
 
-**List of activities and competition**
+### List of Activities and Competition
 
 1.     World Red Cross Day
 
@@ -44,17 +45,17 @@ Mondays:  2.30p.m. - 4.30p.m.
 
 ### **Achievements**
 
-**2021**
+#### 2024
 
-1.  **Excellence Unit Award 2020** –
+1.   **Excellence Unit Award** – Silver Award
+2.   **National First Aid Competition** – Silver Award 
+3.  **Disaster Risk Reduction Championship** – Silver Award
+4.  **Ambassador of Blood Competition**
+– Silver Award
 
-No assessment due to Covid-19.
 
-2.  **National First Aid Competition (2021)** –
 
-Competition not carried out due to Covid-19.
 
-3.  **Director’s Award (2021) – Jewel Koh (6E)**
 
 **2022**
 
