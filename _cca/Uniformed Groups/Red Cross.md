@@ -53,40 +53,15 @@ Monday 2.30 p.m. – 4.30 p.m.
 4.  **Ambassador of Blood Competition**
 – Silver Award
 
+#### 2023
+
+1.   **Excellence Unit Award** – Silver Award
+2.   **National First Aid Competition** – Bronze Award 
+3.  **Director's Award** – Raghavan Sruthiga (6C)
+
+#### 2022
+
+1.   **National First Aid Competition** – Silver Award
+2.   **Director's Award** – Harsika D/O Bala Murugan (6B) 
 
 
-
-
-**2022**
-
-1.  **Excellence Unit Award 2021 –**
-
-No assessment due to national posture.
-
-2.  **National First Aid Competition (2022) –**
-
-Silver Award
-
-3.  **Director’s Award (2022) –**
-
-Harsika D/O Bala Murugan (6B)
-
-**2023**
-
-1.  **Excellence Unit Award 2023 –**
-
-Silver Award
-
-2.  **National First Aid Competition (2023) –**
-
-Bronze Award
-
-3.  **Director’s Award (2023) –**
-
-Raghavan Sruthigha  (6C)
-
-![](/images/Total_Defence_Day_Booth_Activity_1.jpg)
-
-![](/images/Total_Defence_Day_Booth_Activity_2.jpg)
-
-![](/images/World_Red_Cross_Day.jpg)
