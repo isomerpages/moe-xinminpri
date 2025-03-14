@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-
 # **Mission &amp; Key Programmes:**
 
 ### **Scouting at Xinmin: Empowering Holistic Development in Youths**
@@ -54,12 +53,15 @@ Monday 2.30 p.m. – 4.30 p.m.
 
 ### Achievements
 
-**2023**
+#### 2024
+* Adiji Chief Scout - Founder’s Day celebration at Choa Chu Kang stadium
+* Participation in Cub Scout Leadership Camp
+* Job week
+* Attainment of progress and proficiency badges
+
+
+#### 2023
 
 World Scout Day Participation
 
 North Division Founder’s Day hike
-
-![](/images/Pic_1__1_.jpg)
-
-![](/images/Founder_s_Day___World_Thinking_Day_22_Feb_2024_1.jpg)
