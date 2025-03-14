@@ -38,7 +38,7 @@ Monday 2.30 p.m. – 4.30 p.m.
 
 #### Teachers-In-Charge
 
-Mdm Norliana – P5, P6 (Overall In-charge)
+Mdm Norliana – P5, P6 (1st IC)
 
 Mdm Yang Xu  – P5, P6
 
@@ -47,14 +47,25 @@ Mrs Lau – Lee Peixia – P4
 
 ### Achievements
 
-**Rosyth Imagine Cup 2021 Circuit 2**
-Senior Category (Individual) – 2 x Gold (with Honours)
+National Robotics Competition 2024
+Regular Category- (Participation)
 
-**AI Festival Singapore 2022**
-Primary Category (AI Modelling) Champion Team
+National Robotics Competition Cospace Robot Challenge 2024 – Autonomous Driving
+Primary Category - (Participation)
 
-**SWIFT Explorers Singapore 2023**
+First LEGO League Challenge Edition 2023
+Program robots for missions (Participation)
+
+SWIFT Explorers Singapore 2023
 Primary Category (App Design) Participation
 
-**First LEGO League Challenge Edition 2023**
-Program robots for missions (Participation)
+AI Festival Singapore 2022
+Primary Category (AI Modelling) Champion Team
+
+Rosyth Imagine Cup 2021 Circuit 2
+Senior Category (Individual) – 2 x Gold (with Honours)
+
+
+
+
+
