@@ -34,15 +34,16 @@ The Infocomm Club thus provides a dynamic platform where students can develop bo
 
 ### Schedule
 
-Mondays, 2.30 p.m. to 4.30 p.m.
+Monday 2.30 p.m. – 4.30 p.m.
 
 #### Teachers-In-Charge
 
-Mdm Norliana - P5 & P6 (Overall-in-charge)
+Mdm Norliana – P5, P6 (Overall In-charge)
 
-Mr Lim Beng Liang - P5 & P6
+Mdm Yang Xu  – P5, P6
 
-Mdm Yang Xu – P4
+Mrs Lau – Lee Peixia – P4
+
 
 ### Achievements
 
