@@ -32,13 +32,11 @@ Students in the Environmental Science Club play a key role in promoting eco-frie
 
 ##### Creating Toys Using Recyclables
 
-![](/images/T_shirt_tote_bag_1.jpg)
 
-![](/images/T_shirt_tote_bag_2.jpg)
 
 ##### Creating Thank You Cards Using Recyclables  
 
-![](/images/Fabric_1.jpg)
+
 
 
 
