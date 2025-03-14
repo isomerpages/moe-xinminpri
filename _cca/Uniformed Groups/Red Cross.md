@@ -35,33 +35,30 @@ Monday 2.30 p.m. – 4.30 p.m.
 
 ### List of Activities and Competition
 
-1.     World Red Cross Day
+*      World Red Cross Day
 
-2.     National First Aid Competition
+*      National First Aid Competition
 
-3.     Donation Drive
+*      Donation Drive
 
-4.     Linkamania Camp
+*      Linkamania Camp
 
 ### **Achievements**
 
 #### 2024
 
-1.   **Excellence Unit Award** – Silver Award
-2.   **National First Aid Competition** – Silver Award 
-3.  **Disaster Risk Reduction Championship** – Silver Award
-4.  **Ambassador of Blood Competition**
-– Silver Award
+*    **Excellence Unit Award** – Silver Award
+*    **National First Aid Competition** – Silver Award 
+*   **Disaster Risk Reduction Championship** – Silver Award
+*   **Ambassador of Blood Competition**– Silver Award
 
 #### 2023
 
-1.   **Excellence Unit Award** – Silver Award
-2.   **National First Aid Competition** – Bronze Award 
-3.  **Director's Award** – Raghavan Sruthiga (6C)
+*    **Excellence Unit Award** – Silver Award
+*    **National First Aid Competition** – Bronze Award 
+*   **Director's Award** – Raghavan Sruthiga (6C)
 
 #### 2022
 
-1.   **National First Aid Competition** – Silver Award
-2.   **Director's Award** – Harsika D/O Bala Murugan (6B) 
-
-
+*    **National First Aid Competition** – Silver Award
+*    **Director's Award** – Harsika D/O Bala Murugan (6B)
