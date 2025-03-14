@@ -32,7 +32,7 @@ Through logic-based coding, students hone their logical reasoning as they progra
 The Infocomm Club thus provides a dynamic platform where students can develop both technical expertise and essential life skills, preparing them for the increasingly digital world of tomorrow.
 
 
-### Schedule
+#### Schedule
 
 Monday 2.30 p.m. – 4.30 p.m.
 
