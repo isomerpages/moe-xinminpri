@@ -47,25 +47,17 @@ Mrs Lau – Lee Peixia – P4
 
 ### Achievements
 
-National Robotics Competition 2024
+**National Robotics Competition 2024** 
 Regular Category- (Participation)
 
-National Robotics Competition Cospace Robot Challenge 2024 – Autonomous Driving
+**National Robotics Competition Cospace Robot Challenge 2024** – Autonomous Driving
 Primary Category - (Participation)
 
-First LEGO League Challenge Edition 2023
+**First LEGO League Challenge Edition 2023**
 Program robots for missions (Participation)
 
-SWIFT Explorers Singapore 2023
+**SWIFT Explorers Singapore 2023**
 Primary Category (App Design) Participation
 
-AI Festival Singapore 2022
+**AI Festival Singapore 2022**
 Primary Category (AI Modelling) Champion Team
-
-Rosyth Imagine Cup 2021 Circuit 2
-Senior Category (Individual) – 2 x Gold (with Honours)
-
-
-
-
-
