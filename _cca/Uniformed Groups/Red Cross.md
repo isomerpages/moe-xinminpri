@@ -43,7 +43,7 @@ Monday 2.30 p.m. – 4.30 p.m.
 
 *      Linkamania Camp
 
-### **Achievements**
+### Achievements
 
 #### 2024
 
