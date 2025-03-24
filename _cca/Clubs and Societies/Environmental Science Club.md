@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-![](/images/CCA/env%20club%20s.jpg)
+
 
 # **Mission & Key Programmes:**
 
