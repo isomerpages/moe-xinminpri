@@ -37,7 +37,9 @@ During our CCA sessions, our Xinmin Scouts work towards earning a series of badg
 ### Teachers-in-Charge
 
 Mdm Santhi Perumal (1st IC)
+
 Mr Lim Beng Liang (2nd IC)
+
 Mrs Mahandra
 
 
@@ -45,23 +47,23 @@ Mrs Mahandra
 
 Monday 2.30 p.m. – 4.30 p.m.
 
-### **Annual Events**
+### Annual Events
 
 * Founder's Day
 * Job Week
 * National Day Observance Ceremony
 
-### Achievements
+### Achievements and Activities
 
-#### 2024
+**2024**
+
 * Adiji Chief Scout - Founder’s Day celebration at Choa Chu Kang stadium
 * Participation in Cub Scout Leadership Camp
 * Job week
 * Attainment of progress and proficiency badges
 
 
-#### 2023
+**2023**
 
-World Scout Day Participation
-
-North Division Founder’s Day hike
+* World Scout Day Participation
+* North Division Founder’s Day hike
