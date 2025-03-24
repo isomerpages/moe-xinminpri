@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-# **Mission &amp; Key Programmes:**
+# **Mission & Key Programmes:**
 
 ### **Scouting at Xinmin: Empowering Holistic Development in Youths**
 
