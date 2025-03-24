@@ -37,6 +37,6 @@ Monday 2.30 p.m. – 4.30 p.m.
 
 ### Achievements
 
-**2023 **
+**2023**
 
-**SYF Category C** – Certificate of Recognition (Special Mention)
+* SYF Category C – Certificate of Recognition (Special Mention)
