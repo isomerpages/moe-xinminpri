@@ -5,36 +5,28 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-
-![](/images/WhatsApp_Image_2024_03_18_at_8_40_30_AM__1_.jpg)
-
 # **Mission & Key Programmes:**
 
 # **Mission:**
 
 Igniting Passion for Sports and Fostering Team Spirit
-Modular Sports aims to expose students to a variety of sports at a recreational level. Over the course of three years in the CCA, members will gain theoretical knowledge of different sports and learn the skills of each sport and apply them to the actual or modified games. 
 
-Modular Sports members will be instilled with the values of care, respect, responsibility and resilience through the numerous individual and team activities they will participate in. In addition to these, they will be inculcated with the values of teamwork and good sportsmanship. 
+Modular Sports aims to expose students to a variety of sports at a recreational level. Over the course of their years in the CCA, members gain theoretical knowledge of different sports, learn specific skills and apply them in actual or modified games.
 
-Equipped with the knowledge and skills to play a variety of sports, students develop their passion for life-long participation in sports and other physical activities with a core emphasis on fair play and team spirit.
+Through participation in various individual and team activities, Modular Sports members develop values such as care, respect, responsibility and resilience. They also learn the importance of teamwork and good sportsmanship.
 
-![](/images/WhatsApp_Image_2024_03_18_at_8_40_30_AM__2_.jpg)
+Equipped with knowledge and skills across various sports, students develop a passion for lifelong participation in sports and physical activities, with an emphasis on fair play and team spirit.
+
 
 ### **Teachers In-Charge**
 
-Mr Arthur Tay  (Overall-in-charge)
+Ms Yeung E-liz (1st IC)
 
-Mrs Farah Ritz (2nd-in-charge)
+Mrs Farah Ritz (2nd IC)
 
-Mdm Siti Fatimah
+Mdm Rosnani Bte Yusof
 
-### **Schedule**
 
-Monday, 2.00 pm – 4.00 pm
+### Schedule
 
-### Achievements
-
-Nil
-
-![](/images/WhatsApp_Image_2024_03_18_at_8_40_30_AM.jpg)
+Monday 2.30 p.m. – 4.30 p.m.
