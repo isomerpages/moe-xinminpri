@@ -45,20 +45,20 @@ Monday 2.30 p.m. – 4.30 p.m.
 
 ### Achievements
 
-#### 2024
+**2024**
 
 *    **Excellence Unit Award** – Silver Award
 *    **National First Aid Competition** – Silver Award 
 *   **Disaster Risk Reduction Championship** – Silver Award
 *   **Ambassador of Blood Competition**– Silver Award
 
-#### 2023
+**2023**
 
 *    **Excellence Unit Award** – Silver Award
 *    **National First Aid Competition** – Bronze Award 
 *   **Director's Award** – Raghavan Sruthiga (6C)
 
-#### 2022
+**2022**
 
 *    **National First Aid Competition** – Silver Award
 *    **Director's Award** – Harsika D/O Bala Murugan (6B)
