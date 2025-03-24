@@ -31,13 +31,15 @@ Monday 2.30 p.m. – 4.30 p.m.
 
 ### Achievements
 
-**Trainings / Events Attended (2024)**
+**2024**
+
 * World Thinking Day Celebrations
 * UG Commemorative Day
 * North Division Day
 * Inter-Uniform Group Day Camp
 
-**Trainings / Events Attended (2023)**
+**2023**
+
 * Puan Noor Aishah Award - Silver
 * Sree Narayana Mission Home Training
 * Annual General Meeting
@@ -47,7 +49,8 @@ Monday 2.30 p.m. – 4.30 p.m.
 * North Division Day
 * North Division Outdoor Challenge Let’s go Camping - Silver
 
-**Trainings / Events Attended (2022)**
+**2022**
+
 * Sree Narayana Mission Home Training
 * Annual General Meeting
 * North Division Tea Session
@@ -58,4 +61,3 @@ Monday 2.30 p.m. – 4.30 p.m.
 *  Crime Prevention Badge
 *  UG Commemorative Day
 *  SKM Kindness Badge Junior
-
