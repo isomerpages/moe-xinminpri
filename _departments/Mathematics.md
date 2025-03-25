@@ -49,16 +49,16 @@ This enrichment programme is conducted by our teachers, who are trained in the E
 
 | Gold | Silver | Bronze  | 
 | -------- | -------- | -------- |
-|  4   | 9     | 21    |
+|  2   | 11     | 21    |
 
-**SMOPS (HCI) **
-
-| Gold | Silver | Bronze  | 
-| -------- | -------- | -------- |
-|  -   | 1     | -    |
-
-**NMOS (NUS High) **
+**SMOPS (HCI)**
 
 | Gold | Silver | Bronze  | 
 | -------- | -------- | -------- |
-|  -   | -     | 11    |
+|  -   | -    | 3    |
+
+**NMOS (NUS High)**
+
+| Gold | Silver | Bronze  | 
+| -------- | -------- | -------- |
+|  -   | 2    | 5    |
