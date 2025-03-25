@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
+![](/images/WhatsApp_Image_2024_02_22_at_4_07_07_PM.jpg)
+
 # **Mission & Key Programmes:**
 
 
@@ -14,6 +16,7 @@ While the development of individual skills is important, we also aim to develop 
 
 Although our players join the sport with different abilities, they learn the importance of collaboration while working together as a team in pursuit of common goals. These values, cultivated through the sport, help players build and shape their character to become good team players.
 
+![](/images/WhatsApp_Image_2024_02_22_at_4_08_16_PM.jpg)
 
 ### Teachers-in-Charge
 
@@ -49,4 +52,3 @@ National School Games Volleyball Championship
 
 National School Games Volleyball Championship
 * Junior Girls: Tier 2 - 2nd Placing
-
