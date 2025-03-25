@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
+
+![](/images/20240205_154751.jpg)
+
 # **Mission & Key Programmes:**
 
 ### **Scouting at Xinmin: Empowering Holistic Development in Youths**
@@ -33,6 +36,7 @@ Our activities are designed to cultivate teamwork, leadership and a strong sense
 
 During our CCA sessions, our Xinmin Scouts work towards earning a series of badges through engaging games and activities. These badges serve as recognition and encouragement of their interests, talents and achievements, providing them with a sense of pride and accomplishment.
 
+![](/images/Scouts_2025.jpg)
 
 ### Teachers-in-Charge
 
