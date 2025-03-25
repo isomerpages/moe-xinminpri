@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-
+![](/images/Group_Photo_of_CCA_members.jpg)
 
 # **Mission & Key Programmes:**
 
@@ -32,31 +32,41 @@ Students in the Environmental Science Club play a key role in promoting eco-frie
 
 ##### Creating Toys Using Recyclables
 
-
+![](/images/Upcycling_Project_1.jpg)
 
 ##### Creating Thank You Cards Using Recyclables  
 
 
-
+![](/images/Upcycling_Project_2.jpg)
 
 
 ### **Biodiversity Activities**
 
 ##### Terrarium
 
+![](/images/Terrarium_2025.jpg)
+
 ##### Hydroponics
+
+![](/images/Hydroponics_2.jpg)
 
 ### **Science Experiments**
 
 ##### Investigating the Acidity of Food
 
+![](/images/Science_experiment_1.jpg)
+
 ### **Sustainability Projects**
 
 ##### Poster-making
 
+![](/images/Poster_Making.jpg)
+
 ### **Outdoor Learning**
 
 ##### School Garden Tour
+
+![](/images/Outdoor_learning.jpg)
 
 
 ### Teachers-in-Charge
