@@ -44,10 +44,10 @@ Thursday 4.00 p.m. – 5.30 p.m (Senior Group)
 
 **2024**
 
-* SYF 2024 – Distinction
-* SYF 2024 Celebrations @ Gardens by the Bay – Invited Performing Group
+* SYF  – Distinction
+* SYF Celebrations @ Gardens by the Bay – Invited Performing Group
 
 
 **2023**
 
-* Performing HeArts 2023 – Participation
+* Performing HeArts – Participation
