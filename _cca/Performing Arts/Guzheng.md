@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/Guzheng_1.jpg)# **Mission & Key Programmes:**
+![](/images/Guzheng_1.jpg)
+
+# **Mission & Key Programmes:**
 
 # **Mission**
 
