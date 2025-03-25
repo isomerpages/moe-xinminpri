@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Senior_Team_2025.jpg">
+</div>
+<p></p>
 <h1><strong>Mission &amp; Key Programmes:</strong></h1>
 <p>Through our customised training, we hope to instil in all basketball members
 the school core values of care, respect, responsibility and resilience,
@@ -14,6 +19,11 @@ physically and emotionally fit to face challenges.</p>
 <p>Through this CCA, students can forge friendships and strong camaraderie
 with their peers as they participate in competitions such as the annual
 National School Games and friendly matches with other schools.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Junior_Team_2024_new_please_update.jpg">
+</div>
 <h3>Teachers-in-Charge:</h3>
 <p>Mr Quek Hsiu Yuan (1st IC)</p>
 <p>Mr Matthew Chan (2nd IC)</p>
