@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-
-
 ![](/images/Guzheng_1.jpg)# **Mission & Key Programmes:**
 
 # **Mission**
@@ -25,7 +23,7 @@ Students receive numerous opportunities to showcase their learning. In 2023, the
 
 Xinmin Primary Guzheng Ensemble offers students a comprehensive musical journey, providing a nurturing environment for them to grow as musicians, collaborators and performers, thereby enriching their holistic development.
 
-![](/images/Guzheng___CCA_Fair_2__new_.jpg)
+![](/images/Guzheng___CCA_Fair__new_.jpg)
 
 ### Teachers-In-Charge
 
