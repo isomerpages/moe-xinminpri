@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
+
+![](/images/Brownies_Photo_1.png)
 # **Mission & Key Programmes:**
 
 Aligned with the Girl Guide movement, Brownies are nurtured with essential skills to adapt to the ever-changing demands of the world. The programme equips girls with valuable life skills that help shape their character and impact their lives positively.
@@ -15,6 +17,7 @@ To instil empathy, Brownies engage in Service-Learning projects where they gain 
 
 Additionally, the Brownies work together with other Uniformed Groups, such as the Red Cross and Scouts, within Xinmin Primary School. Through these collaborations, they share and learn skills that can be applied across the different Uniformed Groups.
 
+![](/images/Brownies__new_.jpg)
 
 ### Teachers-in-Charge
 
