@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
+![](/images/20240205_173951.jpg)
+
 # **Mission &amp; Key Programmes:**
 
 
@@ -17,6 +19,8 @@ variant: markdown
 The Xinmin Primary School Choir, also known as Xinmin Nightingales, provides a platform for passionate young singers to come together as an ensemble and create beautiful music. Under the baton of Mr Marcus Lee, the Xinmin Nightingales refine their musicianship by developing essential singing skills such as voice projection, pitch accuracy and rhythmic sense. Through engaging activities like body percussion and rhythm games, choir members enhance their musical abilities while enjoying a fun and enriching learning experience.
 
 Anchored in our school's core values of Care, Respect, Responsibility and Resilience, students grow to sing with confidence while developing an appreciation for choral music through exposure to a diverse repertoire of songs.
+
+![](/images/20240205_130344.jpg)
 
 # **Key Programmes**  
 
@@ -32,6 +36,7 @@ In addition, they participate in school, community and national events, where ev
 
 These experiences not only enhance their musical skills but also foster teamwork, creativity and a deep passion for singing.
 
+![](/images/20240205_134221.jpg)
 
 ### Teachers-In-Charge
 
