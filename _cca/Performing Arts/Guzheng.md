@@ -40,13 +40,14 @@ Monday 2.00 p.m. – 5.00 p.m. (Junior Group and Senior Group)
 Thursday 4.00 p.m. – 5.30 p.m (Senior Group)
 
   
-### Achievements & Participation
+### Achievements and Participation
 
-•	Performing HeArts 2023 – Participation
+**2024**
 
-•	SYF 2024 – Distinction
+* SYF 2024 – Distinction
+* SYF 2024 Celebrations @ Gardens by the Bay – Invited Performing Group
 
-•	SYF 2024 Celebrations @ Gardens by the Bay - Participation
 
+**2023**
 
-![](/images/Guzheng_4.jpg)
+* Performing HeArts 2023 – Participation
