@@ -47,30 +47,33 @@ Mdm Zhao Ting Yan
 
 
 
-### **Schedule**
+### Schedule
 
-Monday: 3.30 pm to 5.30 pm
+Monday 2.00 p.m. – 4.00 p.m. 
 
-Thursday (ad-hoc): 4.00pm to 5.30pm
+Thursday (ad-hoc):  4.00 p.m. – 5.30 p.m. 
 
 
 ### Achievements and Participation 
 
-2022 - Singapore Youth Festival (Under Special Provision)
+**2025**
 
-2022 - Voices of Singapore Festival @ CHIJMES
+* March On @ Esplanade Concourse
 
-2022 - Voices in Harmony Concert @ Goodman Arts Centre
+**2024**
 
-2023 - March On @ Esplanade Concourse
+* Singapore International Choral Cantat (Gold) + Category Winner (Children’s Choir)
+* Singapore Youth Festival (Distinction)
+* SYF Celebrations @ Gardens by the Bay
+* Voices in Harmony Concert @ Goodman Arts Centre
 
-2023 - Voices of Singapore Festival @ CHIJMES
+**2023**
 
-2024 – Singapore International Choral Cantat (Gold) + Category Winner (Children’s Choir)
+* March On @ Esplanade Concourse
+* Voices of Singapore Festival @ CHIJMES
 
-2024 - Singapore Youth Festival (Distinction)
 
-2024 - SYF Celebrations @ Gardens by the Bay
+
 
 
 
