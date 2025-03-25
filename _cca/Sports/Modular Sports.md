@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
+
+![](/images/WhatsApp_Image_2025_02_07_at_1_38_37_PM__1_.jpg)
 # **Mission & Key Programmes:**
 
 # **Mission:**
@@ -17,6 +19,7 @@ Through participation in various individual and team activities, Modular Sports 
 
 Equipped with knowledge and skills across various sports, students develop a passion for lifelong participation in sports and physical activities, with an emphasis on fair play and team spirit.
 
+![](/images/WhatsApp_Image_2025_02_07_at_1_38_37_PM.jpg)
 
 ### **Teachers In-Charge**
 
