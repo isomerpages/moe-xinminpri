@@ -67,6 +67,10 @@ Thursday (ad-hoc):  4.00 p.m. – 5.30 p.m.
 * SYF Celebrations @ Gardens by the Bay
 * Voices in Harmony Concert @ Goodman Arts Centre
 
+**SYF 2024 Performance @ SOTA**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/iDbl3LR1rEM?si=VZJEWWOcdTXHb5dA" height="315" width="560"></iframe>
+
 **2023**
 
 * March On @ Esplanade Concourse
@@ -77,6 +81,3 @@ Thursday (ad-hoc):  4.00 p.m. – 5.30 p.m.
 
 
 
-**SYF 2024 Performance @ SOTA**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/iDbl3LR1rEM?si=VZJEWWOcdTXHb5dA" height="315" width="560"></iframe>
