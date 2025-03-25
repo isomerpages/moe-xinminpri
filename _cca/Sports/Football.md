@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
+
+![](/images/WhatsApp_Image_2024_02_22_at_4_43_07_PM__2_.jpg)
 # **Mission & Key Programmes:**
 
 # **Mission:**
@@ -19,6 +21,7 @@ Football CCA in Xinmin develops our student-athletes to be lifelong learners, in
 
 * Inter-School Friendly Matches: We also organise friendly matches with other schools to provide students with opportunities to engage with peers, enhance their football skills and further develop their leadership abilities.
 
+![](/images/WhatsApp_Image_2024_02_22_at_4_43_08_PM__5_.jpg)
 
 ### Teachers-in-Charge
 
@@ -53,4 +56,3 @@ National School Games (Senior Boys)
 National School Games (Junior Boys) 
 
 * 1st in Tier 2
-
