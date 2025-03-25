@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
+
+![](/images/SYF_2022_2.jpg)
 # **Mission & Key Programmes:**
 
 The Xinmin Dance Crew [XMDC] aims to provide dancers with a fun and dynamic way to express themselves through movement. 
@@ -19,7 +21,7 @@ In our CCA, dancers learn a variety of dance styles and techniques, including co
 
 Through dance, students develop a sense of rhythm through dance techniques and inculcate the values of discipline and perseverance. Participation in modern dance fosters social integration, deepens commitment and cultivates students' sense of belonging and responsibility to school, community and nation.
 
-
+![](/images/SYF_2022_1.jpg)
 
 ### **Dance Training**
 
@@ -44,6 +46,7 @@ The highlight of the year is the Recognition Day Concert. Our dancers have also 
 
 At Xinmin Primary School, we believe that dance is an integral part of a well-rounded education. We are committed to providing our dancers with the best possible dance experience
 
+![](/images/Recognition_Day_2022_2.jpg)
 
 ### Teachers-in-Charge
 
