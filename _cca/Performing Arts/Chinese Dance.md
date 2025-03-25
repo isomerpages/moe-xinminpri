@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-    
+![](/images/SYF_2024.jpg)
 
 # **Mission & Key Programmes:**
 
@@ -15,6 +15,8 @@ variant: markdown
 * To nurture confident individuals through mastery of dance skills and successful performances
 * To develop motivated lifelong learners with a deep appreciation for dance
 * To foster teamwork and resilience through collaborative performances that serve the community
+
+![](/images/Performing_hearts_2023.jpg)
 
 At Xinmin Primary School, our Chinese Dance CCA embraces a rich history and promotes inclusivity, regardless of students' cultural backgrounds. We provide a supportive and collaborative environment that nurtures cooperation by inviting our dancers to participate on various platforms and experience the beauty of dance. 
 
@@ -37,6 +39,7 @@ Beyond school performances, they have showcased their talents at public events s
 
 •	HyperLive Festival Singapore 2022
 
+![](/images/CD_Reg_2024__16_.jpg)
 
 ### Teachers-In-Charge
 
