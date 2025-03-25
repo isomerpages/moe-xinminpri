@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
+
+![](/images/IMG_20250127_160207.jpg)
 # **Mission & Key Programmes**
 
 # **Mission**  
@@ -20,7 +22,7 @@ The Art Club activities challenge members to create art through various techniqu
 
 ~ Ralph Waldo Emerson
 
-
+![](/images/WhatsApp_Image_2025_01_22_at_11_51_54_AM.jpg)
 
 ### Teachers-in-Charge
 
