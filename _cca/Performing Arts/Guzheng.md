@@ -5,13 +5,17 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-# **Mission & Key Programmes:**
+
+
+![](/images/Guzheng_1.jpg)# **Mission & Key Programmes:**
 
 # **Mission**
 
 * To cultivate mental, emotional and musical growth through learning the Guzheng.
 * To nurture motivated lifelong learners with a keen appreciation for the Guzheng.
 * To develop confident and resilient individuals who can collaborate with others in music-making through the mastery of Guzheng playing skills and successful performances.
+
+![](/images/Guzheng_2.jpg)
 
 At Xinmin Primary Guzheng Ensemble, students acquire foundational skills before progressing to play various genres of music once they master the basic playing techniques. Through training sessions, students understand the importance of teamwork and learn to collaborate with others to create music together. The ensemble has worked hard towards excellence over the years and has developed strong bonds among its members.
 
@@ -21,6 +25,7 @@ Students receive numerous opportunities to showcase their learning. In 2023, the
 
 Xinmin Primary Guzheng Ensemble offers students a comprehensive musical journey, providing a nurturing environment for them to grow as musicians, collaborators and performers, thereby enriching their holistic development.
 
+![](/images/Guzheng___CCA_Fair_2__new_.jpg)
 
 ### Teachers-In-Charge
 
