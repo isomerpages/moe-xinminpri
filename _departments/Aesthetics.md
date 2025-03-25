@@ -4,7 +4,6 @@ permalink: /departments/aesthetics/
 description: ""
 variant: markdown
 ---
-
 ![](/images/music%20dept.JPG) 
  # **Vision**
 
