@@ -80,3 +80,5 @@ Thursday (ad-hoc):  4.00 p.m. – 5.30 p.m.
 
 * March On @ Esplanade Concourse
 * Voices of Singapore Festival @ CHIJMES
+
+Updated as of Mar 2025
