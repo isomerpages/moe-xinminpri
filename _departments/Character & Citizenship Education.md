@@ -41,6 +41,8 @@ To help students develop critical thinking skills and improve future performance
 
 Cohort Learning Journeys (LJs) provide Xinminites with opportunities to explore their Singaporean identity through arts, culture and heritage. These LJs have been specially curated for students' formative years to develop citizenship dispositions and national identity. The experiences students gain through these journeys make their learning more concrete and meaningful. Through visits to key installations and institutions in Singapore, students demonstrate their life-long learner traits and develop a deeper appreciation of their textbook learning in real-world contexts.
 
+
+
 ### Values In Action (VIA)
 
 Values in Action (VIA) programmes provide authentic opportunities for students to make responsible choices for themselves and others. When faced with challenges in decision-making, students need to demonstrate open-mindedness, consider different perspectives, and make choices that align with school core values and social vision.
