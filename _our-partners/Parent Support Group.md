@@ -40,14 +40,14 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 25_04_05 |  P4 CLIP   | 17/4/2025  |
 | 25_04_06 | P4BD Art Learning Journey   | 23/4/2025 |
 | 25_04_07 |   Catch Me Good Redemption(1)   | 24/4/2025 |
-| 25_04_08 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
-| 25_04_09 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
-| 25_04_10 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
-| 25_05_01 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
-| 25_05_02 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
-| 25_05_03 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
-| 25_05_04 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
-| 25_05_05 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+| 25_04_08 |  P6 NAPFA   | 28/4/2025  |
+| 25_04_09 |  Anti-bully Campaign  | 28/4/2025  |
+| 25_04_10 |  Lower Block Reading Program (2)   | 30/4/2025  |
+| 25_05_01 |  Lower Block Reading Program (3)   | 14/5/2025  |
+| 25_05_02 | Catch Me Good Redemption(2)   | 15/5/2025  |
+| 25_05_03 |  P5BF Museum-based Learning Journey   | 22/5/2025  |
+| 25_05_04 | P3 CLIP   | 23/5/2025  |
+| 25_05_05 |  Lower Block Reading Program (4)   | 28/5/2025  |
 
 
 
