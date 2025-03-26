@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-
 ![](/images/Brownies_Photo_1.png)
+
 # **Mission & Key Programmes:**
 
 Aligned with the Girl Guide movement, Brownies are nurtured with essential skills to adapt to the ever-changing demands of the world. The programme equips girls with valuable life skills that help shape their character and impact their lives positively.
@@ -64,3 +64,6 @@ Monday 2.30 p.m. – 4.30 p.m.
 *  Crime Prevention Badge
 *  UG Commemorative Day
 *  SKM Kindness Badge Junior
+
+
+Updated as of Mar 2025
