@@ -57,8 +57,13 @@ The rice planting programme aims to inculcate good sustainability habits and kno
 
 #### School Green Awards - Vanda Miss Joaquim Sustained Achievement Award 2022 - 2024
 
+Organised by the Singapore Environment Council, the annual School Green Awards recognise efforts by schools that have achieved positive environmental impacts. Having achieved top scores for three consecutive years, Xinmin Primary School was first conferred the highest tiered award – the Sustained Achievement Award – in 2022. For our continuous efforts in inculcating a green lifestyle in Xinminites, the school was presented with this prestigious award again in 2023 and 2024.
+
 #### School Green Awards - Vanda Miss Joaquim Achievement Award 2019 - 2021
 
 ![](/images/Applied_Learning_Programme_Achievements_1.jpg)
 
-Organised by the Singapore Environment Council, the annual School Green Awards recognise efforts by schools that have achieved positive environmental impacts. Having achieved top scores for three consecutive years, Xinmin Primary School was first conferred the highest tiered award – the Sustained Achievement Award – in 2022. For our continuous efforts in inculcating a green lifestyle in Xinminites, the school was presented with this prestigious award again in 2023 and 2024.
+
+
+
+Updated as of Mar 2025
