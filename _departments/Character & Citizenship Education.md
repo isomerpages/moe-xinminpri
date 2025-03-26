@@ -76,3 +76,5 @@ Primary 1 and 2 Xinminites participate in the Programme for Active Learning (PAL
 ###  CCE Conversations
 
 In response to the range of global issues confronting students, dedicated periods are allocated each term for discussions of contemporary topics. These sessions aim to build a strong foundation in critical thinking and problem-solving skills. Through such discussions, students develop into caring and concerned citizens who are intrinsically motivated to contribute to the success and well-being of fellow Singaporeans.
+
+Updated as of Mar 2025
