@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-
 ![](/images/WhatsApp_Image_2024_02_22_at_4_43_07_PM__2_.jpg)
+
 # **Mission & Key Programmes:**
 
 # **Mission:**
@@ -56,3 +56,5 @@ National School Games (Senior Boys)
 National School Games (Junior Boys) 
 
 * 1st in Tier 2
+
+Updated as of Mar 2025
