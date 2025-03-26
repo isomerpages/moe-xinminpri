@@ -32,14 +32,14 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-| 25_03_01  |   P3 Swimsafer Programmes    | 14/1/2025 to 12/3/2025     |
-| 25_04_01 |  P6AF Museum-based Learning Journey  | 15/1/2025   |
-| 25_04_02 |    P6BE Museum-based Learning Journey   | 17/1/2025  |
-| 25_04_03 |   P2AB English Learning Journey to Jacob Ballas   | 18/2/2025  |
-| 25_04_04 |   P2DEF English Learning Journey to Jacob Ballas    | 19/2/2025  |
-| 25_04_05 |  P2CG English Learning Journey to Jacob Ballas    | 20/2/2025  |
-| 25_04_06 | P1AF English Learning Journey to Singapore Zoo   | 25/2/2025 |
-| 25_04_07 |   P1BCG English Learning Journey to Singapore Zoo   | 26/2/2025  |
+| 25_03_01  |   P4 Cultural Performance Exposure   | 28/3/2025     |
+| 25_04_01 |  P5AE Museum-based Learning Journey  | 1/4/2025   |
+| 25_04_02 |   P4AE Art Learning Journey   | 2/4/2025  |
+| 25_04_03 |   P4CF Art Learning Journey   | 16/4/2025  |
+| 25_04_04 |   Lower Block Reading Program (1)    | 16/4/2025  |
+| 25_04_05 |  P4 CLIP   | 17/4/2025  |
+| 25_04_06 | P4BD Art Learning Journey   | 23/4/2025 |
+| 25_04_07 |   Catch Me Good Redemption(1)   | 24/4/2025 |
 | 25_04_08 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
 | 25_04_09 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
 | 25_04_10 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
