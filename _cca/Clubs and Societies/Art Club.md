@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-
 ![](/images/IMG_20250127_160207.jpg)
+
 # **Mission & Key Programmes**
 
 # **Mission**  
@@ -42,3 +42,6 @@ Monday 2.30 p.m. – 4.30 p.m.
 **2023**
 
 * SYF Category C – Certificate of Recognition (Special Mention)
+
+
+Updated as of Mar 2025
