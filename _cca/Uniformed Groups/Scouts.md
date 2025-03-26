@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-
 ![](/images/20240205_154751.jpg)
 
 # **Mission & Key Programmes:**
@@ -71,3 +70,6 @@ Monday 2.30 p.m. – 4.30 p.m.
 
 * World Scout Day Participation
 * North Division Founder’s Day hike
+
+
+Updated as of Mar 2025
