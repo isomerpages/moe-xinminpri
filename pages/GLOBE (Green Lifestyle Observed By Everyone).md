@@ -20,13 +20,18 @@ Programmes for G.L.O.B.E., the Environmental Science Education Applied Learning 
 
 Innovative and sustainable farming methods such as hydroponics pique students' curiosity about plant reproduction and environmental science as they learn to grow their own food using non-traditional soilless methods. Through hands-on experience in planting, transplanting and crop harvesting, students are inspired to share their food and learning with their families.
 
+
 ### (2) GrowFridge Farming
 
 Students experience growing herbs and vegetables using new innovations. The micro-fridge device is Singapore's first plug-and-play smart micro-farm, designed like a kitchen appliance that allows students and teachers to grow their own microgreens under controlled climatic conditions in the comfort of an indoor setting. Students not only gain deep knowledge of healthy living but also learn about urban farming technology, such as temperature settings, watering cycles and lighting for optimal plant growth.
 
+![](/images/ALP_Grow_Fridges.jpg)
+
 ### (3) Aeroponics Vertical Farming
 
 Students learn the techniques of using aeroponics, a plant cultivation technique in which roots hang suspended in the air while nutrient solution is delivered to them in an air or mist environment. The nutrient-rich solution is sprayed or dripped directly onto the plant roots, eliminating the need for soil. Students use this aeroponic urban farming system that allows plants to be grown vertically, so farming and food production take up much less space than traditional farming. It is also more efficient and environmentally sustainable.
+
+![](/images/ALP_Aeroponics.jpg)
 
 ### (4) Veggie Pod Farming
 
@@ -35,6 +40,8 @@ By growing vegetables in raised and covered garden beds, students learn that far
 ### (5) Veggie Pod Farming
 
 Students take charge of their learning and develop responsibility in caring for the vegetables. As the Veggie Tower replicates a natural ecosystem and converts kitchen scraps into natural fertiliser for the vegetables, this programme inspires students to learn more about the processes of decomposition and plant growth.
+
+![](/images/ALP_Harvesting_at_Vegepod.jpg)
 
 ### (6) Aquaponics Farming
 
