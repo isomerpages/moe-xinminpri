@@ -64,3 +64,6 @@ Monday 2.30 p.m. – 4.30 p.m.
 
 *    **National First Aid Competition** – Silver Award
 *    **Director's Award** – Harsika D/O Bala Murugan (6B)
+
+
+Updated as of Mar 2025
