@@ -29,4 +29,7 @@ Armed with these competencies, students develop independence in creating digital
 
 ### Use of e-Pedagogy for Active Learning
 
-Through technology, students create digital artefacts that demonstrate their learning journey. At Xinmin, our innovative teachers design lessons following the Active Learning Processes framework, enabling students to create and collaborate using skills acquired during ICT and Digital Literacy lessons. The Student Learning Space (SLS) remains the primary platform for delivering content and instructions that complement classroom teaching. This e-Pedagogy approach nurtures our Xinminites to become inquisitive, open-minded and self-directed learners.
+Through technology, students create digital artefacts that demonstrate their learning journey. At Xinmin, our innovative teachers design lessons following the Active Learning Processes framework, enabling students to create and collaborate using skills acquired during ICT and Digital Literacy lessons. The Student Learning Space (SLS) remains the primary platform for delivering content and instructions that complement classroom teaching. This e-Pedagogy approach nurtures our Xinminites to become inquisitive, open-minded and self-directed learners.z
+
+
+Updated as of Mar 2025
