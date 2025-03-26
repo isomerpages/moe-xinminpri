@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 ![](/images/Department%20Pics/maths%20s.jpg)
+
 # **Vision** 
 Every Xinminite, a confident problem solver. 
 
