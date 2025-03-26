@@ -67,3 +67,7 @@ Primary Category (App Design) Participation
 
 **AI Festival Singapore**
 Primary Category (AI Modelling) Champion Team
+
+
+
+Updated as of Mar 2025
