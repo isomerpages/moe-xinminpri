@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-
 ![](/images/WhatsApp_Image_2025_02_07_at_1_38_37_PM__1_.jpg)
 # **Mission & Key Programmes:**
 
@@ -33,3 +32,5 @@ Mdm Rosnani Bte Yusof
 ### Schedule
 
 Monday 2.30 p.m. – 4.30 p.m.
+
+Updated as of Mar 2025
