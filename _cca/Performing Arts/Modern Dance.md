@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-
 ![](/images/SYF_2022_2.jpg)
 # **Mission & Key Programmes:**
 
@@ -81,3 +80,5 @@ Thursday 4.00 p.m. – 5.30 p.m. [Extra Practice]
 **2022**
 
 * SYF – Certificate of Participation
+
+Updated as of Mar 2025
