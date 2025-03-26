@@ -22,6 +22,8 @@ Xinmin's Tamil Language (TL) curriculum emphasises oral and written interaction 
 
 Authentic and meaningful activities such as the Speech and Drama programme planned for our Primary 1 & 2 students allow them to express their thoughts freely and confidently in their MTL from a young age. 
 
+![](/images/20230803_113902.jpg)
+
 #### Language Booster Games
 
 The Language Booster Games Workshop aims to develop students' curiosity in learning new Tamil words and phrases while nurturing their spirit of lifelong learning. During these sessions, students develop confidence in Tamil thinking and speaking, enhancing their communication skills through clear and effective expression of ideas.
