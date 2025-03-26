@@ -32,15 +32,23 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-| 25_01_01  |   P3 Swimsafer Programmes    | 14/1/2025 to 12/3/2025     |
-| 25_01_02 |  P6AF Museum-based Learning Journey  | 15/1/2025   |
-| 25_01_03 |    P6BE Museum-based Learning Journey   | 17/1/2025  |
-| 25_02_01 |   P2AB English Learning Journey to Jacob Ballas   | 18/2/2025  |
-| 25_02_02 |   P2DEF English Learning Journey to Jacob Ballas    | 19/2/2025  |
-| 25_02_03 |  P2CG English Learning Journey to Jacob Ballas    | 20/2/2025  |
-| 25_02_04 | P1AF English Learning Journey to Singapore Zoo   | 25/2/2025 |
-| 25_02_05 |   P1BCG English Learning Journey to Singapore Zoo   | 26/2/2025  |
-| 25_02_06 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+| 25_03_01  |   P3 Swimsafer Programmes    | 14/1/2025 to 12/3/2025     |
+| 25_04_01 |  P6AF Museum-based Learning Journey  | 15/1/2025   |
+| 25_04_02 |    P6BE Museum-based Learning Journey   | 17/1/2025  |
+| 25_04_03 |   P2AB English Learning Journey to Jacob Ballas   | 18/2/2025  |
+| 25_04_04 |   P2DEF English Learning Journey to Jacob Ballas    | 19/2/2025  |
+| 25_04_05 |  P2CG English Learning Journey to Jacob Ballas    | 20/2/2025  |
+| 25_04_06 | P1AF English Learning Journey to Singapore Zoo   | 25/2/2025 |
+| 25_04_07 |   P1BCG English Learning Journey to Singapore Zoo   | 26/2/2025  |
+| 25_04_08 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+| 25_04_09 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+| 25_04_10 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+| 25_05_01 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+| 25_05_02 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+| 25_05_03 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+| 25_05_04 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+| 25_05_05 |  P1ED English Learning Journey to Singapore Zoo   | 27/2/2025  |
+
 
 
 Updated as of Jan 2025
