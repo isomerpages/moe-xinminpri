@@ -18,6 +18,8 @@ We strive to build a strong foundation in English for every Xinminite and provid
 
 The school adopts the STELLAR (STrategies for English Language Learning and Reading) programme in the teaching and learning of the English Language. Lessons are designed to immerse students in authentic and engaging language experiences to strengthen their language skills and command of the English language. Through differentiated instructions and explicit teaching of language skills, Xinminites are empowered to develop a positive attitude and be responsible towards their own learning. Other teaching strategies include:
 
+![](/images/4B___STELLAR.jpg)
+
 #### •	Shared Book Approach (SBA)
 
 The Shared Book Approach involves teachers reading the STELLAR texts aloud where effective reading strategies are modelled. Through interactive and rich discussions on themes, characters and plot, Xinminites learn to listen attentively, engage in meaningful discussions, widen their vocabulary and deepen their comprehension. Repeated readings and assessments for learning help reinforce key language skills, while nurturing collaborative learning, critical thinking and a lifelong love for literature. 
