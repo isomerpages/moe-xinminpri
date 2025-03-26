@@ -48,3 +48,6 @@ Performing HeArts takes place biennially at Xinmin Primary School and is highly 
 ##### Singapore Youth Festival (Visual Arts & Performing Arts)
 
 The Singapore Youth Festival is an annual event organised by the Ministry of Education to celebrate the vitality of our youths and their diverse talents. Our Aesthetics CCAs - Art & Crafts CCA, Modern Dance, Chinese Dance, Guzheng Ensemble and Choir participate actively in SYF. It provides an excellent platform to showcase our Xinminites' development and diverse artistic talents through collaboration among peers within the CCAs.
+
+
+Updated as of Mar 2025
