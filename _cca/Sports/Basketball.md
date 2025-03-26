@@ -64,4 +64,4 @@ National School Games and friendly matches with other schools.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
+<p>Updated as of Mar 2025</p>
