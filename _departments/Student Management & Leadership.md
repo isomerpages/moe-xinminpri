@@ -14,7 +14,7 @@ Every Xinminite, a self-disciplined and morally upright individual, ready to ser
 
 A confident leader who has the moral courage to distinguish right from wrong, acts on them and contributes actively in class, school and community.
 
-![](/images/Xinmin_Recognition_Day_2023_63.jpg)
+![](/images/XINMIN_2024_27.jpg)
 
 # **Key Programmes**
 
@@ -30,11 +30,26 @@ A confident leader who has the moral courage to distinguish right from wrong, ac
 
 * Recognising benevolent actions among Xinminites helps develop confident leaders who demonstrate self-assurance and believe in their capacity to inspire and lead others. Acknowledging their positive contributions strengthens their confidence and encourages them to continue making meaningful impacts on those around them.
 
-### We Hear You Xinminites (WHYx)
+Hear You Xinminites (WHYx)
 
 * An avenue for Xinminites to actively participate in decision-making processes by sharing their firsthand experiences and unique perspectives.
 
 * WHYx promotes a student-centered learning environment, aiming to cultivate critical thinking and problem-solving skills among Xinminites. This approach empowers students, encouraging them to play an active role in their educational journey and fostering a sense of ownership over their learning.
 
+### Leadership Training Programmes
 
-![](/images/IMG_0563_Edited.jpg)
+* Progressive leadership training programmes have been designed to enhance Xinminites' capabilities in self-leadership, team leadership, and thought leadership. These programmes enable students to lead themselves effectively, guide teams collaboratively, and inspire others through innovative and forward-thinking approaches. Through building confidence and encouraging teamwork, these training sessions develop Xinminites into confident leaders and innovative collaborators.
+
+* Programmes include: 
+- Generic training: Inclusive training designed for a broad audience.
+- Specialised training: Tailored programmes focusing on specific skills or areas of expertise.
+- Class leaders training (Category 2): Training catered to Xinminites holding leadership positions, guiding and serving their respective classes.  
+- Student leaders Training (Category 3 & 4): Training catered to Xinminites holding leadership positions responsible for leading and serving the entire school community.
+- Class and Student Leaders dialogue & review session: These sessions provide a platform for communication, feedback and assessment for both class and student leaders.
+- Spot the Leaders workshop: The workshop is aimed at identifying Xinminites with outstanding leadership qualities to take on increased responsibilities and elevated roles. 
+- Training sessions and workshops in collaborations with stakeholders and partners.
+
+![](/images/IMG_4954.jpg)
+
+
+Updated as of Mar 2025
