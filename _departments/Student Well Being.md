@@ -53,3 +53,5 @@ PACE aims to develop students into:
 Through Growth Mindset programmes, individual portfolios and school projects, students apply their learning to enhance their personal and social development.
 
 ![](/images/PACE__Artist_in_Residence.jpg)
+
+Updated as of Mar 2025
