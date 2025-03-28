@@ -47,7 +47,7 @@ The P5 Camp is a niche programme that exemplifies outdoor education at Xinmin Pr
 ![](/images/P5_Camp_2__new_.jpg)
 
 
-### **Unstructured Recess Play**
+### Unstructured Recess Play
 
 Unstructured recess play serves as an informal platform that enhances both physical activity and social development. During this time, students take charge of organising their own games and activities, developing leadership abilities and collaborative skills. These student-initiated interactions create meaningful opportunities for teamwork, problem-solving, and navigating social situations in an authentic setting. 
 
