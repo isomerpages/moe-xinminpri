@@ -44,7 +44,7 @@ The SwimSafer 2.0 Programme is an essential component of movement education in t
 
 The P5 Camp is a niche programme that exemplifies outdoor education at Xinmin Primary School. It provides students with opportunities to learn about environmental sustainability while developing a growth mindset. Through various activities, students collaborate to overcome challenges in an unfamiliar setting.
 
-![](/images/P5_Camp_3.jpg)
+![](/images/P5_Camp_2__new_.jpg)
 
 
 ### **Unstructured Recess Play**
