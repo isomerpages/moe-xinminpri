@@ -51,3 +51,5 @@ PACE aims to develop students into:
 * Leaders who adapt readily to changing circumstances
 
 Through Growth Mindset programmes, individual portfolios and school projects, students apply their learning to enhance their personal and social development.
+
+![](/images/PACE__Artist_in_Residence.jpg)
