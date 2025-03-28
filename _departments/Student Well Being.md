@@ -2,45 +2,52 @@
 title: Student Well Being
 permalink: /departments/student-well-being/
 description: ""
+variant: markdown
 ---
 ![](/images/Department%20Pics/student%20well%20being%20s.jpg)
 
-# **Student Well-Being**
+# **Vision** 
 
+Every Xinminite, a responsible cyber citizen, an inclusive peer and a resilient individual.
 
-## Vision 
-Every Xinminite a responsible cyber citizen, a caring peer and a resilient individual. 
+# **Mission** 
 
-## Mission
-We strive to develop in every Xinminite, good prosocial online and offline behaviour, dispositions to show care for the community and being adaptable to respond to challenges.
+We aim to develop every Xinminite into a responsible individual who demonstrates positive online and offline behaviour, shows genuine care for the community, and responds adaptably to challenges.
 
-## Key Programmes
-To help realise our departments vision and mission, we have crafted the following programming for them.
+# **Key Programmes**
+
+To help realise our department’s vision and mission, we have crafted the following programmes for our Xinminites:
 
 ### Peer Support
-Peer support programmes develop every Xinminite as a peer supporter for one another.The aims of the peer support programmes are:
 
-* To empower students to look out and care for each others through bonding, helping and being a positive influence.
-* To promote positive mindsets, prosocial behaviours and mental well-being among students.
+Our Peer Support programmes aim to develop every Xinminite into an effective peer supporter. The objectives of these programmes are to:
 
-Each Xinminite will go through a structured peer support programme to build competencies to develop mindsets to be a positive influence for others through pro-social online and offline behaviours. The programme is delivered through CCE lessons and student development activities such as CCA, and cohort camps.
+* Empower students to look out for and care for one another through bonding activities, mutual support, and positive influence
 
-Some Xinminites will be chosen as Peer Support Leaders as advocators of positive influence they will look out and connect with their classmates for well-being issues.  These Peer Support Leaders are selected by the teachers and trained by the school to effectively perform the role.
+* Promote positive mindsets, prosocial behaviours, and healthy mental well-being among students
+
+Each Xinminite participates in a structured peer support programme that builds competencies and develops mindsets for creating positive influence through prosocial behaviours, both online and offline. The programme is integrated into CCE lessons and student development activities, including CCAs and cohort camps.
+
+Selected students serve as Peer Support Leaders, becoming advocates of positive influence within the school community. These leaders connect with and support classmates who may need assistance. Teachers identify potential Peer Support Leaders, who then receive specific training from the school to perform their roles effectively.
 
 
 ### Cyberwellness
-Cyberwellness lessons are progressively designed to equip every Xinminite with knowledge and skills to harness the power of technology for positive purposes while learning to be respectful and responsible users.
 
-Through these lessons, our Xinminites will embody the following attributes: 
-* Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.
-* Be a safe and responsible user of technology and maintain a positive online presence.
-* Be responsible for their personal well-being in the cyberspace.
+Cyber Wellness lessons are progressively designed to equip every Xinminite with the knowledge and skills to harness technology for positive purposes while becoming respectful and responsible users.
 
-### Share and Care
+Through these lessons, our Xinminites learn to:
 
-This is a termly school-based programme which students are encouraged to appreciate Xinminite staff for sharing and showing care to them. The objective of the programme is to imbue in our students the value of showing appreciation to others and to cultivate gratitude for the care shown by our staff.
+* Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities
+* Be safe and responsible users of technology and maintain a positive online presence
+* Be responsible for their personal well-being in cyberspace
 
-### PACE@XMP
-PACE@XMP is targeted to increase the self-esteem of Xinminites who face different challenges at home and school. The programme builds upon the Self Determination Theory of Motivation and promotes the development of:
 
-A Learner who is open minded to take up challenges to learn new skills and improve himself/ herself and a collaborator who works well with others, adaptable to changing circumstances and resilient in overcoming challenges.
+### Programmes After-school to build Confidence and boost self-Esteem (PACE)
+
+PACE aims to develop students into:
+
+* Learners who are open-minded and embrace challenges to acquire new skills
+* Collaborators who work effectively with others
+* Leaders who adapt readily to changing circumstances
+
+Through Growth Mindset programmes, individual portfolios and school projects, students apply their learning to enhance their personal and social development.
