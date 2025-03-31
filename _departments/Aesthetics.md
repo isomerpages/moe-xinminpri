@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 ![](/images/music%20dept.JPG) 
+
  # **Vision**
 
 Every Xinminite, an **artist** and a **musician**.
@@ -15,9 +16,13 @@ Nurturing the **Passion** for the **Arts (Art & Music)**
 
 ### **Aesthetics Curriculum Focus to develop Xinminites to be artists and musicians**
 
-* Equipped with Visual Inquiry Skills (Art) and Musical Skills (Listening, Creating & Performing)
-* Imbued with awareness, appreciation and respect for various art forms and cultures (Visual Art & Music)
-* Working collaboratively with peers in art and music making
+Our curriculum aims to:
+
+* Equip students with Visual Inquiry Skills (Art) and Musical Skills (Listening, Creating and Performing)
+
+* Cultivate awareness, appreciation and respect for diverse art forms and cultures through Visual Art and Music
+
+* Develop collaborative art and music-making experiences among peers
 
 Through Art & Music lessons and programmes, our mission is to nurture a passion for the Arts in every child. Besides learning specific skills, the activities provide students with opportunities to become innovative collaborators (e.g. creating melodies or designing art pieces in groups).
 
