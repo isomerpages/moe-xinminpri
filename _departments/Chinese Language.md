@@ -10,7 +10,7 @@ variant: markdown
 Every Chinese student, an active learner with the **passion** for Chinese language and culture.
 
 # **Mission** 
-Developing **effective communicators** who appreciate the Chinese language and **culture**.
+Developing **effective communicators** who **appreciate** the Chinese language and **culture**.
 
 # **Key Programmes** 
 Xinmin’s Mother Tongue Language (MTL) curriculum places a strong emphasis on verbal and written interaction skills to develop our Xinminites into effective communicators of the Chinese Language. We believe in bringing the language to life for our students to ignite their passion for it.
