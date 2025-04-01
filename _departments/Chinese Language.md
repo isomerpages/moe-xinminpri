@@ -7,10 +7,10 @@ variant: markdown
 ![](/images/Department%20Pics/chinese%20language%20s.jpg)
 
 # VISION:
-Every Chinese student, an active learner with the passion for Chinese language and culture.
+Every Chinese student, an active learner with the **passion** for Chinese language and culture.
 
 # MISSION:
-Nurturing effective communicators who appreciates the Chinese language and culture.
+Developing **effective communicators** who appreciate the Chinese language and **culture**.
 
 # Key Programmes:
 Xinmin’s Mother Tongue Language (MTL) curriculum places a strong emphasis on verbal and written interaction skills to develop our Xinminites into effective communicators of the Chinese Language. We believe in bringing the language to life for our students to ignite their passion for it.
@@ -76,4 +76,3 @@ Ang Peng Sim
 
 #### Chinese Calligraphy Competition
 Javier Low (Consolation Award)
-
