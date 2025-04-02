@@ -6,29 +6,30 @@ variant: markdown
 ---
 ![](/images/Department%20Pics/ict%20dept%20s.jpg)
 
-# Vision: 
+# **Vision** 
 A community of future-ready and responsible digital learners
 
-# Mission: 
+# **Mission** 
 To enable active learning experiences and meaningful connected learning through an ICT- enriched learning environment.
 
-## Key Programmes:
+# **Key Programmes**
 
-To realise our vision, the following programmes have been specially designed to bring active and meaningful learning experiences to our Xinminites.
+To realise our vision, the following programmes have been specially designed to bring active and meaningful learning experiences for our Xinminites.
 
-### **Primary 1 and 2 ICT Lessons**
+### Primary 1 and 2 ICT Lessons
 
-The lower primary students learn basic ICT skills during their EL-ICT lessons. These lessons are carried out every fortnight by our resident ICT Trainer. Students are taught basic ICT and New Media Literacy (NML) skills. These lessons provide opportunity for students to develop knowledge and skills that are useful in the real world.
+The lower primary students learn basic ICT skills during their EL-ICT lessons. These lessons are carried out every fortnight by our resident ICT Trainer. Students are taught basic ICT and Digital Literacy skills. These lessons provide opportunity for students to develop knowledge and skills that are useful in the real world.
 
-### **Primary 3, 4 and 5 New Media Literacy Lessons**
+### Primary 3, 4, 5 and 6 Digital Literacy Lessons
 
-In our efforts to raise life-long learners and innovative collaborators, the ICT Department teachers conduct lessons to teach students useful skills in creating digital content, curating information obtained from the Internet and connecting with others to deepen their knowledge and subject mastery. 
+The ICT Department teachers conduct lessons to equip students with essential skills in digital content creation, information curation from the Internet, and meaningful collaboration that enhances their knowledge and subject mastery. These skills form part of the CLIP (Confident Leaders, Life-long Learners, Innovative Collaborators Programme) curriculum across different levels, delivered through face-to-face sessions and self-paced SLS lesson packages.
 
-Students are empowered to learn with technology through these tools: Google Slides, Google Sites, iMovie and Freeform. These platforms provide them with opportunities to be future-ready creators, learners and collaborators. 
-
-With these skills learnt, students will be self-directed in creating digital artefacts as a platform to demonstrate their learning in various subjects. 
+Armed with these competencies, students develop independence in creating digital publications and virtual content, using these platforms to showcase their learning across various subjects.
 
 
-### **Use of e-Pedagogy for Active Learning**
+### Use of e-Pedagogy for Active Learning
 
-Technology allows students to create digital artefacts of their own learning.  Our teachers, being innovative learners in Xinmin, design lessons with the structure of Active Learning Processes. They provide opportunities for students to create and collaborate via tools learnt during the ICT and New Media Literacy lessons. SLS continues to be the main platform where content and instructions are provided to students to complement in-classroom lessons. The use of e-Pedagogy helps our Xinminites to be inquisitive and self-directed learners. 
+Through technology, students create digital artefacts that demonstrate their learning journey. At Xinmin, our innovative teachers design lessons following the Active Learning Processes framework, enabling students to create and collaborate using skills acquired during ICT and Digital Literacy lessons. The Student Learning Space (SLS) remains the primary platform for delivering content and instructions that complement classroom teaching. This e-Pedagogy approach nurtures our Xinminites to become inquisitive, open-minded and self-directed learners.z
+
+
+Updated as of Mar 2025

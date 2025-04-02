@@ -5,60 +5,65 @@ description: ""
 variant: markdown
 ---
 ![](/images/Department%20Pics/maths%20s.jpg)
-# Vision 
+
+# **Vision** 
 Every Xinminite, a confident problem solver. 
 
-# Mission
+# **Mission** 
 Building confidence and fostering interest in mathematics.
 
-# Key Programmes
-At Xinmin Primary School, the Math Department believes every child can be a confident problem solver. With this vision in mind, various activities are planned throughout the year to ensure that there are rich learning experiences within and beyond the classroom to build our students’ confidence and foster their interest in mathematics.
+# **Key Programmes**
 
-### Math Around Us
+At Xinmin Primary School, the Mathematics Department is committed to nurturing confident problem solvers. Guided by this vision: we design a variety of engaging activities throughout the year to provide rich learning experiences both in and beyond the classroom. These initiatives aim to build students' confidence and ignite their passion for mathematics.
 
-To develop lifelong learners who are curious and open-minded, students are engaged in authentic learning experiences where they take responsibility, lead and contribute actively to learning as well as experience the ‘Eureka’ moment as a math learner. Students also get their first-hand experience as they learn to identify the application of Math in their many daily life experiences making learning meaningful and interesting. 
+### Mathematics Around Us
+
+Students engage in authentic learning experiences where they take ownership of their learning, lead discussions, and participate actively, developing into self-directed, curious, and open-minded learners. These experiences reveal the joy of mathematical discovery, leading to enlightening 'Eureka' moments. By connecting mathematics to real-world applications in their daily lives, students develop deeper understanding, making their learning journey meaningful and engaging.
 
 ### Think Like a Mathematician 
 
-To develop innovative collaborators, students are given opportunities in class to solve non-routine and open-ended problems, discuss their solutions, think aloud, and reflect on what they are doing. Through teamwork, it is hoped that our students learn to work well with others and become adaptable and resilient in solving challenging problems creatively using this in-house learning package curated by our math teachers.
+Our in-house learning package, crafted by our Mathematics teachers, presents students with non-routine and open-ended problems. Through class discussions, students articulate their thought processes and reflect on their problem-solving strategies. This collaborative approach strengthens their ability to work in teams, adapt to challenges, and develop resilience when solving complex problems creatively.
 
-### Spatial Visualisation Programme
+### Spatial Visualisation Programme (SVP)
 
-To develop metacognitive awareness, the SPV helps our students relate abstract mathematical concepts with concrete objects to make sense of various mathematical ideas as well as their connections and applications.
+The SVP enhances students' metacognitive awareness by connecting abstract mathematical concepts to concrete objects. Through hands-on activities and guided exploration, students develop stronger spatial reasoning skills and visual understanding of mathematical concepts. This approach helps students comprehend mathematical ideas more effectively, understand their interconnections, and recognise their practical applications in the real world.
 
+# **Specialty Programmes**
 
+### **Learning Support for Mathematics (LSM)**
 
-# Specialty Programmes
-
-### Learning Support for Mathematics (LSM)
-
-LSM provides early intervention to support P1 to P4 students who need extra guidance in learning Mathematics. Through this programme, students are equipped with basic numeracy skills to boost their confidence in problem solving.
+LSM offers early intervention to support Primary 1 to Primary 4 students who require additional support in Mathematics. This programme helps students develop fundamental numeracy skills, enhancing their confidence in problem-solving.
 
 
 ### E2K Math Programme
 
-The E2K Mathematics Programme develops students Mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach. Students will have opportunities to collaborate with their peers and engage in Mathematical thinking through puzzles, games, and Mathematics explorations. The rich learning experiences serve to help students develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
+The E2K Mathematics Programme enhances students’ mathematical reasoning and deepens their conceptual understanding through an inquiry-based approach. It provides opportunities for students to collaborate with peers, engage in mathematical thinking, and explore concepts through puzzles, games, and hands-on investigations. Through these rich learning experiences, students develop the mindset, habits, and dispositions of mathematicians, while also acquiring essential 21st-century competencies such as critical thinking, inventive problem-solving, and effective communication.
 
-Our teachers who are trained in the E2K pedagogy run this enrichment programme for selected P4 and P5 students who display interest in and aptitude for Mathematics.
+This enrichment programme is conducted by our teachers, who are trained in the E2K pedagogy, and is designed for selected Primary 4 and Primary 5 students who demonstrate a strong interest and aptitude in Mathematics.
 
-# Achievements 
 
-#### 2023 Competitions
+## Achievements 
+
+**2024**
 
 **SMKC**
 
 | Gold | Silver | Bronze  | 
 | -------- | -------- | -------- |
-|  4   | 9     | 21    |
+|  2   | 11     | 21    |
 
-**SMOPS (HCI) **
-
-| Gold | Silver | Bronze  | 
-| -------- | -------- | -------- |
-|  -   | 1     | -    |
-
-**NMOS (NUS High) **
+**SMOPS (HCI)**
 
 | Gold | Silver | Bronze  | 
 | -------- | -------- | -------- |
-|  -   | -     | 11    |
+|  -   | -    | 3    |
+
+**NMOS (NUS High)**
+
+| Gold | Silver | Bronze  | 
+| -------- | -------- | -------- |
+|  -   | 2    | 5    |
+
+
+
+Updated as of Mar 2025

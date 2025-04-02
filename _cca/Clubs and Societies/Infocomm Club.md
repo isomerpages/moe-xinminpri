@@ -5,51 +5,69 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-![](/images/CCA/infocomm%20club%20s.jpg)
+### *“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”*
 
-# **Infocomm Technology Club**
+ —	Bill Gates, Co-Chairman, Bill & Melinda Gates Foundation, Co-Founder, Microsoft
 
-## “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”
-—Bill Gates, Co-Chairman, Bill & Melinda Gates Foundation, Co-Founder, Microsoft
+# **Mission**
 
+To instill the joy of logic-based coding and programming
 
-### Mission:
-To instill the joy of logic-based coding and programming 
+# **Vision**
 
-### Vision:
-Every Infocomm Club member a logical problem solver
+Every Infocomm Club member a logical problem solver. 
 
-The Infocomm Club is a CCA for students who are passionate about coding. Students will develop critical thinking skills and creativity through the basics of coding on Scratch.
+The Infocomm Club is a CCA for students who are passionate about coding. Students develop critical thinking skills and creativity through learning the basics of coding with LEGO Spike Prime.
 
-Our middle primary members will be equipped with knowledge to present stories or to create games online on Scratch before moving onto LEGO Spike Prime robotic sets in the second half of the year. They will learn to use block-based programming in both programmes which would ease the transition between the two.
+Our middle primary members learn block-based programming using LEGO Spike Prime, starting with the beginner level in the first half of the year before progressing to the intermediate level.
 
-Our upper primary members will continue to explore coding with LEGO Spike Prime programme. With their limitless imagination, they are able to build robots using sensors, motors and arms to carry out a variety of tasks such as navigating a drawn route or pick up items. Besides learning the skills to code efficiently, the students would develop resilience and logical thinking. Students get to apply concepts learnt in their mathematics and science lessons such as angles, light and speed while they code.
+At the beginner level, students are introduced to foundational coding concepts and mechanisms, including sequencing, motors, sensors, loops and conditionals, while developing their computational thinking and fostering creativity, collaboration, communication and critical thinking skills.
 
-Through logic-based coding, students hone their logical reasoning as they get the robots to carry out tasks in a fun and meaningful way. They also work in groups and learn collaboratively with their peers. This gives them the opportunities to develop effective communication skills and become better team players.
+At the intermediate level, students build upon their foundational coding knowledge with advanced concepts. Additionally, they explore competition preparation through flowcharting, strategy development and hands-on problem-solving.
+
+Our upper primary members continue to explore coding with the LEGO Spike Prime programme. With their limitless imagination, they build robots using sensors, motors and arms to carry out various tasks such as navigating drawn routes or picking up items. Besides learning to code efficiently, students develop resilience and logical thinking. They apply concepts learnt in their Mathematics and Science lessons, such as angles, light and speed, while coding.
+
+Through logic-based coding, students hone their logical reasoning as they programme robots to carry out tasks in a fun and meaningful way. They also work in groups and learn collaboratively with their peers. This gives them opportunities to develop effective communication skills and become better team players.
+
+The Infocomm Club thus provides a dynamic platform where students can develop both technical expertise and essential life skills, preparing them for the increasingly digital world of tomorrow.
 
 
 ### Schedule
 
-Mondays, 2.30 p.m. to 4.30 p.m.
+Monday 2.30 p.m. – 4.30 p.m.
 
-#### Teachers-In-Charge
+### Teachers-In-Charge
 
-Mdm Norliana - P5 & P6 (Overall-in-charge)
+Mdm Norliana – P5, P6 (1st IC)
 
-Mr Lim Beng Liang - P5 & P6
+Mdm Yang Xu  – P5, P6
 
-Mdm Yang Xu – P4
+Mrs Lau – Lee Peixia – P4
+
 
 ### Achievements
 
-**Rosyth Imagine Cup 2021 Circuit 2**
-Senior Category (Individual) – 2 x Gold (with Honours)
+**2024**
 
-**AI Festival Singapore 2022**
-Primary Category (AI Modelling) Champion Team
+**National Robotics Competition** 
+Regular Category- (Participation)
 
-**SWIFT Explorers Singapore 2023**
+**National Robotics Competition Cospace Robot Challenge** – Autonomous Driving
+Primary Category - (Participation)
+
+**2023**
+
+**First LEGO League Challenge Edition**
+Program robots for missions (Participation)
+
+**SWIFT Explorers Singapore**
 Primary Category (App Design) Participation
 
-**First LEGO League Challenge Edition 2023**
-Program robots for missions (Participation)
+**2022**
+
+**AI Festival Singapore**
+Primary Category (AI Modelling) Champion Team
+
+
+
+Updated as of Mar 2025

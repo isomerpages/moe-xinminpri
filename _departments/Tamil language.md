@@ -6,51 +6,56 @@ variant: markdown
 ---
 ![](/images/Department%20Pics/tamil%20language%20s.jpg)
 
-# VISION 
+# **Vision** 
+
 Be an effective communicator who is a self-directed learner and one who appreciates Tamil language and culture.
 
-# MISSION 
+# **Mission** 
+
 Every Tamil student in Xinmin Primary to have a strong foundation in Tamil language and culture.
 
-# Key Programmes:
+# **Key Programmes**
 
-Xinmin’s Tamil Language (TL) curriculum places a strong emphasis on oral and written interaction skills to develop our Xinminites to be effective communicators. We create opportunities for students to express themselves effectively through various programmes to instill in students a strong desire to learn and understand the Tamil Language and to be appreciative of the culture. The following key prorammes have been implemented to help us realise our department vision and mission.
+Xinmin's Tamil Language (TL) curriculum emphasises oral and written interaction skills to develop our Xinminites into effective communicators. Through various programmes, we create opportunities for students to express themselves confidently while cultivating their appreciation for Tamil language and culture. The following key programmes support our department's vision and mission:
 
 ### Speech and Drama
 
-Authentic and meaningful activities such as the Speech and Drama programme planned for our Primary 1 & 2 students allows them to express their thoughts freely and confidently in their MTL from a young age.
+Authentic and meaningful activities such as the Speech and Drama programme planned for our Primary 1 & 2 students allow them to express their thoughts freely and confidently in their MTL from a young age. 
+
+![](/images/20230803_113902.jpg)
 
 ### Language Booster Games
 
-Through Language Booster Games workshop, we hope to instil in students the spirit of life-long learning as well as pique their curiosity in learning new words and phrases in Tamil. Through this workshop, students will think and speak in Tamil confidently and develop their communication skills by expressing their ideas clearly and effectively.
+The Language Booster Games Workshop aims to develop students' curiosity in learning new Tamil words and phrases while nurturing their spirit of lifelong learning. During these sessions, students develop confidence in Tamil thinking and speaking, enhancing their communication skills through clear and effective expression of ideas.
 
 ### Media Communication
 
-Through our media communication workshop, students are given the opportunity to express themselves effectively in spoken Tamil through re-enactment and role-playing using scripts provided. The workshop develops our students’ communication skills as well as their ability to collaborate with their peers. 
+The Media Communication Workshop provides students opportunities to enhance their spoken Tamil through script-based role-playing and re-enactment activities. This interactive approach develops students' communication skills while strengthening their collaborative abilities with peers.
 
 ### Tamil Newspaper Subscription
 
-To enable our student to be exposed to current affairs and empathise to those less fortunate than them, Tamil newspaper has been introduced to all students studying Tamil language. With these rich resources, students will be given opportunities to discuss about the articles read in the newspaper, present their results to the class and be open to receive others’ views.
+Tamil newspapers have been introduced to all Tamil Language students to increase their awareness of current affairs and develop empathy towards the less fortunate. Students engage with these rich resources through class discussions about newspaper articles and presentations, learning to share their perspectives while remaining receptive to different viewpoints.      
 
 ### Home reading programme
 
-
-Our Primary 1 and 2 students will bring home a Tamil storybook fortnightly to read and discuss the story with their parents. Through this programme, we hope to foster parent-school partnership and encourage parents to inculcate the reading habit in their child by spending time to read together.
+Primary 1 and 2 students bring home Tamil storybooks fortnightly to read and discuss with their parents. This programme strengthens the parent-school partnership while encouraging families to develop reading habits through shared reading time.
 
 
 ### Reading Programme
 
-Students from P3 to P6 are encouraged to read Tamil storybooks through organised activities like visit to the school library and reading time within the class library. Reading cards are given to all students to enable them to show their understanding of the stories and further excite them with fun filled activities to motivate them to continue reading.
+Primary 3 to 6 students engage in organised reading activities, including visits to the school library and dedicated reading sessions in the class library. Students record their understanding of Tamil storybooks through reading cards, which incorporate engaging activities to sustain their reading interest.
 
-Reading badges are also awarded to students who fulfill the criteria. Through this programme, we hope to develop passionate learners of the language who are confident in expressing themselves.
+Students who meet specific criteria earn reading badges, nurturing their confidence in self-expression and developing their passion for the language.
 
-To expose our students to their own culture and values, our cultural programmes aim to provide an immersive environment for our students to learn and use the language as well as to appreciate the culture.
+Our cultural programmes create an immersive environment for students to experience and understand Tamil culture and values. and use the language as well as to appreciate the culture.
 
 
 ### P3 Fortnight activities /P5 Cultural Camp
 
-These programmes involve fun and interactive hands-on activities such as Kolam, pot painting and different types of indoor and outdoor traditional games. There are also ample opportunities for the students to collaborate with their peers to learn and appreciate the Indian culture together.
+Students participate in fun and interactive hands-on activities including Kolam art, pot painting, and various traditional indoor and outdoor games. These engaging experiences encourage peer collaboration while deepening students' appreciation of Indian culture.
 
 ### School Based competitions 2024
 
-Students are given opportunities to display their talent through various competitions planned for them. These platforms allow them to showcase their strength in singing, role-playing, essay writing and video creation.
+Various competitions throughout the year provide platforms for students to showcase their talents. These include opportunities in creative expression through singing and role-playing, as well as developing their writing skills through essay competitions and digital literacy through video creation projects. These diverse platforms enable students to build confidence while demonstrating their capabilities in different aspects of Tamil language and cultural expression.
+
+Updated as of Mar 2025

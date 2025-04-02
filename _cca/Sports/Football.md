@@ -6,46 +6,55 @@ third_nav_title: Sports
 variant: markdown
 ---
 ![](/images/WhatsApp_Image_2024_02_22_at_4_43_07_PM__2_.jpg)
- 
 
- # **Mission & Key Programmes:**
- 
+# **Mission & Key Programmes:**
+
 # **Mission:**
 
-To inculcate sportsmanship and the passion for football in students-athletes.
+To inculcate sportsmanship and a passion for football in student-athletes.
 
-Football CCA in Xinmin develop our student-athletes to be lifelong learners, innovative collaborators and confident leaders:
+Football CCA in Xinmin develops our student-athletes to be lifelong learners, innovative collaborators and confident leaders:
 
-·       3E CCA Development Tier: Xinmin Primary School Football CCA program follows the school’s 3E approach which are Expose, Extend and Excel for our students’ development in technical skills and characters. Regardless of which 3E tier that the students are in, they will learn basic and advanced football skills as well as inculcate positive values, with the hope that they will carry on playing the game in their recreational time and be physically active for life.
+* 3E CCA Development Tier: Xinmin Primary School's Football CCA programme follows the school's 3E (Expose, Extend and Excel) approach in developing students' technical skills and character. Regardless of which 3E tier students are in, they will learn basic and advanced football skills and develop positive values, with the hope that they will continue playing the game in their recreational time and remain physically active for life.
 
-·       National School Games: Every year, Xinmin Primary will send the Senior and Junior team to participate in the annual National School Games. We believe that the spirit of participating is more important than the outcome of the matches. No matter the results, students are expected to show the school values of Care, Respect, Responsibility and Resilience. This is also the platform for our team captains to display their leadership skills to lead players in good and bad times.
+* National School Games: Every year, Xinmin Primary sends its Senior and Junior teams to participate in the annual National School Games. We believe that the spirit of participation is more important than the outcome of the matches. No matter the results, students are expected to demonstrate the school values of Care, Respect, Responsibility and Resilience. This platform also allows our team captains to display their leadership skills in guiding their teammates through both victories and setbacks.
 
-·       Inter-School Friendly Games: At the same time, we will arrange friendly games with other schools to expose the students and provide them with an opportunity to learn from other schools and further develop their football and leadership skills.
-
-·       Partnership with Sports Singapore for our coaching sessions: Our coaching sessions are conducted with coaches from Active Sg Football Academy as part of our Schools Sports Partnership with Sports Singapore. Under this collaboration, students will also focus on values through football such resilience, sportsmanship and teamwork.
+* Inter-School Friendly Matches: We also organise friendly matches with other schools to provide students with opportunities to engage with peers, enhance their football skills and further develop their leadership abilities.
 
 ![](/images/WhatsApp_Image_2024_02_22_at_4_43_08_PM__5_.jpg)
 
 ### Teachers-in-Charge
 
-Mr Mohamad Azreen (Overall-in-charge)
+Mr Shahran (1st IC)
 
-Mr Shahran (2nd-in-charge)
+Mr Mohamad Azreen (2nd IC)
 
 Mdm Sharifah Wardah
 
-Mrs Angela Tan Shi Fern
-
 Mrs Chia Soo Ying
 
-Ms E-Liz Yeung
+Ms Richelle Teng
+
+### Schedule
+
+Monday 2.30 p.m. – 4.30 p.m.
+
+Monday 4.00 p.m. – 5.30 p.m.
 
 ### Achievements
 
-2023: National School Games (Junior Boys) – 1st in Tier 2
+**2024**
 
-2022: National Division 2nd Tier for Junior Boys.
+National School Games (Senior Boys) 
 
-2021: No NSG
+* League 4 Group Stage (Champion)
+* League 4 Overall (Champion)
 
-![](/images/WhatsApp_Image_2024_02_22_at_4_42_43_PM__7_.jpg)
+
+**2023**
+
+National School Games (Junior Boys) 
+
+* 1st in Tier 2
+
+Updated as of Mar 2025

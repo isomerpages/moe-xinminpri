@@ -19,34 +19,51 @@ Inculcating a lively spirit of inquiry and sense of curiosity in every Xiniminit
 
 The following programmes have been specifically curated to help us realise our departments vision and mission.
 
-### **(1) Week-of-Wonder! – WOW!**
+### Learning Experiences @ LIVE Garden and Sensory Garden
 
-The annual Science Week-of-Wonder! promises many WOW! factors for Xinminites. It aims to invoke a sense of wonderment in students and pique their curiosity about the world around them as Lifelong Learners. Provided with the opportunity to observe and participate in hands-on experiments, students take charge of their learning to explore and discover new science concepts, as well as develop confidence in articulating new ideas, through a series of amazing and fun activities.
+Our LIVE (Learn and Inquire in a Vibrant Environment) Garden is a microcosm of habitats in nature and home to a wide variety of plants, including vegetables, herbs, cacti, ferns, fruit trees, and many others. It is common that students spot some ‘visitors’ such as caterpillars, butterflies and birds. The LIVE Garden also features a pond and a huge hexagonal glass tank that allows students to appreciate different species of water plants and organisms.
 
-### **(2) Excellence 2000 (E2K) Science Programme**
+The Sensory Garden is designed to engage and stimulate our senses — sight, smell, taste and touch.
 
-![](/images/Excellence_2000__E2K__Science_Programme_1_Edited.jpg)
+* Sight: The variety of colors in the leaves, flowers, and stems is visually stimulating and soothing.
+* Smell: Fresh herbs and plants provide calming and invigorating scents. Students can smell some of the herbs whenever they walk past.
+* Taste: Plants like the pandan and laksa are harvested and used for cooking by our canteen vendors, and others like mint are harvested and used to make tea, enriching the experience through taste.
+* Touch: Students may touch and feel the textures of the plants to learn more about them.
 
-The E2K Science Programme Singapore is a science enrichment programme for P4 and P5 students who demonstrate interest and ability in science. Through scientific inquiry processes, students will develop important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills. Through inquiry-based activities, collaborative learning and guidance provided by teachers, students practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes, and dispositions. This nurtures Xinminites to become Innovative Collaborators and develops their higher order thinking skills
+The LIVE Garden and Sensory Gardens serve as outdoor learning spaces that support students’ investigation as the concepts learnt in books come alive through exploration and learning trails. Interactive activity corners and integration of technology within the Gardens further support Xinminites’ experiential learning, development of inquiry skills and demonstration of Thinking and Doing in Science. With teachers as the facilitators, students take ownership of their inquiry process and build on knowledge of science concepts in a familiar yet exciting setting. 
 
-### **(3) Individual Science Experiment Kits**
+### Environmental Science Programme
 
-From P3 to P6, Xinminites will make use of their individual science experiment kits to develop process skills and construct understanding of science ideas. By taking ownership of their learning with the support of teachers, students will be able to discover science concepts at their own pace through experiential learning. Extension of science concepts learnt in school will also be explored with these science experiment kits.
+Part of the Science programme is designed to be intertwined with the school’s Applied Learning Programe (GLOBE – Green Lifestyle Observed By Everyone). It introduces students to food resilience highlighted in the Singapore Green Plan, with particular focus on the “30 by 30’ goal — to build up Singapore’s agri-food industry’s capability and capacity to sustainably produce 30% of our nation’s nutritional needs by 2030. Students experience modern sustainable farming methods used locally by urban farmers and the advantages of using such technology.
 
-### **(4) Learning Experiences @ LIVE Gardens**
+### Excellence 2000 (E2K) Science Programme
 
-Our LIVE (Learn and Inquire in a Vibrant Environment) Gardens are microcosms of habitats in nature and home to a wide variety of plants, including vegetables, herbs, cacti, ferns, fruit trees, and many others. It is common that students spot some ‘visitors’ such as caterpillars, butterflies and birds. The LIVE Gardens also feature a hydroponics experience centre, a tiered glass filtration system as well as a pond and a huge hexagonal glass tank that allow to appreciate different species of water plants and organisms.
+The E2K Science Programme is a science enrichment programme designed for P4 and P5 students who demonstrate strong interest and ability in science. Students develop essential 21st-century competencies through scientific inquiry processes, including resilience, resourcefulness, critical thinking, inventive thinking, and effective communication skills. The programme's inquiry-based activities and collaborative learning approaches, combined with teacher guidance, enable students to:
 
-The LIVE Gardens serve as outdoor learning spaces that support students’ investigation as the concepts learnt in books come alive through exploration and learning trails. Interactive activity corners and integration of technology within the LIVE Gardens further support Xinminites’ experiential learning, development of inquiry skills and demonstration of Thinking and Doing in Science. With teachers as the facilitators, students take ownership of their inquiry process and build on knowledge of science concepts in a familiar yet exciting setting. 
+* strengthen their scientific thinking and reasoning abilities
+* build confidence and independence in scientific inquiry
+* cultivate scientific habits, attitudes, and dispositions
 
-### **Achievements**
+This comprehensive approach nurtures Xinminites to become innovative collaborators while developing their higher-order thinking skills.
+
+## Achievements 
 
 Our Xinminites have achieved the following top awards in national competitions in recent years:
 
-(1)	2023 Singapore Amazing Flying Machine Competition Category ‘A’ – Boomerang Award 1st Place Winners
+**2024**
 
-(2)	2023 Raffles Science Olympiad – Merit Award
+**Singapore Primary Science Olympiad** – 2 Silver, 4 Bronze, 10 Merit Awards
 
-(3)	2023 Singapore Primary Science Olympiad – 1 Silver Award, 5 Bronze Award, 9 Merit Awards
+**2023**
 
-(4)	2022 Junior Science Whiz Challenge – Top Ten Scorers (Written Component)
+**Singapore Amazing Flying Machine Competition Category ‘A**’ – Boomerang Award 1st Place Winners
+
+**Raffles Science Olympiad** – Merit Award
+
+**Singapore Primary Science Olympiad** – 1 Silver Award, 5 Bronze Award, 9 Merit Awards
+
+**2022**
+
+**Junior Science Whiz Challenge** – Top Ten Scorers (Written Component)
+
+Updated as of Mar 2025

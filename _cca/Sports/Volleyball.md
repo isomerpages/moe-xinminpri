@@ -9,48 +9,48 @@ variant: markdown
 
 # **Mission & Key Programmes:**
 
-Volleyball CCA in Xinmin Primary School aims to impart the necessary volleyball skills and mold our students to be resilient individuals as lifelong learners.
 
-While the development of individual skills is important, we also aim to develop our Xinminites’ collaboration skills during trainings and competitions. Besides emphasising the importance of school core values, we also focus on tenacity, sportsmanship and respect.
+Volleyball CCA in Xinmin Primary School aims to impart necessary volleyball skills and mould our students into resilient, lifelong learners.
 
-Although our players join the sport with differences in ability, they learn the importance of being a collaborator while they work together as a team in pursuit of a common goal. These values cultivated through the sport help players build and shape their characters to be a good team player.
+While the development of individual skills is important, we also aim to develop our Xinminites' collaboration skills during training and competitions. Besides emphasising the importance of school core values, we also focus on tenacity, sportsmanship and respect.
+
+Although our players join the sport with different abilities, they learn the importance of collaboration while working together as a team in pursuit of common goals. These values, cultivated through the sport, help players build and shape their character to become good team players.
 
 ![](/images/WhatsApp_Image_2024_02_22_at_4_08_16_PM.jpg)
 
 ### Teachers-in-Charge
 
-Miss Syasya (Overall-in-charge)
+Miss Syasya (1st IC)
 
-Mr M Muruggapan (2nd-in-charge)
+Mrs Shaevah Pannir S. Shanker (2nd IC)
 
-Mr Tan Hoe Tsong
-
-Mrs Shaevah Pannir-Shanker 
+Mrs Jodene New
 
 
 
 ### Schedule
 
-Mondays, 2.30p.m - 4.30p.m (P6, P5)
+Monday 2.30 p.m. – 4.30 p.m. (P6 & P5)
 
-Tuesdays, 4.00p.m - 5.30p.m (P6, P4)
-
-### **Achievements**
+Monday 4.00 p.m. – 5.30 p.m. (P6 & P4)
 
 
-National School Games Volleyball Championship 2022
+### Achievements
 
-·       Junior Girls: Tier 2 - 2nd Placing
+**2024**
 
-National School Games Volleyball Championship 2023
+National School Games Volleyball Championship
+* Senior Girls: League 3 – Top 10
+* Junior Girls: Tier 1 – Top 12
 
-·       Junior Girls: Tier 2 – 1st Placing
+**2023**
 
-National School Games Volleyball Championship 2024
+National School Games Volleyball Championship
+* Junior Girls: Tier 2 – 1st Placing
 
-·       Senior Girls: League 3 – Top 10
+**2022**
 
-·       Junior Girls: Tier 1 – Top 12
+National School Games Volleyball Championship
+* Junior Girls: Tier 2 - 2nd Placing
 
-
-![](/images/WhatsApp_Image_2024_02_22_at_4_08_58_PM.jpg)
+Updated as of Mar 2025

@@ -15,34 +15,42 @@ Every Xinminite, a **physically educated** child.
 
 Nurturing the **Passion** for **Sports**.
 
-## **PE Curriculum focus to develop Xinminites to be:**
+### PE Curriculum aims to develop Xinminites to be:
 
-·       Self-directed learners by participating in all PE activities so that they can lead a physically active lifestyle in and beyond school.
+* Self-directed learners who participate actively in all PE activities, enabling them to lead a physically active lifestyle both in school and beyond.
 
-·       Active participants working collaboratively through various team activities in PE lessons, teaching pedagogies such as Sports Education and inter-class competitions
+* Active participants who work collaboratively through various team activities during PE lessons, engaging in teaching pedagogies such as Sports Education and participating in inter-class competitions.
 
-·       Confident leaders in PE lessons and sports activities as PE Monitors, Sports leaders and PE group leaders. They are given centralised and de-centralised training to assist the PE teacher during and after lessons, leading the class in warm up and cool down exercises, captaining their PE groups in intra and inter-class games.
+* Confident leaders in PE lessons and sports activities through roles as PE Monitors, Sports Leaders and PE Group Leaders. These students receive centralised and de-centralised training to assist PE teachers during and after lessons, lead their classes in warm-up and cool-down exercises, and captain their PE groups in intra- and inter-class games.
 
-## **PE Signature Programmes:**
+Through PE lessons and sports-related programmes, our mission is to nurture a passion for sports in every child. Students not only learn essential physical skills but also have opportunities to develop into innovative collaborators through activities such as devising strategies for team sports.
 
-### **Sports Carnival**
 
-Sports Carnival is the major event for both students and the PE Department. It is the time where students showcase the skills they learn in PE lessons and celebrate their newly founded knowledge. This is also the platform where the classes, led by the confident PE leaders, show their class spirit, and play to the best of their abilities.
+# **Key Programmes**
+
+### Sports Carnival
+
+The Sports Carnival is a major event for both students and the PE Department. During this carnival, students showcase the skills they have acquired in PE lessons and celebrate their newfound knowledge. It also serves as a platform where classes, led by their confident PE leaders, display their class spirit and perform to the best of their abilities.
 
 ![](/images/Sports_Carnival_2.jpg)
 
-### **P5 Outdoor Adventure Learning Camp**
+### P3 Swimsafer Programme
 
-A niche program that encapsulates the outdoor education of Xinmin Primary School. It has a evolved into a program where students also learn about a green and sustainable environment and growth mindset. The students work together to overcome challenges in an unfamiliar setting.
-
-![](/images/P5_Camp_3.jpg)
-
-### **Swimsafer Programme**
-
-SwimSafer 2.0 programme is an important component of movement education in the PE syllabus dedicated to equip students with essential water safety knowledge and self-preservation skills. It aims to develop fundamental swimming abilities in eight sessions of 90 minutes each.
+The SwimSafer 2.0 Programme is an essential component of movement education in the PE syllabus. It is designed to equip students with essential water safety knowledge and self-preservation skills. Through eight 90-minute sessions, the programme aims to develop students' fundamental swimming abilities.
 
 ![](/images/SwimSafer1.jpg)
 
-### **Unstructured Recess Play**
+### P5 Outdoor Adventure Camp
 
-An informal platform to encourage students to keep fit and increase physical activity, recess play provides opportunities for them to apply the value of lifelong learning to pursue health and physical activeness beyond the classroom.
+The P5 Camp is a niche programme that exemplifies outdoor education at Xinmin Primary School. It provides students with opportunities to learn about environmental sustainability while developing a growth mindset. Through various activities, students collaborate to overcome challenges in an unfamiliar setting.
+
+![](/images/P5_Camp_2__new_.jpg)
+
+
+### Unstructured Recess Play
+
+Unstructured recess play serves as an informal platform that enhances both physical activity and social development. During this time, students take charge of organising their own games and activities, developing leadership abilities and collaborative skills. These student-initiated interactions create meaningful opportunities for teamwork, problem-solving, and navigating social situations in an authentic setting. 
+
+When given choices in their play activities, students build physical fitness while strengthening their social confidence and peer relationships. The informal yet enriching environment encourages students to develop essential skills in physical activity, social interaction, and self-directed learning that extend well beyond the classroom.
+
+Updated as of Mar 2025
