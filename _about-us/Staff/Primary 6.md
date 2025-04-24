@@ -151,20 +151,6 @@ variant: tiptap
 <p>6D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kee Beng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6D Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_kee_beng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Fun Kai Tien</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,6 +158,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>fun_kai_tien@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharon Woo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sharon_woo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
