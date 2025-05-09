@@ -72,20 +72,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Umarrudin Selamat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Trainer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ang Sock Khim Candy</p>
 </td>
 <td rowspan="1" colspan="1">
