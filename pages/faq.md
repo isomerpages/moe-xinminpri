@@ -23,18 +23,33 @@ The staff from the student care will contact you to inform you of the outcome of
 
 **4.When can parents / guardians enter the school to buy things from the bookshop?**
 
-Parents may go to the school bookshop on Mondays to Fridays from 8.30 am to 9.15 am.
+Parents may go to the school bookshop on Mondays to Fridays from 8.30 am to 9.00 am.
 
 **5\. Where can parents buy the school uniform from?**
 
-Parents may buy the school uniform from the school bookshop or from Jeep Sing Fashion.
+Parents may buy the school uniform from the school bookshop or from Magdalene Sewing Centre Pte Ltd.
 
-Address of Jeep Sing Fashion:
+Address of Magdalene Sewing Centre Pte Ltd:
 
-4012 Ang Mo Kio Ave 10   
-Techplace 1 #01-08/09   
-S(569628)    
+Tech Place II
+5000 Ang Mo Kio Ave 5 
+#05-09, S(569870)
 
-Tel no: 64563198
+Bus Station 54509
+(after 5000 Ang Mo Kio Ave 5)
+Bus Service No:
+50, 72, 88, 159, 268
 
-Updated as of Jan 2025
+Bus Station 56451
+(Opposite Techplace II)
+Bus service No:
+50, 72, 88, 159
+
+
+
+CONTACT DETAILS
+P: 62935840
+P: 8638 0499 (whatapps only)
+E: info@magdalene.com.sg
+
+Updated as of May 2025
