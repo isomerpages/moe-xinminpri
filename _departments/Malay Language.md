@@ -11,7 +11,7 @@ variant: tiptap
 <p>Every Malay Language student, an effective communicator who is passionate
 and appreciates the language and culture.</p>
 <h1><strong>Mission</strong></h1>
-<p>Every Malay student develops a strong foundation in the Malay language
+<p>Every Malay Language student develops a strong foundation in the language
 and culture</p>
 <h1><strong>Key Programmes</strong></h1>
 <p>At Xinmin Primary, our Malay department emphasises four key learning skills:
