@@ -37,7 +37,7 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 25_07_02 |   Book Wrap (MT Books)- 12 Sessions   | 1/7/2025 to 30/7/2025 |
 | 25_07_03 |   Magic Story Time (Lower Block) (Chinese)  | 9/7/2025  |
 | 25_07_04 |   Before The Bell Ring (Middle Block) - 4 Sessions   | 10/7/2025 to 31/7/2025  |
-| 25_07_05 |  Magic Story Time (Lower Block) (Tamil)   | 17/4/2025  |
+| 25_07_05 |  Magic Story Time (Lower Block) (Tamil)   | 16/7/2025  |
 | 25_07_06 | P4AF Learning Journey (KAHG) | 16/7/2025 |
 | 25_07_07 |   Racial Harmony Day (1) | 17/7/2025 |
 | 25_07_08 |  Racial Harmony Day (2)  | 18/7/2025  |
