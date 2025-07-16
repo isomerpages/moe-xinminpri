@@ -53,13 +53,15 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 25_07_18 |  P4 CLIP | 31/7/2025  |
 | 25_08_01 | Book Wrap (MT Books)- 2 Sessions | 1/8/2025 and 8/8/2025 |
 | 25_08_02 |  Magic Story Time (Lower Block) (English) | 6/8/2025 and 20/8/2025 |
-| 25_08_03 |   Magic Story Time (Lower Block) (Chinese)  | 9/7/2025  |
-| 25_08_04 |   Before The Bell Ring (Middle Block) - 4 Sessions   | 10/7/2025 to 31/7/2025  |
-| 25_08_05 |  Magic Story Time (Lower Block) (Tamil)   | 17/4/2025  |
-| 25_08_06 | P4AF Learning Journey (KAHG) | 16/7/2025 |
-| 25_08_07 |   Racial Harmony Day (1) | 17/7/2025 |
-| 25_08_08 |  Racial Harmony Day (2)  | 18/7/2025  |
+| 25_08_03 |   Before The Bell Ring (Middle Block) - 3 Sessions  | 7/8/2025 to 21/8/2025 |
+| 25_08_04 |   P6 Time Based Practice (MA)   | 1/8/2025  |
+| 25_08_05 |  P6 Time Based Practice (SC)  | 4/8/2025  |
+| 25_08_06 | P4 CLIP | 22/8/2025 |
+| 25_08_07 |   Catch Me Good Redemption(2) | 22/8/2025 |
+| 25_08_08 |  P5CD Learning Journey (IHC)  | 26/8/2025  |
+| 25_09_01 |  Teacher's Day Celebration  | 4/9/2025  |
 
 
 
-Updated as of Mar 2025
+
+Updated as of July 2025
