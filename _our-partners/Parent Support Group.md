@@ -42,12 +42,12 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 25_07_07 |   Racial Harmony Day (1) | 17/7/2025 |
 | 25_07_08 |  Racial Harmony Day (2)  | 18/7/2025  |
 | 25_07_09 |  Racial Harmony Day (3)  | 21/7/2025  |
-| 25_04_10 |  Lower Block Reading Program (2)   | 30/4/2025  |
-| 25_05_01 |  Lower Block Reading Program (3)   | 14/5/2025  |
-| 25_05_02 | Catch Me Good Redemption(2)   | 15/5/2025  |
-| 25_05_03 |  P5BF Museum-based Learning Journey   | 22/5/2025  |
-| 25_05_04 | P3 CLIP   | 23/5/2025  |
-| 25_05_05 |  Lower Block Reading Program (4)   | 28/5/2025  |
+| 25_07_10 |  Magic Story Time (Lower Block) (Malay)   | 23/7/2025  |
+| 25_07_11 |  P4BD Learning Journey (KAHG)  | 23/7/2025 |
+| 25_07_12 | Catch Me Good Redemption(1) | 24/7/2025  |
+| 25_07_13 |  P4CE Learning Journey (KAHG) | 25/7/2025  |
+| 25_07_14 | P4AB Magic | 25/7/2025  |
+| 25_07_15 |  P4 NAPFA (1.6km) | 28/7/2025  |
 
 
 
