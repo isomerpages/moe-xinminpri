@@ -32,16 +32,16 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-| 25_03_01  |   P4 Cultural Performance Exposure   | 28/3/2025     |
-| 25_04_01 |  P5AE Museum-based Learning Journey  | 1/4/2025   |
-| 25_04_02 |   P4AE Art Learning Journey   | 2/4/2025  |
-| 25_04_03 |   P4CF Art Learning Journey   | 16/4/2025  |
-| 25_04_04 |   Lower Block Reading Program (1)    | 16/4/2025  |
-| 25_04_05 |  P4 CLIP   | 17/4/2025  |
-| 25_04_06 | P4BD Art Learning Journey   | 23/4/2025 |
-| 25_04_07 |   Catch Me Good Redemption(1)   | 24/4/2025 |
-| 25_04_08 |  P6 NAPFA   | 28/4/2025  |
-| 25_04_09 |  Anti-bully Campaign  | 28/4/2025  |
+| 25_06_01  |   P4ABE Road Safety   | 30/6/2025     |
+| 25_07_01 |  P4CDF Road Safety  | 3/7/2025   |
+| 25_07_02 |   Book Wrap (MT Books)- 12 Sessions   | 1/7/2025 to 30/7/2025 |
+| 25_07_03 |   Magic Story Time (Lower Block) (Chinese)  | 9/7/2025  |
+| 25_07_04 |   Before The Bell Ring (Middle Block) - 4 Sessions   | 10/7/2025 to 31/7/2025  |
+| 25_07_05 |  Magic Story Time (Lower Block) (Tamil)   | 17/4/2025  |
+| 25_07_06 | P4AF Learning Journey (KAHG) | 16/7/2025 |
+| 25_07_07 |   Racial Harmony Day (1) | 17/7/2025 |
+| 25_07_08 |  Racial Harmony Day (2)  | 18/7/2025  |
+| 25_07_09 |  Racial Harmony Day (3)  | 21/7/2025  |
 | 25_04_10 |  Lower Block Reading Program (2)   | 30/4/2025  |
 | 25_05_01 |  Lower Block Reading Program (3)   | 14/5/2025  |
 | 25_05_02 | Catch Me Good Redemption(2)   | 15/5/2025  |
