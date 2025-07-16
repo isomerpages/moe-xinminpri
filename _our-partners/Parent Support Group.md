@@ -51,8 +51,8 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
  25_07_16 |  Magic Story Time (Lower Block) (Chinese) | 30/7/2025 |
 | 25_07_17 | P6 Time Based Practice (EL)| 30/7/2025  |
 | 25_07_18 |  P4 CLIP | 31/7/2025  |
-| 25_07_14 | P4AB Magic | 25/7/2025  |
-| 25_07_15 |  P4 NAPFA (1.6km) | 28/7/2025  |
+| 25_08_01 |  | 25/7/2025  |
+| 25_08_02 |  P4 NAPFA (1.6km) | 28/7/2025  |
 
 
 
