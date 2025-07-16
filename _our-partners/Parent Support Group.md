@@ -56,7 +56,7 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 25_08_03 |   Before The Bell Ring (Middle Block) - 3 Sessions  | 7/8/2025 to 21/8/2025 |
 | 25_08_04 |   P6 Time Based Practice (MA)   | 1/8/2025  |
 | 25_08_05 |  P6 Time Based Practice (SC)  | 4/8/2025  |
-| 25_08_06 | P4 CLIP | 22/8/2025 |
+| 25_08_06 | P5 CLIP | 22/8/2025 |
 | 25_08_07 |   Catch Me Good Redemption(2) | 22/8/2025 |
 | 25_08_08 |  P5CD Learning Journey (IHC)  | 26/8/2025  |
 | 25_09_01 |  Teacher's Day Celebration  | 4/9/2025  |
