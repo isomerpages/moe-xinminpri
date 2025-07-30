@@ -207,20 +207,6 @@ variant: tiptap
 <p>5F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Annuratha Veilathurai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5F Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>annuratha_veilathurai@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Rosnani&nbsp; Bte Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,6 +214,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>rosnani_yusof@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lau Shu Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lau_shu_mei@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
