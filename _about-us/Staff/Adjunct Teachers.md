@@ -26,17 +26,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Sharon Woo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT (Maths/Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Melinda Ashleigh Lim-Sim Li Yi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Soi Lan</p>
+<p>Ms Pang Lin Hua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FAJT (Chinese)</p>
@@ -125,21 +114,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Nancy Tan-Tung Lay Theng</p>
+<p>Ms Farhanah Binte Muhammed Ikram</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FAJT (English/Maths/Social Studies)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Eleanor Tan Yi Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT (Maths/Science)</p>
+<p>FAJT (English/Math/Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>xinmin_ps@moe.edu.sg</p>
@@ -191,29 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Hoe Tsong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT (Chinese)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Amin-Aisah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT (Tamil)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Lay Hwa</p>
+<p>Mdm Lim Lay Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FAJT (Chinese)</p>
