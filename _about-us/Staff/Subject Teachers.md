@@ -116,14 +116,6 @@ variant: tiptap
 <p>ruth_josephine_arul_soosay@schools.gov.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Liu Swee Yen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>liu_swee_yen@schools.gov.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
