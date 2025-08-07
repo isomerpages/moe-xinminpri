@@ -95,20 +95,6 @@ variant: tiptap
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Norazimah Junari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3B Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norazimah_md_shariff@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Norliana Bte Ahmad Norli</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,6 +102,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>norliana_ahmad_norli@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gracia Lee Jia Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -200,6 +200,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>aneesa_faruvin_mohd_ibrahim@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Myyher Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

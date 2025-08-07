@@ -204,6 +204,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Soon Sock Hian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,7 +235,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nancy Tan-Tung Lay Theng</p>
+<p>Ms Farhanah Binte Muhammaed Ikram</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2F Form Teacher</p>
