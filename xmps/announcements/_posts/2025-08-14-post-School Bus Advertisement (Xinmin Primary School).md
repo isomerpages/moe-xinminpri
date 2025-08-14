@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3><strong>School Bus Advertisment</strong></h3>
+<h3><strong>School Bus Advertisement</strong></h3>
 <p></p>
 <p>To apply,<strong> </strong>please refer to the Service Requirements and
 the Application Procedure below.</p>
@@ -57,11 +57,11 @@ the School’s General Office.</p>
 <p>Bus Services:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>74, 112, 147, 165 <em>(Xinmin Primary School, Bus Stop Code 63381) </em></strong>
+<p><strong>74, 112, 147, 165 <em>(Xinmin Primary School, Bus Stop Code 63381)</em></strong>
 </p>
 </li>
 <li>
-<p><strong>74, 112, 147, 165 <em>(Opp Xinmin Primary School, Bus Stop Code 63389) </em></strong>
+<p><strong>74, 112, 147, 165 <em>(Opp Xinmin Primary School, Bus Stop Code 63389)</em></strong>
 </p>
 </li>
 </ul>
