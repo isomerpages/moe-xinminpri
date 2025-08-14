@@ -24,7 +24,7 @@ the Application Procedure below.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.kemingpri.moe.edu.sg/files/2__Information_from_Vendor__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Complete the&nbsp;Call for Proposal - Annex A&nbsp;(Information Required from Vendor)</u></a>
+<p><a href="xxx" rel="noopener noreferrer nofollow" target="_blank"><u>Complete the&nbsp;Call for Proposal - Annex A&nbsp;(Information Required from Vendor)</u></a>
 </p>
 </li>
 <li>
@@ -51,20 +51,18 @@ the School’s General Office.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest Mrt station: Hougang / Kovan</p>
+<p>Nearest Mrt station: Hougang (NE14) / Kovan (NE13)</p>
 </li>
 <li>
 <p>Bus Services:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>173</strong>&nbsp;(Bukit Batok Street 21)</p>
+<p><strong>74, 112, 147, 165 <em>(Xinmin Primary School, Bus Stop Code 63381) </em></strong>
+</p>
 </li>
 <li>
-<p><strong>66, 990</strong>&nbsp;(Bukit Batok East Ave 6)</p>
-</li>
-<li>
-<p><strong>61, 77, 106, 157, 174, 178, 506, 852, 963, 990 </strong>(Bukit
-Batok East Ave 3)</p>
+<p><strong>74, 112, 147, 165 <em>(Opp Xinmin Primary School, Bus Stop Code 63389) </em></strong>
+</p>
 </li>
 </ul>
 </li>
