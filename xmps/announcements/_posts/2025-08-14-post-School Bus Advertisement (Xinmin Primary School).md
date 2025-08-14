@@ -16,7 +16,16 @@ the Application Procedure below.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="https://go.gov.sg/xmpsbusadvertisementcallforporposal" rel="noopener nofollow" target="_blank">Call for Proposal</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/xmpsbusadtermsandconditions" rel="noopener nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/xmpsbusadvertisementrequestforschoolbusservices" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
+</p>
 </li>
 </ol>
 <p></p>
@@ -24,7 +33,7 @@ the Application Procedure below.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="xxx" rel="noopener noreferrer nofollow" target="_blank"><u>Complete the&nbsp;Call for Proposal - Annex A&nbsp;(Information Required from Vendor)</u></a>
+<p><a href="https://go.gov.sg/xmpsbusadvertisementcallforporposal" rel="noopener noreferrer nofollow" target="_blank"><u>Complete the&nbsp;Call for Proposal - Annex A&nbsp;(Information Required from Vendor)</u></a>
 </p>
 </li>
 <li>
