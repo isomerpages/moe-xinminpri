@@ -28,7 +28,7 @@ the Application Procedure below.</p>
 </p>
 </li>
 <li>
-<p>Submit the completed Call for Proposal – Annex A&nbsp;by the closing date&nbsp;<u>XXX 2025</u>&nbsp;to
+<p>Submit the completed Call for Proposal – Annex A&nbsp;by the closing date&nbsp;<u>26 August 2025</u>&nbsp;to
 the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
