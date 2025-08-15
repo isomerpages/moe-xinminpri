@@ -16,7 +16,6 @@ The establishment of School Advisory Committees (SAC) reflects the Ministry of E
 | Mr Chew Ban Eng Stephen     | Chairman     |
 | Mr Loh Chee Wai Felix   | Vice-Chairman     |
 | Mrs Judy Lim     | Honorary Secretary     |
-| Mr Lee Hong Chuang     | Member     |
 | Ms Simran Kaur Toor    | Member     |
 | Dr Chow U-Jin     | Member     |
 | Dr Leong Jern-Lin     | Member     |
