@@ -56,26 +56,6 @@ the School’s General Office.</p>
 </ul>
 </li>
 </ol>
-<p><strong>How to get to Xinmin Primary School?</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nearest Mrt station: Hougang (NE14) / Kovan (NE13)</p>
-</li>
-<li>
-<p>Bus Services:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>74, 112, 147, 165 <em>(Xinmin Primary School, Bus Stop Code 63381)</em></strong>
-</p>
-</li>
-<li>
-<p><strong>74, 112, 147, 165 <em>(Opp Xinmin Primary School, Bus Stop Code 63389)</em></strong>
-</p>
-</li>
-</ul>
-</li>
-</ul>
 <p></p>
 <p><a href="https://www.kemingpri.moe.edu.sg/school-canteen-advertisement/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
