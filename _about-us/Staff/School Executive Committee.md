@@ -313,17 +313,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kee Beng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_kee_beng@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Ngo-Lau Shu Mei</p>
 </td>
 <td rowspan="1" colspan="1">
