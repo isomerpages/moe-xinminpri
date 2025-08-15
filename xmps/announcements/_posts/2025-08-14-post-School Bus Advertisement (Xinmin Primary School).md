@@ -33,7 +33,7 @@ the Application Procedure below.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/xmpsbusadvertisementcallforporposal" rel="noopener noreferrer nofollow" target="_blank"><u>Complete the&nbsp;Call for Proposal - Annex A&nbsp;(Information Required from Vendor)</u></a>
+<p><a href="https://go.gov.sg/xmpsinformationfromvendor" rel="noopener noreferrer nofollow" target="_blank"><u>Complete the&nbsp;Call for Proposal - Annex A&nbsp;(Information Required from Vendor)</u></a>
 </p>
 </li>
 <li>
