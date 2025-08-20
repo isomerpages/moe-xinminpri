@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Julia Edison</p>
+<p>Mrs Ahkeela Julia Edison</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
@@ -309,17 +309,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_amilia_abdul_rahim@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Kee Beng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head / Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_kee_beng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
