@@ -270,14 +270,14 @@ For distances more than 4km, the price will be based on an agreement between par
 
 <table><tbody><tr><td width="169">Telephone</td><td width="426">82988540</td></tr><tr><td width="169">Website</td><td width="426"><a href="https://www.nascans.com">https://www.nascans.com</a></td></tr><tr><td width="169">Email</td><td width="426"><a href="mailto:xmscc@nascans.com">xmscc@nascans.com</a></td></tr><tr><td width="169"></td></tr></tbody></table>
 
-School Dental Clinic:
+# School Dental Clinic:
 ---------------------
 
 &nbsp; &nbsp;Tel: 8764 3972
 
 *   [Child Online Consent Portal](https://consent.hpb.gov.sg/)
 
-School Insurance:
+# School Insurance:
 -----------------
 
 ### &nbsp;**NTUC Income**
