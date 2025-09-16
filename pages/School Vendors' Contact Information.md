@@ -46,6 +46,12 @@ variant: markdown
 <table width="715" border="1" style="height: 158px;"><tbody><tr><td style="width: 186px;"><strong>Contact Person</strong></td><td style="width: 34px;">:</td><td style="width: 473px;">Mr KH Ng</td></tr><tr><td style="width: 186px;"><strong>Telephone</strong></td><td style="width: 34px;">:</td><td style="width: 473px;">62819003<p>&nbsp;</p><p>96659003</p></td></tr><tr><td style="width: 186px;"><strong>E-mail</strong></td><td style="width: 34px;">:</td><td style="width: 473px;"><a href="mailto:info@khngbus.com.sg">info@khngbus.com.sg</a> or <a href="mailto:khng.bus.service@gmail.com"><u>khng.bus.service@gmail.com</u></a></td></tr></tbody></table>
 
      
+| | | 
+| -------- | -------- | 
+|Contact Person | Mr KH Ng
+|Telephone: | 62819003|
+|Email: |info@khngbus.com.sg
+		 
 
 ### Bus fares applicable from 1 January 2024 to 31 December 2025:
 
