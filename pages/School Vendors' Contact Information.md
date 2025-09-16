@@ -4,7 +4,7 @@ permalink: /school-vendors/
 description: ""
 variant: markdown
 ---
-School Books Supplier:
+# School Books Supplier:
 ----------------------
 
 ### &nbsp;**Pacific Bookstores**
@@ -22,7 +22,7 @@ School Books Supplier:
 
 
 
-School Uniform :
+# School Uniform :
 ----------------
 
 ### **Magdalene Sewing Centre Pte Ltd**
@@ -38,10 +38,10 @@ School Uniform :
 |Home delivery service charge: |$8 - $15 |
 
 
-School Bus Services:
+# School Bus Services:
 --------------------
-
-### &nbsp;**K.H. Ng Bus Transport Service**
+##### Currently still in service as of 16 Sep 2025. Please refer below for the school bus services for 2026. 
+### &nbsp;**K.H. Ng Bus Transport Service (till Dec 2025)**
 
 <table width="715" border="1" style="height: 158px;"><tbody><tr><td style="width: 186px;"><strong>Contact Person</strong></td><td style="width: 34px;">:</td><td style="width: 473px;">Mr KH Ng</td></tr><tr><td style="width: 186px;"><strong>Telephone</strong></td><td style="width: 34px;">:</td><td style="width: 473px;">62819003<p>&nbsp;</p><p>96659003</p></td></tr><tr><td style="width: 186px;"><strong>E-mail</strong></td><td style="width: 34px;">:</td><td style="width: 473px;"><a href="mailto:info@khngbus.com.sg">info@khngbus.com.sg</a> or <a href="mailto:khng.bus.service@gmail.com"><u>khng.bus.service@gmail.com</u></a></td></tr></tbody></table>
 
@@ -217,11 +217,48 @@ School Bus Services:
   mso-fareast-language:EN-SG">$241.00</span></p></td></tr></tbody></table>
  
  
- <br>
-  <br>
-	 <br>
-	 
-	 
+
+	        
+
+# New School Bus Fare with effect from 1 January 2026:
+
+### **DETAILS OF BUS OPERATOR AND BUS FARES**
+
+<table style="width:634.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 0cm 0cm 0cm" width="845" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Name of Company / Operator:</p></td><td style="border:solid windowtext 1.0pt;border-left:none;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">JNB Travel Pte Ltd</p></td></tr><tr style="mso-yfti-irow:1"><td style="border:solid windowtext 1.0pt;border-top:none;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Contact Person</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Mr Benjamin Lim</p><p class="MsoNormal">Mr Bryton Lim</p></td></tr><tr style="mso-yfti-irow:2"><td style="border:solid windowtext 1.0pt;border-top:none;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Email address:</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal"><a href="mailto:jnbtravel@outlook.com">jnbtravel@outlook.com</a></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="border:solid windowtext 1.0pt;border-top:none;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Tel:</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">8858 2922</p><p class="MsoNormal">8910 2922</p></td></tr></tbody></table>
+
+A.&nbsp;&nbsp;&nbsp;&nbsp;Not to Exceed Price for sending students from their Drop-off Address, Pickup Address or Common Location (as the case may be) to each School and vice versa.
+
+<table style="width:634.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 0cm 0cm 0cm" width="845" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid windowtext 1.0pt;background:
+  #A6A6A6;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" rowspan="2"><p class="MsoNormal"><span style="color:black">Distance Range Category</span></p></td><td style="border:solid windowtext 1.0pt;border-left:
+  none;background:#A6A6A6;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" colspan="2"><p class="MsoNormal"><span style="color:black">Up to 15-seaters</span></p></td><td style="border:solid windowtext 1.0pt;border-left:
+  none;background:#A6A6A6;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" colspan="2"><p class="MsoNormal"><span style="color:black">&gt;15-seaters</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;background:#A6A6A6;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal"><span style="color:black">1-way</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;background:#A6A6A6;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal"><span style="color:black">2-way</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;background:#A6A6A6;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal"><span style="color:black">1-way</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;background:#A6A6A6;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal"><span style="color:black">2-way</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="border:solid windowtext 1.0pt;border-top:none;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Up to 2km</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">$160</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">$170</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">$160</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">$170</p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="border:solid windowtext 1.0pt;border-top:none;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">&gt;2 – 4km</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">$190</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">$200</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">$190</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">$200</p></td></tr></tbody></table>
+
+For distances more than 4km, the price will be based on an agreement between parents and bus vendor.
+
+
 
 # Student Care Services:
 ----------------------
