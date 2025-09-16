@@ -38,18 +38,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Cecilia Bose</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jessica_cecilia_bose@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_cecilia_bose@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Lim Siew Lian</p>
 </td>
 <td rowspan="1" colspan="1">
