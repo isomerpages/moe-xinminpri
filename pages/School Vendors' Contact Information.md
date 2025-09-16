@@ -219,6 +219,9 @@ variant: markdown
  
 
 	        
+					
+					
+
 
 # New School Bus Fare with effect from 1 January 2026:
 
@@ -263,7 +266,7 @@ For distances more than 4km, the price will be based on an agreement between par
 # Student Care Services:
 ----------------------
 
-### **SCHOOL-BASED STUDENT CARE CENTRE – NASCANS **
+### SCHOOL-BASED STUDENT CARE CENTRE – NASCANS 
 
 <table><tbody><tr><td width="169">Telephone</td><td width="426">82988540</td></tr><tr><td width="169">Website</td><td width="426"><a href="https://www.nascans.com">https://www.nascans.com</a></td></tr><tr><td width="169">Email</td><td width="426"><a href="mailto:xmscc@nascans.com">xmscc@nascans.com</a></td></tr><tr><td width="169"></td></tr></tbody></table>
 
