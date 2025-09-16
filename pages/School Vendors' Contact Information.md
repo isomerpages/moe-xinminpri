@@ -228,7 +228,7 @@ variant: markdown
 ### **DETAILS OF BUS OPERATOR AND BUS FARES**
 
 
-<table style="width:634.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+<p></p><table style="width:634.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 0cm 0cm 0cm" width="845" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Name of Company / Operator:</p></td><td style="border:solid windowtext 1.0pt;border-left:none;
   padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">JNB Travel Pte Ltd</p></td></tr><tr style="mso-yfti-irow:1"><td style="border:solid windowtext 1.0pt;border-top:none;
   padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Contact Person</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
@@ -236,18 +236,8 @@ variant: markdown
   padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Email address:</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
   border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal"><a href="mailto:jnbtravel@outlook.com">jnbtravel@outlook.com</a></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="border:solid windowtext 1.0pt;border-top:none;
   padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Tel:</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">8858 2922</p><p class="MsoNormal">8910 2922</p></td></tr></tbody></table>
+  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">8858 2922</p>8910 2922</td></tr></tbody></table>
 
-
-<table style="width:634.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0cm 0cm 0cm 0cm" width="845" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Name of Company / Operator:</p></td><td style="border:solid windowtext 1.0pt;border-left:none;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">JNB Travel Pte Ltd</p></td></tr><tr style="mso-yfti-irow:1"><td style="border:solid windowtext 1.0pt;border-top:none;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Contact Person</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="">Mr Benjamin Lim</p>Mr Bryton Lim</td></tr><tr style="mso-yfti-irow:2"><td style="border:solid windowtext 1.0pt;border-top:none;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Email address:</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal"><a href="mailto:jnbtravel@outlook.com">jnbtravel@outlook.com</a></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="border:solid windowtext 1.0pt;border-top:none;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top"><p class="MsoNormal">Tel:</p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:6.0pt 9.0pt .0pt 9.0pt" valign="top"><p class="MsoNormal">8858 2922</p>8910 2922<p></p></td></tr></tbody></table>
 
 A.  Not to Exceed Price for sending students from their Drop-off Address, Pickup Address or Common Location (as the case may be) to School and vice versa
 
