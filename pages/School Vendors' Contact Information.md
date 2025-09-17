@@ -318,7 +318,7 @@ variant: tiptap
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jnbtravel@outlook.com" rel="noopener noreferrer nofollow" target="_blank">jnbtravel@outlook.com</a>
+<p><a href="mailto:jnbtravel@outlook.com" rel="noopener noreferrer nofollow" target="_blank">xmps@jnbtravel.sg</a>
 </p>
 </td>
 </tr>
@@ -327,8 +327,7 @@ variant: tiptap
 <p>Tel:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8858 2922
-<br>8910 2922</p>
+<p>89152922</p>
 </td>
 </tr>
 </tbody>
