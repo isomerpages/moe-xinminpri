@@ -407,7 +407,7 @@ versa</p>
 </tbody>
 </table>
 <p>For distances more than 4km, the price will be based on an agreement between
-parents and bus vendor.</p>
+parents and bus operator.</p>
 <h1>Student Care Services:</h1>
 <hr>
 <h3>SCHOOL-BASED STUDENT CARE CENTRE – NASCANS</h3>
