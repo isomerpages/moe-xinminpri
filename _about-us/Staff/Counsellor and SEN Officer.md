@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<h1><em>Counsellor and SEN Officer</em></h1>
+<h1><em>Counsellor and SEN Officers</em></h1>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
