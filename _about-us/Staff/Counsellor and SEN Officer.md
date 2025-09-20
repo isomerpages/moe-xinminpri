@@ -1,11 +1,11 @@
 ---
-title: Special Educational Needs Officers
-permalink: /school-organisation/special-educational-needs/
+title: Counsellor and SEN Officer
+permalink: /school-organisation/counsellor-and-seno/
 description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<h1><em>Special Educational Needs Officers</em></h1>
+<h1><em>Counsellor and SEN Officers</em></h1>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -33,18 +33,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aneesa_beham_tajudeen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aneesa_beham_tajudeen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jessica Cecilia Bose</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jessica_cecilia_bose@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_cecilia_bose@schools.gov.sg</a>
 </p>
 </td>
 </tr>
