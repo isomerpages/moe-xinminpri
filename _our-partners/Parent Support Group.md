@@ -52,4 +52,4 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 
 
 
-Updated as of July 2025
+Updated as of Sep 2025
