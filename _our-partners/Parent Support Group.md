@@ -39,14 +39,14 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 | 25_09_05 |   Pre-Children's Day Activity   | 22/9/2025  |
 | 25_09_06 |  P2AB PAL Learning Journey   | 24/9/2025  |
 | 25_09_07 | P4F Magic | 26/9/2025 |
-| 25_10_01 |   Racial Harmony Day (1) | 17/7/2025 |
-| 25_10_02 |  Racial Harmony Day (2)  | 18/7/2025  |
-| 25_10_03 |  Racial Harmony Day (3)  | 21/7/2025  |
-| 25_10_04 |  Magic Story Time (Lower Block) (Malay)   | 23/7/2025  |
-| 25_10_05 |  P4BD Learning Journey (KAHG)  | 23/7/2025 |
-| 25_10_06 | Catch Me Good Redemption(1) | 24/7/2025  |
-| 25_10_07 |  P4CE Learning Journey (KAHG) | 25/7/2025  |
-| 25_11_01 | P4AB Magic | 25/7/2025  |
+| 25_10_01 |  P2DF PAL Learning Journey | 1/10/2025 |
+| 25_10_02 |  Children's Day  | 2/10/2025  |
+| 25_10_03 |  P2CEG PAL Learning Journey  | 8/10/2025  |
+| 25_10_04 |  P6 ALP Learning Journey (1)   | 27/10/2025  |
+| 25_10_05 |  P6 ALP Learning Journey (2)  | 29/10/2025 |
+| 25_10_06 | P3DE GSHG Learning Journey  | 29/10/2025  |
+| 25_10_07 |  P3AC GSHG Learning Journey  | 31/10/2025  |
+| 25_11_01 | P3BF GSHG Learning Journey | 7/11/2025  |
 
 
 
