@@ -32,13 +32,13 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-| 25_09_01  |   P4ABE Road Safety   | 30/6/2025     |
-| 25_09_02 |  P4CDF Road Safety  | 3/7/2025   |
-| 25_09_03 |   Book Wrap (MT Books)- 12 Sessions   | 1/7/2025 to 30/7/2025 |
-| 25_09_04 |   Magic Story Time (Lower Block) (Chinese)  | 9/7/2025  |
-| 25_09_05 |   Before The Bell Ring (Middle Block) - 4 Sessions   | 10/7/2025 to 31/7/2025  |
-| 25_09_06 |  Magic Story Time (Lower Block) (Tamil)   | 16/7/2025  |
-| 25_09_07 | P4AF Learning Journey (KAHG) | 16/7/2025 |
+| 25_09_01  |  P4D Magic   | 15/9/2025     |
+| 25_09_02 |  Magic Story Time (Lower Block) (English) | 17/9/2025   |
+| 25_09_03 |   Before The Bell Ring (Middle Block)    | 18/9/2025 |
+| 25_09_04 |   P4E Magic  | 19/9/2025  |
+| 25_09_05 |   Pre-Children's Day Activity   | 22/9/2025  |
+| 25_09_06 |  P2AB PAL Learning Journey   | 24/9/2025  |
+| 25_09_07 | P4F Magic | 26/9/2025 |
 | 25_10_01 |   Racial Harmony Day (1) | 17/7/2025 |
 | 25_10_02 |  Racial Harmony Day (2)  | 18/7/2025  |
 | 25_10_03 |  Racial Harmony Day (3)  | 21/7/2025  |
