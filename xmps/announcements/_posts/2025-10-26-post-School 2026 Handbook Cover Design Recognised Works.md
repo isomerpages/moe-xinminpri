@@ -7,4 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>update shortly</p>
+<h4>Congratulations to the following students for their remarkable work on the 2026 School Handbook Design!</h4>
+<h3><strong>Grand Winner</strong></h3>
+<h4>Xavierra Jazzelle Widjaja (3C)</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/XMPS_handbook_26_front_final_2_resized.jpg">
+</div>
+<p></p>
+<h3><strong>Accomplished Entries</strong></h3>
+<p></p>
