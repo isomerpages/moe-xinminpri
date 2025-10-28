@@ -63,8 +63,28 @@ variant: tiptap
 <p></p>
 <h4>Deng Jing En (6C)</h4>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5420.jpg">
+</div>
+<p></p>
+<h4>Lee Xue En (3A)</h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5421.jpg">
+</div>
+<p></p>
+<h4>Huang Sihan (3C)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5422.jpg">
+</div>
+<h4>Xavier Oh (3C)<br></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5423.jpg">
+</div>
+<h4>Zhang Ke`en @ Setiono Amber (2E)</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5424.jpg">
 </div>
 <p></p>
