@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <h4>Congratulations to the following students for their remarkable work on the 2026 School Handbook Design!</h4>
-<h3><strong>Selected Piece for Handbook Cover</strong></h3>
+<h3><strong>Selected Artwork for Handbook 2026</strong></h3>
 <h4>Xavierra Jazzelle Widjaja (3C)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/XMPS_handbook_26_front_final_2_resized.jpg">
