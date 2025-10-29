@@ -43,8 +43,7 @@ variant: tiptap
 <p></p>
 <h3><strong>Accomplished Entries</strong></h3>
 <p></p>
-<h4>Chloe Ng (2C)</h4>
-<h4>Ada Ng (6A)</h4>
+<h4>Chloe Ng (2C) &amp; Ada Ng (6A)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5417.jpg">
 </div>
