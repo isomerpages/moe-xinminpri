@@ -27,7 +27,6 @@ variant: tiptap
 </div>
 <p></p>
 <h4>Ang Peng Sim (6D)</h4>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5427.jpg">
 </div>
@@ -38,15 +37,13 @@ variant: tiptap
 </div>
 <p></p>
 <h4>Soh Nga Ting (3A) &amp; Soh Nga Yau (1A)</h4>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5429.jpg">
 </div>
+<p></p>
 <h3><strong>Accomplished Entries</strong></h3>
 <p></p>
 <h4>Park Sarang (3E)</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5417.jpg">
 </div>
@@ -56,30 +53,26 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5418.jpg">
 </div>
 <h4>Charlotte Yeo (3B)</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5419.jpg">
 </div>
 <p></p>
 <h4>Deng Jing En (6C)</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5420.jpg">
 </div>
 <p></p>
 <h4>Lee Xue En (3A)</h4>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5421.jpg">
 </div>
 <p></p>
 <h4>Huang Sihan (3C)</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5422.jpg">
 </div>
-<h4>Xavier Oh (3C)<br></h4>
+<p></p>
+<h4>Xavier Oh (3C)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5423.jpg">
 </div>
