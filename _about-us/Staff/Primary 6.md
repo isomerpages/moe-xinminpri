@@ -171,8 +171,7 @@ variant: tiptap
 <p>6D Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:bong_fung_nyuk@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bong_fung_nyuk@schools.gov.sg</a>
-</p>
+<p>bong_fung_nyuk@schools.gov.sg</p>
 <p></p>
 </td>
 </tr>
