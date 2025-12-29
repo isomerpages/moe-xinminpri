@@ -67,13 +67,13 @@ variant: tiptap
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Santhi d/o Perumal</p>
+<p>Mrs Pagon Ong-Boh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>santhi_perumal@schools.gov.sg</p>
+<p>boh_peck_kay@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -81,13 +81,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mandy Chan</p>
+<p>Mr Quek Hsiu Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
+<p>quek_hsiu_yuan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -95,13 +95,13 @@ variant: tiptap
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hadia Syahir</p>
+<p>Mdm Rosnita Bte Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hadia_syahir@schools.gov.sg</p>
+<p>rosnita_ibrahim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -109,13 +109,28 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Shek Yan Yee&nbsp;</p>
+<p>Mdm Foo Wei Woon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shek_yan_yee@schools.gov.sg</p>
+<p>foo_wei_woon@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Farhanah Binte Muhammaed Ikram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1B Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xinmin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xinmin_ps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -123,13 +138,13 @@ variant: tiptap
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Anna Wu Su Fang</p>
+<p>Mrs Ng Marn Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wu_sufang@schools.gov.sg</p>
+<p>ng_marn_peng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -137,13 +152,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Thomas Ong Ding Yi</p>
+<p>Mdm Reshmi Rai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_ding_yi@schools.gov.sg</p>
+<p>reshmi_rai@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -151,13 +166,13 @@ variant: tiptap
 <p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Fatimah Bte O B</p>
+<p>Mrs Lau-Lee Peixia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1D Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_fatimah_omar_bakri@schools.gov.sg</p>
+<p>lee_peixia@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +180,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Tai Jee Leng</p>
+<p>Mr Khairulharis Bin Karem</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1D Form Teacher</p>
