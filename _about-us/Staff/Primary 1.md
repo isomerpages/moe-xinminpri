@@ -27,13 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Thomas Ong Ding Yi</p>
+<p>Mdm Rosnita Bte Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head - Covering (P1)</p>
+<p>Assistant Year Head (P1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_ding_yi@schools.gov.sg</p>
+<p>rosnita_ibrahim@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
