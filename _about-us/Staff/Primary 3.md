@@ -138,13 +138,13 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Arden Lim Kangxiang</p>
+<p>Mrs Farah Ritz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_kang_xiang_arden@schools.gov.sg</p>
+<p>farah_amir_hamzah@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -152,13 +152,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Xiao Hua&nbsp;</p>
+<p>Mr Koh Chi Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wang_xiaohua@schools.gov.sg</p>
+<p>koh_chi_wei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -166,13 +166,13 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Syasya Syafiqah Binte Roslee</p>
+<p>Mr Lim Beng Liang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3D Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>syasya_syafiqah_roslee@schools.gov.sg</p>
+<p>lim_beng_liang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -180,13 +180,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wendy Chua-Quek&nbsp;</p>
+<p>Mrs Celine Ong-Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3D Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
+<p>lim_celine@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -194,13 +194,13 @@ variant: tiptap
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jodene Yow-New Xin Yi</p>
+<p>Mrs Vijay-T Sumathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3E Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>new_xin_yi_jodene@schools.gov.sg</p>
+<p>t_sumathy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -208,27 +208,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Aneesa Faruvin</p>
+<p>Mdm Gabrielle Lim Huiwen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3E Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>aneesa_faruvin_mohd_ibrahim@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Myyher Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3E Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
+<p>lim_huiwen_gabrielle@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -236,13 +222,13 @@ variant: tiptap
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms E-Liz Yeung</p>
+<p>Mrs Melinda Ashleigh Lim-Sim Li Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeung_e-liz@schools.gov.sg</p>
+<p>xinmin_ps@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -250,13 +236,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Naime Bte Zainal Abidin</p>
+<p>Mdm Azlinah Bte Dakarlan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noor_naime_zainal_abidin@schools.gov.sg</p>
+<p>azlinah_dakarlan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
