@@ -27,13 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Azlinah Bte Dakarlan</p>
+<p>Mrs Norazimah Junari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>azlinah_dakarlan@schools.gov.sg</p>
+<p>norazimah_md_shariff@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -67,13 +67,13 @@ variant: tiptap
 <p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Hsiu Yuan</p>
+<p>Mrs Malini d/o Madasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>quek_hsiu_yuan@schools.gov.sg</p>
+<p>malini_madasamy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -81,13 +81,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhao Ting Yan</p>
+<p>Mdm Yang Xu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zhao_tingyan@schools.gov.sg</p>
+<p>malini_madasamy@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -95,13 +95,13 @@ variant: tiptap
 <p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nur Amilia Fendy</p>
+<p>Mrs Norazimah Junari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_amilia_abdul_rahim@schools.gov.sg</p>
+<p>norazimah_md_shariff@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -109,13 +109,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Reshmi Rai</p>
+<p>Mdm Sharon Woo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>reshmi_rai@schools.gov.sg</p>
+<p>sharon_woo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -123,13 +123,13 @@ variant: tiptap
 <p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Beng Liang</p>
+<p>Mdm Wang Xiao Hua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_beng_liang@schools.gov.sg</p>
+<p>wang_xiaohua@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -137,13 +137,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Vijay-T Sumathy</p>
+<p>Mr Arden Lim Kangxiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>t_sumathy@schools.gov.sg</p>
+<p>lim_kang_xiang_arden@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
