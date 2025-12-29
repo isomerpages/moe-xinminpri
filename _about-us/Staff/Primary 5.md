@@ -6,7 +6,7 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h1><strong>Primary 5</strong></h1>
-<h3>Year Head</h3>
+<h3>Assistant Year Head</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
