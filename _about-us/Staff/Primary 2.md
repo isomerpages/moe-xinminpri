@@ -27,13 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosnita Bte Ibrahim</p>
+<p>Mr Thomas Ong Ding Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P2)</p>
+<p>Assistant Year Head - Covering (P1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rosnita_ibrahim@schools.gov.sg</p>
+<p>ong_ding_yi@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -137,13 +137,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mahandra</p>
+<p>Mr Thomas Ong Ding Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>s_thangachi_ammal@schools.gov.sg</p>
+<p>ong_ding_yi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
