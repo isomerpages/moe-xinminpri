@@ -30,7 +30,7 @@ variant: tiptap
 <p>Mdm Azlinah Bte Dakarlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P4)</p>
+<p>Assistant Year Head (P3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>azlinah_dakarlan@schools.gov.sg</p>
