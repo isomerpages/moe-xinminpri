@@ -129,8 +129,7 @@ variant: tiptap
 <p>1B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xinmin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xinmin_ps@moe.edu.sg</a>
-</p>
+<p>xinmin_ps@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
