@@ -166,13 +166,13 @@ variant: tiptap
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Farah Ritz</p>
+<p>Mdm Fun Kai Tien</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4D Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>farah_amir_hamzah@schools.gov.sg</p>
+<p>fun_kai_tien@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -180,21 +180,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Toh Feng Joo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4D Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>toh_feng_joo@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Beh Ching Yee Chelsea</p>
+<p>Mrs Wendy Chua-Quek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4D Form Teacher</p>
@@ -208,13 +194,13 @@ variant: tiptap
 <p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Serene Tan-Neo Wei Li</p>
+<p>Mrs Jodene Yow-New Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4E Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>neo_wei_li_serene@schools.gov.sg</p>
+<p>new_xin_yi_jodene@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -222,13 +208,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Wei Woon</p>
+<p>Miss Aneesa Faruvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4E Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foo_wei_woon@schools.gov.sg</p>
+<p>aneesa_faruvin_mohd_ibrahim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -236,7 +222,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Yin Lian</p>
+<p>Mdm Ananthi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4E Form Teacher</p>
@@ -250,13 +236,13 @@ variant: tiptap
 <p>4F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Agnes Tan Hai Hui&nbsp;</p>
+<p>Miss Charlene Lim Xian Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>agnes_tan_hai_hui@schools.gov.sg</p>
+<p>charlene_lim_xian_zhen@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -264,13 +250,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azlinah Bte Dakarlan</p>
+<p>Mdm Zarina Bte Kamaron</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>azlinah_dakarlan@schools.gov.sg</p>
+<p>zarina_kamaron@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
