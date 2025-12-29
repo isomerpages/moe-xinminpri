@@ -6,7 +6,7 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h1><strong>Primary 6</strong></h1>
-<h3>Assistant Year Head</h3>
+<h3>Year Head</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -27,13 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gary Tang Kia Miang</p>
+<p>Mdm Lee Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P6)</p>
+<p>Year Head (P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_kia_miang_gary@schools.gov.sg</p>
+<p>lee_ching_a@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -67,13 +67,13 @@ variant: tiptap
 <p>6A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shaevah Pannir-Shanker&nbsp;</p>
+<p>Mr Edwin Pang Ting How</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shaevah_shankari_pannir_selvan@schools.gov.sg</p>
+<p>edwin_pang_ting_how@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -81,13 +81,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kuah Guo Shen</p>
+<p>Mrs Low-Koh Ying Sin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kuah_guo_shen@schools.gov.sg</p>
+<p>koh_ying_sin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -95,108 +95,10 @@ variant: tiptap
 <p>6B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Aaron Tan Kwang Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6B Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_kwang_yang_aaron@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Li Wen Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6B Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>li_wenting@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Gary Tang Kia Miang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6C Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tang_kia_miang_gary@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Paulyne Ho-Ng Bao Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6C Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_bao_lin_paulyne@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Fun Kai Tien</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6D Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fun_kai_tien@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sharon Woo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6D Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sharon_woo@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sharon Chia-Ng Yuen Fun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6E Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_yuen_fun@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Matthew Chan Jiahui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6E Form Teacher</p>
+<p>6B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chan_jiahui_matthew@schools.gov.sg</p>
@@ -204,16 +106,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6F</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Tan Way Chye</p>
+<p>Mdm Teh Swee Sing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6F Form Teacher</p>
+<p>6B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_way_chye_kenneth@schools.gov.sg</p>
+<p>teh_swee_sing@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lau Shu Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6C Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lau_shu_mei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -221,13 +137,99 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Charlene Lim Xian Zhen</p>
+<p>Mrs Mahandra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6C Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>s_thangachi_ammal@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kumaresan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kumaresan_arasapam@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Bong Fung Nyuk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:bong_fung_nyuk@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bong_fung_nyuk@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sumita Kunalingam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sumita_kunalingam@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joel Teh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>joel_teh_yu_cheng@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosnani Bte Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>charlene_lim_xian_zhen@schools.gov.sg</p>
+<p>rosnani_yusof@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Annuratha Veilathurai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6F Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>annuratha_veilathurai@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
