@@ -157,8 +157,7 @@ variant: tiptap
 <p>4C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sherene_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherene_ling@schools.gov.sg</a>
-</p>
+<p>sherene_ling@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
