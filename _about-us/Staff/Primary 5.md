@@ -27,13 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Ching</p>
+<p>Mr Gary Tang Kia Miang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P5)</p>
+<p>Assistant Year Head (P5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_ching_a@schools.gov.sg</p>
+<p>tang_kia_miang_gary@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -67,111 +67,13 @@ variant: tiptap
 <p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Pang Ting How</p>
+<p>Mr Aaron Tan Kwang Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>edwin_pang_ting_how@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Low-Koh Ying Sin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5A Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>koh_ying_sin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Iris Chan-Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5B Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>iris_lee_poh_chin@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Teh Swee Sing&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5B Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teh_swee_sing@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Liang Rui Shan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5C Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>liang_ruishan@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Shahran B Hamid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5C Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shahran_hamid@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Nancy Ong-Lim Ruo Shi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5C Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kumaresan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5D Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kumaresan_arasapam@schools.gov.sg</p>
+<p>tan_kwang_yang_aaron@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +84,7 @@ variant: tiptap
 <p>Mr Mohamad Azreen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5D Form Teacher</p>
+<p>5A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamad_azreen_mohamad_kus@schools.gov.sg</p>
@@ -190,16 +92,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5E</p>
+<p>5B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sumita Kunalingam</p>
+<p>Mrs Shaevah Pannir-Shanker</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5E Form Teacher</p>
+<p>5B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sumita_kunalingam@schools.gov.sg</p>
+<p>shaevah_shankari_pannir_selvan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -207,13 +109,112 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joel Teh Yu Cheng&nbsp;</p>
+<p>Mr Shahran B Hamid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5B Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>shahran_hamid@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khng Jun Xiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5C Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>khng_jun_xiong@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Li Wen Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5C Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>li_wenting@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharon Chia-Ng Yuen Fun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_yuen_fun@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gary Tang Kia Miang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_kia_miang_gary@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5D Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xinmin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xinmin_ps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norliana Bte Ahmad Norli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5E Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>joel_teh_yu_cheng@schools.gov.sg</p>
+<p>norliana_ahmad_norli@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Koh Ai Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5E Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>grace_koh_ai_meng@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -221,13 +222,13 @@ variant: tiptap
 <p>5F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosnani&nbsp; Bte Yusof</p>
+<p>Mr Kenneth Tan Way Chye</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rosnani_yusof@schools.gov.sg</p>
+<p>tan_way_chye_kenneth@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -235,13 +236,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lau Shu Mei</p>
+<p>Mdm Noor Naime Bte Zainal Abidin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lau_shu_mei@schools.gov.sg</p>
+<p>noor_naime_zainal_abidin@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
