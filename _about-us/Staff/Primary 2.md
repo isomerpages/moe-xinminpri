@@ -67,13 +67,13 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Marn Peng</p>
+<p>Mdm Santhi d/o Perumal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_marn_peng@schools.gov.sg</p>
+<p>santhi_perumal@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khairulharis Bin Karem</p>
+<p>Mdm Mandy Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2A Form Teacher</p>
@@ -95,13 +95,13 @@ variant: tiptap
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Guan Jia Jia</p>
+<p>Mrs Hadia Syahir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>guan_jiajia@schools.gov.sg</p>
+<p>hadia_syahir@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -109,13 +109,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Pagon Ong-Boh</p>
+<p>Miss Shek Yan Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>boh_peck_kay@schools.gov.sg</p>
+<p>shek_yan_yee@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -123,13 +123,13 @@ variant: tiptap
 <p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Wardah</p>
+<p>Mdm Anna Wu Su Fang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2C Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sharifah_wardah@schools.gov.sg</p>
+<p>wu_sufang@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
