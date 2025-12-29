@@ -27,13 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Norazimah Junari</p>
+<p>Mdm Azlinah Bte Dakarlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (P3)</p>
+<p>Assistant Year Head (P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norazimah_md_shariff@schools.gov.sg</p>
+<p>azlinah_dakarlan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -67,13 +67,13 @@ variant: tiptap
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Malini d/o Madasamy</p>
+<p>Miss Richelle Teng Mei Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>malini_madasamy@schools.gov.sg</p>
+<p>teng_mei_lin_richelle@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -81,13 +81,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Xu</p>
+<p>Miss Toh Feng Joo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yang_xu@schools.gov.sg</p>
+<p>toh_feng_joo@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -95,13 +95,13 @@ variant: tiptap
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norliana Bte Ahmad Norli</p>
+<p>Mrs Nur Amilia Fendy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norliana_ahmad_norli@schools.gov.sg</p>
+<p>nur_amilia_abdul_rahim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -109,13 +109,28 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gracia Lee Jia Rong</p>
+<p>Mdm Myyher Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3B Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Agnes Tan Hai Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:agnes_tan_hai_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">agnes_tan_hai_hui@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
