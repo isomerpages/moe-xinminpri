@@ -208,52 +208,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chai Chang Ciek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1E Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chai_chang_ciek@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Melinda Ashleigh Lim-Sim Li Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1E Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Jac See</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1F Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_jac_see@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Shanmugam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1F Form Teacher</p>
+<p>1E Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>palaniyandi_magasvari@schools.gov.sg</p>
@@ -261,16 +219,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1G</p>
+<p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Choy Yin</p>
+<p>Ms Joycelyn Ho Jia Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1G Form Teacher</p>
+<p>1F Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_choy_yin@schools.gov.sg</p>
+<p>ho_jia_ling_joycelyn@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -278,13 +236,41 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Bong Fung Nyuk</p>
+<p>Mdm Guan Jia Jia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1F Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>guan_jiajia@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharifah Wardah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1G Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>bong_fung_nyuk@schools.gov.sg</p>
+<p>sharifah_wardah@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhao Ting Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1G Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zhao_tingyan@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
