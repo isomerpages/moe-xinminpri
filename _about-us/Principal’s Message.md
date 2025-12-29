@@ -5,41 +5,61 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Principal’s Message</strong></h1>
-<p>It is with great excitement and enthusiasm that I extend a warm welcome
-to everyone as we embark on another enriching school year. At Xinmin Primary,
-we are committed to developing our students into Lifelong Learners, Confident
-Leaders, and Innovative Collaborators who are prepared to thrive in an
-ever-changing world.</p>
-<p>Our school’s signature Learning for Life Programme, <strong>CLOVE</strong> (<strong>C</strong>ultivating
-a <strong>L</strong>ife <strong>O</strong>f <strong>V</strong>alues and <strong>E</strong>xcellence)
-and Applied Learning Programme, <strong>GLOBE</strong> (<strong><u>G</u></strong>reen <strong><u>L</u></strong>ifestyle <strong><u>O</u></strong>bserved <strong><u>B</u></strong>y <strong><u>E</u></strong>veryone),
-are at the heart of our approach to education. Through our customised experiential
-activities, we provide opportunities for our students to explore, create,
-and challenge themselves in real-world contexts. These experiences are
-designed not only to build their knowledge and skills but to cultivate
-critical dispositions that are essential for their growth. We are proud
-to foster a learning environment where curiosity is encouraged, leadership
-is nurtured, and collaboration becomes second nature.</p>
-<p>As we continue our journey into the 21st century, we are deeply committed
-to equipping our students with the Emerging 21st Century Competencies that
-will empower them to navigate the complexities of the Volatile, Uncertain,
-Complex, and Ambiguous (VUCA) world. By focusing on shaping their mindsets
-and building the necessary skillsets, we are preparing them to be adaptable,
-resilient, and forward-thinking individuals who will make a positive impact
-in our community.</p>
-<p>In addition to the rich learning experiences within our classrooms, we
-are strengthening our partnerships with overseas educational institutions
-in WuXi, China, and local partners like Gardens by the Bay, City Sprouts
-and our Resident Network in Hougang Constituency. These collaborations
-are integral to enhancing both our students’ and staff’s learning experiences.
-Through these partnerships, we are able to offer new perspectives, resources,
-and opportunities that will further enrich the development of our Xinminites.</p>
-<p>As always, we are grateful for the unwavering support of our parents,
-Parent Support Group, School Advisory Committee and community partners.
-Together, we form a strong, united force that ensures our Xinminites have
-the conducive environment for their education and growth. We look forward
-to another year of growth, learning, and success for all.</p>
-<p>Let us continue to work hand in hand to develop the Learners, Leaders
-and Collaborators of tomorrow.</p>
+<p></p>
+<p>Dear Xinmin Family,</p>
+<p>As we step into 2026, I am delighted to share with you an exciting new
+chapter in our school's journey. After thoughtful reflection and extensive
+consultation with our community, we have refreshed our school's vision,
+mission, and values to better prepare our Xinminites (our students) in
+an ever-evolving world.</p>
+<p><u>Our New Direction</u>
+</p>
+<p>Our renewed vision, "<strong>Every Xinminite, anchored in values, ready for the future</strong>,"
+captures our unwavering commitment to developing students who are not only
+academically capable but also morally grounded and future-ready. This vision
+is brought to life through our mission: "<strong>Nurturing Xinminites to Learn, Lead and Collaborate</strong>,"
+supported by our five core values of <strong>Integrity, Care, Respect, Responsibility, and Resilience</strong>.</p>
+<p>This revamp reflects our deep understanding that as educators, we must
+ensure our Xinminites are firmly anchored in society-accepted values whilst
+being confident to navigate the complexities of our VUCA (Volatile, Uncertain,
+Complex, Ambiguous) and BANI (Brittle, Anxious, Non-linear, Incomprehensible)
+world. Through authentic and engaging learning experiences, we are committed
+to enhancing their holistic development across the Emerging 21st Century
+Competencies (E21CC) framework.</p>
+<p><u>Developing Future-Ready Learners</u>
+</p>
+<p>Our focus centres on cultivating essential Learning Dispositions that
+will serve our Xinminites throughout their lives. We are nurturing Xinminites
+to<strong> Learn</strong> by fostering curiosity, encouraging them to take
+responsibility for their learning experiences, and developing their adaptability.
+We are empowering them to <strong>Lead</strong> through perseverance and
+moral courage, whilst teaching them to <strong>Collaborate</strong> with
+open-mindedness and empathy.</p>
+<p>Simultaneously, we are equipping our dedicated staff to embrace P3I dispositions—being<strong> Passionate </strong>about
+their profession, <strong>Inquisitive </strong>in their approach, <strong>Innovative</strong> in
+their methods, and <strong>Inclusive</strong> in their daily responsibilities.
+This ensures that our educators are well-prepared to guide and inspire
+our students effectively.</p>
+<p><u>The Power of Partnership</u>
+</p>
+<p>The development of our Xinminites' E21 CC and the amplification of student
+voices cannot be achieved by the school alone. I am deeply grateful for
+the continued partnership with our parents, Parent Support Group (PSG),
+School Advisory Committee (SAC), and community partners. Your collaboration
+enables us to create meaningful opportunities for our Xinminites to contribute
+their unique strengths and passions to their communities, fostering a sense
+of purpose and civic responsibility.</p>
+<p><u>Looking Ahead</u>
+</p>
+<p>Together as a team, I believe we will build a strong foundation for our
+Xinminites to realise their full potential and be truly ready for their
+future—always anchored in values. The journey ahead is one of growth, discovery,
+and transformation, and I am confident that with our collective commitment
+and support, every Xinminite will thrive.</p>
+<p>Thank you for your unwavering support and partnership as we embark on
+this meaningful journey together. Here's to a year of growth, learning,
+and success for all our Xinminites.</p>
+<p>With appreciation,</p>
 <p>Mrs Judy Lim</p>
-<p>Principal</p>
+<p>Principal, Xinmin Primary School</p>
+<p></p>
