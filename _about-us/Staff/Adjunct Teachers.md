@@ -136,17 +136,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Beh Ching Yee Chelsea</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT (English/Maths/Social Studies)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ong Yin Lan</p>
 </td>
 <td rowspan="1" colspan="1">
