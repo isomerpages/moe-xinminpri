@@ -87,7 +87,7 @@ variant: tiptap
 <p>Mrs Elaine Heng-Tan Su Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>HOD / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_su_lin_elaine@schools.gov.sg</p>
@@ -109,7 +109,7 @@ variant: tiptap
 <p>Mdm Lyn Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Math</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lyn_ong@schools.gov.sg</p>
@@ -146,17 +146,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yap_li_ling@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Noor Hafizah Bte Hamis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Information and Communication Technology (ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>noor_hafizah_hamis@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
