@@ -120,20 +120,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Farhanah Binte Muhammaed Ikram</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1B Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
