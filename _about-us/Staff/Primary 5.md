@@ -179,7 +179,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng</p>
+<p>Mr Ng Hoe Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5D Form Teacher</p>
