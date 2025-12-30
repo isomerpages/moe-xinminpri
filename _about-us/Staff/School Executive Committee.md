@@ -186,7 +186,7 @@ variant: tiptap
 <p>Mrs Iris Chan-Lee Poh Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/CCE (Covering)</p>
+<p>HOD/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>iris_lee_poh_chin@schools.gov.sg</p>
@@ -215,21 +215,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Thomas Ong Ding Yi</p>
+<p>Mdm Rosnita Bte Ibra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / P1 (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ong_ding_yi@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rosnita Bte Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head / P2</p>
+<p>Assistant Year Head / P1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rosnita_ibrahim@schools.gov.sg</p>
@@ -237,13 +226,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Norazimah Junari</p>
+<p>Mr Thomas Ong Ding Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / P3</p>
+<p>Assistant Year Head / P2 (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norazimah_md_shariff@schools.gov.sg</p>
+<p>ong_ding_yi@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +240,7 @@ variant: tiptap
 <p>Mdm Azlinah Bte Dakarlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / P4</p>
+<p>Assistant Year Head / P3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>azlinah_dakarlan@schools.gov.sg</p>
@@ -259,13 +248,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Ching</p>
+<p>Mrs Norazimah Junari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / P5</p>
+<p>Assistant Year Head / P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_ching_a@schools.gov.sg</p>
+<p>norazimah_md_shariff@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -273,10 +262,21 @@ variant: tiptap
 <p>Mr Gary Tang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / P6</p>
+<p>Assistant Year Head / P5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tang_kia_miang_gary@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head / P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_ching_a@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
