@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ## Our Vision ##
-Every Xinminite, a confident citizen of character, ready for the future
+Every Xinminite, anchored in values, ready for the future
 
 
 
