@@ -11,8 +11,7 @@ Every Xinminite, anchored in values, ready for the future
 
 ## Our Mission ##
 
-Nurturing the hearts and minds of Xinminites for a changing world
-
+Nurturing Xinminites to Learn, Lead and Collaborate
 
 ## Our Core Values
 
