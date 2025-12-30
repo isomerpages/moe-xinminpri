@@ -221,7 +221,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ananthi</p>
+<p>Mrs Ananthi Bala</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4E Form Teacher</p>
