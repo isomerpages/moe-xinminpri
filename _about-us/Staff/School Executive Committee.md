@@ -181,6 +181,17 @@ variant: tiptap
 <p>iris_lee_poh_chin@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Aneesa Faruvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Information and Communication Technology (ICT) (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>aneesa_faruvin_mohd_ibrahim@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Year Heads and Assistant Year Head</h3>
@@ -363,17 +374,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>kumaresan_arasapam@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Aneesa Faruvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Information and Communication Technology (ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>aneesa_faruvin_mohd_ibrahim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
