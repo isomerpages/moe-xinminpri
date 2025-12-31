@@ -38,3 +38,6 @@ In Word and Deed
 - Every child matters, is unique and has the ability to reach his fullest potential  
 
 - Through our guidance and provision of opportunities, our pupils will have the values and skills to prepare them for life
+
+
+Updated as of Jan 2026
