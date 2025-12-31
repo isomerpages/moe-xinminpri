@@ -84,13 +84,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Elaine Heng-Tan Su Lin</p>
+<p>Mdm Lyn Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Mathematics</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_su_lin_elaine@schools.gov.sg</p>
+<p>lyn_ong@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -106,13 +106,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lyn Ong</p>
+<p>Mrs Elaine Heng-Tan Su Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>HOD / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lyn_ong@schools.gov.sg</p>
+<p>tan_su_lin_elaine@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -124,17 +124,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tng_hiang_tiang_geraldine@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Joycelyn Soo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Discipline and Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yeo_su_yong_joycelyn@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -161,17 +150,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Daphne Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / SEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_bee_har@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Iris Chan-Lee Poh Chin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,6 +157,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>iris_lee_poh_chin@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Joycelyn Soo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Discipline and Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_su_yong_joycelyn@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Daphne Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / SEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_bee_har@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -313,17 +313,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ngo-Lau Shu Mei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head / Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lau_shu_mei@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Sherene Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -331,6 +320,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sherene_ling@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ngo-Lau Shu Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lau_shu_mei@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -367,17 +367,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kumaresan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Student Well-Being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kumaresan_arasapam@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Fun Kai Tien</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -385,6 +374,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>fun_kai_tien@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kumaresan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kumaresan_arasapam@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
