@@ -40,4 +40,3 @@ In Word and Deed
 - Through our guidance and provision of opportunities, our pupils will have the values and skills to prepare them for life
 
 
-Updated as of Jan 2026
