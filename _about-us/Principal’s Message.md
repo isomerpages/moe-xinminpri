@@ -63,4 +63,3 @@ and success for all our Xinminites.</p>
 <p>Mrs Judy Lim</p>
 <p>Principal, Xinmin Primary School</p>
 <p></p>
-<p>Updated as of Jan 2026</p>
