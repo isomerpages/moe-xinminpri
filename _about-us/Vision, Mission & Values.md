@@ -14,7 +14,7 @@ Every Xinminite, anchored in values, ready for the future
 Nurturing Xinminites to Learn, Lead and Collaborate
 
 ## Our Core Values
-### IC3R
+### (IC3R)
 
 ### -Integrity
 ### -Care
