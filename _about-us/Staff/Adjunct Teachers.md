@@ -37,13 +37,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim-Siew Wai Mun</p>
+<p>Mdm Soh Hoon Kian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FAJT (Maths/Science)</p>
+<p>FAJT (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siew_wai_mun@schools.gov.sg</p>
+<p>xinmin_ps@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pang Lin Hua</p>
+<p>Mr Ng Hoe Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FAJT (Chinese)</p>
@@ -114,43 +114,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Farhanah Binte Muhammed Ikram</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT (English/Math/Social Studies)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Khairulharis Bin Karem</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>FAJT (Physical Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Beh Ching Yee Chelsea</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT (English/Maths/Social Studies)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Yin Lan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>xinmin_ps@moe.edu.sg</p>
@@ -169,10 +136,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Lay Leng</p>
+<p>Mrs Ananthi Bala</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FAJT (Chinese)</p>
+<p>FAJT (Tamil)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Pannir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT (Tamil)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Anessa Beham Bte Tajudeen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Relief (English/Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>xinmin_ps@moe.edu.sg</p>
