@@ -13,13 +13,13 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 ## Xinmin PSG Exco
 
-![](/images/PSG_EXCO_2025_New_2.png)
+![](/images/2026_PSG.png)
 
 ## How to Join the PSG?
 
 ![](/images/psg_infograph_2024_updated.png)
 
-Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG. 
+Please click [here](https://go.gov.sg/xinminpsg2026 ) to join the PSG. 
 
 ## How to Volunteer?
 
