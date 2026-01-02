@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /about-us/contact-us/
 description: Contact Us
+variant: markdown
 ---
 # Get in touch with  
 ## Xinmin Primary School
@@ -19,8 +20,9 @@ Singapore 538784
 ### **Operating Hours**
 
 
-**Mon - Fri**: 8.00am - 5.00pm  
-Closed on Weekends & Public Holidays
+![](/images/2026_GO_opening_updated.png)
+
+
 
 ### **Contact Us**
 
@@ -36,3 +38,6 @@ Fax:
 
 Email: 
 [xinmin\_ps@moe.edu.sg](mailto:xinmin_ps@moe.edu.sg)
+
+
+Updated as of Jan 2026

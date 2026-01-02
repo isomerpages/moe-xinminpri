@@ -13,13 +13,13 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 ## Xinmin PSG Exco
 
-![](/images/PSG_EXCO_2025_New_2.png)
+![](/images/2026_PSG.png)
 
 ## How to Join the PSG?
 
-![](/images/psg_infograph_2024_updated.png)
+![](/images/psg_infograph_2026.jpg)
 
-Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG. 
+Please click [here](https://go.gov.sg/xinminpsg2026 ) to join the PSG. 
 
 ## How to Volunteer?
 
@@ -29,27 +29,11 @@ Please click [here](https://go.gov.sg/xinminpsgapplication) to join the PSG.
 ## SCHEDULE OF SCHOOL EVENTS
 
 
-
-| S/No. | Event | Date |
-| -------- | -------- | -------- |
-| 25_09_01  |  P4D Magic   | 15/9/2025     |
-| 25_09_02 |  Magic Story Time (Lower Block) (English) | 17/9/2025   |
-| 25_09_03 |   Before The Bell Ring (Middle Block)    | 18/9/2025 |
-| 25_09_04 |   P4E Magic  | 19/9/2025  |
-| 25_09_05 |   Pre-Children's Day Activity   | 22/9/2025  |
-| 25_09_06 |  P2AB PAL Learning Journey   | 24/9/2025  |
-| 25_09_07 | P4F Magic | 26/9/2025 |
-| 25_10_01 |  P2DF PAL Learning Journey | 1/10/2025 |
-| 25_10_02 |  Children's Day  | 2/10/2025  |
-| 25_10_03 |  P2CEG PAL Learning Journey  | 8/10/2025  |
-| 25_10_04 |  P6 ALP Learning Journey (1)   | 27/10/2025  |
-| 25_10_05 |  P6 ALP Learning Journey (2)  | 29/10/2025 |
-| 25_10_06 | P3DE GSHG Learning Journey  | 29/10/2025  |
-| 25_10_07 |  P3AC GSHG Learning Journey  | 31/10/2025  |
-| 25_11_01 | P3BF GSHG Learning Journey | 7/11/2025  |
+To be updated soon. 
 
 
 
 
 
-Updated as of Sep 2025
+
+Updated as of Jan 2026
