@@ -20,7 +20,7 @@ Singapore 538784
 ### **Operating Hours**
 
 
-![](/images/2026_GO_opening.png)
+![](/images/2026_GO_opening_updated.png)
 
 
 
