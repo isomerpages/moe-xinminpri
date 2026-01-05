@@ -42,4 +42,4 @@ variant: markdown
 [MIMS](https://idp.mims.moe.gov.sg/)
 
 
-Updated as of Jan 2025
+Updated as of Jan 2026.
