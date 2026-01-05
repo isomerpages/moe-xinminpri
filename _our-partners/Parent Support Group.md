@@ -29,10 +29,16 @@ Please click [here](https://go.gov.sg/xinminpsg2026 ) to join the PSG.
 ## SCHEDULE OF SCHOOL EVENTS
 
 
-To be updated soon. 
 
 
-
+| S/No. | Event | Date |
+| -------- | -------- | -------- |
+|   26_01_01   | P1 Grow Well Booth     | 2/1/2026  |
+|   26_01_02   | P6ACE Museum-based Learning Journey     | 14/1/2026 and 16/1/2026  |
+|   26_01_03   | P3 Swimsafer Programmes      | 27/1/2026 to 1/4/2026  |
+|   26_02_01   | Learn Well (P3 and P4)    | 2/2/2026 to 6/2/2026  |
+|   26_02_02   | P2 English Learning Journey to Jacob Ballas     | 10/2/2026 to 12/2/2026  |
+|   26_02_03   | P1 English Learning Journey to Singapore Zoo      | 19/2/2026 to 20/2/2026  |
 
 
 
