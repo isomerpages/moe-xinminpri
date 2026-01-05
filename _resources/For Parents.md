@@ -21,9 +21,7 @@ Resources for Parents
 [Smart Device Request Form](https://form.gov.sg/61ce31b72e38540012e3e99d)
 
 [2025 P1 Orientation Guide](https://go.gov.sg/xmps2025p1orientationguide)
-Updated 25 Sep 2024
-
-[2024 P1 Parents Engagement Slides](https://go.gov.sg/xmps2024p1parentengagement)
 
 
-Updated as of Jan 2025
+
+Updated as of Jan 2026
