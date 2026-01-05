@@ -21,4 +21,4 @@ variant: markdown
 
 We Hear You Xinminites ([WHYx](https://forms.moe.edu.sg/forms/Jmxn5n))
 
-Updated as of Jan 2026
+Updated as of Jan 2026.
