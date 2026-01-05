@@ -27,13 +27,7 @@ Homework, when used appropriately, can reinforce students' learning, provide fee
 
 The school is mindful of the well-being of students when assigning homework. For holistic development, students need to have a balanced life with adequate time for family bonding social activities, personal interests and rest. The following
 guidelines apply when assigning homework:
-
-
-| Level | Approximate Daily Homework Load (Mon – Fri)| Maximum Weekly Homework Load (Mon – Fri) |
-| -------- | -------- | -------- |
-| P1 &amp; P2    | 45mins     | 4hr     |
-| P3 &amp; P4    | 1hr     | 6hr     |
-| P1 &amp; P2    | 2hr     | 11hr     |
+![](/images/Screenshot_2026_01_05_223400.png)
 
 * No homework will be given during festive holidays such as Deepavali, Hari Raya and Lunar New Year or during the March and September term breaks for the non-graduating cohorts.
 * If homework is assigned during long weekends, non-festive public holidays, school holidays or during the March and September term breaks for graduating cohorts, the daily homework load should not exceed 50% of the typical daily load assigned during the school term.
