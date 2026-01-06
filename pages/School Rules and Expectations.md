@@ -22,8 +22,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students who are Singapore citizens must sing the National Anthem and
-take the Pledge. Students</p>
+<p><strong><u>Rule</u></strong>
+</p>
+<p></p>
+<p>1. Students who are Singapore citizens must sing the National Anthem and
+take the Pledge.</p>
 </td>
 </tr>
 <tr>
@@ -32,6 +35,9 @@ take the Pledge. Students</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>Rule</u></strong>
+</p>
+<p></p>
 <p><strong>Attire</strong>
 </p>
 <p></p>
@@ -65,106 +71,20 @@ of each ear.</p>
 times.</p>
 <p>14. Only plain black hair bands or clips are allowed.</p>
 <p>15. No scarf or hair netting is allowed.</p>
+<p></p>
+<p><strong><u>Expectation</u></strong>
+</p>
+<p></p>
 <p>16. Jacket/windbreaker must be single tone colour e.g. white, blue and
 black with no loud prints or profanity.</p>
 <p>17. Students are required to have a name tag with a border of the correct
 colour (based on his/her current level), sewn above the school badge on
 his/her uniform.</p>
-<p>Appearance and Grooming</p>
+<p><strong>Appearance and Grooming</strong>
+</p>
 <p>18. Fingernails must be kept short and clean without any nail polish or
 varnish.</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Respect Image of the School and Self</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Attire </strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students are to wear the prescribed school uniform and modification to
-the uniform is not allowed.</p>
-</li>
-<li>
-<p>Jacket/windbreaker must be single tone colour e.g., white, blue and black
-with no loud prints or profanity.</p>
-</li>
-<li>
-<p>Students are required to have a name tag with a border of the correct
-colour (based on his/her current level), sewn above the school badge on
-his/her uniform.</p>
-</li>
-<li>
-<p>Students must put on the approved school PE attire during PE lessons.</p>
-</li>
-<li>
-<p>Shirts must be tucked in.</p>
-</li>
-<li>
-<p>Shoes must be plain white.</p>
-</li>
-<li>
-<p>Socks must be plain white, but may include those with school name. Ankle
-and knee-length socks are not allowed.</p>
-</li>
-</ul>
-<p>
-<br><strong>Appearance and Grooming </strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Coloured or highlighted hair is not allowed.</p>
-</li>
-<li>
-<p>Funky hairstyles or inner cut styles (inconsistent length and styles)
-are not allowed.</p>
-</li>
-<li>
-<p>Fingernails must be kept short and clean without any nail polish or varnish.</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p><u>For boys:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>They must be clean-shaven with no facial hair.</p>
-</li>
-<li>
-<p>Hair must be short and neat. It must not touch the ears or the collar
-of the school uniform.</p>
-</li>
-<li>
-<p>Length of fringe must not touch the eyebrows.</p>
-</li>
-<li>
-<p>Sideburns must be short and must not extend beyond the middle level of
-each ear.</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p><u>For girls:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Long fringe must be pinned up neatly and it must not touch the eyebrows.</p>
-</li>
-<li>
-<p>Hair touching collar of the uniform must be tied up neatly at all times.</p>
-</li>
-<li>
-<p>Only plain black hair bands or clips are allowed.</p>
-</li>
-<li>
-<p>No scarf or hair netting is allowed.</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -173,25 +93,22 @@ each ear.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students must be respectful and courteous to fellow Xinminites, staff,
+<p><strong><u>Rule</u></strong>
+</p>
+<p></p>
+<p>1. Students must seek permission to enter or leave the classroom and school.</p>
+<p>2. Students are not allowed to use abusive or foul language, symbols or
+sign.</p>
+<p></p>
+<p><strong><u>Expectation</u></strong>
+</p>
+<p></p>
+<p>3. Students should be respectful and courteous to fellow Xinminites, staff,
 parent volunteers and visitors to the school.</p>
-</li>
-<li>
-<p>Students must seek permission to enter or leave the classroom and school.</p>
-</li>
-<li>
-<p>Students are not allowed to use abusive or foul language, symbols or sign.</p>
-</li>
-<li>
-<p>Students should walk briskly, orderly and quietly within the school premises.</p>
-</li>
-<li>
-<p>Students should queue up in an orderly manner when making purchases at
-the canteen or the bookshop.</p>
-</li>
-</ul>
+<p>4. Students should walk briskly, orderly and quietly within the school
+premises.</p>
+<p>5. Students should queue up in an orderly manner when making purchases
+at the canteen or the bookshop.</p>
 </td>
 </tr>
 <tr>
@@ -205,64 +122,45 @@ the canteen or the bookshop.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students are to observe safety rules set by the school.</p>
-</li>
-<li>
-<p>Students should act responsibly at all times.</p>
-</li>
-<li>
-<p>Students should play only in designated areas.</p>
-</li>
-<li>
-<p>Students are not allowed to stay in the classroom during recess or after
-school without the supervision of a teacher.</p>
-</li>
-<li>
-<p>Students are not allowed to loiter outside school in their school uniform.</p>
-</li>
-<li>
-<p>Students are not allowed to bring personal digital device into the classroom.
-This includes electronic game, tablet, mobile phone, smartwatch (except
-for those used solely for e-payment in the school canteen) or any item
-with communication or recording capabilities.</p>
-</li>
-<li>
-<p>Students must seek approval before bringing personal digital device to
-school. Requests will be granted based on individual needs. Parents should
-apply for permission through the link provided on the school website. Both
-parents and students must adhere strictly to the conditions outlined.</p>
-</li>
-<li>
-<p>Students who have received permission from the school to bring personal
-digital device are not allowed to use it during school hours, including
-recess, CCA and after-school programmess (e.g. supplementary, enrichment,
-or remedial lessons).</p>
-</li>
-<li>
-<p>Students who have received permission from the school to bring personal
-digital device must put it in his/her locker before the start of school.
-He/She can retrieve the device after school ends. Students are responsible
-for the safekeeping of his/her device.</p>
-</li>
-<li>
-<p>Students are not allowed to wear jewellery, valuable ornaments or accessories
+<p><strong><u>Rule</u></strong>
+</p>
+<p>1. Students are to observe safety rules set by the school.</p>
+<p>2. Students are not allowed to wear jewellery, valuable ornaments or accessories
 of any kind.</p>
-</li>
-<li>
-<p>Only girls are allowed to wear one pair of plain, simple, identical ear
-studs or ear sticks on the lower earlobes. &nbsp;</p>
-</li>
-<li>
-<p>No expensive or fancifully designed watch should be worn to school.</p>
-</li>
-<li>
-<p>Only spectacles with simple plastic or metal frame and clear lenses are
-allowed.</p>
-</li>
-</ul>
-<p>&nbsp;</p>
+<p>3. Only girls are allowed to wear one pair of plain, simple, identical
+ear studs or ear sticks on the lower earlobes.</p>
+<p>4. Students are not allowed to bring personal digital devices into the
+classroom. This includes electronic: games, tablets, mobile phones, smartwatches
+(except those used solely for e-payment in the school canteen) and any
+item with communication and/or recording functions.</p>
+<p>5. Students must seek approval (through the link on the school website)
+before bringing personal digital devices to school. Approval will be granted
+based on the student's individual needs. Parents and students are required
+to comply fully with all conditions outlined in the online application
+form.</p>
+<p>6. Students who have been granted permission to bring personal digital
+devices must place them in their lockers before school begins and retrieve
+them only after school ends. They are responsible for the safekeeping of
+their own devices.</p>
+<p>7. Students who have received permission from the school to bring personal
+digital devices are not allowed to use it during school hours, including
+recess, CCA and after-school programmes (e.g. supplementary, enrichment
+or remedial lessons).</p>
+<p>8. Students are not allowed to use their personal digital devices in the
+school compound for any purpose other than communication.</p>
+<p><strong><u>Expectation</u></strong>
+</p>
+<p>9. Students are not allowed to stay in the classroom during recess or
+after school without the supervision of a teacher.</p>
+<p>10. Students are not allowed to loiter outside school in their school
+uniform.</p>
+<p>11. No expensive or fancifully designed watch should be worn to school.</p>
+<p>12. Only spectacles with simple plastic or metal frame and clear lenses
+are allowed.</p>
+<p>13. Students who are issued lockers for storing personal digital devices
+are not allowed to share their lockers with others.</p>
+<p>14. Students should act responsibly at all times.</p>
+<p>15. Students should play only in designated areas.</p>
 </td>
 </tr>
 <tr>
