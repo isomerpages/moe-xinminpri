@@ -124,6 +124,7 @@ at the canteen or the bookshop.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Rule</u></strong>
 </p>
+<p></p>
 <p>1. Students are to observe safety rules set by the school.</p>
 <p>2. Students are not allowed to wear jewellery, valuable ornaments or accessories
 of any kind.</p>
@@ -148,8 +149,10 @@ recess, CCA and after-school programmes (e.g. supplementary, enrichment
 or remedial lessons).</p>
 <p>8. Students are not allowed to use their personal digital devices in the
 school compound for any purpose other than communication.</p>
+<p></p>
 <p><strong><u>Expectation</u></strong>
 </p>
+<p></p>
 <p>9. Students are not allowed to stay in the classroom during recess or
 after school without the supervision of a teacher.</p>
 <p>10. Students are not allowed to loiter outside school in their school
@@ -184,6 +187,7 @@ be used to cause harm to others.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Rule</u></strong>
 </p>
+<p></p>
 <p>1. Students must observe punctuality on school days and for all school
 events. They must enter the school premises and be seated in the school
 hall/classroom by 7:30 a.m. They will be considered late if they arrive
@@ -250,12 +254,11 @@ meal.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students should inform a teacher or trusted adult should they feel unsafe
-within or outside school premises.</p>
-</li>
-</ul>
+<p><strong><u>Expectation</u></strong>
+</p>
+<p>
+<br>1. Students should inform a teacher or trusted adult should they feel
+unsafe within or outside school premises.</p>
 </td>
 </tr>
 <tr>
@@ -264,38 +267,22 @@ within or outside school premises.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students should not resort to physical violence or verbal abuse.</p>
-</li>
-<li>
-<p>Students should not engage in bullying (verbal, physical, emotional) or
-cyberbullying acts. They should report all bullying cases to the teacher
-or authorities in the school.</p>
-</li>
-<li>
-<p>Students should not attend school during the period specified in his/her
-medical certificate if he/she is unwell. If a student returns to school
-before the date indicated on the medical certificate, a note from the doctor
-certifying that the student is fit to return to school must be produced.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Care for Surrounding</strong>
+<p><strong><u>Rule</u></strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students should dispose of litter and rubbish into the bins provided.</p>
-</li>
-<li>
-<p>Students should pick up any litter they see on the floor.</p>
-</li>
-</ul>
+<p></p>
+<p>1. Students must not resort to physical violence or verbal abuse.</p>
+<p>2. Students must not engage in any form of bullying, whether verbal, physical,
+emotional or online (cyberbullying). They must report all bullying incidents
+to a teacher or the school authorities.</p>
+<p></p>
+<p><strong><u>Expectation</u></strong>
+</p>
+<p></p>
+<p>3. Students should not attend school during the period stated on their
+medical certificate if they are unwell. If a student returns before the
+date indicated, a doctor's note confirming that the student is fit to resume
+school must be provided.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -309,12 +296,11 @@ certifying that the student is fit to return to school must be produced.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students should put in their best effort on all assessments and assigned
+<p><strong><u>Expectation</u></strong>
+</p>
+<p></p>
+<p>1. Students should give their best effort on all assessments and assigned
 tasks and should not give up easily.</p>
-</li>
-</ul>
 </td>
 </tr>
 </tbody>
