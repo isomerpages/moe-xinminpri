@@ -303,6 +303,40 @@ school must be provided.</p>
 tasks and should not give up easily.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<h4><strong>Integrity</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Be Honest with Yourself</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Expectation</u></strong>
+</p>
+<p></p>
+<p>1. Students should reflect on their choices and act in ways they can be
+proud of.</p>
+<p></p>
+<p>2. Students should admit mistakes and learn from them.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Be Honest with Others</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Expectation</u></strong>
+</p>
+<p></p>
+<p>1. Students should not copy others' work or let others copy theirs.</p>
+<p></p>
+<p>2. Students should speak truthfully to peers, teachers and school staff.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
