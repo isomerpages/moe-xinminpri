@@ -22,29 +22,56 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Students who are Singapore citizens must sing the National Anthem and
-take the Pledge. Students will take the Pledge with the right fist over
-the heart.</p>
-</li>
-</ul>
+take the Pledge. Students</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Respecting Attendance and Punctuality</strong>
+<p><strong>Respecting Image of the School and Self</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students must observe punctuality on school days and for all school events.
-They must enter the school premises and be seated in the school hall by
-7:30 a.m. They will be considered late if they arrive after the stipulated
-reporting time.</p>
-</li>
-</ul>
+<p><strong>Attire</strong>
+</p>
+<p></p>
+<p>1. Students are to wear the prescribed school uniform and modification
+to the uniform is not allowed</p>
+<p>2. Students must put on the approved school PE attire during PE lessons.</p>
+<p>3. Shirts must be tucked in at all times.</p>
+<p>4. Shoes must be plain white.</p>
+<p>5. Socks must be plain white but may include those with school name. Ankle
+and knee-length socks are not allowed.</p>
+<p></p>
+<p><strong>Appearance and Grooming</strong>
+</p>
+<p></p>
+<p>6. Coloured or highlighted hair is not allowed.</p>
+<p>7. Funky hairstyles or inner cut styles (inconsistent length and styles)
+are not allowed.</p>
+<p>For boys:</p>
+<p>8. All male students must be clean-shaven at all times. Moustache and
+beards are not allowed.</p>
+<p>9. Hair must be short and neat. It must not touch the ears or the collar
+of the school uniform.</p>
+<p>10. Length of fringe must not touch the eyebrows.</p>
+<p>11. Sideburns must be short and must not extend beyond the middle level
+of each ear.</p>
+<p>For girls:</p>
+<p>12. Long fringe must be pinned up neatly and it must not touch the eyebrows.</p>
+<p>13. Hair touching collar of the uniform must be tied up neatly at all
+times.</p>
+<p>14. Only plain black hair bands or clips are allowed.</p>
+<p>15. No scarf or hair netting is allowed.</p>
+<p>16. Jacket/windbreaker must be single tone colour e.g. white, blue and
+black with no loud prints or profanity.</p>
+<p>17. Students are required to have a name tag with a border of the correct
+colour (based on his/her current level), sewn above the school badge on
+his/her uniform.</p>
+<p>Appearance and Grooming</p>
+<p>18. Fingernails must be kept short and clean without any nail polish or
+varnish.</p>
+<p></p>
 </td>
 </tr>
 <tr>
