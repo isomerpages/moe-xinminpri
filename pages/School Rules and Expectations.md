@@ -182,40 +182,27 @@ be used to cause harm to others.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students must be attentive during lessons and avoid moving around in the
-classroom unnecessarily.</p>
-</li>
-<li>
-<p>Students must complete all assignments and submit them punctually.</p>
-</li>
-<li>
-<p>Students must bring all the books and items required for the day.</p>
-</li>
-<li>
-<p>Students must be present for all compulsory school events. A medical certificate
-or a letter of explanation must be produced when student is absent from
-school. Only up to five letters of explanation will be accepted per semester.
-Any additional letters beyond this limit will not be considered as valid
+<p><strong><u>Rule</u></strong>
+</p>
+<p>1. Students must observe punctuality on school days and for all school
+events. They must enter the school premises and be seated in the school
+hall/classroom by 7:30 a.m. They will be considered late if they arrive
+after the stipulated reporting time.</p>
+<p>2. A medical certificate or a letter of explanation must be produced when
+student is absent from school.</p>
+<p>Only up to five letters of explanation (not exceed ing 5 days) will be
+accepted per semester. All such letters will be accepted on a case-by-case
+basis.</p>
+<p>Any additional letters beyond this limit will not be considered as valid
 reasons for absence.</p>
-</li>
-<li>
-<p>All absences for the WA/EYE/Prelim must be supported by a Medical Certificate.
-Students who are absent from the WA/EYE/Prelim on medical grounds will
-be given VR (Valid Reason) for the paper they have missed. Students who
-are absent without valid reason will not be awarded any marks for the paper
-they have missed. He/She will also not be considered for any academic-based
-awards.</p>
-</li>
-<li>
-<p>Students must comply with assessment rules and guidelines.</p>
-</li>
-<li>
-<p>Students must not attempt to cheat or assist others in cheating during
-examinations.</p>
-</li>
-</ul>
+<p></p>
+<p><strong><u>Expectation</u></strong>
+</p>
+<p></p>
+<p>3. Students should complete all assignments and submit them punctually.</p>
+<p>4. Students should bring all the books and items required for the day.</p>
+<p>5. Students should be attentive during lessons and avoid moving around
+in the classroom unnecessarily.</p>
 </td>
 </tr>
 <tr>
@@ -224,26 +211,10 @@ examinations.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students should not take things belonging to others without first seeking
+<p><strong><u>Rule</u></strong>
+</p>
+<p>1. Students must not take things belonging to others without first seeking
 permission.</p>
-</li>
-<li>
-<p>Students are to use social media platforms and technology responsibly
-and with discernment.</p>
-</li>
-<li>
-<p>Students should not post inappropriate pictures of themselves or others,
-making inappropriate comments that hurt themselves or others and using
-offensive language online.</p>
-</li>
-<li>
-<p>Students should not resort to unauthorised access and use of computer
-service (e.g. using another person’s ID and password without proper authority
-to access data or a program).</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
@@ -252,19 +223,20 @@ to access data or a program).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students should keep the school premises clean.</p>
-</li>
-<li>
-<p>Students should consume all food and drinks in the canteen unless permission
-is given.</p>
-</li>
-<li>
-<p>Students should return used utensils and clear their tables after their
+<p><strong><u>Rule</u></strong>
+</p>
+<p></p>
+<p>1. Students must keep the school premises clean.</p>
+<p>2. Students must dispose of litter and rubbish into the bins provided.</p>
+<p></p>
+<p><strong><u>Expectation</u></strong>
+</p>
+<p></p>
+<p>3. Students should pick up any litter they see on the floor.</p>
+<p>4. Students must consume all food and drinks in the canteen unless they
+have received permission from school staff to do otherwise.</p>
+<p>5. Students must return used utensils and clear their tables after their
 meal.</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
