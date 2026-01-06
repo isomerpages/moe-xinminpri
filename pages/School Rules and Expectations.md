@@ -49,7 +49,8 @@ and knee-length socks are not allowed.</p>
 <p>6. Coloured or highlighted hair is not allowed.</p>
 <p>7. Funky hairstyles or inner cut styles (inconsistent length and styles)
 are not allowed.</p>
-<p>For boys:</p>
+<p><strong><u>For boys:</u></strong>
+</p>
 <p>8. All male students must be clean-shaven at all times. Moustache and
 beards are not allowed.</p>
 <p>9. Hair must be short and neat. It must not touch the ears or the collar
@@ -57,7 +58,8 @@ of the school uniform.</p>
 <p>10. Length of fringe must not touch the eyebrows.</p>
 <p>11. Sideburns must be short and must not extend beyond the middle level
 of each ear.</p>
-<p>For girls:</p>
+<p><strong><u>For girls:</u></strong>
+</p>
 <p>12. Long fringe must be pinned up neatly and it must not touch the eyebrows.</p>
 <p>13. Hair touching collar of the uniform must be tied up neatly at all
 times.</p>
