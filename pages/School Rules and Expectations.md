@@ -169,18 +169,11 @@ are not allowed to share their lockers with others.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students are not allowed to have in their possession any weapon. They
-are also not allowed to bring any weapon-like item which is used or intended
-to cause harm to others.</p>
-</li>
-<li>
-<p>Students are not allowed to engage in repeated or persistent behaviours
-such as using derogatory or hurtful remarks that have the intention to
-cause hurt, distress or humiliation towards others.</p>
-</li>
-</ul>
+<p><strong><u>Rule</u></strong>
+</p>
+<p>1. Students are not allowed to have in their possession any weapon. They
+are also not allowed to bring any weapon-like item which is intended to
+be used to cause harm to others.</p>
 </td>
 </tr>
 <tr>
