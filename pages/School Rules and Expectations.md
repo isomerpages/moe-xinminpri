@@ -194,7 +194,7 @@ hall/classroom by 7:30 a.m. They will be considered late if they arrive
 after the stipulated reporting time.</p>
 <p>2. A medical certificate or a letter of explanation must be produced when
 student is absent from school.</p>
-<p>Only up to five letters of explanation (not exceed ing 5 days) will be
+<p>Only up to five letters of explanation (not exceeding 5 days) will be
 accepted per semester. All such letters will be accepted on a case-by-case
 basis.</p>
 <p>Any additional letters beyond this limit will not be considered as valid
