@@ -158,10 +158,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Anessa Beham Bte Tajudeen</p>
+<p>Mrs Lim-Siew Wai Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Relief (English/Social Studies)</p>
+<p>FAJT (Maths​)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>xinmin_ps@moe.edu.sg</p>
@@ -169,10 +169,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim-Siew Wai Mun</p>
+<p>Miss Anessa Beham Bte Tajudeen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FAJT (Maths​)</p>
+<p>Relief (English/Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>xinmin_ps@moe.edu.sg</p>
