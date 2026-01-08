@@ -87,7 +87,7 @@ variant: tiptap
 <p>4A Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>malini_madasamy@schools.gov.sg</p>
+<p>yang_xu@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
