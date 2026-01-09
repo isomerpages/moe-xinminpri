@@ -14,7 +14,6 @@ variant: markdown
 
 [Student ICON](https://workspace.google.com/dashboard)
 
-[myON](https://www.myon.com.sg/login/)
 
 
 [eZhiShi](https://www.ezhishi.net/)
