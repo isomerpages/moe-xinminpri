@@ -6,7 +6,8 @@ variant: markdown
 ---
 # **Homework Policy**
 
-### HOMEWORK POLICY (For PARENTS’ INFORMATION)
+### HOMEWORK POLICY (For Parents’ Information)
+
 
 **1\. Definition of Homework**
 

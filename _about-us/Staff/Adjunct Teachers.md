@@ -158,6 +158,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Lim-Siew Wai Mun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT (Maths​)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Anessa Beham Bte Tajudeen</p>
 </td>
 <td rowspan="1" colspan="1">
