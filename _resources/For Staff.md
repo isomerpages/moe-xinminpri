@@ -18,11 +18,7 @@ variant: markdown
 ### Civil Service Intranet Applications
 
 
-[PaC@Gov](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)	
-
 [HR Portal](http://hrp.gov.sg/)
-
-[GeBIZ](https://www.gebiz.gov.sg/)
 
 
 ### Internet Applications
@@ -32,8 +28,6 @@ variant: markdown
 [SCMobile](https://scmobile.moe.edu.sg/login)
 
 [MOE Homepage](https://www.moe.gov.sg/)
-
-[iConnect](https://icon.moe.edu.sg/)
 
 [OPAL2.0](https://idm.opal2.moe.edu.sg/)
 
