@@ -229,7 +229,7 @@ variant: tiptap
 <p>Mr Thomas Ong Ding Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / P2 (Covering)</p>
+<p>Assistant Year Head / P2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_ding_yi@schools.gov.sg</p>
@@ -389,13 +389,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Teh Swee Sing</p>
+<p>Ms Sumita</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Student Leadership (Covering)</p>
+<p>Subject Head / SH/ ICT (Data Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>teh_swee_sing@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head / PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
