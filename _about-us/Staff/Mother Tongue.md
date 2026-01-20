@@ -155,8 +155,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>koh_ying_sin@schools.gov.sg</p>
+<p>koh_ying_sin@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
