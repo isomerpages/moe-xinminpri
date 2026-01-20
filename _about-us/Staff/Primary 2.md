@@ -232,6 +232,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cody Mok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2F Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2G</p>
 </td>
 <td rowspan="1" colspan="1">
