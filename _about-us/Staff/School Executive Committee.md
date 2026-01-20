@@ -389,24 +389,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sumita</p>
+<p>Ms Sumita Kunalingam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / SH/ ICT (Data Management)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teh_swee_sing@schools.gov.sg</p>
+<p>sumita_kunalingam@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Matthew Chan Jiahui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chan_jiahui_matthew@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
