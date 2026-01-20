@@ -30,7 +30,7 @@ variant: tiptap
 <p>Mr Thomas Ong Ding Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head - (P2)</p>
+<p>Assistant Year Head - (P2)(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_ding_yi@schools.gov.sg</p>
