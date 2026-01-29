@@ -30,7 +30,7 @@ variant: tiptap
 <p>Mr Thomas Ong Ding Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head - Covering (P2)</p>
+<p>Assistant Year Head - (P2)(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ong_ding_yi@schools.gov.sg</p>
@@ -222,6 +222,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Soon Sock Hian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2F Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cody Mok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2F Form Teacher</p>

@@ -28,7 +28,7 @@ variant: markdown
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education. 
 
-**Overview of Xinmin Primary School’s Sexuality Education Programme for 2025**
+**Overview of Xinmin Primary School’s Sexuality Education Programme for 2026**
 
 4.         Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -45,7 +45,7 @@ b.       Character and Citizenship Education (CCE)
 
 7\.         Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. 
 
-**At Xinmin Primary School, the following Sexuality Education lessons will be taught in 2025:**
+**At Xinmin Primary School, the following Sexuality Education lessons will be taught in 2026:**
 
 ### **Primary 5**
 
@@ -53,7 +53,7 @@ b.       Character and Citizenship Education (CCE)
 
 |**LESSON TITLE / DURATION**|**LESSON OVERVIEW**| **TIME PERIOD** **(e.g. Term 1 Week 2)**|
 | --- | --- | --- | 
-|The Changes in Me (60 min) | TThis lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.  *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*| Term 4 Week 8|
+|The Changes in Me (60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.  *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*| Term 4 Week 8|
 |Did You Know?(60 mins)| This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’**. *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*| Term 4 Week 9 |
 | Keeping Myself Safe (60 mins)| In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. *This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*|Term 4 Week 10|  
 
@@ -66,16 +66,16 @@ b.       Character and Citizenship Education (CCE)
 |**LESSON TITLE / DURATION**|**LESSON OVERVIEW**| **TIME PERIOD** **(e.g. Term 1 Week 2)**|
 | --- | --- | --- | 
 |Are We More than Friends? Lesson 1 (60 mins) |In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends. |Term 4 Week 7|
-| Are We More than Friends? Lesson 2 (60 mins)| In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.|Term 4 Week 7|
+| Are We More than Friends? Lesson 2 (60 mins)| In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.|Term 4 Week 8|
 
 
 **Information for Parents**
 
 8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://file.go.gov.sg/annex-a-opt-out-form-xmps.pdf). The completed opt-out form is to be submitted by 14/02/2025.
+9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://go.gov.sg/annexaoptoutform2026). The completed opt-out form is to be submitted by 13/02/2026.
 
 10.       Parents can contact the school at 6283 5479 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 
-Updated as of Feb 2025
+Updated as of Jan 2026
