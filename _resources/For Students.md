@@ -18,6 +18,6 @@ variant: markdown
 
 [eZhiShi](https://www.ezhishi.net/)
 
-We Hear You Xinminites ([WHYx](https://forms.moe.edu.sg/forms/Jmxn5n))
+We Hear You Xinminites ([WHYX](https://forms.moe.edu.sg/forms/J2OwyQ))
 
 Updated as of Jan 2026
