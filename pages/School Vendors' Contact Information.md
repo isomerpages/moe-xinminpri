@@ -102,7 +102,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>86380499 (Whatsapp only)</p>
+<p>8683 6993 (Whatsapp only)</p>
 </td>
 </tr>
 <tr>
