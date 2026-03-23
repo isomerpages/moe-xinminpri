@@ -40,7 +40,7 @@ Mdm Teh Swee Sing
 
 ### Schedule
 
-Monday 2.30 p.m. – 4.30 p.m.
+Mondays, 2.30 p.m. – 4.30 p.m.
 
 ### Annual Events and Activities
 
