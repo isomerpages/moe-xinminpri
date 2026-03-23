@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/20240205_173951.jpg)
+![](/images/8th_ASEANSAI___nov.jpg)
 
 At Xinmin Primary School, the Choir CCA—also known as the Xinmin Nightingales—aims to cultivate students’ mental, emotional, and musical growth through singing. The programme develops confident leaders through meaningful performance experiences and nurtures innovative collaborators with a deep appreciation for music.
 
@@ -13,7 +13,7 @@ The Xinmin Nightingales provide a platform for passionate young singers to come 
 
 Anchored in the school’s core values of Care, Respect, Responsibility, Resilience, and Integrity, students grow in confidence as performers and deepen their appreciation for choral music through exposure to a diverse repertoire of songs.
 
-![](/images/20240205_130344.jpg)
+![](/images/8th_ASEANSAI___2_76.jpg)
 
 ### Key Programmes
 
@@ -31,7 +31,7 @@ Through their choir journey, students also learn to collaborate innovatively by:
 
 These experiences not only enhance their musical skills but also foster teamwork, creativity and a deep passion for singing.
 
-![](/images/20240205_134221.jpg)
+![](/images/March_On_2025_Group_Photo.jpg)
 
 ### Teachers-In-Charge
 
