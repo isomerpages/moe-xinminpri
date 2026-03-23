@@ -18,7 +18,7 @@ Although our players join the sport with different abilities, they learn the imp
 
 ### Teachers-in-Charge
 
-Miss Syasya (1st IC)
+Ms Syasya (1st IC)
 
 Mrr Matthew Chan (2nd IC)
 
