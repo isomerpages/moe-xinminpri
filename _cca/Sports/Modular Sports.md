@@ -6,21 +6,19 @@ third_nav_title: Sports
 variant: markdown
 ---
 ![](/images/WhatsApp_Image_2025_02_07_at_1_38_37_PM__1_.jpg)
-# **Mission & Key Programmes:**
 
-# **Mission:**
+At Xinmin Primary School, the Modular Sports CCA aims to ignite students’ passion for sports while fostering teamwork and a strong sporting spirit. The programme exposes students to a wide variety of sports at a recreational level, providing them with both theoretical understanding and practical experience.
 
-Igniting Passion for Sports and Fostering Team Spirit
+Over the course of their CCA journey, students learn fundamental skills across different sports and apply them in authentic and modified game situations. These experiences allow them to develop confidence, adaptability, and a deeper appreciation of different types of physical activities.
 
-Modular Sports aims to expose students to a variety of sports at a recreational level. Over the course of their years in the CCA, members gain theoretical knowledge of different sports, learn specific skills and apply them in actual or modified games.
+Through participation in both individual and team-based activities, students cultivate important values such as care, respect, responsibility, and resilience. They also learn the importance of teamwork and demonstrate good sportsmanship both on and off the field.
 
-Through participation in various individual and team activities, Modular Sports members develop values such as care, respect, responsibility and resilience. They also learn the importance of teamwork and good sportsmanship.
+Equipped with a broad range of skills and knowledge, students develop a lifelong interest in sports and physical activity. They learn to embrace fair play, collaborate effectively with others, and uphold a positive sporting attitude in all that they do.
 
-Equipped with knowledge and skills across various sports, students develop a passion for lifelong participation in sports and physical activities, with an emphasis on fair play and team spirit.
 
 ![](/images/WhatsApp_Image_2025_02_07_at_1_38_37_PM.jpg)
 
-### **Teachers In-Charge**
+### Teachers In-Charge
 
 Ms Yeung E-liz (1st IC)
 
@@ -31,6 +29,6 @@ Mdm Rosnani Bte Yusof
 
 ### Schedule
 
-Monday 2.30 p.m. – 4.30 p.m.
+Mondays, 2.30 p.m. – 4.30 p.m.
 
-Updated as of Mar 2025
+Updated as of Mar 2026
