@@ -7,30 +7,24 @@ variant: markdown
 ---
 ![](/images/IMG_20250127_160207.jpg)
 
-# **Mission & Key Programmes**
+The Art Club is dedicated to the growth of the whole child. We foster cognitive, social, and emotional development by transforming the art room into a space for boundless imagination. Our members are exposed to diverse art forms and the works of master artists, serving as a springboard for their own unique inspirations. Through inquiry-based learning, our students don’t just make art; they engage in active discussions to communicate their thoughts and feelings.
 
-# **Mission**  
-Nurturing the Passion for the Visual Arts in every Xinminite, igniting the interest in art through art making.
+Our members bring a beautiful diversity of creative abilities to the table. In the Art Club, students learn to collaborate and adapt, adopting fresh approaches to art-making while supporting one another. By sharing their strengths, they cultivate a culture of respect and care, building confidence in their own artistic voices while learning from their peers.
 
-The Art Club fosters the development of the whole child cognitively, physically, socially, emotionally and creatively. Members are exposed to various art forms and artworks of known artists to get ideas and inspiration. The exposure gives them opportunities to engage in active discussions via inquiry-based learning routines for them to communicate their ideas, thoughts and feelings.
+Art Club activities challenge members to create art through various techniques, media, and materials, encouraging them to stretch their imagination and creativity to maximise their potential. Through these diverse experiences, members build confidence and artistic proficiency, developing into reflective thinkers, bold explorers, and curious inquirers within the visual world.
 
-As members are diverse in their dispositions, experiences and creative abilities, they learn to collaborate, adapt and adopt different approaches during art-making. By going through these experiences, the members can contribute to areas they are confident in and at the same time cultivate the values of respect and care for one another.
+“Every artist was first an amateur.” ~ Ralph Waldo Emerson
 
-The Art Club activities challenge members to create art through various techniques, media and materials. While experiencing these, members are encouraged to stretch their imagination and creativity to maximise their potential. The Art Club hopes to build its members' confidence and artistic skills while developing them to be lifelong learners.
-
-“Every artist was first an amateur.”
-
-~ Ralph Waldo Emerson
 
 ![](/images/WhatsApp_Image_2025_01_22_at_11_51_54_AM.jpg)
 
 ### Teachers-in-Charge
 
-Mrs Paulyne Ho (1st IC)
+Mr Joel Teh  (1st IC)
 
-Mr Joel Teh (2nd IC)
+Mdm Reshmi Rai (2nd IC)
 
-Mdm Reshmi Rai
+Mdm Sharon Woo
 
 
 ### Schedule
@@ -44,4 +38,4 @@ Monday 2.30 p.m. – 4.30 p.m.
 * SYF Category C – Certificate of Recognition (Special Mention)
 
 
-Updated as of Mar 2025
+Updated as of Mar 2026
