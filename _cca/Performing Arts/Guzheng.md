@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/Guzheng_1.jpg)
+![](/images/Guzheng_CCA_members.jpg)
 
 At Xinmin Primary School, the Guzheng Ensemble CCA aims to cultivate students’ mental, emotional, and musical growth through the learning of the Guzheng. The programme nurtures motivated lifelong learners with a deep appreciation for this traditional instrument, while developing confident and resilient individuals who collaborate effectively through music-making and performance.
 
@@ -19,7 +19,7 @@ Students are given numerous opportunities to showcase their talents and learning
 
 Xinmin Primary Guzheng Ensemble offers students a comprehensive musical journey, providing a nurturing environment for them to flourish as musicians, collaborators, and performers, thereby enriching their holistic development.
 
-![](/images/Guzheng___CCA_Fair__new_.jpg)
+
 
 ### Teachers-In-Charge
 
