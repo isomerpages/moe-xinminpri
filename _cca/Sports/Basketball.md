@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Senior_Team_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Senior_Team_2026_New.jpg">
 </div>
 <p>Through our customised training programme, we instil the school's core
 values of care, respect, responsibility, resilience and integrity in all
