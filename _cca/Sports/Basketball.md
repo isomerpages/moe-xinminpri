@@ -20,10 +20,6 @@ Through competitions such as the annual National School Games and friendly
 matches with other schools, our members learn the true meaning of teamwork
 and sportsmanship.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Junior_Team_2024_new_please_update.jpg">
-</div>
 <h3>Teachers-in-Charge:</h3>
 <p>Mr Quek Hsiu Yuan (1st IC)</p>
 <p>Mr Kenneth Tan Way Chye (2nd IC)</p>
