@@ -9,16 +9,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Senior_Team_2025.jpg">
 </div>
-<p></p>
-<h1><strong>Mission &amp; Key Programmes:</strong></h1>
-<p>Through our customised training, we hope to instil in all basketball members
-the school core values of care, respect, responsibility and resilience,
-and to develop a strong team of basketball players who are firmly grounded
-in basketball skills such as ball-handling, shooting and defence, and are
-physically and emotionally fit to face challenges.</p>
-<p>Through this CCA, students can forge friendships and strong camaraderie
-with their peers as they participate in competitions such as the annual
-National School Games and friendly matches with other schools.</p>
+<p>Through our customised training programme, we instil the school's core
+values of care, respect, responsibility, resilience and integrity in all
+basketball members. Our players develop strong foundational skills in ball-handling,
+shooting and defence whilst building the physical and emotional resilience
+needed to face any challenge.</p>
+<p>Beyond skill development, basketball offers students the opportunity to
+forge lasting friendships and strong camaraderie with their teammates.
+Through competitions such as the annual National School Games and friendly
+matches with other schools, our members learn the true meaning of teamwork
+and sportsmanship.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -26,15 +26,18 @@ National School Games and friendly matches with other schools.</p>
 </div>
 <h3>Teachers-in-Charge:</h3>
 <p>Mr Quek Hsiu Yuan (1st IC)</p>
-<p>Mr Matthew Chan (2nd IC)</p>
-<p>Mr Kenneth Tan Way Chye</p>
+<p>Mr Kenneth Tan Way Chye (2nd IC)</p>
 <p>Mrs Agnes Tan</p>
-<p></p>
+<p>Mrs Chia Soo Ying</p>
 <h3>Schedule:</h3>
-<p>Monday 2.30 p.m. – 4.30 p.m. (For recreational team)</p>
-<p>Monday: 4.00 p.m. – 5.30 p.m. (For school team)</p>
-<p>Thursday: 4.00 p.m. – 5.30 p.m. (For school team)</p>
+<p>Mondays, 2.30 p.m. – 4.30 p.m. (For recreational team)</p>
+<p>Mondays, 4.00 p.m. – 5.30 p.m. (For school team)</p>
+<p>Thursdays, 4.00 p.m. – 5.30 p.m. (For school team)</p>
 <h3>Achievements:</h3>
+<p><strong>2024</strong>
+</p>
+<p>National School Games (Junior Boys) – 1st in Tiered 3</p>
+<p></p>
 <p><strong>2024</strong>
 </p>
 <p>National School Games (Senior Boys)</p>
@@ -52,16 +55,9 @@ National School Games and friendly matches with other schools.</p>
 <p>National School Games (Junior Boys)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2nd in Tiered 2</p>
-</li>
-</ul>
-<p><strong>2022</strong>
+<p>2nd in Tiered 2
+<br>
 </p>
-<p>National School Games (Junior Boys)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>3rd in Tiered 1</p>
 </li>
 </ul>
-<p></p>
-<p>Updated as of Mar 2025</p>
+<p>Updated as of Mar 2026</p>
