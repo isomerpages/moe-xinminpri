@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/Brownies_Photo_1.png)
+![](/images/Brownies_Photo_1.jpg)
 
 The Brownies CCA at Xinmin Primary School is aligned with the Girl Guides Singapore (Headquarters) movement and focuses on nurturing confident, resilient and compassionate young leaders. The programme provides structured opportunities for girls to develop essential life skills that enable them to adapt to the ever-changing demands of the world whilst growing in character and values.
 
@@ -27,7 +27,7 @@ The aim of the Brownies CCA is to nurture confident, caring, and resilient girls
 * Participation in national-level Girl Guides events and training courses
 
 
-![](/images/Brownies__new_.jpg)
+![](/images/Brownies_Photo_6.jpg)
 
 ### Teachers-in-Charge
 
