@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/SYF_2022_2.jpg)
+![](/images/Recognition_Day_2025_1.jpg)
 
 At Xinmin Primary School, the Modern Dance CCA—also known as the Xinmin Dance Crew (XMDC)—aims to provide students with a fun and dynamic platform to express themselves through movement. The programme nurtures each dancer’s aesthetic potential, while instilling discipline and developing confidence and resilience. It also cultivates a lifelong love for and appreciation of dance.
 
@@ -13,6 +13,7 @@ Dancers are exposed to a variety of dance styles and techniques, including conte
 
 Beyond technical skills, dance serves as a powerful medium for social interaction and personal growth. Students develop a sense of belonging and responsibility to the school and community, while strengthening their discipline and teamwork through collaborative practices.
 
+![](/images/Recognition_Day_2025_3.jpg)
 
 ### Developing Collaborators and Leaders
 
@@ -32,7 +33,7 @@ These performance opportunities allow students to showcase their learning, build
 
 At Xinmin Primary School, we believe that dance is an integral part of a well-rounded education. Through the Modern Dance CCA, we are committed to nurturing confident, disciplined, and creative individuals who are able to express themselves and contribute meaningfully to the community.
 
-![](/images/Recognition_Day_2022_2.jpg)
+![](/images/Recognition_Day_2025_2.jpg)
 
 ### Teachers-in-Charge
 
