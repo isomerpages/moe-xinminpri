@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/SYF_2024.jpg)
-
-![](/images/Performing_hearts_2023.jpg)
+![](/images/WhatsApp_Image_2026_02_13_at_11_00_08_AM__6_.jpg)
 
 At Xinmin Primary School, the Chinese Dance CCA aims to cultivate students’ mental, emotional, and artistic growth through dance. We nurture confident individuals through the mastery of dance skills and meaningful performance experiences, while developing motivated lifelong learners with a deep appreciation for dance. Through collaborative performances, students also learn teamwork and resilience as they serve the community.
 
@@ -27,7 +25,7 @@ They have also represented the school at public platforms, including:
 * Pinetree Yuan Xiao Celebration 2023
 
 
-![](/images/CD_Reg_2024__16_.jpg)
+![](/images/WhatsApp_Image_2026_01_21_at_08_30_52.jpg)
 
 ### Teachers-In-Charge
 
