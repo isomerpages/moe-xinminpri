@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-![](/images/WhatsApp_Image_2025_02_07_at_1_38_37_PM__1_.jpg)
+![](/images/IMG_4745.jpg)
 
 At Xinmin Primary School, the Modular Sports CCA aims to ignite students’ passion for sports while fostering teamwork and a strong sporting spirit. The programme exposes students to a wide variety of sports at a recreational level, providing them with both theoretical understanding and practical experience.
 
