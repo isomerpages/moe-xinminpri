@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/World_Red_Cross_Day_2.jpg)
+![](/images/World_Red_Cross_Day_XMPS.jpg)
 
 Red Cross Youth provides a welcoming space for friendships and social integration amongst students of diverse backgrounds. Primary school units, known as “Links”, learn about the universal humanitarian values and principles advocated by the Singapore Red Cross Society.
 
@@ -15,7 +15,7 @@ Through weekly training sessions, activities and competitions, members internali
 
 Links also have opportunities to contribute meaningfully during Total Defence Day and represent the school at zonal and national events, competitions and camps organised by the Singapore Red Cross Society.
 
-![](/images/Tent_Pitching.jpg)
+![](/images/Red_Cross_Links.jpg)
 
 ### Teachers-in-Charge
 
