@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-### *“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”*
+#### “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”
 
  —	Bill Gates, Co-Chairman, Bill & Melinda Gates Foundation, Co-Founder, Microsoft
+
+![](/images/P56_8.jpg)
 
 At Xinmin Primary School, the Infocomm Technology CCA aims to nurture logical problem solvers by instilling the joy of coding and programming. Through engaging, hands-on learning experiences, students develop critical thinking, creativity, and computational skills that prepare them for an increasingly digital world.
 
@@ -23,6 +25,7 @@ Through these experiences, students learn to collaborate effectively, communicat
 
 The Infocomm Technology CCA provides a dynamic platform for students to develop both technical competencies and essential life skills, equipping them with the mindset and skills to thrive in a rapidly evolving digital landscape.
 
+![](/images/P56_9.jpg)
 
 ### Schedule
 
