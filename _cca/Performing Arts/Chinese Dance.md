@@ -9,7 +9,7 @@ variant: markdown
 
 ![](/images/Performing_hearts_2023.jpg)
 
-AAt Xinmin Primary School, the Chinese Dance CCA aims to cultivate students’ mental, emotional, and artistic growth through dance. We nurture confident individuals through the mastery of dance skills and meaningful performance experiences, while developing motivated lifelong learners with a deep appreciation for dance. Through collaborative performances, students also learn teamwork and resilience as they serve the community.
+At Xinmin Primary School, the Chinese Dance CCA aims to cultivate students’ mental, emotional, and artistic growth through dance. We nurture confident individuals through the mastery of dance skills and meaningful performance experiences, while developing motivated lifelong learners with a deep appreciation for dance. Through collaborative performances, students also learn teamwork and resilience as they serve the community.
 
 Our programme embraces a rich cultural heritage and promotes inclusivity, welcoming students from all backgrounds. We provide a supportive and collaborative environment where dancers grow in confidence and cooperation, with opportunities to perform on various platforms and experience the beauty of dance.
 
