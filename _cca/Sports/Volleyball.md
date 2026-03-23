@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-![](/images/WhatsApp_Image_2024_02_22_at_4_07_07_PM.jpg)
+![](/images/Volleyball_1.jpg)
 
 Volleyball CCA at Xinmin Primary School aims to impart essential volleyball skills and mould our students into resilient, lifelong learners.
 
