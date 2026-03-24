@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/20240205_154751.jpg)
-
+![](/images/Photo4.jpg)
 
 ### Scouting at Xinmin: Empowering Holistic Development in our Youths
 
@@ -28,7 +27,7 @@ Through collaborative projects, camps and service-learning opportunities, our Cu
 
 During CCA sessions, our Xinmin Scouts work towards earning progress and proficiency badges through structured activities and skill assessments. These badges recognise their effort, growth, interests and talents, instilling a strong sense of pride and accomplishment whilst motivating them to strive for excellence.
 
-![](/images/Scouts_2025.jpg)
+![](/images/Photo2.jpg)
 
 ### Teachers-in-Charge
 
