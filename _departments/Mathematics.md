@@ -7,9 +7,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department%20Pics/maths%20s.jpg">
 </div>
-<h1><strong>Vision</strong></h1>
+<h2><strong>Vision</strong></h2>
 <p>Every Xinminite, a confident problem solver.</p>
-<h1><strong>Mission</strong></h1>
+<h2><strong>Mission</strong></h2>
 <p>Building confidence and fostering interest in mathematics.</p>
 <h4><strong>Key Programmes</strong></h4>
 <p>At Xinmin Primary School, the Mathematics Department is committed to nurturing
