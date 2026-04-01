@@ -4,12 +4,12 @@ permalink: /departments/aesthetics/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Vision</strong>:</h3>
+<h1><strong>Vision</strong>:</h1>
 <p>Every Xinminite, an Artist and a Musician.</p>
-<h3><strong>Mission</strong>:</h3>
+<h1><strong>Mission</strong>:</h1>
 <p>Nurturing the Passion for the Arts (Art &amp; Music)</p>
-<p><strong>Aesthetics Curriculum Focus: Developing Xinminites as Artists and Musicians</strong>
-</p>
+<p></p>
+<h4><strong>Aesthetics Curriculum Focus: Developing Xinminites as Artists and Musicians</strong></h4>
 <p>Our curriculum aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -29,8 +29,8 @@ a passion for the Arts in every child. Beyond learning specific skills,
 these activities provide students with opportunities to become collaborators
 through creative endeavours (e.g. creating melodies or designing art pieces
 in groups).</p>
-<p><strong>Aesthetics Signature Programmes:</strong>
-</p>
+<p></p>
+<h4><strong>Aesthetics Signature Programmes:</strong></h4>
 <p><strong>P4 Museum-Based Cohort Learning Journey</strong>
 <br>As part of the P4 Art curriculum, students embark on an enriching learning
 journey to National Gallery Singapore. This experience aims to deepen their
