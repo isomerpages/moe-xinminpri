@@ -4,9 +4,9 @@ permalink: /departments/aesthetics/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Vision</strong>:</h1>
+<h2><strong>Vision</strong>:</h2>
 <p>Every Xinminite, an Artist and a Musician.</p>
-<h1><strong>Mission</strong>:</h1>
+<h2><strong>Mission</strong>:</h2>
 <p>Nurturing the Passion for the Arts (Art &amp; Music)</p>
 <p></p>
 <h4><strong>Aesthetics Curriculum Focus: Developing Xinminites as Artists and Musicians</strong></h4>
