@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>G.L.O.B.E (Green Lifestyle Observed By Everyone)</strong></h1>
-<h1><strong>Vision:</strong></h1>
+<h2><strong>Vision:</strong></h2>
 <p>Nurturing Every Xinminite to Be an Environmental Steward for Life</p>
-<h1><strong>Mission:</strong></h1>
+<h2><strong>Mission:</strong></h2>
 <p>To broaden and deepen Xinminites’ environmental knowledge, and inculcate
 a sense of responsibility in making positive environmental efforts</p>
 <h4><strong>Signature Programmes</strong></h4>
