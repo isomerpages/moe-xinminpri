@@ -6,6 +6,7 @@ third_nav_title: Clubs and Societies
 variant: markdown
 ---
 ![](/images/Group_Photo_of_CCA_members.jpg)
+
 At Xinmin Primary School, the Environmental Science Club—also known as the XMPS Environmental Activists—aims to create awareness and instil a sense of personal responsibility for the environment within the school and the wider community. The CCA nurtures environmentally friendly and sustainable habits that translate into lifelong actions, while deepening students’ understanding of biodiversity and inspiring them to protect and conserve the natural environment.
 
 Formerly known as the Eco-Green Club, the CCA has been at the forefront of the school’s environmental initiatives since 2019, championing awareness of key environmental issues among Xinminites.
@@ -14,27 +15,27 @@ As learners, members develop environmental literacy by exploring real-world envi
 
 As leaders and collaborators, members take purposeful action to promote eco-friendly practices and influence responsible environmental behaviours within the school community.
 
-Key Programmes
+### Key Programmes
 
-1. Environmental Literacy & Awareness
+* Environmental Literacy & Awareness
 Members build foundational knowledge of environmental science and develop awareness of key global issues such as climate change, deforestation, soil erosion, oil spills, and transboundary haze.
 
-2. Scientific Inquiry & Exploration
+* Scientific Inquiry & Exploration
 Students apply scientific thinking and inquiry skills through hands-on experiments and investigations to better understand environmental concepts.
 
-3. Biodiversity & Environmental Stewardship
+* Biodiversity & Environmental Stewardship
 Members gain appreciation of ecosystems and biodiversity through activities such as terrarium creation, hydroponics, and rice planting, fostering a sense of stewardship for the environment.
 
-4. Creative & Hands-on Sustainability
+* Creative & Hands-on Sustainability
 Students practise sustainability through creative reuse and upcycling initiatives, including making paper mâché germination kits, reusable bags from T-shirts, and baskets from recycled materials.
 
-5. Experiential & Outdoor Learning
+* 5Experiential & Outdoor Learning
 Learning is extended beyond the classroom through outdoor experiences, such as school garden tours, allowing students to connect directly with nature.
 
-6. Communication & Outreach
+* Communication & Outreach
 Members develop communication skills through sustainability campaigns, including poster design and visual advocacy to raise awareness within the school community.
 
-7. Advocacy & Environmental Action
+* Advocacy & Environmental Action
 Students take on active roles as environmental advocates by leading initiatives such as Meat-Free Day and Car-Free Day, promoting sustainable lifestyles among their peers.
 
 Through these rich experiences, members translate awareness into meaningful action, develop leadership and collaboration skills, and inspire fellow Xinminites to become responsible stewards of the environment.
@@ -43,14 +44,14 @@ Through these rich experiences, members translate awareness into meaningful acti
 
 Miss Charlene Lim Xian Zhen (1st IC)
 
-Mdm Gabrielle Lim Huiwen (2nd IC)
+Mrs Low-Koh Ying Sin (2nd IC)
 
-Mrs Low-Koh Ying Sin
+Mrs Lau-Lee Peixia
 
 
 ### Schedule
 
-Monday 2.30 p.m. – 4.30 p.m.
+Mondays, 2.30 p.m. – 4.30 p.m.
 
 
-Updated as of Mar 2025
+Updated as of Mar 2026
