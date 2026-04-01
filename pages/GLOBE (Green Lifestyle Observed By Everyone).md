@@ -68,8 +68,32 @@ with their families.
 for the vegetables. As the Veggie Tower replicates a natural ecosystem
 and converts kitchen scraps into natural fertiliser for the vegetables,
 this programme inspires students to learn more about decomposition processes
-and plant growth.</p>
+and plant growth.
+<br>
+</p>
 </li>
 </ul>
+<h4><strong>Achievements</strong></h4>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School Green Awards – Yellow Flame Award</p>
+</li>
+</ul>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School Green Awards - Vanda Miss Joaquim Sustained Achievement Award</p>
+</li>
+</ul>
+<p><strong>2023</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School Green Awards - Vanda Miss Joaquim Sustained Achievement Award</p>
+</li>
+</ul>
+<p></p>
 <p>Updated as of Mar 2026</p>
-<p>Updated as of Mar 2025</p>
