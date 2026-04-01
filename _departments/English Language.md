@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/english.jpeg">
 </div>
-<h2><strong>Vision: </strong></h2>
+<h2><strong>Vision:</strong></h2>
 <p>Every Xinminite, an active reader, a confident speaker and a competent
 writer with a love for the English Language.</p>
 <h2><strong>Mission:</strong></h2>
@@ -60,54 +60,99 @@ skills.</p>
 </li>
 </ul>
 <h4><strong>Key Programmes:</strong></h4>
-<h4>To develop active readers, Xinminites are given access and exposure to a variety of books and reading materials that would also propel them to be learners. Our reading programme includes the following:</h4>
-<p>• Class Book Flood</p>
-<p>Every class is provided with a set of books of different titles and genres
+<p>To develop active readers, Xinminites are given access and exposure to
+a variety of books and reading materials that would also propel them to
+be learners. Our reading programme includes the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Class Book Flood</strong>
+<br>Every class is provided with a set of books of different titles and genres
 for Xinminitess to choose from. These books can be borrowed during the
 silent reading periods or taken home to allow our Xinminites to explore
 what they like and pique their curiosity on topics that interest them.
-Through the book flood, they will read more and discover the joy of reading.</p>
-<p>• Home Reading Programme (HRP)</p>
-<p>To inculcate the reading habit, our Primary 1 and 2 Xinminites bring home
+Through the book flood, they will read more and discover the joy of reading.
+<br>
+</p>
+</li>
+<li>
+<p><strong>Home Reading Programme (HRP)</strong>
+<br>To inculcate the reading habit, our Primary 1 and 2 Xinminites bring home
 an English storybook every alternate week to read and discuss with their
 parents. This programme also aims to foster a strong partnership with parents
 by encouraging shared reading experiences to build meaning connections
-and inculcate the reading habit.</p>
-<p>• The Writer’s Toolbox</p>
-<p>To nurture students in becoming competent writers, all Primary 5 and 6
+and inculcate the reading habit.
+<br>
+</p>
+</li>
+<li>
+<p><strong>The Writer’s Toolbox</strong>
+<br>To nurture students in becoming competent writers, all Primary 5 and 6
 students are given access to The Writer’s Toolbox subscription. The Writer’s
 Toolbox is an online writing platform designed to help students grow as
 writers through regular practice and meaningful feedback. Through its structured
 approach and AI-driven feedback, students will have opportunities to experiment
 with language and writing techniques, refine their ideas and develop greater
 confidence in writing.</p>
-<p>Intervention and Enrichment Programme:</p>
+</li>
+</ul>
+<h4><strong>Intervention and Enrichment Programme</strong>:</h4>
 <p>To support and stretch the learning of our Xinminites, the following targeted
 intervention programmes are put in place:</p>
-<p>Primary 1 &amp; 2:</p>
-<p>• Learning Support Programme (LSP)</p>
-<p>Primary 3:</p>
-<p>• Reading Remediation Programme (RRP)</p>
-<p>• School-based Dyslexia Remediation (SDR)</p>
-<p>Primary 4:</p>
-<p>• Reading Remediation Programme (RRP)</p>
-<p>• School-based Dyslexia Remediation (SDR)</p>
-<p>• Programme for High Ability Learners (HAL)</p>
-<p>Primary 5:</p>
-<p>• Remedial Sessions</p>
-<p>• Reading Remediation Programme (RRP)</p>
-<p>• Programme for High Ability Learners (HAL)</p>
-<p>Primary 6:</p>
-<p>• Remedial Sessions</p>
-<p></p>
-<h2>Achievements</h2>
-<p><strong>2024</strong>
+<p><strong>Primary 1 &amp; 2:</strong>
 </p>
-<h5>N1 Cluster Spin-A-Tale (Storytelling) Competition</h5>
-<p><strong><em>Category 1: Lower Primary (Individual) - 1st Place</em></strong>Charyenne
-Dan Wan Shyan</p>
-<p><strong><em>Category 2: Upper Primary (Individual) - 1st Place</em></strong>Krishna
-Anushka</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning Support Programme (LSP)</p>
+</li>
+</ul>
+<p><strong>Primary 3:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reading Remediation Programme (RRP)</p>
+</li>
+<li>
+<p>School-based Dyslexia Remediation (SDR)</p>
+</li>
+</ul>
+<p><strong>Primary 4:</strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reading Remediation Programme (RRP)</p>
+</li>
+<li>
+<p>School-based Dyslexia Remediation (SDR)</p>
+</li>
+<li>
+<p>Programme for High Ability Learners (HAL)</p>
+</li>
+</ul>
+<p><strong>Primary 5:</strong>
+</p>
+<p>• Remedial Sessions</p>
+<p>• Reading Remediation Programme (RRP)</p>
+<p>• Programme for High Ability Learners (HAL)</p>
+<p><strong>Primary 6:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Remedial Sessions</p>
+</li>
+</ul>
+<p></p>
+<h4>Achievements</h4>
+<p><strong>2025</strong>
+</p>
+<p><strong>N1 Cluster Spin-A-Tale (Storytelling) Competition</strong>
+</p>
+<p><strong><em>Category 1: Lower Primary (Individual) - 1st Place</em></strong>
+</p>
+<p>Charyenne Dan Wan Shyan</p>
+<p><strong><em>Category 2: Upper Primary (Individual) - 1st Place</em></strong>
+</p>
+<p>Krishna Anushka</p>
 <p><strong><em>Category 3: Team - 1st Place</em></strong>
 </p>
 <p>Adrian Jian Haobo</p>
@@ -116,4 +161,25 @@ Anushka</p>
 <p><strong><em>Challenge Trophy:</em></strong>
 </p>
 <p>Champion school for the third consecutive year</p>
+<p>Updated as of Mar 2025</p>
+<p><strong>2024</strong>
+</p>
+<p><strong>N1 Cluster Spin-A-Tale (Storytelling) Competition</strong>
+</p>
+<p><strong><em>Category 1: Lower Primary (Individual) - 1st Place</em></strong>
+</p>
+<p>Charyenne Dan Wan Shyan</p>
+<p><strong><em>Category 2: Upper Primary (Individual) - 1st Place</em></strong>
+</p>
+<p>Krishna Anushka</p>
+<p><strong><em>Category 3: Team - 1st Place</em></strong>
+</p>
+<p>Adrian Jian Haobo</p>
+<p>Brennan Tan Joon Yan</p>
+<p>Subahar Diya</p>
+<p><strong><em>Challenge Trophy:</em></strong>
+</p>
+<p>Champion school for the third consecutive year</p>
+<p></p>
+<p>Updated as of Mar 2026</p>
 <p>Updated as of Mar 2025</p>
