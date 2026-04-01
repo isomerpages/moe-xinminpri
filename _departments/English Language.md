@@ -149,19 +149,18 @@ intervention programmes are put in place:</p>
 </p>
 <p><strong><em>Category 1: Lower Primary (Individual) - 1st Place</em></strong>
 </p>
-<p>Charyenne Dan Wan Shyan</p>
+<p>Jarius Wong Xu Zhe</p>
 <p><strong><em>Category 2: Upper Primary (Individual) - 1st Place</em></strong>
 </p>
-<p>Krishna Anushka</p>
+<p>Lee En Xuan Gillian</p>
 <p><strong><em>Category 3: Team - 1st Place</em></strong>
 </p>
-<p>Adrian Jian Haobo</p>
-<p>Brennan Tan Joon Yan</p>
-<p>Subahar Diya</p>
+<p>Aaliyah Ong Xinyu</p>
+<p>Goh Yong Ming, Dylan</p>
+<p>Nicole Rae Oh Shi Yuan</p>
 <p><strong><em>Challenge Trophy:</em></strong>
 </p>
 <p>Champion school for the third consecutive year</p>
-<p>Updated as of Mar 2025</p>
 <p><strong>2024</strong>
 </p>
 <p><strong>N1 Cluster Spin-A-Tale (Storytelling) Competition</strong>
@@ -179,7 +178,7 @@ intervention programmes are put in place:</p>
 <p>Subahar Diya</p>
 <p><strong><em>Challenge Trophy:</em></strong>
 </p>
-<p>Champion school for the third consecutive year</p>
+<p>Champion school for the second consecutive year</p>
 <p></p>
 <p>Updated as of Mar 2026</p>
 <p>Updated as of Mar 2025</p>
