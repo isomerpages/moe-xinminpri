@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_Photo_of_CCA_members.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250728_WA0024.jpg">
 </div>
 <p>At Xinmin Primary School, the Environmental Science Club—also known as
 the XMPS Environmental Activists—aims to create awareness and instil a
@@ -74,6 +75,11 @@ among their peers.</p>
 <p>Through these rich experiences, members translate awareness into meaningful
 action, develop leadership and collaboration skills, and inspire fellow
 Xinminites to become responsible stewards of the environment.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250825_WA0045.jpg">
+</div>
 <h3>Teachers-in-Charge</h3>
 <p>Miss Charlene Lim Xian Zhen (1st IC)</p>
 <p>Mrs Low-Koh Ying Sin (2nd IC)</p>
