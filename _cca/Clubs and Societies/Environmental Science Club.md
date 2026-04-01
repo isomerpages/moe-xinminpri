@@ -30,42 +30,42 @@ within the school community.</p>
 <h3>Key Programmes</h3>
 <ul>
 <li>
-<p>Environmental Literacy &amp; Awareness
+<p><strong>Environmental Literacy &amp; Awareness </strong>
 <br>Members build foundational knowledge of environmental science and develop
 awareness of key global issues such as climate change, deforestation, soil
 erosion, oil spills, and transboundary haze.</p>
 </li>
 <li>
-<p>Scientific Inquiry &amp; Exploration
+<p><strong>Scientific Inquiry &amp; Exploration </strong>
 <br>Students apply scientific thinking and inquiry skills through hands-on
 experiments and investigations to better understand environmental concepts.</p>
 </li>
 <li>
-<p>Biodiversity &amp; Environmental
-<br>Stewardship Members gain appreciation of ecosystems and biodiversity through
-activities such as terrarium creation, hydroponics, and rice planting,
-fostering a sense of stewardship for the environment.</p>
+<p><strong>Biodiversity &amp; Environmental <br>Stewardshi</strong>p Members
+gain appreciation of ecosystems and biodiversity through activities such
+as terrarium creation, hydroponics, and rice planting, fostering a sense
+of stewardship for the environment.</p>
 </li>
 <li>
-<p>Creative &amp; Hands-on Sustainability
+<p><strong>Creative &amp; Hands-on Sustainability </strong>
 <br>Students practise sustainability through creative reuse and upcycling
 initiatives, including making paper mâché germination kits, reusable bags
 from T-shirts, and baskets from recycled materials.</p>
 </li>
 <li>
-<p>5Experiential &amp; Outdoor Learning
+<p><strong>5Experiential &amp; Outdoor Learning </strong>
 <br>Learning is extended beyond the classroom through outdoor experiences,
 such as school garden tours, allowing students to connect directly with
 nature.</p>
 </li>
 <li>
-<p>Communication &amp; Outreach
+<p><strong>Communication &amp; Outreach </strong>
 <br>Members develop communication skills through sustainability campaigns,
 including poster design and visual advocacy to raise awareness within the
 school community.</p>
 </li>
 <li>
-<p>Advocacy &amp; Environmental Action
+<p><strong>Advocacy &amp; Environmental Action</strong> 
 <br>Students take on active roles as environmental advocates by leading initiatives
 such as Meat-Free Day and Car-Free Day, promoting sustainable lifestyles
 among their peers.</p>
