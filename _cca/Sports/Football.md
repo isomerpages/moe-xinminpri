@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250721_161541.jpg">
+</div>
+<p></p>
 <p>At Xinmin Primary School, the Football CCA aims to inculcate sportsmanship
 and nurture a passion for football in our student-athletes. Through a structured
 and holistic programme, students are developed as confident collaborators
