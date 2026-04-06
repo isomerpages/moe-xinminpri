@@ -43,6 +43,10 @@ Please click [here](https://go.gov.sg/xinminpsg2026 ) to join the PSG.
 |   26_04_03   | P5BF IHC Learning Journey   | 1/4/2026  |
 |   26_04_04   | P1DG English Learning Journey to Singapore Zoo   |2/4/2026 |
 |   26_04_05   | Anti-Bully Campaign (ABC)     | 13 & 14/4/2026  |
+|   26_04_06   | P4 Learning Journey to Road Safety Park   | 21, 23 & 24/4/2026 |
+|   26_04_07   | Earth Day Booth Activities  | 23/4/2026  |
+|   26_04_08   | Meat Free Day |24/4/2026 |
+|   26_05_01   | Drug Awareness Day (DAD) | 15/5/2026  |
 
 
 
