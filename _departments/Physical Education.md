@@ -67,9 +67,11 @@ Xinmin Primary School. It provides students with opportunities to learn
 about environmental sustainability while developing a growth mindset. Through
 various activities, students collaborate to overcome challenges in an unfamiliar
 setting.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Camp_2__new_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Camp_4.jpg">
 </div>
+<p></p>
 <h3>Unstructured Recess Play</h3>
 <p>Unstructured recess play serves as an informal platform that enhances
 both physical activity and social development. During this time, students
