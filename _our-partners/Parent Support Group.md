@@ -39,6 +39,10 @@ Please click [here](https://go.gov.sg/xinminpsg2026 ) to join the PSG.
 |   26_03_04   | P5AE IHC Learning Journey   | 27/3/2026  |
 |   26_03_05   | P1AB English Learning Journey to Singapore Zoo    | 31/3/2026 |
 |   26_04_01   | P3 Swimsafer Programmes      | 1/4/2026  |
+|   26_04_02   | P1CEF English Learning Journey to Singapore Zoo     | 1/4/2026 |
+|   26_04_03   | P5BF IHC Learning Journey   | 1/4/2026  |
+|   26_04_04   | P1DG English Learning Journey to Singapore Zoo   |2/4/2026 |
+|   26_04_05   | Anti-Bully Campaign (ABC)     | 13 & 14/4/2026  |
 
 
 
