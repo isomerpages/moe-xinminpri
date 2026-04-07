@@ -84,12 +84,12 @@ with teacher guidance, enable students to:</p>
 </ul>
 <p>This comprehensive approach nurtures Xinminites to become innovative collaborators
 while developing their higher-order thinking skills.</p>
-<h4>Achievements</h4>
+<h4><strong>Achievements</strong></h4>
 <p>Our Xinminites have achieved the following top awards in national competitions
 in recent years:</p>
 <p><strong>2025</strong>
 </p>
-<p><strong>National Flight Simulator Challenge </strong> – Participation</p>
+<p><strong>National Flight Simulator Challenge </strong>– Participation</p>
 <p><strong>2024</strong>
 </p>
 <p><strong>Singapore Primary Science Olympiad</strong> – 2 Silver, 4 Bronze,
