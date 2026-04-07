@@ -14,16 +14,19 @@ in an inclusive, enabling environment</p>
 <p>Supporting the well-being of every Xinminite through inclusive support
 that builds positive attitudes, essential life skills and prepares them
 to learn, lead and collaborate</p>
-<h1><strong>Key Programmes</strong></h1>
-<p>To help realise our department’s vision and mission, we have crafted the
-following programmes for our Xinminites:</p>
-<h3>Peer Support</h3>
+<h4><strong>Key Programmes</strong></h4>
+<p>To help realise our department’s vision and mission, we have the following
+programmes for our Xinminites:</p>
+<p><strong>Peer Support</strong>
+</p>
 <p>Our Peer Support programmes aim to develop every Xinminite into an effective
 peer supporter. The objectives of these programmes are to:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Empower students to look out for and care for one another through bonding
-activities, mutual support, and positive influence</p>
+activities, mutual support, and positive influence
+<br>
+</p>
 </li>
 <li>
 <p>Promote positive mindsets, prosocial behaviours, and healthy mental well-being
@@ -32,15 +35,16 @@ among students</p>
 </ul>
 <p>Each Xinminite participates in a structured peer support programme that
 builds competencies and develops mindsets for creating positive influence
-through prosocial behaviours, both online and offline. The programme is
-integrated into CCE lessons and student development activities, including
-CCAs and cohort camps.</p>
+through prosocial behaviours in both online and offline. The programme
+is integrated into CCE lessons and student development activities, including
+CCAs and cohort camp.</p>
 <p>Selected students serve as Peer Support Leaders, becoming advocates of
 positive influence within the school community. These leaders connect with
 and support classmates who may need assistance. Teachers identify potential
 Peer Support Leaders, who then receive specific training from the school
 to perform their roles effectively.</p>
-<h3>Cyberwellness</h3>
+<p><strong>Cyberwellness</strong>
+</p>
 <p>Cyber Wellness lessons are progressively designed to equip every Xinminite
 with the knowledge and skills to harness technology for positive purposes
 while becoming respectful and responsible users.</p>
@@ -58,22 +62,26 @@ presence</p>
 <p>Be responsible for their personal well-being in cyberspace</p>
 </li>
 </ul>
-<h3>Programmes After-school to build Confidence and boost self-Esteem (PACE)</h3>
-<p>PACE aims to develop students into:</p>
+<p><strong>Programmes After-school to build Confidence and boost self-Esteem (PACE)</strong>
+</p>
+<p>PACE is designed for selected students who show potential for growth in
+self-management and positive behaviour development.</p>
+<p>PACE aims to support students in developing:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learners who are open-minded and embrace challenges to acquire new skills</p>
+<p>Self-awareness and emotional regulation in various situations</p>
 </li>
 <li>
-<p>Collaborators who work effectively with others</p>
+<p>Positive social skills and respectful interactions with others</p>
 </li>
 <li>
-<p>Leaders who adapt readily to changing circumstances</p>
+<p>Resilience and problem-solving abilities when facing challenges</p>
 </li>
 </ul>
-<p>Through Growth Mindset programmes, individual portfolios and school projects,
-students apply their learning to enhance their personal and social development.</p>
+<p>Through customised programmes and school projects, students apply their
+learning to enhance their personal and social development.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PACE__Artist_in_Residence.jpg">
 </div>
-<p>Updated as of Mar 2025</p>
+<p>Updated as of Apr 2026</p>
