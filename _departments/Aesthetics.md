@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Vision</strong>:</h2>
-<p>Every Xinminite, an Artist and a Musician.</p>
+<p>Every Xinminite, an Artist and a Musician</p>
 <h2><strong>Mission</strong>:</h2>
 <p>Nurturing the Passion for the Arts (Art &amp; Music)</p>
 <p></p>
