@@ -28,17 +28,17 @@ and participating in inter-class competitions.
 </p>
 </li>
 <li>
-<p>Confident leaders in PE lessons and sports activities through roles as
-PE Monitors, Sports Leaders and PE Group Leaders. These students receive
-centralised and de-centralised training to assist PE teachers during and
-after lessons, lead their classes in warm-up and cool-down exercises, and
-captain their PE groups in intra- and inter-class games.
+<p>Leaders in PE lessons and sports activities through roles as PE Monitors,
+Sports Leaders and PE Group Leaders. These students receive centralised
+and decentralised training to assist PE teachers during and after lessons,
+lead their classes in warm-up and cool-down exercises, and captain their
+PE groups in intra- and inter-class games.
 <br>
 </p>
 <p>Through PE lessons and sports-related programmes, our mission is to nurture
 a passion for sports in every child. Students not only learn essential
-physical skills but also have opportunities to develop into innovative
-collaborators through activities such as devising strategies for team sports.</p>
+physical skills but also develop into innovative collaborators through
+activities such as devising strategies for team sports.</p>
 </li>
 </ul>
 <h4><strong>PE Signature Programmes:</strong></h4>
@@ -62,26 +62,14 @@ abilities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SwimSafer1.jpg">
 </div>
 <h3>P5 Outdoor Adventure Camp</h3>
-<p>The P5 Camp is a niche programme that exemplifies outdoor education at
-Xinmin Primary School. It provides students with opportunities to learn
-about environmental sustainability while developing a growth mindset. Through
-various activities, students collaborate to overcome challenges in an unfamiliar
-setting.</p>
+<p>The P5 Camp is a key programme that exemplifies outdoor education at Xinmin
+Primary School. It provides students with opportunities to learn about
+environmental sustainability whilst developing a growth mindset. Through
+various collaborative activities, students work together to overcome challenges
+in an unfamiliar setting.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Camp_4.jpg">
 </div>
 <p></p>
-<h3>Unstructured Recess Play</h3>
-<p>Unstructured recess play serves as an informal platform that enhances
-both physical activity and social development. During this time, students
-take charge of organising their own games and activities, developing leadership
-abilities and collaborative skills. These student-initiated interactions
-create meaningful opportunities for teamwork, problem-solving, and navigating
-social situations in an authentic setting.</p>
-<p>When given choices in their play activities, students build physical fitness
-while strengthening their social confidence and peer relationships. The
-informal yet enriching environment encourages students to develop essential
-skills in physical activity, social interaction, and self-directed learning
-that extend well beyond the classroom.</p>
-<p>Updated as of Mar 2025</p>
+<p>Updated as of Mar 2026</p>
