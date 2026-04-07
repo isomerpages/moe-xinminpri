@@ -100,9 +100,36 @@ texts. Over time, they also develop adaptive thinking as they reflect on
 what they read, make connections to prior knowledge and apply their learning
 in new contexts</p>
 <h4><strong>Achievements</strong></h4>
+<p><strong>2025</strong>
+</p>
+<p><strong>Chinese Language Recital Competition</strong>
+</p>
+<p><strong>Bronze Award</strong>
+</p>
+<p>Xu Jingtian Cyrus</p>
+<p>Yang Aoxuan</p>
+<p>Ling Yuqing Andrea</p>
+<p>Brennan Tan</p>
+<p>Fei Jiaxuan</p>
+<p><strong>Chinese Calligraphy Competition:</strong>
+</p>
+<p><strong>Commendable Award</strong>
+</p>
+<p>Sun Yuchu</p>
+<p><strong>Certificate of Participation</strong>
+</p>
+<p>Tan Kexin</p>
+<p>Li Xue Rui</p>
+<p>Hwee Xuan Ya Hayley</p>
+<p>Wu Peiwen</p>
+<p>Tee Xuan Ni, Xynelle</p>
+<p>Tee Xuan Lin, Rynelle</p>
+<p></p>
+<p></p>
 <p><strong>2024</strong>
 </p>
-<h5>Chinese Language Recital Competition</h5>
+<p><strong>Chinese Language Recital Competition</strong>
+</p>
 <p><strong>Silver Award</strong>
 </p>
 <p>Jasper Huang</p>
