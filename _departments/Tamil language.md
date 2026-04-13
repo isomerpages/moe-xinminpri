@@ -106,4 +106,4 @@ students to take initiative in their learning, build confidence in their
 abilities, and develop a deeper appreciation for the richness of Tamil
 language and culture.</p>
 <p></p>
-<p>Pending update as of Mar 2026</p>
+<p>Updated as of Mar 2026</p>
