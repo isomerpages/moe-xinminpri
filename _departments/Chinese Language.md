@@ -157,5 +157,4 @@ in new contexts</p>
 </p>
 <p>Li Xuerui</p>
 <p></p>
-<p></p>
-<p>Pending update as of Mar 2026</p>
+<p>Updated as of Mar 2026</p>
