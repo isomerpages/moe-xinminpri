@@ -65,4 +65,4 @@ their views to their classmates, developing both language skills and confidence.
 various competitions, including poetry recitation, spelling bee, language
 quizzes, essay writing and Scrabble.</p>
 <p></p>
-<p>Updated as of Apr 2026</p>
+<p>Pending update as of Mar 2026</p>
