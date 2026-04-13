@@ -84,4 +84,5 @@ learning to enhance their personal and social development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PACE__Artist_in_Residence.jpg">
 </div>
-<p>Updated as of Apr 2026</p>
+<p></p>
+<p>Updated as of Mar 2026</p>
