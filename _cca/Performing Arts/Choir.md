@@ -5,58 +5,55 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/20240205_173951.jpg)
+![](/images/8th_ASEANSAI___nov.jpg)
 
-# **Mission &amp; Key Programmes:**
+At Xinmin Primary School, the Choir CCA—also known as the Xinmin Nightingales—aims to cultivate students’ mental, emotional, and musical growth through singing. The programme develops confident leaders through meaningful performance experiences and nurtures innovative collaborators with a deep appreciation for music.
 
+The Xinmin Nightingales provide a platform for passionate young singers to come together as an ensemble and create beautiful music. Under the baton of Mr Marcus Lee, students refine their musicianship by developing essential vocal skills such as voice projection, pitch accuracy, and rhythmic precision. Through engaging activities like body percussion and rhythm games, choir members strengthen their musical abilities while enjoying a fun and enriching learning experience.
 
-# **Mission**  
+Anchored in the school’s core values of Care, Respect, Responsibility, Resilience, and Integrity, students grow in confidence as performers and deepen their appreciation for choral music through exposure to a diverse repertoire of songs.
 
-* To cultivate mental, emotional and musical growth through singing
-* To develop confident leaders through performances
-* To nurture innovative collaborators with a deep appreciation for music
+![](/images/8th_ASEANSAI___2_76.jpg)
 
-The Xinmin Primary School Choir, also known as Xinmin Nightingales, provides a platform for passionate young singers to come together as an ensemble and create beautiful music. Under the baton of Mr Marcus Lee, the Xinmin Nightingales refine their musicianship by developing essential singing skills such as voice projection, pitch accuracy and rhythmic sense. Through engaging activities like body percussion and rhythm games, choir members enhance their musical abilities while enjoying a fun and enriching learning experience.
+### Key Programmes
 
-Anchored in our school's core values of Care, Respect, Responsibility and Resilience, students grow to sing with confidence while developing an appreciation for choral music through exposure to a diverse repertoire of songs.
-
-![](/images/20240205_130344.jpg)
-
-# **Key Programmes**  
-
-Beyond regular rehearsals, the Xinmin Nightingales actively showcase their talents at various school, community and national events. Signature performances include:
+Beyond regular rehearsals, the Xinmin Nightingales actively showcase their talents at various school, community, and national platforms. Signature performances include:
 
 * Annual Recognition Day Concert
 * Biennial Performing HeArts Concert
 
-In addition, they participate in school, community and national events, where every performance—regardless of scale—serves as an opportunity to build confidence and strive for excellence. Through their choir journey, students also learn to collaborate innovatively by:
+In addition, students participate in a range of events where every performance—regardless of scale—serves as an opportunity to build confidence and strive for excellence.
+
+Through their choir journey, students also learn to collaborate innovatively by:
 
 * Engaging in choir exchanges with other school choirs
-* Using movements and props to bring their songs to life
+* Incorporating movements and props to bring their performances to life
 
 These experiences not only enhance their musical skills but also foster teamwork, creativity and a deep passion for singing.
 
-![](/images/20240205_134221.jpg)
+![](/images/March_On_2025_Group_Photo.jpg)
 
 ### Teachers-In-Charge
 
 Mrs Celine Ong (1st IC)
 
-Mr Thomas Ong (2nd IC)
+Mdm Zhao Ting Yan (2nd IC)
+
+Mr Thomas Ong
 
 Miss Shek Yan Yee 
 
-Mdm Liang Ruishan
+Mr Edwin Pang
 
-Mdm Zhao Ting Yan
+Ms Joycelyn Ho
 
 
 
 ### Schedule
 
-Monday 2.00 p.m. – 4.00 p.m. 
+Mondays, 2.00 p.m. – 4.00 p.m. 
 
-Thursday (ad-hoc):  4.00 p.m. – 5.30 p.m. 
+Thursdays, (ad-hoc):  4.00 p.m. – 5.30 p.m. 
 
 
 ### Achievements and Participation 
@@ -64,6 +61,10 @@ Thursday (ad-hoc):  4.00 p.m. – 5.30 p.m.
 **2025**
 
 * March On @ Esplanade Concourse
+* Performing HeArts 
+* ASEAN SAI Opening Summit 2025
+* Recognition Day 
+
 
 **2024**
 
@@ -81,4 +82,4 @@ Thursday (ad-hoc):  4.00 p.m. – 5.30 p.m.
 * March On @ Esplanade Concourse
 * Voices of Singapore Festival @ CHIJMES
 
-Updated as of Mar 2025
+Updated as of Mar 2026

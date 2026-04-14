@@ -33,13 +33,21 @@ Please click [here](https://go.gov.sg/xinminpsg2026 ) to join the PSG.
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-|   26_01_01   | P1 Grow Well Booth     | 2/1/2026  |
-|   26_01_02   | P6ACE Museum-based Learning Journey     | 14/1/2026 and 16/1/2026  |
-|   26_01_03   | P3 Swimsafer Programmes      | 27/1/2026 to 1/4/2026  |
-|   26_02_01   | Learn Well (P3 and P4)    | 2/2/2026 to 6/2/2026  |
-|   26_02_02   | P2 English Learning Journey to Jacob Ballas     | 10/2/2026 to 12/2/2026  |
-|   26_02_03   | P1 English Learning Journey to Singapore Zoo      | 19/2/2026 to 20/2/2026  |
+|   26_03_01   |Canteen Safety Duty    | 24/3/2026 to 26/5/2026  |
+|   26_03_02   | P3 Swimsafer Programmes   | 24, 25 & 31/3/2026 |
+|   26_03_03   | Catch Me Good Redemption (1)    | 26/3/2026 |
+|   26_03_04   | P5AE IHC Learning Journey   | 27/3/2026  |
+|   26_03_05   | P1AB English Learning Journey to Singapore Zoo    | 31/3/2026 |
+|   26_04_01   | P3 Swimsafer Programmes      | 1/4/2026  |
+|   26_04_02   | P1CEF English Learning Journey to Singapore Zoo     | 1/4/2026 |
+|   26_04_03   | P5BF IHC Learning Journey   | 1/4/2026  |
+|   26_04_04   | P1DG English Learning Journey to Singapore Zoo   |2/4/2026 |
+|   26_04_05   | Anti-Bully Campaign (ABC)     | 13 & 14/4/2026  |
+|   26_04_06   | P4 Learning Journey to Road Safety Park   | 21, 23 & 24/4/2026 |
+|   26_04_07   | Earth Day Booth Activities  | 23/4/2026  |
+|   26_04_08   | Meat Free Day |24/4/2026 |
+|   26_05_01   | Drug Awareness Day (DAD) | 15/5/2026  |
 
 
 
-Updated as of Jan 2026
+Updated as of Apr 2026

@@ -5,50 +5,42 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/20240205_154751.jpg)
+![](/images/Photo4.jpg)
 
-# **Mission & Key Programmes:**
+### Scouting at Xinmin: Empowering Holistic Development in our Youths
 
-### **Scouting at Xinmin: Empowering Holistic Development in Youths**
+At Xinmin Primary, Scouting is more than just a CCA — it is a platform for holistic growth and character formation. Our Scouts learn essential life skills, build strong values, and foster lasting friendships through hands-on experiences and meaningful community service. Guided by dedicated leaders, they grow into confident, responsible individuals who are ready to contribute positively to society.
 
-Our Scouting programme is dedicated to fostering the physical, mental, spiritual and social growth of our youth, emphasising the importance of duty to God, country and community.
+### Inspired by Rudyard Kipling's The Jungle Book
 
-### **Inspired by Kipling's Jungle Book**
+Inspired by Rudyard Kipling’s The Jungle Book, Scouting at Xinmin Primary brings the spirit of the “Man Cub” to life in every Scout. Through adventure, teamwork, and service to the community, our Cub Scouts learn to live by the values reflected in the “Law of the Pack” — integrity, respect, and responsibility. Within our supportive “jungle,” every Scout discovers their potential to lead and serve.
 
-Our programme draws inspiration from Rudyard Kipling's "The Jungle Book", providing a nurturing environment that promotes holistic development in our Scouts.
+### Cub Scout Activities: Adventure, Skill-Building, and Character Development
 
-### **Cub Scout Activities: Adventure, Skill-Building, and Character Development**
+Our Cub Scout programme provides rich and engaging experiences that nurture resilience, leadership and teamwork. Rooted in the Scout Law, activities include camping, outdoor exploration, knot-tying, nature-based learning, and team challenges. Our Scouts also participate in community service initiatives and environmental sustainability efforts, developing compassion, social responsibility, and a heart for service.
 
-Through our Cub Scout activities, we offer a dynamic platform for our youth to embark on a journey of personal growth, skill development and adventure. Our programme is rooted in the principles of the Scout Law and encompasses a diverse range of experiences, including:
+### Fostering Teamwork, Leadership, and Character
 
-* 	Camping and outdoor exploration
-* 	Knot tying and basic Scouting skills
-* 	Nature exploration and environmental awareness
-* 	Community service and social responsibility
-
-### **Fostering Teamwork, Leadership, and Character**
-
-Our activities are designed to cultivate teamwork, leadership and a strong sense of community among our Cub Scouts. We emphasise character building, instilling values such as honesty, respect and compassion. Through our programme, we aim to foster a spirit of adventure, curiosity and lifelong friendships among our Scouts.
+Through collaborative projects, camps and service-learning opportunities, our Cub Scouts learn to work effectively in teams, take initiative, and demonstrate leadership. These fun yet purposeful activities cultivate confidence, responsibility, and embody the Scout Motto of “Be Prepared.”
 
 ### **Earning Badges and Recognising Achievements**
 
+During CCA sessions, our Xinmin Scouts work towards earning progress and proficiency badges through structured activities and skill assessments. These badges recognise their effort, growth, interests and talents, instilling a strong sense of pride and accomplishment whilst motivating them to strive for excellence.
 
-During our CCA sessions, our Xinmin Scouts work towards earning a series of badges through engaging games and activities. These badges serve as recognition and encouragement of their interests, talents and achievements, providing them with a sense of pride and accomplishment.
-
-![](/images/Scouts_2025.jpg)
+![](/images/Photo2.jpg)
 
 ### Teachers-in-Charge
 
 Mdm Santhi Perumal (1st IC)
 
-Mr Lim Beng Liang (2nd IC)
+Mr Mahandra (2nd IC)
 
-Mrs Mahandra
+Mr Koh Chi Wei
 
 
 ### Schedule
 
-Monday 2.30 p.m. – 4.30 p.m.
+Mondays, 2.30 p.m. – 4.30 p.m.
 
 ### Annual Events
 
@@ -57,6 +49,10 @@ Monday 2.30 p.m. – 4.30 p.m.
 * National Day Observance Ceremony
 
 ### Achievements and Activities
+
+**2025**
+
+* Awarded the Frank Cooper Sands award
 
 **2024**
 
@@ -72,4 +68,4 @@ Monday 2.30 p.m. – 4.30 p.m.
 * North Division Founder’s Day hike
 
 
-Updated as of Mar 2025
+Updated as of Mar 2026

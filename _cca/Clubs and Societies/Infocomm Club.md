@@ -5,47 +5,47 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-### *“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”*
+#### “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”
 
  —	Bill Gates, Co-Chairman, Bill & Melinda Gates Foundation, Co-Founder, Microsoft
 
-# **Mission**
+![](/images/P56_8.jpg)
 
-To instill the joy of logic-based coding and programming
+At Xinmin Primary School, the Infocomm Technology CCA aims to nurture logical problem solvers by instilling the joy of coding and programming. Through engaging, hands-on learning experiences, students develop critical thinking, creativity, and computational skills that prepare them for an increasingly digital world.
 
-# **Vision**
+The Infocomm Club is designed for students who are passionate about coding and technology. Using LEGO SPIKE™ Prime, students build a strong foundation in programming while developing key 21st-century competencies such as collaboration, communication, and problem-solving.
 
-Every Infocomm Club member a logical problem solver. 
+Middle primary students begin their learning journey with block-based programming. At the beginner level, they are introduced to foundational coding concepts such as sequencing, motors, sensors, loops, and conditionals. These experiences help them develop computational thinking while encouraging creativity and teamwork.
 
-The Infocomm Club is a CCA for students who are passionate about coding. Students develop critical thinking skills and creativity through learning the basics of coding with LEGO Spike Prime.
+At the intermediate level, students build on their foundational knowledge by exploring more advanced coding concepts. They also prepare for competitions through activities such as flowcharting, strategy development, and hands-on problem-solving, strengthening both their logical thinking and resilience.
 
-Our middle primary members learn block-based programming using LEGO Spike Prime, starting with the beginner level in the first half of the year before progressing to the intermediate level.
+Upper primary students further deepen their learning by designing and building robots using sensors, motors, and mechanical components. They apply their creativity and imagination to complete tasks such as navigating routes and manipulating objects. In the process, students integrate concepts from Mathematics and Science—such as angles, light, and speed—demonstrating meaningful interdisciplinary learning.
 
-At the beginner level, students are introduced to foundational coding concepts and mechanisms, including sequencing, motors, sensors, loops and conditionals, while developing their computational thinking and fostering creativity, collaboration, communication and critical thinking skills.
+Through these experiences, students learn to collaborate effectively, communicate their ideas clearly, and persevere through challenges. They grow into confident and responsible team players who learn from one another.
 
-At the intermediate level, students build upon their foundational coding knowledge with advanced concepts. Additionally, they explore competition preparation through flowcharting, strategy development and hands-on problem-solving.
+The Infocomm Technology CCA provides a dynamic platform for students to develop both technical competencies and essential life skills, equipping them with the mindset and skills to thrive in a rapidly evolving digital landscape.
 
-Our upper primary members continue to explore coding with the LEGO Spike Prime programme. With their limitless imagination, they build robots using sensors, motors and arms to carry out various tasks such as navigating drawn routes or picking up items. Besides learning to code efficiently, students develop resilience and logical thinking. They apply concepts learnt in their Mathematics and Science lessons, such as angles, light and speed, while coding.
-
-Through logic-based coding, students hone their logical reasoning as they programme robots to carry out tasks in a fun and meaningful way. They also work in groups and learn collaboratively with their peers. This gives them opportunities to develop effective communication skills and become better team players.
-
-The Infocomm Club thus provides a dynamic platform where students can develop both technical expertise and essential life skills, preparing them for the increasingly digital world of tomorrow.
-
+![](/images/P56_9.jpg)
 
 ### Schedule
 
-Monday 2.30 p.m. – 4.30 p.m.
+Monday 2.00 p.m. – 4.00 p.m.
 
 ### Teachers-In-Charge
 
 Mdm Norliana – P5, P6 (1st IC)
 
-Mdm Yang Xu  – P5, P6
+Mdm Yang Xu  – P5, P6 (2nd IC)
 
-Mrs Lau – Lee Peixia – P4
+Mr Lim Beng Liang – P4
 
 
 ### Achievements
+
+**2025**
+
+**Stem Fiesta**
+Primary Category- (Participation)
 
 **2024**
 
@@ -63,11 +63,6 @@ Program robots for missions (Participation)
 **SWIFT Explorers Singapore**
 Primary Category (App Design) Participation
 
-**2022**
-
-**AI Festival Singapore**
-Primary Category (AI Modelling) Champion Team
 
 
-
-Updated as of Mar 2025
+Updated as of Mar 2026

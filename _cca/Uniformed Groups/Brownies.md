@@ -5,65 +5,53 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-![](/images/Brownies_Photo_1.png)
+![](/images/Brownies_Photo_1.jpg)
 
-# **Mission & Key Programmes:**
+The Brownies CCA at Xinmin Primary School is aligned with the Girl Guides Singapore (Headquarters) movement and focuses on nurturing confident, resilient and compassionate young leaders. The programme provides structured opportunities for girls to develop essential life skills that enable them to adapt to the ever-changing demands of the world whilst growing in character and values.
 
-Aligned with the Girl Guide movement, Brownies are nurtured with essential skills to adapt to the ever-changing demands of the world. The programme equips girls with valuable life skills that help shape their character and impact their lives positively.
+The Brownies programme emphasises experiential learning, teamwork and service to the community, developing girls into effective collaborators and leaders. Through hands-on activities and collaborative learning experiences, Brownies are guided to take ownership of their learning and apply values meaningfully in real-life contexts.
 
-Brownies have opportunities to participate in various competitions organised by Girl Guides Singapore (Headquarters). At Xinmin Primary School, the Brownies also collaborate with the North Division Guides to contribute their services to the community.
+Brownies participate in various competitions and national-level events organised by Girl Guides Singapore (Headquarters), which allow them to develop confidence, leadership skills and a sense of achievement. At the school level, Brownies work closely with the North Division Guides and other Uniformed Groups to contribute to community service initiatives and school-wide events.
 
-To instil empathy, Brownies engage in Service-Learning projects where they gain awareness of the challenges faced by others and play an active role in improving and transforming lives within the community.
+To instil empathy and social responsibility, Brownies engage in Service-Learning projects where they develop awareness of the challenges faced by others and play an active role in making a positive difference within the community. These experiences reinforce values such as care, responsibility and respect whilst strengthening their sense of civic duty.
 
-Additionally, the Brownies work together with other Uniformed Groups, such as the Red Cross and Scouts, within Xinmin Primary School. Through these collaborations, they share and learn skills that can be applied across the different Uniformed Groups.
+The Brownies CCA also collaborates with other Uniformed Groups within Xinmin Primary School, such as the Red Cross and Scouts. Through these inter-uniformed group collaborations, girls learn and share practical skills that are transferable across different contexts, promoting unity, mutual respect and resilience.
 
-![](/images/Brownies__new_.jpg)
+### Key Programmes
+
+The aim of the Brownies CCA is to nurture confident, caring, and resilient girls, equipping them with life skills and values to lead and serve. Key programmes focus on:
+* Character and leadership development
+* Service-Learning and community involvement
+* Skill acquisition through proficiency badge attainment
+* Collaboration with Uniformed Groups and external partners
+* Participation in national-level Girl Guides events and training courses
+
+
+![](/images/Brownies_Photo_6.jpg)
 
 ### Teachers-in-Charge
 
-Mrs Malini (1st IC)
+Mrs Li Wenting (1st IC)
 
-Mdm Li Wen Ting (2nd IC)
+Ms Tan Jac See (2nd IC)
 
-Ms Tan Jac See
+Mdm Teh Swee Sing
 
 
 ### Schedule
 
-Monday 2.30 p.m. – 4.30 p.m.
+Mondays, 2.30 p.m. – 4.30 p.m.
 
-### Achievements and Activities
+### Annual Events and Activities
 
-**2024**
-
+* National Day Observance Ceremony
 * World Thinking Day Celebrations
 * UG Commemorative Day
-* North Division Day
-* Inter-Uniform Group Day Camp
-
-**2023**
-
-* Puan Noor Aishah Award - Silver
-* Sree Narayana Mission Home Training
-* Annual General Meeting
 * Sixers’ Training Course
-* World Thinking Day Celebrations
-* UG Commemorative Day
-* North Division Day
-* North Division Outdoor Challenge Let’s go Camping - Silver
+* Attainment of Proficiency Badges
+* Girl Guides Singapore Competitions and Challenges
+* Service-Learning Projects
+* Inter-Uniformed Group Exchange Programmes
+* Outdoor Learning and Team-Building Activities
 
-**2022**
-
-* Sree Narayana Mission Home Training
-* Annual General Meeting
-* North Division Tea Session
-* CCAB Briefing
-* International Camp (Virtual)
-*  Sixers’ Training Course
-*  World Thinking Day Celebrations
-*  Crime Prevention Badge
-*  UG Commemorative Day
-*  SKM Kindness Badge Junior
-
-
-Updated as of Mar 2025
+Updated as of Mar 2026
