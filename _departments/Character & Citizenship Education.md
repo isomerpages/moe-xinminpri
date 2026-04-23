@@ -10,7 +10,7 @@ variant: tiptap
 <h2><strong>Vision:</strong></h2>
 <p>Every Xinminite, a reflective and discerning individual, rooted in sound
 values with a global mindset.</p>
-<h1><strong>Mission:</strong></h1>
+<h2><strong>Mission:</strong></h2>
 <p>We strive to imbue a strong foundation of positive core values, with platforms
 for Xinminites to display traits of our learner vision outcomes.</p>
 <h4><strong>Key Programmes:</strong></h4>
@@ -22,7 +22,7 @@ develop students’ character, social skills and academic growth. The key
 programmes below are designed to bring the intent of CLOVE to life, providing
 authentic opportunities for students to practise and embody the school’s
 values in action.</p>
-<p><strong>4 Commemorative Events (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day）</strong>
+<p><strong>Commemorative Events (Total Defence Day, International Friendship Day, Racial Harmony Day, National Day）</strong>
 </p>
 <p>Engaging activities will be designed to provide students with meaningful
 opportunities to develop 21st Century Competencies (21CC) as they deepen
@@ -107,6 +107,6 @@ students engage in guided discussions, analyse different perspectives,
 and reflect on real-world situations. These experiences strengthen their
 critical thinking and problem-solving skills, while nurturing them to be
 caring and responsible citizens who are motivated to contribute to the
-well-being of others</p>
+well-being of others.</p>
 <p></p>
 <p>Updated as of Mar 2026</p>
