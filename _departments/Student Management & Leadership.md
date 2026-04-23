@@ -22,18 +22,24 @@ and making responsible choices in school and beyond.</p>
 <h4><strong>Key Programmes</strong></h4>
 <p><strong>Watch Your Step</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Xinminites independently return to their classrooms after recess.</p>
+<p>Xinminites return to their classrooms after recess independently.
+<br>
+</p>
 </li>
 <li>
-<p>In the absence of adult supervision, Xinminites learn to manage their
-behaviour, foster self-reliance, develop responsible decision-making skills
-and assume accountability for their actions. This contributes significantly
-to their personal development and growth.</p>
+<p>This routine provides students with meaningful opportunities to practise
+self-management in the absence of direct adult supervision. Through WYS,
+Xinminites learn to regulate their behaviour, make responsible choices
+and take ownership of their actions. These experiences play an important
+role in nurturing self-reliance, accountability and positive character
+development.</p>
+<p></p>
 </li>
 </ul>
-<h3>Catch Me Good (CMG)</h3>
+<p><strong>Catch Me Good (CMG)</strong>
+</p>
 <ul>
 <li>
 <p>School staff acknowledge and appreciate Xinminites who exhibit acts of
