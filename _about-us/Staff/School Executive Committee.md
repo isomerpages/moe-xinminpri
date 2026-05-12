@@ -322,17 +322,6 @@ variant: tiptap
 <p>sherene_ling@schools.gov.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ngo-Lau Shu Mei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head / Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lau_shu_mei@schools.gov.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Subject&nbsp;Heads (SH)</h3>
