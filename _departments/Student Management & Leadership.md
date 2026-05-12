@@ -63,9 +63,17 @@ others.</p>
 <p>A class-based system that guides students in building positive habits
 and demonstrating school values consistently.</p>
 <p>Through Class Compass, students:</p>
-<p>• Develop self-management and discipline through daily routines</p>
-<p>• Work together towards shared class goals</p>
-<p>• Reflect on their behaviour and make improvements</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop self-management and discipline through daily routines</p>
+</li>
+<li>
+<p>Work together towards shared class goals</p>
+</li>
+<li>
+<p>Reflect on their behaviour and make improvements</p>
+</li>
+</ul>
 <p>By making expectations visible and consistent across the school, Class
 Compass helps build a strong and positive school culture where every student
 knows what it means to act responsibly.</p>
