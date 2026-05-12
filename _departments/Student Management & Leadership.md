@@ -149,58 +149,36 @@ students:</p>
 </li>
 <li>
 <p>Develop perseverance and moral courage in real-life situations</p>
-</li>
-</ul>
-<p>xxx</p>
 <p></p>
-<h3>Leadership Training Programmes</h3>
-<ul>
-<li>
-<p>Progressive leadership training programmes have been designed to enhance
-Xinminites' capabilities in self-leadership, team leadership, and thought
-leadership. These programmes enable students to lead themselves effectively,
-guide teams collaboratively, and inspire others through innovative and
-forward-thinking approaches. Through building confidence and encouraging
-teamwork, these training sessions develop Xinminites into confident leaders
-and innovative collaborators.</p>
-</li>
-<li>
-<p>Programmes include:</p>
 </li>
 </ul>
+<p><strong>Leadership in Action</strong>
+</p>
+<p>Our students are provided with meaningful opportunities to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Generic training: Inclusive training designed for a broad audience.</p>
+<p>Participate in leadership training and workshops to build core leadership
+competencies.</p>
 </li>
 <li>
-<p>Specialised training: Tailored programmes focusing on specific skills
-or areas of expertise.</p>
+<p>Plan and organise school events and activities to develop teamwork and
+responsibility.</p>
 </li>
 <li>
-<p>Class leaders training (Category 2): Training catered to Xinminites holding
-leadership positions, guiding and serving their respective classes.</p>
+<p>Reflect on their experiences through dialogue and review sessions to deepen
+learning.</p>
 </li>
 <li>
-<p>Student leaders Training (Category 3 &amp; 4): Training catered to Xinminites
-holding leadership positions responsible for leading and serving the entire
-school community.</p>
+<p>Learn from and mentor their peers to strengthen collaboration and influence.</p>
 </li>
 <li>
-<p>Class and Student Leaders dialogue &amp; review session: These sessions
-provide a platform for communication, feedback and assessment for both
-class and student leaders.</p>
-</li>
-<li>
-<p>Spot the Leaders workshop: The workshop is aimed at identifying Xinminites
-with outstanding leadership qualities to take on increased responsibilities
-and elevated roles.</p>
-</li>
-<li>
-<p>Training sessions and workshops in collaborations with stakeholders and
-partners.</p>
+<p>Contribute actively to the school community to demonstrate care and ownership.</p>
 </li>
 </ul>
+<p>At Xinmin Primary School, we nurture Xinminites who not only strive for
+excellence but also lead with perseverance and moral courage in their daily
+lives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4954.jpg">
 </div>
-<p>Pending update as of Apr 2025</p>
+<p>Updated as of Apr 2026</p>
