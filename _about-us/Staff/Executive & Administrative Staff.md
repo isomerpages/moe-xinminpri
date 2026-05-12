@@ -86,6 +86,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Alista Goh Hui Shi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Suradmi Binte Ahmad Mazuki</p>
 </td>
 <td rowspan="1" colspan="1">
