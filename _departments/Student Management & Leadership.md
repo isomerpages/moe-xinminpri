@@ -136,6 +136,23 @@ school community through service and leadership.</p>
 <p>Primary 6 Peer Support Leader</p>
 </li>
 </ul>
+<p><strong>Our Approach to Leadership Development</strong>
+</p>
+<p>Through training, reflection and authentic leadership experiences, our
+students:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Grow in confidence and responsibility</p>
+</li>
+<li>
+<p>Learn to lead with care and integrity</p>
+</li>
+<li>
+<p>Develop perseverance and moral courage in real-life situations</p>
+</li>
+</ul>
+<p>xxx</p>
+<p></p>
 <h3>Leadership Training Programmes</h3>
 <ul>
 <li>
