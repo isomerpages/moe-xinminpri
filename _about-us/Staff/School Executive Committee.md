@@ -117,13 +117,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Geraldine Tng Hiang Tiang</p>
+<p>Mrs Ngo-Lau Shu Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Science</p>
+<p>LH (Science) (HOD Science – Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tng_hiang_tiang_geraldine@schools.gov.sg</p>
+<p>lau_shu_mei@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
