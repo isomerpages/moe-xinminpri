@@ -82,8 +82,7 @@ behaviour and building a supportive school culture.</p>
 </p>
 <p>A platform for students to share their suggestions and ideas, and contribute
 to school improvements, building ownership and confidence.</p>
-<p><strong>Developing Our Student Leaders</strong>
-</p>
+<h4><strong>Developing Our Student Leaders</strong></h4>
 <p>We provide progressive leadership opportunities for students across different
 levels:</p>
 <p><strong>Class Leaders (Category 2)</strong>
@@ -149,7 +148,6 @@ students:</p>
 </li>
 <li>
 <p>Develop perseverance and moral courage in real-life situations</p>
-<p></p>
 </li>
 </ul>
 <p><strong>Leadership in Action</strong>
