@@ -9,62 +9,131 @@ variant: tiptap
 </div>
 <h2><strong>Vision</strong></h2>
 <p>Xinminite who has the moral courage to distinguish right from wrong and
-preserve persevere through challenges.</p>
+persevere through challenges.</p>
 <h2><strong>Mission</strong></h2>
 <p>Building Tomorrow’s Leader Today</p>
-<h2><strong>Student Outcome</strong></h2>
-<p>A confident leader who demonstrates self-discipline, perseverance and
-moral courage by leading self responsibly, supporting others positively,
-and making responsible choices in school and beyond.</p>
+<h4><strong>Student Outcome</strong></h4>
+<p>A confident and responsible leader who demonstrates self-discipline, perseverance
+and moral courage by:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leading self responsibly</p>
+</li>
+<li>
+<p>Supporting others positively</p>
+</li>
+<li>
+<p>Making responsible choices in school and beyond</p>
+</li>
+</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/XINMIN_2024_27.jpg">
 </div>
-<h4><strong>Key Programmes</strong></h4>
-<p><strong>Watch Your Step</strong>
-</p>
+<h4><strong>Our Approach</strong></h4>
+<p>At Xinmin Primary School, we believe that every Xinminite is a leader.
+Our programmes develop students across three key areas:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Xinminites return to their classrooms after recess independently.
-<br>
-</p>
+<p>Self-Leadership – managing oneself responsibly</p>
 </li>
 <li>
-<p>This routine provides students with meaningful opportunities to practise
-self-management in the absence of direct adult supervision. Through WYS,
-Xinminites learn to regulate their behaviour, make responsible choices
-and take ownership of their actions. These experiences play an important
-role in nurturing self-reliance, accountability and positive character
-development.</p>
+<p>Team Leadership – working well with others</p>
+</li>
+<li>
+<p>Thought Leadership – making responsible decisions</p>
+</li>
+</ul>
+<p>We place strong emphasis on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Perseverance – staying committed and resilient.</p>
+</li>
+<li>
+<p>Moral Courage – doing what is right, even when it is difficult.</p>
 <p></p>
 </li>
 </ul>
+<p>Through consistent routines and meaningful experiences, students develop
+strong character, positive habits and a sense of responsibility towards
+others.</p>
+<h4><strong>Key Programmes</strong></h4>
+<p><strong>Class Compass (CC)</strong>
+</p>
+<p>A class-based system that guides students in building positive habits
+and demonstrating school values consistently.</p>
+<p>Through Class Compass, students:</p>
+<p>• Develop self-management and discipline through daily routines</p>
+<p>• Work together towards shared class goals</p>
+<p>• Reflect on their behaviour and make improvements</p>
+<p>By making expectations visible and consistent across the school, Class
+Compass helps build a strong and positive school culture where every student
+knows what it means to act responsibly.</p>
+<p><strong>Watch Your Step (WYS)</strong>
+</p>
+<p>Students return to class independently after recess and before the start
+of their after-school activity, developing self-management, responsibility
+and discipline.</p>
 <p><strong>Catch Me Good (CMG)</strong>
 </p>
-<ul>
+<p>Students are recognise for acts of kindness and care, reinforcing positive
+behaviour and building a supportive school culture.</p>
+<p><strong>We Hear You Xinminites (WHYx)</strong>
+</p>
+<p>A platform for students to share their suggestions and ideas, and contribute
+to school improvements, building ownership and confidence.</p>
+<p><strong>Developing Our Student Leaders</strong>
+</p>
+<p>We provide progressive leadership opportunities for students across different
+levels:</p>
+<p><strong>Class Leaders (Category 2)</strong>
+</p>
+<p>Students take on leadership roles within their classes and support daily
+routines while modelling positive behaviour.</p>
+<p>Roles include:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>School staff acknowledge and appreciate Xinminites who exhibit acts of
-kindness, such as helping those in need and showing care towards others,
-by presenting them with a signature on their Catch Me Good card.</p>
+<p>Class Monitor</p>
 </li>
 <li>
-<p>Recognising benevolent actions among Xinminites helps develop confident
-leaders who demonstrate self-assurance and believe in their capacity to
-inspire and lead others. Acknowledging their positive contributions strengthens
-their confidence and encourages them to continue making meaningful impacts
-on those around them.</p>
+<p>PE Monitor</p>
+</li>
+<li>
+<p>ICT Monitor</p>
+</li>
+<li>
+<p>Aesthetics Leader</p>
+</li>
+<li>
+<p>Primary 4 CCE Bronze Ambassador</p>
+</li>
+<li>
+<p>Primary 3, 4 and 5 Peer Support Leader</p>
 </li>
 </ul>
-<p>Hear You Xinminites (WHYx)</p>
-<ul>
+<p><strong>Student Leaders (Category 3)</strong>
+</p>
+<p>Students take on school-wide leadership roles and contribute to the wider
+school community through service and leadership.</p>
+<p>Roles include:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>An avenue for Xinminites to actively participate in decision-making processes
-by sharing their firsthand experiences and unique perspectives.</p>
+<p>Primary 2 Junior Leader</p>
 </li>
 <li>
-<p>WHYx promotes a student-centered learning environment, aiming to cultivate
-critical thinking and problem-solving skills among Xinminites. This approach
-empowers students, encouraging them to play an active role in their educational
-journey and fostering a sense of ownership over their learning.</p>
+<p>Primary 3 Junior Prefect</p>
+</li>
+<li>
+<p>Primary 3, 4, 5 and 6 Prefect</p>
+</li>
+<li>
+<p>Primary 5 CCE Silver Ambassador</p>
+</li>
+<li>
+<p>Primary 6 CCE Gold Ambassador</p>
+</li>
+<li>
+<p>Primary 6 Peer Support Leader</p>
 </li>
 </ul>
 <h3>Leadership Training Programmes</h3>
