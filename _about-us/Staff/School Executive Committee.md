@@ -398,6 +398,17 @@ variant: tiptap
 <p>chan_jiahui_matthew@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joel Teh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH (Student Leadership) (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>joel_teh_yu_cheng@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
