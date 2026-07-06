@@ -148,20 +148,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sherene Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4C Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sherene_ling@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,20 +186,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>new_xin_yi_jodene@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Aneesa Faruvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4E Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>aneesa_faruvin_mohd_ibrahim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
