@@ -35,22 +35,22 @@ Please click [here](https://go.gov.sg/xinminpsg2026 ) to join the PSG.
 | -------- | -------- | -------- |
 |   26_06_01   |Canteen Safety Duty    | 29/6/2026 to 1/9/2026  |
 |   26_06_02   | P6 Sustainable Project  | 29/6/2026 to 2/7/2026 |
-|   26_07_01   | P2/P5 CLIP   | 03/07/2026 |
-|   26_07_02   | P5AE IHC Learning Journey   | 27/3/2026  |
-|   26_07_03   | P1AB English Learning Journey to Singapore Zoo    | 31/3/2026 |
-|   26_07_04   | P3 Swimsafer Programmes      | 1/4/2026  |
-|   26_07_05   | P1CEF English Learning Journey to Singapore Zoo     | 1/4/2026 |
-|   26_07_06   | P5BF IHC Learning Journey   | 1/4/2026  |
-|   26_07_07   | P1DG English Learning Journey to Singapore Zoo   |2/4/2026 |
-|   26_07_08   | Anti-Bully Campaign (ABC)     | 13 & 14/4/2026  |
-|   26_07_09   | P4 Learning Journey to Road Safety Park   | 21, 23 & 24/4/2026 |
-|   26_07_10   | Earth Day Booth Activities  | 23/4/2026  |
-|   26_08_01   | Meat Free Day |24/4/2026 |
-|   26_08_02   | Drug Awareness Day (DAD) | 15/5/2026  |
-|   26_08_03   | Drug Awareness Day (DAD) | 15/5/2026  |
-|   26_08_04   | Drug Awareness Day (DAD) | 15/5/2026  |
-|   26_09_01   | Drug Awareness Day (DAD) | 15/5/2026  |
+|   26_07_01   | P2/P5 CLIP   | 3/7/2026 |
+|   26_07_02   | P4EF Art Learning Journey  | 8/7/2026 |
+|   26_07_03   |Sentosa Sustainability Exhibit  | 9/7/2026 to 10/7/2026 |
+|   26_07_04   | P4CE KAHG Learning Journey    | 10/7/2026  |
+|   26_07_05   | P4AD Art Learning Journey   | 15/7/2026 |
+|   26_07_06   | P4AD KAHG Learning Journey  |20/7/2026|
+|   26_07_07  | P4BC Art Learning Journey  |22/7/2026|
+|   26_07_08   |P4BF KAHG Learning Journey   |27/7/2026  |
+|   26_07_09   | Catch Me Good Session 4 | 30/7/2026 |
+|   26_07_10   | P3 GSHG Cohort LJ ( 2 classes)  | 31/7/2026  |
+|   26_08_01   | P3 GSHG Cohort LJ ( 2 classes) |14/8/2026 |
+|   26_08_02   |P2 PAL Drama to SRT (3 classes) | 18/8/2026  |
+|   26_08_03   |P2 PAL Drama to SRT (4 classes) | 25/8/2026 |
+|   26_08_04   | Catch Me Good Session 5 | 27/8/2026 |
+|   26_09_01   | Teachers' Day Celebration | 3/9/2026 |
 
 
 
-Updated as of Apr 2026
+Updated as of Jul 2026
