@@ -13,7 +13,7 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 ## Xinmin PSG Exco
 
-![](/images/2026_PSG.png)
+![](/images/new_psg_2026.png)
 
 ## How to Join the PSG?
 
