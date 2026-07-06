@@ -207,13 +207,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shanmugam</p>
+<p>Miss Aneesa Faruvin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1E Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>palaniyandi_magasvari@schools.gov.sg</p>
+<p>aneesa_faruvin_mohd_ibrahim@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
