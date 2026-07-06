@@ -245,6 +245,34 @@ variant: tiptap
 <p>sherene_ling@schools.gov.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Huang Xueyi Gerlynn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Neo Shu Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
