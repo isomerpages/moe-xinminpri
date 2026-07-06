@@ -109,20 +109,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Myyher Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3B Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Agnes Tan Hai Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,20 +206,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>3F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Melinda Ashleigh Lim-Sim Li Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3F Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Azlinah Bte Dakarlan</p>
