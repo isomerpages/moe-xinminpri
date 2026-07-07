@@ -123,7 +123,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim-Siew Wai Mun</p>
+<p>Ms Sellamal d/o Varadarajalu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1B Form Teacher</p>
