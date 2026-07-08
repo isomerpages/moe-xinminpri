@@ -13,7 +13,7 @@ XMPS PSG is committed to supporting and collaborating with the school to enrich 
 
 ## Xinmin PSG Exco
 
-![](/images/2026_PSG.png)
+![](/images/new_psg_2026.png)
 
 ## How to Join the PSG?
 
@@ -33,21 +33,24 @@ Please click [here](https://go.gov.sg/xinminpsg2026 ) to join the PSG.
 
 | S/No. | Event | Date |
 | -------- | -------- | -------- |
-|   26_03_01   |Canteen Safety Duty    | 24/3/2026 to 26/5/2026  |
-|   26_03_02   | P3 Swimsafer Programmes   | 24, 25 & 31/3/2026 |
-|   26_03_03   | Catch Me Good Redemption (1)    | 26/3/2026 |
-|   26_03_04   | P5AE IHC Learning Journey   | 27/3/2026  |
-|   26_03_05   | P1AB English Learning Journey to Singapore Zoo    | 31/3/2026 |
-|   26_04_01   | P3 Swimsafer Programmes      | 1/4/2026  |
-|   26_04_02   | P1CEF English Learning Journey to Singapore Zoo     | 1/4/2026 |
-|   26_04_03   | P5BF IHC Learning Journey   | 1/4/2026  |
-|   26_04_04   | P1DG English Learning Journey to Singapore Zoo   |2/4/2026 |
-|   26_04_05   | Anti-Bully Campaign (ABC)     | 13 & 14/4/2026  |
-|   26_04_06   | P4 Learning Journey to Road Safety Park   | 21, 23 & 24/4/2026 |
-|   26_04_07   | Earth Day Booth Activities  | 23/4/2026  |
-|   26_04_08   | Meat Free Day |24/4/2026 |
-|   26_05_01   | Drug Awareness Day (DAD) | 15/5/2026  |
+|   26_06_01   |Canteen Safety Duty    | 29/6/2026 to 1/9/2026  |
+|   26_06_02   | P6 Sustainable Project  | 29/6/2026 to 2/7/2026 |
+|   26_07_01   | P2/P5 CLIP   | 3/7/2026 |
+|   26_07_02   | P4EF Art Learning Journey  | 8/7/2026 |
+|   26_07_03   |Sentosa Sustainability Exhibit  | 9/7/2026 to 10/7/2026 |
+|   26_07_04   | P4CE KAHG Learning Journey    | 10/7/2026  |
+|   26_07_05   | P4AD Art Learning Journey   | 15/7/2026 |
+|   26_07_06   | P4AD KAHG Learning Journey  |20/7/2026|
+|   26_07_07  | P4BC Art Learning Journey  |22/7/2026|
+|   26_07_08   |P4BF KAHG Learning Journey   |27/7/2026  |
+|   26_07_09   | Catch Me Good Session 4 | 30/7/2026 |
+|   26_07_10   | P3 GSHG Cohort LJ ( 2 classes)  | 31/7/2026  |
+|   26_08_01   | P3 GSHG Cohort LJ ( 2 classes) |14/8/2026 |
+|   26_08_02   |P2 PAL Drama to SRT (3 classes) | 18/8/2026  |
+|   26_08_03   |P2 PAL Drama to SRT (4 classes) | 25/8/2026 |
+|   26_08_04   | Catch Me Good Session 5 | 27/8/2026 |
+|   26_09_01   | Teachers' Day Celebration | 3/9/2026 |
 
 
 
-Updated as of Apr 2026
+Updated as of Jul 2026

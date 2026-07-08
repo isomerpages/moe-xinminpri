@@ -21,10 +21,10 @@ The establishment of School Advisory Committees (SAC) reflects the Ministry of E
 | Dr Leong Jern-Lin     | Member     |
 | Mr Ernest Ng Kheng Heong     | Member     |
 | Mr Lee Yan Kit     | Member     |
-| Mr Chew Jing Xiang    | Member     |
-| Ms Chew Ying Yin   | Member     |
+| Dr Ler Ser Yeng   | Member     |
+| Mr Wang Pang Cheong   | Member     |
 
 
 
 
-Updated as of Aug 2025
+Updated as of Jul 2026

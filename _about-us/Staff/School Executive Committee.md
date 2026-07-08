@@ -381,7 +381,7 @@ variant: tiptap
 <p>Ms Sumita Kunalingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / SH/ ICT (Data Management) (Covering)</p>
+<p>Subject Head / ICT (Data Management) (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sumita_kunalingam@schools.gov.sg</p>
@@ -403,7 +403,7 @@ variant: tiptap
 <p>Mr Joel Teh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH (Student Leadership) (Covering)</p>
+<p>Subject Head / Student Leadership (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>joel_teh_yu_cheng@schools.gov.sg</p>

@@ -26,17 +26,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Melinda Ashleigh Lim-Sim Li Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT (English/Maths​)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>melinda_ashleigh_sim@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Soh Hoon Kian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,15 +131,16 @@ variant: tiptap
 <p>FAJT (Tamil)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xinmin_ps@moe.edu.sg</p>
+<p><a href="mailto:xinmin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xinmin_ps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Pannir</p>
+<p>Ms Sellamal d/o Varadarajalu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FAJT (Tamil)</p>
+<p>FAJT (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>xinmin_ps@moe.edu.sg</p>
@@ -169,10 +159,43 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Anessa Beham Bte Tajudeen</p>
+<p>Ms Neo Shu Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Relief (English/Social Studies)</p>
+<p>FAJT (Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Huang Xueyi Gerlynn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT (English/Social Studies)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Choi Ivy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAJT (Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xinmin_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nor Hafizah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Relief Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>xinmin_ps@moe.edu.sg</p>
